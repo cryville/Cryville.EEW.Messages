@@ -1,0 +1,6 @@
+You are using an beta version of CysTerra. Currently, no redistribution or modification is allowed. Please report to the developer should any issue occurs.
+Please note that this app plays alarm sounds upon receiving an event, and there is no settings to turn them off in the current version. Pay attention to the volume settings of your device!
+
+This software is currently free of charge. If you purchased this, you have already been scammed.
+Disclaimer: CysTerra does not provide, will not provide, and is not capable of providing information without scientific support such as earthquake forecasts.
+The information displayed in CysTerra can create panic to some people. Be cautious when you share them (including but not limited to screenshots and recordings of CysTerra) in case of negative impacts.
