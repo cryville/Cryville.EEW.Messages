@@ -144,6 +144,9 @@
   <data name="TsunamiObservation" xml:space="preserve">
     <value>當前，各地觀測波高如下。</value>
   </data>
+  <data name="TsunamiObservationMaxHeight" xml:space="preserve">
+    <value>當前，各地觀測到的最大波高為{0}公尺。</value>
+  </data>
   <data name="TsunamiObservationStation" xml:space="preserve">
     <value>{0}。{1}公尺。</value>
   </data>

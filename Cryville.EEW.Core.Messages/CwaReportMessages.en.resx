@@ -186,6 +186,9 @@
   <data name="TsunamiObservation" xml:space="preserve">
     <value>Currently, the tsunami heights observed per area are as follows.</value>
   </data>
+  <data name="TsunamiObservationMaxHeight" xml:space="preserve">
+    <value>Currently, the maximum tsunami height observed is {0} meters.</value>
+  </data>
   <data name="TsunamiObservationStation" xml:space="preserve">
     <value>{0}. {1} meters.</value>
   </data>

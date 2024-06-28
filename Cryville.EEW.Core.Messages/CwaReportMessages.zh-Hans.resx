@@ -186,6 +186,9 @@
   <data name="TsunamiObservation" xml:space="preserve">
     <value>当前，各地观测到的海啸高度如下。</value>
   </data>
+  <data name="TsunamiObservationMaxHeight" xml:space="preserve">
+    <value>当前，各地观测到的最大海啸高度为{0}米。</value>
+  </data>
   <data name="TsunamiObservationStation" xml:space="preserve">
     <value>{0}。{1}米。</value>
   </data>
