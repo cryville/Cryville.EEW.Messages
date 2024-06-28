@@ -1,0 +1,2448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="1" xml:space="preserve">
+    <value>central Alaska</value>
+  </data>
+  <data name="10" xml:space="preserve">
+    <value>Unimak Island</value>
+  </data>
+  <data name="100" xml:space="preserve">
+    <value>Lago de Maracaibo, Venezuela</value>
+  </data>
+  <data name="101" xml:space="preserve">
+    <value>Venezuela</value>
+  </data>
+  <data name="102" xml:space="preserve">
+    <value>near the west coast of Colombia</value>
+  </data>
+  <data name="103" xml:space="preserve">
+    <value>Colombia</value>
+  </data>
+  <data name="104" xml:space="preserve">
+    <value>off the coast of Ecuador</value>
+  </data>
+  <data name="105" xml:space="preserve">
+    <value>near the coast of Ecuador</value>
+  </data>
+  <data name="106" xml:space="preserve">
+    <value>Colombia-Ecuador border</value>
+  </data>
+  <data name="107" xml:space="preserve">
+    <value>Ecuador</value>
+  </data>
+  <data name="108" xml:space="preserve">
+    <value>off the coast of northern Peru</value>
+  </data>
+  <data name="109" xml:space="preserve">
+    <value>near the coast of northern Peru</value>
+  </data>
+  <data name="11" xml:space="preserve">
+    <value>Bristol Bay</value>
+  </data>
+  <data name="110" xml:space="preserve">
+    <value>Peru-Ecuador border</value>
+  </data>
+  <data name="111" xml:space="preserve">
+    <value>northern Peru</value>
+  </data>
+  <data name="112" xml:space="preserve">
+    <value>Peru-Brazil border</value>
+  </data>
+  <data name="113" xml:space="preserve">
+    <value>Amazonas, Brazil</value>
+  </data>
+  <data name="114" xml:space="preserve">
+    <value>off the coast of central Peru</value>
+  </data>
+  <data name="115" xml:space="preserve">
+    <value>near the coast of central Peru</value>
+  </data>
+  <data name="116" xml:space="preserve">
+    <value>central Peru</value>
+  </data>
+  <data name="117" xml:space="preserve">
+    <value>southern Peru</value>
+  </data>
+  <data name="118" xml:space="preserve">
+    <value>Peru-Bolivia border</value>
+  </data>
+  <data name="119" xml:space="preserve">
+    <value>northern Bolivia</value>
+  </data>
+  <data name="12" xml:space="preserve">
+    <value>Alaska Peninsula</value>
+  </data>
+  <data name="120" xml:space="preserve">
+    <value>central Bolivia</value>
+  </data>
+  <data name="121" xml:space="preserve">
+    <value>off the coast of northern Chile</value>
+  </data>
+  <data name="122" xml:space="preserve">
+    <value>near the coast of northern Chile</value>
+  </data>
+  <data name="123" xml:space="preserve">
+    <value>northern Chile</value>
+  </data>
+  <data name="124" xml:space="preserve">
+    <value>Chile-Bolivia border</value>
+  </data>
+  <data name="125" xml:space="preserve">
+    <value>southern Bolivia</value>
+  </data>
+  <data name="126" xml:space="preserve">
+    <value>Paraguay</value>
+  </data>
+  <data name="127" xml:space="preserve">
+    <value>Chile-Argentina border</value>
+  </data>
+  <data name="128" xml:space="preserve">
+    <value>Jujuy, Argentina</value>
+  </data>
+  <data name="129" xml:space="preserve">
+    <value>Salta, Argentina</value>
+  </data>
+  <data name="13" xml:space="preserve">
+    <value>Kodiak Island</value>
+  </data>
+  <data name="130" xml:space="preserve">
+    <value>Catamarca, Argentina</value>
+  </data>
+  <data name="131" xml:space="preserve">
+    <value>Tucuman, Argentina</value>
+  </data>
+  <data name="132" xml:space="preserve">
+    <value>Santiago del Estero, Argentina</value>
+  </data>
+  <data name="133" xml:space="preserve">
+    <value>northeastern Argentina</value>
+  </data>
+  <data name="134" xml:space="preserve">
+    <value>off the coast of central Chile</value>
+  </data>
+  <data name="135" xml:space="preserve">
+    <value>near the coast of central Chile</value>
+  </data>
+  <data name="136" xml:space="preserve">
+    <value>central Chile</value>
+  </data>
+  <data name="137" xml:space="preserve">
+    <value>San Juan, Argentina</value>
+  </data>
+  <data name="138" xml:space="preserve">
+    <value>La Rioja, Argentina</value>
+  </data>
+  <data name="139" xml:space="preserve">
+    <value>Mendoza, Argentina</value>
+  </data>
+  <data name="14" xml:space="preserve">
+    <value>Kenai Peninsula</value>
+  </data>
+  <data name="140" xml:space="preserve">
+    <value>San Luis, Argentina</value>
+  </data>
+  <data name="141" xml:space="preserve">
+    <value>Cordoba, Argentina</value>
+  </data>
+  <data name="142" xml:space="preserve">
+    <value>Uruguay</value>
+  </data>
+  <data name="143" xml:space="preserve">
+    <value>off the coast of southern Chile</value>
+  </data>
+  <data name="144" xml:space="preserve">
+    <value>southern Chile</value>
+  </data>
+  <data name="145" xml:space="preserve">
+    <value>southern Chile-Argentina border</value>
+  </data>
+  <data name="146" xml:space="preserve">
+    <value>southern Argentina</value>
+  </data>
+  <data name="147" xml:space="preserve">
+    <value>Tierra del Fuego</value>
+  </data>
+  <data name="148" xml:space="preserve">
+    <value>Falkland Islands</value>
+  </data>
+  <data name="149" xml:space="preserve">
+    <value>Drake Passage</value>
+  </data>
+  <data name="15" xml:space="preserve">
+    <value>Gulf of Alaska</value>
+  </data>
+  <data name="150" xml:space="preserve">
+    <value>Scotia Sea</value>
+  </data>
+  <data name="151" xml:space="preserve">
+    <value>South Georgia Island</value>
+  </data>
+  <data name="152" xml:space="preserve">
+    <value>South Georgia Rise</value>
+  </data>
+  <data name="153" xml:space="preserve">
+    <value>South Sandwich Islands</value>
+  </data>
+  <data name="154" xml:space="preserve">
+    <value>South Shetland Islands</value>
+  </data>
+  <data name="155" xml:space="preserve">
+    <value>Antarctic Peninsula</value>
+  </data>
+  <data name="156" xml:space="preserve">
+    <value>southwestern Atlantic Ocean</value>
+  </data>
+  <data name="157" xml:space="preserve">
+    <value>Weddell Sea</value>
+  </data>
+  <data name="158" xml:space="preserve">
+    <value>off the west coast of the North Island of New Zealand</value>
+  </data>
+  <data name="159" xml:space="preserve">
+    <value>North Island of New Zealand</value>
+  </data>
+  <data name="16" xml:space="preserve">
+    <value>south of the Aleutian Islands</value>
+  </data>
+  <data name="160" xml:space="preserve">
+    <value>off the east coast of the North Island of New Zealand</value>
+  </data>
+  <data name="161" xml:space="preserve">
+    <value>off the west coast of the South Island of New Zealand</value>
+  </data>
+  <data name="162" xml:space="preserve">
+    <value>South Island of New Zealand</value>
+  </data>
+  <data name="163" xml:space="preserve">
+    <value>Cook Strait</value>
+  </data>
+  <data name="164" xml:space="preserve">
+    <value>off the east coast of the South Island of New Zealand</value>
+  </data>
+  <data name="165" xml:space="preserve">
+    <value>north of Macquarie Island</value>
+  </data>
+  <data name="166" xml:space="preserve">
+    <value>Auckland Islands</value>
+  </data>
+  <data name="167" xml:space="preserve">
+    <value>Macquarie Island</value>
+  </data>
+  <data name="168" xml:space="preserve">
+    <value>south of New Zealand</value>
+  </data>
+  <data name="169" xml:space="preserve">
+    <value>Samoa Islands vicinity</value>
+  </data>
+  <data name="17" xml:space="preserve">
+    <value>south of Alaska</value>
+  </data>
+  <data name="170" xml:space="preserve">
+    <value>Samoa Islands</value>
+  </data>
+  <data name="171" xml:space="preserve">
+    <value>south of the Fiji Islands</value>
+  </data>
+  <data name="172" xml:space="preserve">
+    <value>west of Tonga Islands</value>
+  </data>
+  <data name="173" xml:space="preserve">
+    <value>Tonga</value>
+  </data>
+  <data name="174" xml:space="preserve">
+    <value>Tonga vicinity</value>
+  </data>
+  <data name="175" xml:space="preserve">
+    <value>south of Tonga</value>
+  </data>
+  <data name="176" xml:space="preserve">
+    <value>north of New Zealand</value>
+  </data>
+  <data name="177" xml:space="preserve">
+    <value>Kermadec Islands vicinity</value>
+  </data>
+  <data name="178" xml:space="preserve">
+    <value>Kermadec Islands</value>
+  </data>
+  <data name="179" xml:space="preserve">
+    <value>south of the Kermadec Islands</value>
+  </data>
+  <data name="18" xml:space="preserve">
+    <value>southern Yukon Territory</value>
+  </data>
+  <data name="180" xml:space="preserve">
+    <value>north of the Fiji Islands</value>
+  </data>
+  <data name="181" xml:space="preserve">
+    <value>Fiji vicinity</value>
+  </data>
+  <data name="182" xml:space="preserve">
+    <value>Fiji</value>
+  </data>
+  <data name="183" xml:space="preserve">
+    <value>Santa Cruz Islands vicinity</value>
+  </data>
+  <data name="184" xml:space="preserve">
+    <value>Santa Cruz Islands</value>
+  </data>
+  <data name="185" xml:space="preserve">
+    <value>Vanuatu vicinity</value>
+  </data>
+  <data name="186" xml:space="preserve">
+    <value>Vanuatu</value>
+  </data>
+  <data name="187" xml:space="preserve">
+    <value>New Caledonia</value>
+  </data>
+  <data name="188" xml:space="preserve">
+    <value>Loyalty Islands, New Caledonia</value>
+  </data>
+  <data name="189" xml:space="preserve">
+    <value>southeast of the Loyalty Islands</value>
+  </data>
+  <data name="19" xml:space="preserve">
+    <value>southeastern Alaska</value>
+  </data>
+  <data name="190" xml:space="preserve">
+    <value>New Ireland</value>
+  </data>
+  <data name="191" xml:space="preserve">
+    <value>north of the Solomon Islands</value>
+  </data>
+  <data name="192" xml:space="preserve">
+    <value>New Britain</value>
+  </data>
+  <data name="193" xml:space="preserve">
+    <value>Solomon Islands</value>
+  </data>
+  <data name="194" xml:space="preserve">
+    <value>D'Entrecasteaux Islands</value>
+  </data>
+  <data name="195" xml:space="preserve">
+    <value>south of the Solomon Islands</value>
+  </data>
+  <data name="196" xml:space="preserve">
+    <value>Papua vicinity</value>
+  </data>
+  <data name="197" xml:space="preserve">
+    <value>near the north coast of Papua</value>
+  </data>
+  <data name="198" xml:space="preserve">
+    <value>Ninigo Islands</value>
+  </data>
+  <data name="199" xml:space="preserve">
+    <value>Admiralty Islands</value>
+  </data>
+  <data name="2" xml:space="preserve">
+    <value>southern Alaska</value>
+  </data>
+  <data name="20" xml:space="preserve">
+    <value>off the coast of southeastern Alaska</value>
+  </data>
+  <data name="200" xml:space="preserve">
+    <value>near the north coast of New Guinea</value>
+  </data>
+  <data name="201" xml:space="preserve">
+    <value>Papua</value>
+  </data>
+  <data name="202" xml:space="preserve">
+    <value>New Guinea</value>
+  </data>
+  <data name="203" xml:space="preserve">
+    <value>Bismarck Sea</value>
+  </data>
+  <data name="204" xml:space="preserve">
+    <value>Kepulauan Aru</value>
+  </data>
+  <data name="205" xml:space="preserve">
+    <value>near the south coast of Papua</value>
+  </data>
+  <data name="206" xml:space="preserve">
+    <value>near the south coast of New Guinea</value>
+  </data>
+  <data name="207" xml:space="preserve">
+    <value>eastern New Guinea</value>
+  </data>
+  <data name="208" xml:space="preserve">
+    <value>Arafura Sea</value>
+  </data>
+  <data name="209" xml:space="preserve">
+    <value>Palau</value>
+  </data>
+  <data name="21" xml:space="preserve">
+    <value>west of Vancouver Island</value>
+  </data>
+  <data name="210" xml:space="preserve">
+    <value>south of the Mariana Islands</value>
+  </data>
+  <data name="211" xml:space="preserve">
+    <value>Izu Islands</value>
+  </data>
+  <data name="212" xml:space="preserve">
+    <value>Bonin Islands</value>
+  </data>
+  <data name="213" xml:space="preserve">
+    <value>Volcano Islands</value>
+  </data>
+  <data name="214" xml:space="preserve">
+    <value>west of the Mariana Islands</value>
+  </data>
+  <data name="215" xml:space="preserve">
+    <value>Mariana Islands vicinity</value>
+  </data>
+  <data name="216" xml:space="preserve">
+    <value>Mariana Islands</value>
+  </data>
+  <data name="217" xml:space="preserve">
+    <value>Kamchatka Peninsula</value>
+  </data>
+  <data name="218" xml:space="preserve">
+    <value>near the east coast of the Kamchatka Peninsula</value>
+  </data>
+  <data name="219" xml:space="preserve">
+    <value>off the east coast of the Kamchatka Peninsula</value>
+  </data>
+  <data name="22" xml:space="preserve">
+    <value>Haida Gwaii</value>
+  </data>
+  <data name="220" xml:space="preserve">
+    <value>northwest of the Kuril Islands</value>
+  </data>
+  <data name="221" xml:space="preserve">
+    <value>Kuril Islands</value>
+  </data>
+  <data name="222" xml:space="preserve">
+    <value>east of the Kuril Islands</value>
+  </data>
+  <data name="223" xml:space="preserve">
+    <value>eastern Sea of Japan</value>
+  </data>
+  <data name="224" xml:space="preserve">
+    <value>Hokkaido</value>
+  </data>
+  <data name="225" xml:space="preserve">
+    <value>off the coast of Hokkaido</value>
+  </data>
+  <data name="226" xml:space="preserve">
+    <value>near the west coast of Honshu</value>
+  </data>
+  <data name="227" xml:space="preserve">
+    <value>eastern Honshu</value>
+  </data>
+  <data name="228" xml:space="preserve">
+    <value>near the east coast of Honshu</value>
+  </data>
+  <data name="229" xml:space="preserve">
+    <value>off the east coast of Honshu</value>
+  </data>
+  <data name="23" xml:space="preserve">
+    <value>British Columbia</value>
+  </data>
+  <data name="230" xml:space="preserve">
+    <value>near the south coast of Honshu</value>
+  </data>
+  <data name="231" xml:space="preserve">
+    <value>South Korea</value>
+  </data>
+  <data name="232" xml:space="preserve">
+    <value>western Honshu</value>
+  </data>
+  <data name="233" xml:space="preserve">
+    <value>near the south coast of western Honshu</value>
+  </data>
+  <data name="234" xml:space="preserve">
+    <value>northwest of the Ryukyu Islands</value>
+  </data>
+  <data name="235" xml:space="preserve">
+    <value>Kyushu</value>
+  </data>
+  <data name="236" xml:space="preserve">
+    <value>Shikoku</value>
+  </data>
+  <data name="237" xml:space="preserve">
+    <value>southeast of Shikoku</value>
+  </data>
+  <data name="238" xml:space="preserve">
+    <value>Ryukyu Islands</value>
+  </data>
+  <data name="239" xml:space="preserve">
+    <value>southeast of the Ryukyu Islands</value>
+  </data>
+  <data name="24" xml:space="preserve">
+    <value>Alberta</value>
+  </data>
+  <data name="240" xml:space="preserve">
+    <value>west of the Bonin Islands</value>
+  </data>
+  <data name="241" xml:space="preserve">
+    <value>Philippine Sea</value>
+  </data>
+  <data name="242" xml:space="preserve">
+    <value>near the coast of southeastern China</value>
+  </data>
+  <data name="243" xml:space="preserve">
+    <value>Taiwan vicinity</value>
+  </data>
+  <data name="244" xml:space="preserve">
+    <value>Taiwan</value>
+  </data>
+  <data name="245" xml:space="preserve">
+    <value>northeast of Taiwan</value>
+  </data>
+  <data name="246" xml:space="preserve">
+    <value>southwestern Ryukyu Islands</value>
+  </data>
+  <data name="247" xml:space="preserve">
+    <value>southeast of Taiwan</value>
+  </data>
+  <data name="248" xml:space="preserve">
+    <value>Philippine Islands</value>
+  </data>
+  <data name="249" xml:space="preserve">
+    <value>Luzon, Philippines</value>
+  </data>
+  <data name="25" xml:space="preserve">
+    <value>Vancouver Island</value>
+  </data>
+  <data name="250" xml:space="preserve">
+    <value>Mindoro, Philippines</value>
+  </data>
+  <data name="251" xml:space="preserve">
+    <value>Samar, Philippines</value>
+  </data>
+  <data name="252" xml:space="preserve">
+    <value>Palawan, Philippines</value>
+  </data>
+  <data name="253" xml:space="preserve">
+    <value>Sulu Sea</value>
+  </data>
+  <data name="254" xml:space="preserve">
+    <value>Panay, Philippines</value>
+  </data>
+  <data name="255" xml:space="preserve">
+    <value>Cebu, Philippines</value>
+  </data>
+  <data name="256" xml:space="preserve">
+    <value>Leyte, Philippines</value>
+  </data>
+  <data name="257" xml:space="preserve">
+    <value>Negros, Philippines</value>
+  </data>
+  <data name="258" xml:space="preserve">
+    <value>Sulu Archipelago, Philippines</value>
+  </data>
+  <data name="259" xml:space="preserve">
+    <value>Mindanao, Philippines</value>
+  </data>
+  <data name="26" xml:space="preserve">
+    <value>off the coast of Washington</value>
+  </data>
+  <data name="260" xml:space="preserve">
+    <value>east of the Philippine Islands</value>
+  </data>
+  <data name="261" xml:space="preserve">
+    <value>Kalimantan</value>
+  </data>
+  <data name="262" xml:space="preserve">
+    <value>Celebes Sea</value>
+  </data>
+  <data name="263" xml:space="preserve">
+    <value>Pulau-Pulau Talaud</value>
+  </data>
+  <data name="264" xml:space="preserve">
+    <value>north of Halmahera</value>
+  </data>
+  <data name="265" xml:space="preserve">
+    <value>Minahasa, Sulawesi</value>
+  </data>
+  <data name="266" xml:space="preserve">
+    <value>Molucca Sea</value>
+  </data>
+  <data name="267" xml:space="preserve">
+    <value>Halmahera</value>
+  </data>
+  <data name="268" xml:space="preserve">
+    <value>Sulawesi</value>
+  </data>
+  <data name="269" xml:space="preserve">
+    <value>Pulau-Pulau Sula</value>
+  </data>
+  <data name="27" xml:space="preserve">
+    <value>near the coast of Washington</value>
+  </data>
+  <data name="270" xml:space="preserve">
+    <value>Ceram Sea</value>
+  </data>
+  <data name="271" xml:space="preserve">
+    <value>Buru</value>
+  </data>
+  <data name="272" xml:space="preserve">
+    <value>Seram</value>
+  </data>
+  <data name="273" xml:space="preserve">
+    <value>southwest of Sumatra</value>
+  </data>
+  <data name="274" xml:space="preserve">
+    <value>southern Sumatra</value>
+  </data>
+  <data name="275" xml:space="preserve">
+    <value>Java Sea</value>
+  </data>
+  <data name="276" xml:space="preserve">
+    <value>Sunda Strait</value>
+  </data>
+  <data name="277" xml:space="preserve">
+    <value>Java</value>
+  </data>
+  <data name="278" xml:space="preserve">
+    <value>Bali Sea</value>
+  </data>
+  <data name="279" xml:space="preserve">
+    <value>Flores Sea</value>
+  </data>
+  <data name="28" xml:space="preserve">
+    <value>Washington-Oregon border</value>
+  </data>
+  <data name="280" xml:space="preserve">
+    <value>Banda Sea</value>
+  </data>
+  <data name="281" xml:space="preserve">
+    <value>Pulau Pulau Tanimbar</value>
+  </data>
+  <data name="282" xml:space="preserve">
+    <value>south of Java</value>
+  </data>
+  <data name="283" xml:space="preserve">
+    <value>Bali</value>
+  </data>
+  <data name="284" xml:space="preserve">
+    <value>south of Bali</value>
+  </data>
+  <data name="285" xml:space="preserve">
+    <value>Sumbawa</value>
+  </data>
+  <data name="286" xml:space="preserve">
+    <value>Flores</value>
+  </data>
+  <data name="287" xml:space="preserve">
+    <value>Sumba</value>
+  </data>
+  <data name="288" xml:space="preserve">
+    <value>Savu Sea</value>
+  </data>
+  <data name="289" xml:space="preserve">
+    <value>Timor</value>
+  </data>
+  <data name="29" xml:space="preserve">
+    <value>Washington</value>
+  </data>
+  <data name="290" xml:space="preserve">
+    <value>Timor Sea</value>
+  </data>
+  <data name="291" xml:space="preserve">
+    <value>south of Sumbawa</value>
+  </data>
+  <data name="292" xml:space="preserve">
+    <value>south of Sumba</value>
+  </data>
+  <data name="293" xml:space="preserve">
+    <value>south of Timor</value>
+  </data>
+  <data name="294" xml:space="preserve">
+    <value>Myanmar-India border</value>
+  </data>
+  <data name="295" xml:space="preserve">
+    <value>Myanmar-Bangladesh border</value>
+  </data>
+  <data name="296" xml:space="preserve">
+    <value>Myanmar</value>
+  </data>
+  <data name="297" xml:space="preserve">
+    <value>Myanmar-China border</value>
+  </data>
+  <data name="298" xml:space="preserve">
+    <value>near the south coast of Myanmar</value>
+  </data>
+  <data name="299" xml:space="preserve">
+    <value>Southeast Asia</value>
+  </data>
+  <data name="3" xml:space="preserve">
+    <value>Bering Sea</value>
+  </data>
+  <data name="30" xml:space="preserve">
+    <value>off the coast of Oregon</value>
+  </data>
+  <data name="300" xml:space="preserve">
+    <value>Hainan, China</value>
+  </data>
+  <data name="301" xml:space="preserve">
+    <value>South China Sea</value>
+  </data>
+  <data name="302" xml:space="preserve">
+    <value>eastern Kashmir</value>
+  </data>
+  <data name="303" xml:space="preserve">
+    <value>Kashmir-India border</value>
+  </data>
+  <data name="304" xml:space="preserve">
+    <value>Kashmir-Xizang border</value>
+  </data>
+  <data name="305" xml:space="preserve">
+    <value>western Xizang-India border</value>
+  </data>
+  <data name="306" xml:space="preserve">
+    <value>western Xizang</value>
+  </data>
+  <data name="307" xml:space="preserve">
+    <value>eastern Sichuan, China</value>
+  </data>
+  <data name="308" xml:space="preserve">
+    <value>northern India</value>
+  </data>
+  <data name="309" xml:space="preserve">
+    <value>Nepal-India border</value>
+  </data>
+  <data name="31" xml:space="preserve">
+    <value>near the coast of Oregon</value>
+  </data>
+  <data name="310" xml:space="preserve">
+    <value>Nepal</value>
+  </data>
+  <data name="311" xml:space="preserve">
+    <value>Sikkim, India</value>
+  </data>
+  <data name="312" xml:space="preserve">
+    <value>Bhutan</value>
+  </data>
+  <data name="313" xml:space="preserve">
+    <value>eastern Xizang-India border</value>
+  </data>
+  <data name="314" xml:space="preserve">
+    <value>southern India</value>
+  </data>
+  <data name="315" xml:space="preserve">
+    <value>India-Bangladesh border</value>
+  </data>
+  <data name="316" xml:space="preserve">
+    <value>Bangladesh</value>
+  </data>
+  <data name="317" xml:space="preserve">
+    <value>northeastern India</value>
+  </data>
+  <data name="318" xml:space="preserve">
+    <value>Yunnan, China</value>
+  </data>
+  <data name="319" xml:space="preserve">
+    <value>Bay of Bengal</value>
+  </data>
+  <data name="32" xml:space="preserve">
+    <value>Oregon</value>
+  </data>
+  <data name="320" xml:space="preserve">
+    <value>Kyrgyzstan-Xinjiang border</value>
+  </data>
+  <data name="321" xml:space="preserve">
+    <value>southern Xinjiang, China</value>
+  </data>
+  <data name="322" xml:space="preserve">
+    <value>Gansu, China</value>
+  </data>
+  <data name="323" xml:space="preserve">
+    <value>western Nei Mongol, China</value>
+  </data>
+  <data name="324" xml:space="preserve">
+    <value>Kashmir-Xinjiang border</value>
+  </data>
+  <data name="325" xml:space="preserve">
+    <value>northern Qinghai, China</value>
+  </data>
+  <data name="326" xml:space="preserve">
+    <value>southwestern Siberia</value>
+  </data>
+  <data name="327" xml:space="preserve">
+    <value>Lake Baykal</value>
+  </data>
+  <data name="328" xml:space="preserve">
+    <value>east of Lake Baykal</value>
+  </data>
+  <data name="329" xml:space="preserve">
+    <value>eastern Kazakhstan</value>
+  </data>
+  <data name="33" xml:space="preserve">
+    <value>western Idaho</value>
+  </data>
+  <data name="330" xml:space="preserve">
+    <value>Lake Issyk-Kul</value>
+  </data>
+  <data name="331" xml:space="preserve">
+    <value>Kazakhstan-Xinjiang border</value>
+  </data>
+  <data name="332" xml:space="preserve">
+    <value>northern Xinjiang, China</value>
+  </data>
+  <data name="333" xml:space="preserve">
+    <value>Russia-Mongolia border</value>
+  </data>
+  <data name="334" xml:space="preserve">
+    <value>central Mongolia</value>
+  </data>
+  <data name="335" xml:space="preserve">
+    <value>Ural Mountains</value>
+  </data>
+  <data name="336" xml:space="preserve">
+    <value>western Kazakhstan</value>
+  </data>
+  <data name="337" xml:space="preserve">
+    <value>eastern Caucasus</value>
+  </data>
+  <data name="338" xml:space="preserve">
+    <value>Caspian Sea</value>
+  </data>
+  <data name="339" xml:space="preserve">
+    <value>western Uzbekistan</value>
+  </data>
+  <data name="34" xml:space="preserve">
+    <value>off the coast of northern California</value>
+  </data>
+  <data name="340" xml:space="preserve">
+    <value>Turkmenistan</value>
+  </data>
+  <data name="341" xml:space="preserve">
+    <value>Turkmenistan-Iran border</value>
+  </data>
+  <data name="342" xml:space="preserve">
+    <value>Turkmenistan-Afghanistan border</value>
+  </data>
+  <data name="343" xml:space="preserve">
+    <value>Turkey-Iran border</value>
+  </data>
+  <data name="344" xml:space="preserve">
+    <value>Armenia-Azerbaijan-Iran border</value>
+  </data>
+  <data name="345" xml:space="preserve">
+    <value>northwestern Iran</value>
+  </data>
+  <data name="346" xml:space="preserve">
+    <value>Iran-Iraq border</value>
+  </data>
+  <data name="347" xml:space="preserve">
+    <value>western Iran</value>
+  </data>
+  <data name="348" xml:space="preserve">
+    <value>central Iran</value>
+  </data>
+  <data name="349" xml:space="preserve">
+    <value>northwestern Afghanistan</value>
+  </data>
+  <data name="35" xml:space="preserve">
+    <value>near the coast of northern California</value>
+  </data>
+  <data name="350" xml:space="preserve">
+    <value>southwestern Afghanistan</value>
+  </data>
+  <data name="351" xml:space="preserve">
+    <value>eastern Saudi Arabia</value>
+  </data>
+  <data name="352" xml:space="preserve">
+    <value>Persian Gulf</value>
+  </data>
+  <data name="353" xml:space="preserve">
+    <value>southern Iran</value>
+  </data>
+  <data name="354" xml:space="preserve">
+    <value>southwestern Pakistan</value>
+  </data>
+  <data name="355" xml:space="preserve">
+    <value>Gulf of Oman</value>
+  </data>
+  <data name="356" xml:space="preserve">
+    <value>off the coast of Pakistan</value>
+  </data>
+  <data name="357" xml:space="preserve">
+    <value>Ukraine-Moldova-southwestern Russia</value>
+  </data>
+  <data name="358" xml:space="preserve">
+    <value>Romania</value>
+  </data>
+  <data name="359" xml:space="preserve">
+    <value>Bulgaria</value>
+  </data>
+  <data name="36" xml:space="preserve">
+    <value>northern California</value>
+  </data>
+  <data name="360" xml:space="preserve">
+    <value>Black Sea</value>
+  </data>
+  <data name="361" xml:space="preserve">
+    <value>Crimea</value>
+  </data>
+  <data name="362" xml:space="preserve">
+    <value>northwestern Caucasus</value>
+  </data>
+  <data name="363" xml:space="preserve">
+    <value>Greece-Bulgaria border</value>
+  </data>
+  <data name="364" xml:space="preserve">
+    <value>Greece</value>
+  </data>
+  <data name="365" xml:space="preserve">
+    <value>Aegean Sea</value>
+  </data>
+  <data name="366" xml:space="preserve">
+    <value>eastern Turkey</value>
+  </data>
+  <data name="367" xml:space="preserve">
+    <value>Georgia-Armenia-Turkey border</value>
+  </data>
+  <data name="368" xml:space="preserve">
+    <value>southern Greece</value>
+  </data>
+  <data name="369" xml:space="preserve">
+    <value>Dodecanese Islands, Greece</value>
+  </data>
+  <data name="37" xml:space="preserve">
+    <value>Nevada</value>
+  </data>
+  <data name="370" xml:space="preserve">
+    <value>Crete, Greece</value>
+  </data>
+  <data name="371" xml:space="preserve">
+    <value>eastern Mediterranean Sea</value>
+  </data>
+  <data name="372" xml:space="preserve">
+    <value>Cyprus</value>
+  </data>
+  <data name="373" xml:space="preserve">
+    <value>Dead Sea</value>
+  </data>
+  <data name="374" xml:space="preserve">
+    <value>Syria</value>
+  </data>
+  <data name="375" xml:space="preserve">
+    <value>Iraq</value>
+  </data>
+  <data name="376" xml:space="preserve">
+    <value>Portugal</value>
+  </data>
+  <data name="377" xml:space="preserve">
+    <value>Spain</value>
+  </data>
+  <data name="378" xml:space="preserve">
+    <value>Pyrenees</value>
+  </data>
+  <data name="379" xml:space="preserve">
+    <value>near the south coast of France</value>
+  </data>
+  <data name="38" xml:space="preserve">
+    <value>off the coast of California</value>
+  </data>
+  <data name="380" xml:space="preserve">
+    <value>Corsica, France</value>
+  </data>
+  <data name="381" xml:space="preserve">
+    <value>central Italy</value>
+  </data>
+  <data name="382" xml:space="preserve">
+    <value>Adriatic Sea</value>
+  </data>
+  <data name="383" xml:space="preserve">
+    <value>northwestern Balkan</value>
+  </data>
+  <data name="384" xml:space="preserve">
+    <value>west of Gibraltar</value>
+  </data>
+  <data name="385" xml:space="preserve">
+    <value>Strait of Gibraltar</value>
+  </data>
+  <data name="386" xml:space="preserve">
+    <value>Balearic Islands, Spain</value>
+  </data>
+  <data name="387" xml:space="preserve">
+    <value>western Mediterranean Sea</value>
+  </data>
+  <data name="388" xml:space="preserve">
+    <value>Sardinia, Italy</value>
+  </data>
+  <data name="389" xml:space="preserve">
+    <value>Tyrrhenian Sea</value>
+  </data>
+  <data name="39" xml:space="preserve">
+    <value>central California</value>
+  </data>
+  <data name="390" xml:space="preserve">
+    <value>southern Italy</value>
+  </data>
+  <data name="391" xml:space="preserve">
+    <value>Albania</value>
+  </data>
+  <data name="392" xml:space="preserve">
+    <value>Greece-Albania border</value>
+  </data>
+  <data name="393" xml:space="preserve">
+    <value>Madeira Islands</value>
+  </data>
+  <data name="394" xml:space="preserve">
+    <value>Canary Islands</value>
+  </data>
+  <data name="395" xml:space="preserve">
+    <value>Morocco</value>
+  </data>
+  <data name="396" xml:space="preserve">
+    <value>northern Algeria</value>
+  </data>
+  <data name="397" xml:space="preserve">
+    <value>Tunisia</value>
+  </data>
+  <data name="398" xml:space="preserve">
+    <value>Sicily, Italy</value>
+  </data>
+  <data name="399" xml:space="preserve">
+    <value>Ionian Sea</value>
+  </data>
+  <data name="4" xml:space="preserve">
+    <value>Komandorskiye Ostrova</value>
+  </data>
+  <data name="40" xml:space="preserve">
+    <value>California-Nevada border</value>
+  </data>
+  <data name="400" xml:space="preserve">
+    <value>central Mediterranean Sea</value>
+  </data>
+  <data name="401" xml:space="preserve">
+    <value>near the coast of Libya</value>
+  </data>
+  <data name="402" xml:space="preserve">
+    <value>North Atlantic Ocean</value>
+  </data>
+  <data name="403" xml:space="preserve">
+    <value>northern Mid-Atlantic Ridge</value>
+  </data>
+  <data name="404" xml:space="preserve">
+    <value>Azores Islands vicinity</value>
+  </data>
+  <data name="405" xml:space="preserve">
+    <value>Azores Islands</value>
+  </data>
+  <data name="406" xml:space="preserve">
+    <value>central Mid-Atlantic Ridge</value>
+  </data>
+  <data name="407" xml:space="preserve">
+    <value>north of Ascension Island</value>
+  </data>
+  <data name="408" xml:space="preserve">
+    <value>Ascension Island</value>
+  </data>
+  <data name="409" xml:space="preserve">
+    <value>South Atlantic Ocean</value>
+  </data>
+  <data name="41" xml:space="preserve">
+    <value>southern Nevada</value>
+  </data>
+  <data name="410" xml:space="preserve">
+    <value>southern Mid-Atlantic Ridge</value>
+  </data>
+  <data name="411" xml:space="preserve">
+    <value>Tristan da Cunha</value>
+  </data>
+  <data name="412" xml:space="preserve">
+    <value>Bouvet Island</value>
+  </data>
+  <data name="413" xml:space="preserve">
+    <value>southwest of Africa</value>
+  </data>
+  <data name="414" xml:space="preserve">
+    <value>southeastern Atlantic Ocean</value>
+  </data>
+  <data name="415" xml:space="preserve">
+    <value>eastern Gulf of Aden</value>
+  </data>
+  <data name="416" xml:space="preserve">
+    <value>Socotra</value>
+  </data>
+  <data name="417" xml:space="preserve">
+    <value>Arabian Sea</value>
+  </data>
+  <data name="418" xml:space="preserve">
+    <value>Lakshadweep, India</value>
+  </data>
+  <data name="419" xml:space="preserve">
+    <value>northeastern Somalia</value>
+  </data>
+  <data name="42" xml:space="preserve">
+    <value>western Arizona</value>
+  </data>
+  <data name="420" xml:space="preserve">
+    <value>North Indian Ocean</value>
+  </data>
+  <data name="421" xml:space="preserve">
+    <value>Carlsberg Ridge</value>
+  </data>
+  <data name="422" xml:space="preserve">
+    <value>Maldive Islands</value>
+  </data>
+  <data name="423" xml:space="preserve">
+    <value>Laccadive Sea</value>
+  </data>
+  <data name="424" xml:space="preserve">
+    <value>Sri Lanka</value>
+  </data>
+  <data name="425" xml:space="preserve">
+    <value>South Indian Ocean</value>
+  </data>
+  <data name="426" xml:space="preserve">
+    <value>Chagos Archipelago</value>
+  </data>
+  <data name="427" xml:space="preserve">
+    <value>Mauritius - Reunion</value>
+  </data>
+  <data name="428" xml:space="preserve">
+    <value>Southwest Indian Ridge</value>
+  </data>
+  <data name="429" xml:space="preserve">
+    <value>Mid-Indian Ridge</value>
+  </data>
+  <data name="43" xml:space="preserve">
+    <value>southern California</value>
+  </data>
+  <data name="430" xml:space="preserve">
+    <value>south of Africa</value>
+  </data>
+  <data name="431" xml:space="preserve">
+    <value>Prince Edward Islands</value>
+  </data>
+  <data name="432" xml:space="preserve">
+    <value>Crozet Islands</value>
+  </data>
+  <data name="433" xml:space="preserve">
+    <value>Kerguelen Islands</value>
+  </data>
+  <data name="434" xml:space="preserve">
+    <value>Broken Ridge</value>
+  </data>
+  <data name="435" xml:space="preserve">
+    <value>southeast Indian Ridge</value>
+  </data>
+  <data name="436" xml:space="preserve">
+    <value>southern Kerguelen Plateau</value>
+  </data>
+  <data name="437" xml:space="preserve">
+    <value>south of Australia</value>
+  </data>
+  <data name="438" xml:space="preserve">
+    <value>Saskatchewan</value>
+  </data>
+  <data name="439" xml:space="preserve">
+    <value>Manitoba</value>
+  </data>
+  <data name="44" xml:space="preserve">
+    <value>California-Arizona border</value>
+  </data>
+  <data name="440" xml:space="preserve">
+    <value>Hudson Bay</value>
+  </data>
+  <data name="441" xml:space="preserve">
+    <value>Ontario</value>
+  </data>
+  <data name="442" xml:space="preserve">
+    <value>Hudson Strait</value>
+  </data>
+  <data name="443" xml:space="preserve">
+    <value>northern Quebec</value>
+  </data>
+  <data name="444" xml:space="preserve">
+    <value>Davis Strait</value>
+  </data>
+  <data name="445" xml:space="preserve">
+    <value>Labrador, Newfoundland and Labrador</value>
+  </data>
+  <data name="446" xml:space="preserve">
+    <value>Labrador Sea</value>
+  </data>
+  <data name="447" xml:space="preserve">
+    <value>southern Quebec</value>
+  </data>
+  <data name="448" xml:space="preserve">
+    <value>Gaspe Peninsula, Quebec</value>
+  </data>
+  <data name="449" xml:space="preserve">
+    <value>eastern Quebec</value>
+  </data>
+  <data name="45" xml:space="preserve">
+    <value>California-Baja California border</value>
+  </data>
+  <data name="450" xml:space="preserve">
+    <value>Anticosti Island, Quebec</value>
+  </data>
+  <data name="451" xml:space="preserve">
+    <value>New Brunswick</value>
+  </data>
+  <data name="452" xml:space="preserve">
+    <value>Nova Scotia</value>
+  </data>
+  <data name="453" xml:space="preserve">
+    <value>Prince Edward Island</value>
+  </data>
+  <data name="454" xml:space="preserve">
+    <value>Gulf of St. Lawrence</value>
+  </data>
+  <data name="455" xml:space="preserve">
+    <value>Newfoundland, Newfoundland and Labrador</value>
+  </data>
+  <data name="456" xml:space="preserve">
+    <value>Montana</value>
+  </data>
+  <data name="457" xml:space="preserve">
+    <value>eastern Idaho</value>
+  </data>
+  <data name="458" xml:space="preserve">
+    <value>Hebgen Lake</value>
+  </data>
+  <data name="459" xml:space="preserve">
+    <value>Yellowstone, Wyoming</value>
+  </data>
+  <data name="46" xml:space="preserve">
+    <value>western Arizona-Sonora border</value>
+  </data>
+  <data name="460" xml:space="preserve">
+    <value>Wyoming</value>
+  </data>
+  <data name="461" xml:space="preserve">
+    <value>North Dakota</value>
+  </data>
+  <data name="462" xml:space="preserve">
+    <value>South Dakota</value>
+  </data>
+  <data name="463" xml:space="preserve">
+    <value>Nebraska</value>
+  </data>
+  <data name="464" xml:space="preserve">
+    <value>Minnesota</value>
+  </data>
+  <data name="465" xml:space="preserve">
+    <value>Iowa</value>
+  </data>
+  <data name="466" xml:space="preserve">
+    <value>Wisconsin</value>
+  </data>
+  <data name="467" xml:space="preserve">
+    <value>Illinois</value>
+  </data>
+  <data name="468" xml:space="preserve">
+    <value>Michigan</value>
+  </data>
+  <data name="469" xml:space="preserve">
+    <value>Indiana</value>
+  </data>
+  <data name="47" xml:space="preserve">
+    <value>off the west coast of Baja California</value>
+  </data>
+  <data name="470" xml:space="preserve">
+    <value>southern Ontario</value>
+  </data>
+  <data name="471" xml:space="preserve">
+    <value>Ohio</value>
+  </data>
+  <data name="472" xml:space="preserve">
+    <value>New York</value>
+  </data>
+  <data name="473" xml:space="preserve">
+    <value>Pennsylvania</value>
+  </data>
+  <data name="474" xml:space="preserve">
+    <value>Vermont - New Hampshire</value>
+  </data>
+  <data name="475" xml:space="preserve">
+    <value>Maine</value>
+  </data>
+  <data name="476" xml:space="preserve">
+    <value>southern New England</value>
+  </data>
+  <data name="477" xml:space="preserve">
+    <value>Gulf of Maine</value>
+  </data>
+  <data name="478" xml:space="preserve">
+    <value>Utah</value>
+  </data>
+  <data name="479" xml:space="preserve">
+    <value>Colorado</value>
+  </data>
+  <data name="48" xml:space="preserve">
+    <value>Baja California</value>
+  </data>
+  <data name="480" xml:space="preserve">
+    <value>Kansas</value>
+  </data>
+  <data name="481" xml:space="preserve">
+    <value>Iowa-Missouri border</value>
+  </data>
+  <data name="482" xml:space="preserve">
+    <value>Missouri-Kansas border</value>
+  </data>
+  <data name="483" xml:space="preserve">
+    <value>Missouri</value>
+  </data>
+  <data name="484" xml:space="preserve">
+    <value>Missouri-Arkansas border</value>
+  </data>
+  <data name="485" xml:space="preserve">
+    <value>eastern Missouri</value>
+  </data>
+  <data name="486" xml:space="preserve">
+    <value>southeastern Missouri</value>
+  </data>
+  <data name="487" xml:space="preserve">
+    <value>Cape Girardeau, Missouri</value>
+  </data>
+  <data name="488" xml:space="preserve">
+    <value>southern Illinois</value>
+  </data>
+  <data name="489" xml:space="preserve">
+    <value>southern Indiana</value>
+  </data>
+  <data name="49" xml:space="preserve">
+    <value>Gulf of California</value>
+  </data>
+  <data name="490" xml:space="preserve">
+    <value>Kentucky</value>
+  </data>
+  <data name="491" xml:space="preserve">
+    <value>West Virginia</value>
+  </data>
+  <data name="492" xml:space="preserve">
+    <value>Virginia</value>
+  </data>
+  <data name="493" xml:space="preserve">
+    <value>Chesapeake Bay</value>
+  </data>
+  <data name="494" xml:space="preserve">
+    <value>New Jersey</value>
+  </data>
+  <data name="495" xml:space="preserve">
+    <value>eastern Arizona</value>
+  </data>
+  <data name="496" xml:space="preserve">
+    <value>New Mexico</value>
+  </data>
+  <data name="497" xml:space="preserve">
+    <value>Texas Panhandle</value>
+  </data>
+  <data name="498" xml:space="preserve">
+    <value>western Texas</value>
+  </data>
+  <data name="499" xml:space="preserve">
+    <value>Oklahoma</value>
+  </data>
+  <data name="5" xml:space="preserve">
+    <value>Near Islands, Aleutian Islands</value>
+  </data>
+  <data name="50" xml:space="preserve">
+    <value>Sonora</value>
+  </data>
+  <data name="500" xml:space="preserve">
+    <value>central Texas</value>
+  </data>
+  <data name="501" xml:space="preserve">
+    <value>Arkansas-Oklahoma border</value>
+  </data>
+  <data name="502" xml:space="preserve">
+    <value>Arkansas</value>
+  </data>
+  <data name="503" xml:space="preserve">
+    <value>Louisiana-Texas border</value>
+  </data>
+  <data name="504" xml:space="preserve">
+    <value>Louisiana</value>
+  </data>
+  <data name="505" xml:space="preserve">
+    <value>Mississippi</value>
+  </data>
+  <data name="506" xml:space="preserve">
+    <value>Tennessee</value>
+  </data>
+  <data name="507" xml:space="preserve">
+    <value>Alabama</value>
+  </data>
+  <data name="508" xml:space="preserve">
+    <value>western Florida</value>
+  </data>
+  <data name="509" xml:space="preserve">
+    <value>Georgia, USA</value>
+  </data>
+  <data name="51" xml:space="preserve">
+    <value>off the coast of central Mexico</value>
+  </data>
+  <data name="510" xml:space="preserve">
+    <value>Florida-Georgia border</value>
+  </data>
+  <data name="511" xml:space="preserve">
+    <value>South Carolina</value>
+  </data>
+  <data name="512" xml:space="preserve">
+    <value>North Carolina</value>
+  </data>
+  <data name="513" xml:space="preserve">
+    <value>off the east coast of the United States</value>
+  </data>
+  <data name="514" xml:space="preserve">
+    <value>Florida Peninsula</value>
+  </data>
+  <data name="515" xml:space="preserve">
+    <value>Bahama Islands</value>
+  </data>
+  <data name="516" xml:space="preserve">
+    <value>eastern Arizona-Sonora border</value>
+  </data>
+  <data name="517" xml:space="preserve">
+    <value>New Mexico-Chihuahua border</value>
+  </data>
+  <data name="518" xml:space="preserve">
+    <value>Texas-Mexico border</value>
+  </data>
+  <data name="519" xml:space="preserve">
+    <value>southern Texas</value>
+  </data>
+  <data name="52" xml:space="preserve">
+    <value>near the coast of central Mexico</value>
+  </data>
+  <data name="520" xml:space="preserve">
+    <value>near the coast of Texas</value>
+  </data>
+  <data name="521" xml:space="preserve">
+    <value>Chihuahua, Mexico</value>
+  </data>
+  <data name="522" xml:space="preserve">
+    <value>northern Mexico</value>
+  </data>
+  <data name="523" xml:space="preserve">
+    <value>central Mexico</value>
+  </data>
+  <data name="524" xml:space="preserve">
+    <value>Jalisco, Mexico</value>
+  </data>
+  <data name="525" xml:space="preserve">
+    <value>Veracruz, Mexico</value>
+  </data>
+  <data name="526" xml:space="preserve">
+    <value>Gulf of Mexico</value>
+  </data>
+  <data name="527" xml:space="preserve">
+    <value>Bay of Campeche</value>
+  </data>
+  <data name="528" xml:space="preserve">
+    <value>Brazil</value>
+  </data>
+  <data name="529" xml:space="preserve">
+    <value>Guyana</value>
+  </data>
+  <data name="53" xml:space="preserve">
+    <value>Revilla Gigedo Islands</value>
+  </data>
+  <data name="530" xml:space="preserve">
+    <value>Suriname</value>
+  </data>
+  <data name="531" xml:space="preserve">
+    <value>French Guiana</value>
+  </data>
+  <data name="532" xml:space="preserve">
+    <value>Ireland</value>
+  </data>
+  <data name="533" xml:space="preserve">
+    <value>United Kingdom</value>
+  </data>
+  <data name="534" xml:space="preserve">
+    <value>North Sea</value>
+  </data>
+  <data name="535" xml:space="preserve">
+    <value>southern Norway</value>
+  </data>
+  <data name="536" xml:space="preserve">
+    <value>Sweden</value>
+  </data>
+  <data name="537" xml:space="preserve">
+    <value>Baltic Sea</value>
+  </data>
+  <data name="538" xml:space="preserve">
+    <value>France</value>
+  </data>
+  <data name="539" xml:space="preserve">
+    <value>Bay of Biscay</value>
+  </data>
+  <data name="54" xml:space="preserve">
+    <value>off the coast of Jalisco</value>
+  </data>
+  <data name="540" xml:space="preserve">
+    <value>The Netherlands</value>
+  </data>
+  <data name="541" xml:space="preserve">
+    <value>Belgium</value>
+  </data>
+  <data name="542" xml:space="preserve">
+    <value>Denmark</value>
+  </data>
+  <data name="543" xml:space="preserve">
+    <value>Germany</value>
+  </data>
+  <data name="544" xml:space="preserve">
+    <value>Switzerland</value>
+  </data>
+  <data name="545" xml:space="preserve">
+    <value>northern Italy</value>
+  </data>
+  <data name="546" xml:space="preserve">
+    <value>Austria</value>
+  </data>
+  <data name="547" xml:space="preserve">
+    <value>Czech and Slovak Republics</value>
+  </data>
+  <data name="548" xml:space="preserve">
+    <value>Poland</value>
+  </data>
+  <data name="549" xml:space="preserve">
+    <value>Hungary</value>
+  </data>
+  <data name="55" xml:space="preserve">
+    <value>near the coast of Jalisco</value>
+  </data>
+  <data name="550" xml:space="preserve">
+    <value>Northwest Africa</value>
+  </data>
+  <data name="551" xml:space="preserve">
+    <value>southern Algeria</value>
+  </data>
+  <data name="552" xml:space="preserve">
+    <value>Libya</value>
+  </data>
+  <data name="553" xml:space="preserve">
+    <value>Egypt</value>
+  </data>
+  <data name="554" xml:space="preserve">
+    <value>Red Sea</value>
+  </data>
+  <data name="555" xml:space="preserve">
+    <value>western Saudi Arabia</value>
+  </data>
+  <data name="556" xml:space="preserve">
+    <value>Chad</value>
+  </data>
+  <data name="557" xml:space="preserve">
+    <value>Sudan</value>
+  </data>
+  <data name="558" xml:space="preserve">
+    <value>Ethiopia</value>
+  </data>
+  <data name="559" xml:space="preserve">
+    <value>western Gulf of Aden</value>
+  </data>
+  <data name="56" xml:space="preserve">
+    <value>near the coast of Michoacan</value>
+  </data>
+  <data name="560" xml:space="preserve">
+    <value>northwestern Somalia</value>
+  </data>
+  <data name="561" xml:space="preserve">
+    <value>off the south coast of Northwest Africa</value>
+  </data>
+  <data name="562" xml:space="preserve">
+    <value>Cameroon</value>
+  </data>
+  <data name="563" xml:space="preserve">
+    <value>Equatorial Guinea</value>
+  </data>
+  <data name="564" xml:space="preserve">
+    <value>Central African Republic</value>
+  </data>
+  <data name="565" xml:space="preserve">
+    <value>Gabon</value>
+  </data>
+  <data name="566" xml:space="preserve">
+    <value>Republic of the Congo</value>
+  </data>
+  <data name="567" xml:space="preserve">
+    <value>Democratic Republic of the Congo</value>
+  </data>
+  <data name="568" xml:space="preserve">
+    <value>Uganda</value>
+  </data>
+  <data name="569" xml:space="preserve">
+    <value>Lake Victoria</value>
+  </data>
+  <data name="57" xml:space="preserve">
+    <value>Michoacan</value>
+  </data>
+  <data name="570" xml:space="preserve">
+    <value>Kenya</value>
+  </data>
+  <data name="571" xml:space="preserve">
+    <value>southern Somalia</value>
+  </data>
+  <data name="572" xml:space="preserve">
+    <value>Lake Tanganyika</value>
+  </data>
+  <data name="573" xml:space="preserve">
+    <value>Tanzania</value>
+  </data>
+  <data name="574" xml:space="preserve">
+    <value>northwest of Madagascar</value>
+  </data>
+  <data name="575" xml:space="preserve">
+    <value>Angola</value>
+  </data>
+  <data name="576" xml:space="preserve">
+    <value>Zambia</value>
+  </data>
+  <data name="577" xml:space="preserve">
+    <value>Malawi</value>
+  </data>
+  <data name="578" xml:space="preserve">
+    <value>Namibia</value>
+  </data>
+  <data name="579" xml:space="preserve">
+    <value>Botswana</value>
+  </data>
+  <data name="58" xml:space="preserve">
+    <value>near the coast of Guerrero</value>
+  </data>
+  <data name="580" xml:space="preserve">
+    <value>Zimbabwe</value>
+  </data>
+  <data name="581" xml:space="preserve">
+    <value>Mozambique</value>
+  </data>
+  <data name="582" xml:space="preserve">
+    <value>Mozambique Channel</value>
+  </data>
+  <data name="583" xml:space="preserve">
+    <value>Madagascar</value>
+  </data>
+  <data name="584" xml:space="preserve">
+    <value>South Africa</value>
+  </data>
+  <data name="585" xml:space="preserve">
+    <value>Lesotho</value>
+  </data>
+  <data name="586" xml:space="preserve">
+    <value>Swaziland</value>
+  </data>
+  <data name="587" xml:space="preserve">
+    <value>off the coast of South Africa</value>
+  </data>
+  <data name="588" xml:space="preserve">
+    <value>northwest of Australia</value>
+  </data>
+  <data name="589" xml:space="preserve">
+    <value>west of Australia</value>
+  </data>
+  <data name="59" xml:space="preserve">
+    <value>Guerrero</value>
+  </data>
+  <data name="590" xml:space="preserve">
+    <value>Western Australia</value>
+  </data>
+  <data name="591" xml:space="preserve">
+    <value>Northern Territory</value>
+  </data>
+  <data name="592" xml:space="preserve">
+    <value>South Australia</value>
+  </data>
+  <data name="593" xml:space="preserve">
+    <value>Gulf of Carpentaria</value>
+  </data>
+  <data name="594" xml:space="preserve">
+    <value>Queensland</value>
+  </data>
+  <data name="595" xml:space="preserve">
+    <value>Coral Sea</value>
+  </data>
+  <data name="596" xml:space="preserve">
+    <value>northwest of New Caledonia</value>
+  </data>
+  <data name="597" xml:space="preserve">
+    <value>southwest of New Caledonia</value>
+  </data>
+  <data name="598" xml:space="preserve">
+    <value>southwest of Australia</value>
+  </data>
+  <data name="599" xml:space="preserve">
+    <value>off the south coast of Australia</value>
+  </data>
+  <data name="6" xml:space="preserve">
+    <value>Rat Islands, Aleutian Islands</value>
+  </data>
+  <data name="60" xml:space="preserve">
+    <value>Oaxaca</value>
+  </data>
+  <data name="600" xml:space="preserve">
+    <value>near the coast of South Australia</value>
+  </data>
+  <data name="601" xml:space="preserve">
+    <value>New South Wales</value>
+  </data>
+  <data name="602" xml:space="preserve">
+    <value>Victoria, Australia</value>
+  </data>
+  <data name="603" xml:space="preserve">
+    <value>near the southeast coast of Australia</value>
+  </data>
+  <data name="604" xml:space="preserve">
+    <value>near the east coast of Australia</value>
+  </data>
+  <data name="605" xml:space="preserve">
+    <value>east of Australia</value>
+  </data>
+  <data name="606" xml:space="preserve">
+    <value>Norfolk Island</value>
+  </data>
+  <data name="607" xml:space="preserve">
+    <value>northwest of New Zealand</value>
+  </data>
+  <data name="608" xml:space="preserve">
+    <value>Bass Strait</value>
+  </data>
+  <data name="609" xml:space="preserve">
+    <value>Tasmania</value>
+  </data>
+  <data name="61" xml:space="preserve">
+    <value>Chiapas</value>
+  </data>
+  <data name="610" xml:space="preserve">
+    <value>southeast of Australia</value>
+  </data>
+  <data name="611" xml:space="preserve">
+    <value>North Pacific Ocean</value>
+  </data>
+  <data name="612" xml:space="preserve">
+    <value>Hawaiian Islands</value>
+  </data>
+  <data name="613" xml:space="preserve">
+    <value>Hawaii</value>
+  </data>
+  <data name="614" xml:space="preserve">
+    <value>Federated States of Micronesia</value>
+  </data>
+  <data name="615" xml:space="preserve">
+    <value>Marshall Islands</value>
+  </data>
+  <data name="616" xml:space="preserve">
+    <value>Enewetak Atoll, Marshall Islands</value>
+  </data>
+  <data name="617" xml:space="preserve">
+    <value>Bikini Atoll, Marshall Islands</value>
+  </data>
+  <data name="618" xml:space="preserve">
+    <value>Gilbert Islands</value>
+  </data>
+  <data name="619" xml:space="preserve">
+    <value>Johnston Island</value>
+  </data>
+  <data name="62" xml:space="preserve">
+    <value>Mexico-Guatemala border</value>
+  </data>
+  <data name="620" xml:space="preserve">
+    <value>Line Islands</value>
+  </data>
+  <data name="621" xml:space="preserve">
+    <value>Palmyra Island</value>
+  </data>
+  <data name="622" xml:space="preserve">
+    <value>Kiritimati</value>
+  </data>
+  <data name="623" xml:space="preserve">
+    <value>Tuvalu</value>
+  </data>
+  <data name="624" xml:space="preserve">
+    <value>Phoenix Islands</value>
+  </data>
+  <data name="625" xml:space="preserve">
+    <value>Tokelau</value>
+  </data>
+  <data name="626" xml:space="preserve">
+    <value>northern Cook Islands</value>
+  </data>
+  <data name="627" xml:space="preserve">
+    <value>Cook Islands</value>
+  </data>
+  <data name="628" xml:space="preserve">
+    <value>Society Islands, French Polynesia</value>
+  </data>
+  <data name="629" xml:space="preserve">
+    <value>Tubuai Islands, French Polynesia</value>
+  </data>
+  <data name="63" xml:space="preserve">
+    <value>off the coast of Mexico</value>
+  </data>
+  <data name="630" xml:space="preserve">
+    <value>Marquesas Islands, French Polynesia</value>
+  </data>
+  <data name="631" xml:space="preserve">
+    <value>Tuamotu Archipelago, French Polynesia</value>
+  </data>
+  <data name="632" xml:space="preserve">
+    <value>South Pacific Ocean</value>
+  </data>
+  <data name="633" xml:space="preserve">
+    <value>Lomonosov Ridge</value>
+  </data>
+  <data name="634" xml:space="preserve">
+    <value>Arctic Ocean</value>
+  </data>
+  <data name="635" xml:space="preserve">
+    <value>near the north coast of Greenland</value>
+  </data>
+  <data name="636" xml:space="preserve">
+    <value>eastern Greenland</value>
+  </data>
+  <data name="637" xml:space="preserve">
+    <value>Iceland vicinity</value>
+  </data>
+  <data name="638" xml:space="preserve">
+    <value>Iceland</value>
+  </data>
+  <data name="639" xml:space="preserve">
+    <value>Jan Mayen Island</value>
+  </data>
+  <data name="64" xml:space="preserve">
+    <value>off the coast of Michoacan</value>
+  </data>
+  <data name="640" xml:space="preserve">
+    <value>Greenland Sea</value>
+  </data>
+  <data name="641" xml:space="preserve">
+    <value>north of Svalbard</value>
+  </data>
+  <data name="642" xml:space="preserve">
+    <value>Norwegian Sea</value>
+  </data>
+  <data name="643" xml:space="preserve">
+    <value>Svalbard</value>
+  </data>
+  <data name="644" xml:space="preserve">
+    <value>north of Franz Josef Land</value>
+  </data>
+  <data name="645" xml:space="preserve">
+    <value>Franz Josef Land</value>
+  </data>
+  <data name="646" xml:space="preserve">
+    <value>northern Norway</value>
+  </data>
+  <data name="647" xml:space="preserve">
+    <value>Barents Sea</value>
+  </data>
+  <data name="648" xml:space="preserve">
+    <value>Novaya Zemlya</value>
+  </data>
+  <data name="649" xml:space="preserve">
+    <value>Kara Sea</value>
+  </data>
+  <data name="65" xml:space="preserve">
+    <value>off the coast of Guerrero</value>
+  </data>
+  <data name="650" xml:space="preserve">
+    <value>near the coast of western Siberia</value>
+  </data>
+  <data name="651" xml:space="preserve">
+    <value>north of Severnaya Zemlya</value>
+  </data>
+  <data name="652" xml:space="preserve">
+    <value>Severnaya Zemlya</value>
+  </data>
+  <data name="653" xml:space="preserve">
+    <value>near the coast of central Siberia</value>
+  </data>
+  <data name="654" xml:space="preserve">
+    <value>east of Severnaya Zemlya</value>
+  </data>
+  <data name="655" xml:space="preserve">
+    <value>Laptev Sea</value>
+  </data>
+  <data name="656" xml:space="preserve">
+    <value>southeastern Siberia</value>
+  </data>
+  <data name="657" xml:space="preserve">
+    <value>eastern Russia-northeastern China border</value>
+  </data>
+  <data name="658" xml:space="preserve">
+    <value>northeastern China</value>
+  </data>
+  <data name="659" xml:space="preserve">
+    <value>North Korea</value>
+  </data>
+  <data name="66" xml:space="preserve">
+    <value>near the coast of Oaxaca</value>
+  </data>
+  <data name="660" xml:space="preserve">
+    <value>Sea of Japan</value>
+  </data>
+  <data name="661" xml:space="preserve">
+    <value>Primor'ye</value>
+  </data>
+  <data name="662" xml:space="preserve">
+    <value>Sakhalin</value>
+  </data>
+  <data name="663" xml:space="preserve">
+    <value>Sea of Okhotsk</value>
+  </data>
+  <data name="664" xml:space="preserve">
+    <value>southeastern China</value>
+  </data>
+  <data name="665" xml:space="preserve">
+    <value>Yellow Sea</value>
+  </data>
+  <data name="666" xml:space="preserve">
+    <value>off the coast of eastern China</value>
+  </data>
+  <data name="667" xml:space="preserve">
+    <value>north of the New Siberian Islands</value>
+  </data>
+  <data name="668" xml:space="preserve">
+    <value>New Siberian Islands, Sakha</value>
+  </data>
+  <data name="669" xml:space="preserve">
+    <value>east Siberian Sea</value>
+  </data>
+  <data name="67" xml:space="preserve">
+    <value>off the coast of Oaxaca</value>
+  </data>
+  <data name="670" xml:space="preserve">
+    <value>near the north coast of eastern Siberia</value>
+  </data>
+  <data name="671" xml:space="preserve">
+    <value>eastern Siberia</value>
+  </data>
+  <data name="672" xml:space="preserve">
+    <value>Chukchi Sea</value>
+  </data>
+  <data name="673" xml:space="preserve">
+    <value>Bering Strait</value>
+  </data>
+  <data name="674" xml:space="preserve">
+    <value>St. Lawrence Island</value>
+  </data>
+  <data name="675" xml:space="preserve">
+    <value>Beaufort Sea</value>
+  </data>
+  <data name="676" xml:space="preserve">
+    <value>northern Alaska</value>
+  </data>
+  <data name="677" xml:space="preserve">
+    <value>northern Yukon Territory</value>
+  </data>
+  <data name="678" xml:space="preserve">
+    <value>Queen Elizabeth Islands</value>
+  </data>
+  <data name="679" xml:space="preserve">
+    <value>Northwest Territories-Nunavut</value>
+  </data>
+  <data name="68" xml:space="preserve">
+    <value>off the coast of Chiapas</value>
+  </data>
+  <data name="680" xml:space="preserve">
+    <value>western Greenland</value>
+  </data>
+  <data name="681" xml:space="preserve">
+    <value>Baffin Bay</value>
+  </data>
+  <data name="682" xml:space="preserve">
+    <value>Baffin Island, Nunavut</value>
+  </data>
+  <data name="683" xml:space="preserve">
+    <value>southeast central Pacific Ocean</value>
+  </data>
+  <data name="684" xml:space="preserve">
+    <value>southern East Pacific Rise</value>
+  </data>
+  <data name="685" xml:space="preserve">
+    <value>Easter Island</value>
+  </data>
+  <data name="686" xml:space="preserve">
+    <value>West Chile Rise</value>
+  </data>
+  <data name="687" xml:space="preserve">
+    <value>Juan Fernandez Islands</value>
+  </data>
+  <data name="688" xml:space="preserve">
+    <value>east of the North Island of New Zealand</value>
+  </data>
+  <data name="689" xml:space="preserve">
+    <value>Chatham Islands</value>
+  </data>
+  <data name="69" xml:space="preserve">
+    <value>near the coast of Chiapas</value>
+  </data>
+  <data name="690" xml:space="preserve">
+    <value>south of the Chatham Islands</value>
+  </data>
+  <data name="691" xml:space="preserve">
+    <value>Pacific-Antarctic Ridge</value>
+  </data>
+  <data name="692" xml:space="preserve">
+    <value>southern Pacific Ocean</value>
+  </data>
+  <data name="693" xml:space="preserve">
+    <value>east central Pacific Ocean</value>
+  </data>
+  <data name="694" xml:space="preserve">
+    <value>central East Pacific Rise</value>
+  </data>
+  <data name="695" xml:space="preserve">
+    <value>west of the Galápagos Islands</value>
+  </data>
+  <data name="696" xml:space="preserve">
+    <value>Galápagos Islands vicinity</value>
+  </data>
+  <data name="697" xml:space="preserve">
+    <value>Galápagos Islands</value>
+  </data>
+  <data name="698" xml:space="preserve">
+    <value>southwest of the Galápagos Islands</value>
+  </data>
+  <data name="699" xml:space="preserve">
+    <value>southeast of the Galápagos Islands</value>
+  </data>
+  <data name="7" xml:space="preserve">
+    <value>Andreanof Islands, Aleutian Islands</value>
+  </data>
+  <data name="70" xml:space="preserve">
+    <value>Guatemala</value>
+  </data>
+  <data name="700" xml:space="preserve">
+    <value>south of Tasmania</value>
+  </data>
+  <data name="701" xml:space="preserve">
+    <value>west of Macquarie Island</value>
+  </data>
+  <data name="702" xml:space="preserve">
+    <value>Balleny Islands</value>
+  </data>
+  <data name="703" xml:space="preserve">
+    <value>Andaman Islands</value>
+  </data>
+  <data name="704" xml:space="preserve">
+    <value>Nicobar Islands</value>
+  </data>
+  <data name="705" xml:space="preserve">
+    <value>off the west coast of northern Sumatra</value>
+  </data>
+  <data name="706" xml:space="preserve">
+    <value>northern Sumatra</value>
+  </data>
+  <data name="707" xml:space="preserve">
+    <value>Malay Peninsula, Malaysia</value>
+  </data>
+  <data name="708" xml:space="preserve">
+    <value>Gulf of Thailand</value>
+  </data>
+  <data name="709" xml:space="preserve">
+    <value>central Afghanistan</value>
+  </data>
+  <data name="71" xml:space="preserve">
+    <value>near the coast of Guatemala</value>
+  </data>
+  <data name="710" xml:space="preserve">
+    <value>Pakistan</value>
+  </data>
+  <data name="711" xml:space="preserve">
+    <value>southwestern Kashmir</value>
+  </data>
+  <data name="712" xml:space="preserve">
+    <value>India-Pakistan border</value>
+  </data>
+  <data name="713" xml:space="preserve">
+    <value>central Kazakhstan</value>
+  </data>
+  <data name="714" xml:space="preserve">
+    <value>eastern Uzbekistan</value>
+  </data>
+  <data name="715" xml:space="preserve">
+    <value>Tajikistan</value>
+  </data>
+  <data name="716" xml:space="preserve">
+    <value>Kyrgyzstan</value>
+  </data>
+  <data name="717" xml:space="preserve">
+    <value>Afghanistan-Tajikistan border</value>
+  </data>
+  <data name="718" xml:space="preserve">
+    <value>Hindu Kush, Afghanistan</value>
+  </data>
+  <data name="719" xml:space="preserve">
+    <value>Tajikistan-Xinjiang border</value>
+  </data>
+  <data name="72" xml:space="preserve">
+    <value>Honduras</value>
+  </data>
+  <data name="720" xml:space="preserve">
+    <value>northwestern Kashmir</value>
+  </data>
+  <data name="721" xml:space="preserve">
+    <value>Finland</value>
+  </data>
+  <data name="722" xml:space="preserve">
+    <value>Norway-Russia border</value>
+  </data>
+  <data name="723" xml:space="preserve">
+    <value>Finland-Russia border</value>
+  </data>
+  <data name="724" xml:space="preserve">
+    <value>Baltics-Belarus-northwestern Russia</value>
+  </data>
+  <data name="725" xml:space="preserve">
+    <value>northwestern Siberia</value>
+  </data>
+  <data name="726" xml:space="preserve">
+    <value>northcentral Siberia</value>
+  </data>
+  <data name="727" xml:space="preserve">
+    <value>Victoria Land, Antarctica</value>
+  </data>
+  <data name="728" xml:space="preserve">
+    <value>Ross Sea</value>
+  </data>
+  <data name="729" xml:space="preserve">
+    <value>Antarctica</value>
+  </data>
+  <data name="73" xml:space="preserve">
+    <value>El Salvador</value>
+  </data>
+  <data name="730" xml:space="preserve">
+    <value>northern East Pacific Rise</value>
+  </data>
+  <data name="731" xml:space="preserve">
+    <value>north of Honduras</value>
+  </data>
+  <data name="732" xml:space="preserve">
+    <value>east of the South Sandwich Islands</value>
+  </data>
+  <data name="733" xml:space="preserve">
+    <value>Thailand</value>
+  </data>
+  <data name="734" xml:space="preserve">
+    <value>Laos</value>
+  </data>
+  <data name="735" xml:space="preserve">
+    <value>Cambodia</value>
+  </data>
+  <data name="736" xml:space="preserve">
+    <value>Vietnam</value>
+  </data>
+  <data name="737" xml:space="preserve">
+    <value>Gulf of Tongking</value>
+  </data>
+  <data name="738" xml:space="preserve">
+    <value>Reykjanes Ridge</value>
+  </data>
+  <data name="739" xml:space="preserve">
+    <value>Azores-Cape St. Vincent Ridge</value>
+  </data>
+  <data name="74" xml:space="preserve">
+    <value>near the coast of Nicaragua</value>
+  </data>
+  <data name="740" xml:space="preserve">
+    <value>Owen Fracture Zone</value>
+  </data>
+  <data name="741" xml:space="preserve">
+    <value>Indian Ocean Triple Junction</value>
+  </data>
+  <data name="742" xml:space="preserve">
+    <value>western Indian-Antarctic Ridge</value>
+  </data>
+  <data name="743" xml:space="preserve">
+    <value>Western Sahara</value>
+  </data>
+  <data name="744" xml:space="preserve">
+    <value>Mauritania</value>
+  </data>
+  <data name="745" xml:space="preserve">
+    <value>Mali</value>
+  </data>
+  <data name="746" xml:space="preserve">
+    <value>Senegal - Gambia</value>
+  </data>
+  <data name="747" xml:space="preserve">
+    <value>Guinea</value>
+  </data>
+  <data name="748" xml:space="preserve">
+    <value>Sierra Leone</value>
+  </data>
+  <data name="749" xml:space="preserve">
+    <value>Liberia</value>
+  </data>
+  <data name="75" xml:space="preserve">
+    <value>Nicaragua</value>
+  </data>
+  <data name="750" xml:space="preserve">
+    <value>Cote d'Ivoire</value>
+  </data>
+  <data name="751" xml:space="preserve">
+    <value>Burkina Faso</value>
+  </data>
+  <data name="752" xml:space="preserve">
+    <value>Ghana</value>
+  </data>
+  <data name="753" xml:space="preserve">
+    <value>Benin - Togo</value>
+  </data>
+  <data name="754" xml:space="preserve">
+    <value>Niger</value>
+  </data>
+  <data name="755" xml:space="preserve">
+    <value>Nigeria</value>
+  </data>
+  <data name="756" xml:space="preserve">
+    <value>southeast of Easter Island</value>
+  </data>
+  <data name="757" xml:space="preserve">
+    <value>Galápagos Triple Junction</value>
+  </data>
+  <data name="76" xml:space="preserve">
+    <value>off the coast of Central America</value>
+  </data>
+  <data name="77" xml:space="preserve">
+    <value>off the coast of Costa Rica</value>
+  </data>
+  <data name="78" xml:space="preserve">
+    <value>Costa Rica</value>
+  </data>
+  <data name="79" xml:space="preserve">
+    <value>north of Panama</value>
+  </data>
+  <data name="8" xml:space="preserve">
+    <value>Pribilof Islands</value>
+  </data>
+  <data name="80" xml:space="preserve">
+    <value>Panama-Costa Rica border</value>
+  </data>
+  <data name="81" xml:space="preserve">
+    <value>Panama</value>
+  </data>
+  <data name="82" xml:space="preserve">
+    <value>Panama-Colombia border</value>
+  </data>
+  <data name="83" xml:space="preserve">
+    <value>south of Panama</value>
+  </data>
+  <data name="84" xml:space="preserve">
+    <value>Yucatan Peninsula, Mexico</value>
+  </data>
+  <data name="85" xml:space="preserve">
+    <value>Cuba</value>
+  </data>
+  <data name="86" xml:space="preserve">
+    <value>Jamaica</value>
+  </data>
+  <data name="87" xml:space="preserve">
+    <value>Haiti</value>
+  </data>
+  <data name="88" xml:space="preserve">
+    <value>Dominican Republic</value>
+  </data>
+  <data name="89" xml:space="preserve">
+    <value>Mona Passage</value>
+  </data>
+  <data name="9" xml:space="preserve">
+    <value>Fox Islands, Aleutian Islands</value>
+  </data>
+  <data name="90" xml:space="preserve">
+    <value>Puerto Rico</value>
+  </data>
+  <data name="91" xml:space="preserve">
+    <value>Virgin Islands</value>
+  </data>
+  <data name="92" xml:space="preserve">
+    <value>Leeward Islands</value>
+  </data>
+  <data name="93" xml:space="preserve">
+    <value>Belize</value>
+  </data>
+  <data name="94" xml:space="preserve">
+    <value>Caribbean Sea</value>
+  </data>
+  <data name="95" xml:space="preserve">
+    <value>Windward Islands</value>
+  </data>
+  <data name="96" xml:space="preserve">
+    <value>near the north coast of Colombia</value>
+  </data>
+  <data name="97" xml:space="preserve">
+    <value>near the coast of Venezuela</value>
+  </data>
+  <data name="98" xml:space="preserve">
+    <value>Trinidad</value>
+  </data>
+  <data name="99" xml:space="preserve">
+    <value>northern Colombia</value>
+  </data>
+  <data name="AU" xml:space="preserve">
+    <value>Australia</value>
+  </data>
+  <data name="CA" xml:space="preserve">
+    <value>Canada</value>
+  </data>
+  <data name="CL" xml:space="preserve">
+    <value>Chile</value>
+  </data>
+  <data name="Culture" xml:space="preserve">
+    <value>en-US</value>
+  </data>
+  <data name="ES" xml:space="preserve">
+    <value>Spain</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>Indonesia</value>
+  </data>
+  <data name="IN" xml:space="preserve">
+    <value>India</value>
+  </data>
+  <data name="KG" xml:space="preserve">
+    <value>Kyrgyzstan</value>
+  </data>
+  <data name="KI" xml:space="preserve">
+    <value>Kiribati</value>
+  </data>
+  <data name="MacroregionFormat" xml:space="preserve">
+    <value>{1}, {0}</value>
+  </data>
+  <data name="MX" xml:space="preserve">
+    <value>Mexico</value>
+  </data>
+  <data name="NO" xml:space="preserve">
+    <value>Norway</value>
+  </data>
+  <data name="NZ" xml:space="preserve">
+    <value>New Zealand</value>
+  </data>
+  <data name="PG" xml:space="preserve">
+    <value>Papua New Guinea</value>
+  </data>
+  <data name="PT" xml:space="preserve">
+    <value>Portugal</value>
+  </data>
+  <data name="RU" xml:space="preserve">
+    <value>Russia</value>
+  </data>
+  <data name="UA" xml:space="preserve">
+    <value>Ukraine</value>
+  </data>
+  <data name="US" xml:space="preserve">
+    <value>United States</value>
+  </data>
+  <data name="ZA" xml:space="preserve">
+    <value>South Africa</value>
+  </data>
+</root>

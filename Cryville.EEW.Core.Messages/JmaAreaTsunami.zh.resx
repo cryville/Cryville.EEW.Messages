@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="100" xml:space="preserve">
+    <value>北海道太平洋沿岸东部</value>
+  </data>
+  <data name="101" xml:space="preserve">
+    <value>北海道太平洋沿岸中部</value>
+  </data>
+  <data name="102" xml:space="preserve">
+    <value>北海道太平洋沿岸西部</value>
+  </data>
+  <data name="110" xml:space="preserve">
+    <value>北海道日本海沿岸北部</value>
+  </data>
+  <data name="111" xml:space="preserve">
+    <value>北海道日本海沿岸南部</value>
+  </data>
+  <data name="120" xml:space="preserve">
+    <value>鄂霍次克海沿岸</value>
+  </data>
+  <data name="191" xml:space="preserve">
+    <value>北海道太平洋沿岸</value>
+  </data>
+  <data name="192" xml:space="preserve">
+    <value>北海道日本海沿岸</value>
+  </data>
+  <data name="193" xml:space="preserve">
+    <value>鄂霍次克海沿岸</value>
+  </data>
+  <data name="200" xml:space="preserve">
+    <value>青森县日本海沿岸</value>
+  </data>
+  <data name="201" xml:space="preserve">
+    <value>青森县太平洋沿岸</value>
+  </data>
+  <data name="202" xml:space="preserve">
+    <value>陆奥湾</value>
+  </data>
+  <data name="210" xml:space="preserve">
+    <value>岩手县</value>
+  </data>
+  <data name="220" xml:space="preserve">
+    <value>宮城县</value>
+  </data>
+  <data name="230" xml:space="preserve">
+    <value>秋田县</value>
+  </data>
+  <data name="240" xml:space="preserve">
+    <value>山形县</value>
+  </data>
+  <data name="250" xml:space="preserve">
+    <value>福岛县</value>
+  </data>
+  <data name="281" xml:space="preserve">
+    <value>青森县</value>
+  </data>
+  <data name="291" xml:space="preserve">
+    <value>東北地方太平洋沿岸</value>
+  </data>
+  <data name="292" xml:space="preserve">
+    <value>東北地方日本海沿岸</value>
+  </data>
+  <data name="300" xml:space="preserve">
+    <value>茨城县</value>
+  </data>
+  <data name="310" xml:space="preserve">
+    <value>千叶县九十九里、外房</value>
+  </data>
+  <data name="311" xml:space="preserve">
+    <value>千叶县内房</value>
+  </data>
+  <data name="312" xml:space="preserve">
+    <value>东京湾内湾</value>
+  </data>
+  <data name="320" xml:space="preserve">
+    <value>伊豆诸岛</value>
+  </data>
+  <data name="321" xml:space="preserve">
+    <value>小笠原诸岛</value>
+  </data>
+  <data name="330" xml:space="preserve">
+    <value>相模湾、三浦半岛</value>
+  </data>
+  <data name="340" xml:space="preserve">
+    <value>新潟县上中下越</value>
+  </data>
+  <data name="341" xml:space="preserve">
+    <value>佐渡</value>
+  </data>
+  <data name="350" xml:space="preserve">
+    <value>富山县</value>
+  </data>
+  <data name="360" xml:space="preserve">
+    <value>石川县能登</value>
+  </data>
+  <data name="361" xml:space="preserve">
+    <value>石川县加贺</value>
+  </data>
+  <data name="370" xml:space="preserve">
+    <value>福井县</value>
+  </data>
+  <data name="380" xml:space="preserve">
+    <value>静冈县</value>
+  </data>
+  <data name="390" xml:space="preserve">
+    <value>爱知县外海</value>
+  </data>
+  <data name="391" xml:space="preserve">
+    <value>伊势、三河湾</value>
+  </data>
+  <data name="400" xml:space="preserve">
+    <value>三重县南部</value>
+  </data>
+  <data name="481" xml:space="preserve">
+    <value>千叶县</value>
+  </data>
+  <data name="482" xml:space="preserve">
+    <value>神奈川县</value>
+  </data>
+  <data name="483" xml:space="preserve">
+    <value>新潟县</value>
+  </data>
+  <data name="484" xml:space="preserve">
+    <value>石川县</value>
+  </data>
+  <data name="485" xml:space="preserve">
+    <value>爱知县</value>
+  </data>
+  <data name="486" xml:space="preserve">
+    <value>三重县</value>
+  </data>
+  <data name="491" xml:space="preserve">
+    <value>关东地方</value>
+  </data>
+  <data name="492" xml:space="preserve">
+    <value>伊豆、小笠原诸岛</value>
+  </data>
+  <data name="493" xml:space="preserve">
+    <value>北陆地方</value>
+  </data>
+  <data name="494" xml:space="preserve">
+    <value>东海地方</value>
+  </data>
+  <data name="500" xml:space="preserve">
+    <value>京都府</value>
+  </data>
+  <data name="510" xml:space="preserve">
+    <value>大阪府</value>
+  </data>
+  <data name="520" xml:space="preserve">
+    <value>兵库县北部</value>
+  </data>
+  <data name="521" xml:space="preserve">
+    <value>兵库县濑戸内海沿岸</value>
+  </data>
+  <data name="522" xml:space="preserve">
+    <value>淡路岛南部</value>
+  </data>
+  <data name="530" xml:space="preserve">
+    <value>和歌山县</value>
+  </data>
+  <data name="540" xml:space="preserve">
+    <value>鸟取县</value>
+  </data>
+  <data name="550" xml:space="preserve">
+    <value>岛根县出云、石见</value>
+  </data>
+  <data name="551" xml:space="preserve">
+    <value>隐岐</value>
+  </data>
+  <data name="560" xml:space="preserve">
+    <value>冈山县</value>
+  </data>
+  <data name="570" xml:space="preserve">
+    <value>广岛县</value>
+  </data>
+  <data name="580" xml:space="preserve">
+    <value>德岛县</value>
+  </data>
+  <data name="590" xml:space="preserve">
+    <value>香川县</value>
+  </data>
+  <data name="600" xml:space="preserve">
+    <value>爱媛县宇和海沿岸</value>
+  </data>
+  <data name="601" xml:space="preserve">
+    <value>爱媛县濑戸内海沿岸</value>
+  </data>
+  <data name="610" xml:space="preserve">
+    <value>高知县</value>
+  </data>
+  <data name="681" xml:space="preserve">
+    <value>兵库县</value>
+  </data>
+  <data name="682" xml:space="preserve">
+    <value>岛根县</value>
+  </data>
+  <data name="683" xml:space="preserve">
+    <value>爱媛县</value>
+  </data>
+  <data name="691" xml:space="preserve">
+    <value>近畿四国太平洋沿岸</value>
+  </data>
+  <data name="692" xml:space="preserve">
+    <value>近畿中国日本海沿岸</value>
+  </data>
+  <data name="693" xml:space="preserve">
+    <value>濑戸内海沿岸</value>
+  </data>
+  <data name="700" xml:space="preserve">
+    <value>山口县日本海沿岸</value>
+  </data>
+  <data name="701" xml:space="preserve">
+    <value>山口县濑戸内海沿岸</value>
+  </data>
+  <data name="710" xml:space="preserve">
+    <value>福冈县濑戸内海沿岸</value>
+  </data>
+  <data name="711" xml:space="preserve">
+    <value>福冈县日本海沿岸</value>
+  </data>
+  <data name="712" xml:space="preserve">
+    <value>有明、八代海</value>
+  </data>
+  <data name="720" xml:space="preserve">
+    <value>佐贺县北部</value>
+  </data>
+  <data name="730" xml:space="preserve">
+    <value>长崎县西方</value>
+  </data>
+  <data name="731" xml:space="preserve">
+    <value>壹岐、对马</value>
+  </data>
+  <data name="740" xml:space="preserve">
+    <value>熊本县天草滩沿岸</value>
+  </data>
+  <data name="750" xml:space="preserve">
+    <value>大分县濑戸内海沿岸</value>
+  </data>
+  <data name="751" xml:space="preserve">
+    <value>大分县丰后水道沿岸</value>
+  </data>
+  <data name="760" xml:space="preserve">
+    <value>宫崎县</value>
+  </data>
+  <data name="770" xml:space="preserve">
+    <value>鹿儿岛县东部</value>
+  </data>
+  <data name="771" xml:space="preserve">
+    <value>种子岛、屋久岛地方</value>
+  </data>
+  <data name="772" xml:space="preserve">
+    <value>奄美群岛、吐噶喇列岛</value>
+  </data>
+  <data name="773" xml:space="preserve">
+    <value>鹿儿岛县西部</value>
+  </data>
+  <data name="781" xml:space="preserve">
+    <value>山口县</value>
+  </data>
+  <data name="782" xml:space="preserve">
+    <value>福冈县</value>
+  </data>
+  <data name="783" xml:space="preserve">
+    <value>佐贺县</value>
+  </data>
+  <data name="784" xml:space="preserve">
+    <value>长崎县</value>
+  </data>
+  <data name="785" xml:space="preserve">
+    <value>熊本县</value>
+  </data>
+  <data name="786" xml:space="preserve">
+    <value>大分县</value>
+  </data>
+  <data name="787" xml:space="preserve">
+    <value>鹿儿岛县</value>
+  </data>
+  <data name="791" xml:space="preserve">
+    <value>九州地方东部</value>
+  </data>
+  <data name="792" xml:space="preserve">
+    <value>九州地方西部</value>
+  </data>
+  <data name="793" xml:space="preserve">
+    <value>萨南诸岛</value>
+  </data>
+  <data name="800" xml:space="preserve">
+    <value>冲绳本岛地方</value>
+  </data>
+  <data name="801" xml:space="preserve">
+    <value>大东岛地方</value>
+  </data>
+  <data name="802" xml:space="preserve">
+    <value>宮古岛、八重山地方</value>
+  </data>
+  <data name="891" xml:space="preserve">
+    <value>冲绳县地方</value>
+  </data>
+</root>

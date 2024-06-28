@@ -1,0 +1,1149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="011" xml:space="preserve">
+    <value>北海道地方</value>
+  </data>
+  <data name="012" xml:space="preserve">
+    <value>東北地方</value>
+  </data>
+  <data name="013" xml:space="preserve">
+    <value>北陸地方</value>
+  </data>
+  <data name="014" xml:space="preserve">
+    <value>関東甲信地方</value>
+  </data>
+  <data name="015" xml:space="preserve">
+    <value>小笠原地方</value>
+  </data>
+  <data name="016" xml:space="preserve">
+    <value>東海地方</value>
+  </data>
+  <data name="017" xml:space="preserve">
+    <value>近畿地方</value>
+  </data>
+  <data name="018" xml:space="preserve">
+    <value>中国地方</value>
+  </data>
+  <data name="019" xml:space="preserve">
+    <value>四国地方</value>
+  </data>
+  <data name="020" xml:space="preserve">
+    <value>九州地方</value>
+  </data>
+  <data name="021" xml:space="preserve">
+    <value>沖縄地方</value>
+  </data>
+  <data name="100" xml:space="preserve">
+    <value>石狩地方北部</value>
+  </data>
+  <data name="101" xml:space="preserve">
+    <value>石狩地方中部</value>
+  </data>
+  <data name="102" xml:space="preserve">
+    <value>石狩地方南部</value>
+  </data>
+  <data name="105" xml:space="preserve">
+    <value>渡島地方北部</value>
+  </data>
+  <data name="106" xml:space="preserve">
+    <value>渡島地方東部</value>
+  </data>
+  <data name="107" xml:space="preserve">
+    <value>渡島地方西部</value>
+  </data>
+  <data name="110" xml:space="preserve">
+    <value>檜山地方</value>
+  </data>
+  <data name="115" xml:space="preserve">
+    <value>後志地方北部</value>
+  </data>
+  <data name="116" xml:space="preserve">
+    <value>後志地方東部</value>
+  </data>
+  <data name="117" xml:space="preserve">
+    <value>後志地方西部</value>
+  </data>
+  <data name="120" xml:space="preserve">
+    <value>空知地方北部</value>
+  </data>
+  <data name="121" xml:space="preserve">
+    <value>空知地方中部</value>
+  </data>
+  <data name="122" xml:space="preserve">
+    <value>空知地方南部</value>
+  </data>
+  <data name="125" xml:space="preserve">
+    <value>上川地方北部</value>
+  </data>
+  <data name="126" xml:space="preserve">
+    <value>上川地方中部</value>
+  </data>
+  <data name="127" xml:space="preserve">
+    <value>上川地方南部</value>
+  </data>
+  <data name="130" xml:space="preserve">
+    <value>留萌地方中北部</value>
+  </data>
+  <data name="131" xml:space="preserve">
+    <value>留萌地方南部</value>
+  </data>
+  <data name="135" xml:space="preserve">
+    <value>宗谷地方北部</value>
+  </data>
+  <data name="136" xml:space="preserve">
+    <value>宗谷地方南部</value>
+  </data>
+  <data name="140" xml:space="preserve">
+    <value>網走地方</value>
+  </data>
+  <data name="141" xml:space="preserve">
+    <value>北見地方</value>
+  </data>
+  <data name="142" xml:space="preserve">
+    <value>紋別地方</value>
+  </data>
+  <data name="145" xml:space="preserve">
+    <value>胆振地方西部</value>
+  </data>
+  <data name="146" xml:space="preserve">
+    <value>胆振地方中東部</value>
+  </data>
+  <data name="150" xml:space="preserve">
+    <value>日高地方西部</value>
+  </data>
+  <data name="151" xml:space="preserve">
+    <value>日高地方中部</value>
+  </data>
+  <data name="152" xml:space="preserve">
+    <value>日高地方東部</value>
+  </data>
+  <data name="155" xml:space="preserve">
+    <value>十勝地方北部</value>
+  </data>
+  <data name="156" xml:space="preserve">
+    <value>十勝地方中部</value>
+  </data>
+  <data name="157" xml:space="preserve">
+    <value>十勝地方南部</value>
+  </data>
+  <data name="160" xml:space="preserve">
+    <value>釧路地方北部</value>
+  </data>
+  <data name="161" xml:space="preserve">
+    <value>釧路地方中南部</value>
+  </data>
+  <data name="165" xml:space="preserve">
+    <value>根室地方北部</value>
+  </data>
+  <data name="166" xml:space="preserve">
+    <value>根室地方中部</value>
+  </data>
+  <data name="167" xml:space="preserve">
+    <value>根室地方南部</value>
+  </data>
+  <data name="180" xml:space="preserve">
+    <value>北海道南西沖</value>
+  </data>
+  <data name="181" xml:space="preserve">
+    <value>北海道西方沖</value>
+  </data>
+  <data name="182" xml:space="preserve">
+    <value>石狩湾</value>
+  </data>
+  <data name="183" xml:space="preserve">
+    <value>北海道北西沖</value>
+  </data>
+  <data name="184" xml:space="preserve">
+    <value>宗谷海峡</value>
+  </data>
+  <data name="186" xml:space="preserve">
+    <value>国後島付近</value>
+  </data>
+  <data name="187" xml:space="preserve">
+    <value>択捉島付近</value>
+  </data>
+  <data name="188" xml:space="preserve">
+    <value>北海道東方沖</value>
+  </data>
+  <data name="189" xml:space="preserve">
+    <value>根室半島南東沖</value>
+  </data>
+  <data name="190" xml:space="preserve">
+    <value>釧路沖</value>
+  </data>
+  <data name="191" xml:space="preserve">
+    <value>十勝沖</value>
+  </data>
+  <data name="192" xml:space="preserve">
+    <value>浦河沖</value>
+  </data>
+  <data name="193" xml:space="preserve">
+    <value>苫小牧沖</value>
+  </data>
+  <data name="194" xml:space="preserve">
+    <value>内浦湾</value>
+  </data>
+  <data name="195" xml:space="preserve">
+    <value>宗谷東方沖</value>
+  </data>
+  <data name="196" xml:space="preserve">
+    <value>網走沖</value>
+  </data>
+  <data name="197" xml:space="preserve">
+    <value>択捉島南東沖</value>
+  </data>
+  <data name="200" xml:space="preserve">
+    <value>青森県津軽北部</value>
+  </data>
+  <data name="201" xml:space="preserve">
+    <value>青森県津軽南部</value>
+  </data>
+  <data name="202" xml:space="preserve">
+    <value>青森県三八上北地方</value>
+  </data>
+  <data name="203" xml:space="preserve">
+    <value>青森県下北地方</value>
+  </data>
+  <data name="210" xml:space="preserve">
+    <value>岩手県沿岸北部</value>
+  </data>
+  <data name="211" xml:space="preserve">
+    <value>岩手県沿岸南部</value>
+  </data>
+  <data name="212" xml:space="preserve">
+    <value>岩手県内陸北部</value>
+  </data>
+  <data name="213" xml:space="preserve">
+    <value>岩手県内陸南部</value>
+  </data>
+  <data name="220" xml:space="preserve">
+    <value>宮城県北部</value>
+  </data>
+  <data name="221" xml:space="preserve">
+    <value>宮城県南部</value>
+  </data>
+  <data name="222" xml:space="preserve">
+    <value>宮城県中部</value>
+  </data>
+  <data name="230" xml:space="preserve">
+    <value>秋田県沿岸北部</value>
+  </data>
+  <data name="231" xml:space="preserve">
+    <value>秋田県沿岸南部</value>
+  </data>
+  <data name="232" xml:space="preserve">
+    <value>秋田県内陸北部</value>
+  </data>
+  <data name="233" xml:space="preserve">
+    <value>秋田県内陸南部</value>
+  </data>
+  <data name="240" xml:space="preserve">
+    <value>山形県庄内地方</value>
+  </data>
+  <data name="241" xml:space="preserve">
+    <value>山形県最上地方</value>
+  </data>
+  <data name="242" xml:space="preserve">
+    <value>山形県村山地方</value>
+  </data>
+  <data name="243" xml:space="preserve">
+    <value>山形県置賜地方</value>
+  </data>
+  <data name="250" xml:space="preserve">
+    <value>福島県中通り</value>
+  </data>
+  <data name="251" xml:space="preserve">
+    <value>福島県浜通り</value>
+  </data>
+  <data name="252" xml:space="preserve">
+    <value>福島県会津</value>
+  </data>
+  <data name="280" xml:space="preserve">
+    <value>津軽海峡</value>
+  </data>
+  <data name="281" xml:space="preserve">
+    <value>山形県沖</value>
+  </data>
+  <data name="282" xml:space="preserve">
+    <value>秋田県沖</value>
+  </data>
+  <data name="283" xml:space="preserve">
+    <value>青森県西方沖</value>
+  </data>
+  <data name="284" xml:space="preserve">
+    <value>陸奥湾</value>
+  </data>
+  <data name="285" xml:space="preserve">
+    <value>青森県東方沖</value>
+  </data>
+  <data name="286" xml:space="preserve">
+    <value>岩手県沖</value>
+  </data>
+  <data name="287" xml:space="preserve">
+    <value>宮城県沖</value>
+  </data>
+  <data name="288" xml:space="preserve">
+    <value>三陸沖</value>
+  </data>
+  <data name="289" xml:space="preserve">
+    <value>福島県沖</value>
+  </data>
+  <data name="300" xml:space="preserve">
+    <value>茨城県北部</value>
+  </data>
+  <data name="301" xml:space="preserve">
+    <value>茨城県南部</value>
+  </data>
+  <data name="309" xml:space="preserve">
+    <value>千葉県南東沖</value>
+  </data>
+  <data name="310" xml:space="preserve">
+    <value>栃木県北部</value>
+  </data>
+  <data name="311" xml:space="preserve">
+    <value>栃木県南部</value>
+  </data>
+  <data name="320" xml:space="preserve">
+    <value>群馬県北部</value>
+  </data>
+  <data name="321" xml:space="preserve">
+    <value>群馬県南部</value>
+  </data>
+  <data name="330" xml:space="preserve">
+    <value>埼玉県北部</value>
+  </data>
+  <data name="331" xml:space="preserve">
+    <value>埼玉県南部</value>
+  </data>
+  <data name="332" xml:space="preserve">
+    <value>埼玉県秩父地方</value>
+  </data>
+  <data name="340" xml:space="preserve">
+    <value>千葉県北東部</value>
+  </data>
+  <data name="341" xml:space="preserve">
+    <value>千葉県北西部</value>
+  </data>
+  <data name="342" xml:space="preserve">
+    <value>千葉県南部</value>
+  </data>
+  <data name="349" xml:space="preserve">
+    <value>房総半島南方沖</value>
+  </data>
+  <data name="350" xml:space="preserve">
+    <value>東京都２３区</value>
+  </data>
+  <data name="351" xml:space="preserve">
+    <value>東京都多摩東部</value>
+  </data>
+  <data name="352" xml:space="preserve">
+    <value>東京都多摩西部</value>
+  </data>
+  <data name="360" xml:space="preserve">
+    <value>神奈川県東部</value>
+  </data>
+  <data name="361" xml:space="preserve">
+    <value>神奈川県西部</value>
+  </data>
+  <data name="370" xml:space="preserve">
+    <value>新潟県上越地方</value>
+  </data>
+  <data name="371" xml:space="preserve">
+    <value>新潟県中越地方</value>
+  </data>
+  <data name="372" xml:space="preserve">
+    <value>新潟県下越地方</value>
+  </data>
+  <data name="378" xml:space="preserve">
+    <value>新潟県下越沖</value>
+  </data>
+  <data name="379" xml:space="preserve">
+    <value>新潟県上中越沖</value>
+  </data>
+  <data name="380" xml:space="preserve">
+    <value>富山県東部</value>
+  </data>
+  <data name="381" xml:space="preserve">
+    <value>富山県西部</value>
+  </data>
+  <data name="390" xml:space="preserve">
+    <value>石川県能登地方</value>
+  </data>
+  <data name="391" xml:space="preserve">
+    <value>石川県加賀地方</value>
+  </data>
+  <data name="400" xml:space="preserve">
+    <value>福井県嶺北</value>
+  </data>
+  <data name="401" xml:space="preserve">
+    <value>福井県嶺南</value>
+  </data>
+  <data name="411" xml:space="preserve">
+    <value>山梨県中・西部</value>
+  </data>
+  <data name="412" xml:space="preserve">
+    <value>山梨県東部・富士五湖</value>
+  </data>
+  <data name="420" xml:space="preserve">
+    <value>長野県北部</value>
+  </data>
+  <data name="421" xml:space="preserve">
+    <value>長野県中部</value>
+  </data>
+  <data name="422" xml:space="preserve">
+    <value>長野県南部</value>
+  </data>
+  <data name="430" xml:space="preserve">
+    <value>岐阜県飛騨地方</value>
+  </data>
+  <data name="431" xml:space="preserve">
+    <value>岐阜県美濃東部</value>
+  </data>
+  <data name="432" xml:space="preserve">
+    <value>岐阜県美濃中西部</value>
+  </data>
+  <data name="440" xml:space="preserve">
+    <value>静岡県伊豆地方</value>
+  </data>
+  <data name="441" xml:space="preserve">
+    <value>静岡県東部</value>
+  </data>
+  <data name="442" xml:space="preserve">
+    <value>静岡県中部</value>
+  </data>
+  <data name="443" xml:space="preserve">
+    <value>静岡県西部</value>
+  </data>
+  <data name="450" xml:space="preserve">
+    <value>愛知県東部</value>
+  </data>
+  <data name="451" xml:space="preserve">
+    <value>愛知県西部</value>
+  </data>
+  <data name="460" xml:space="preserve">
+    <value>三重県北部</value>
+  </data>
+  <data name="461" xml:space="preserve">
+    <value>三重県中部</value>
+  </data>
+  <data name="462" xml:space="preserve">
+    <value>三重県南部</value>
+  </data>
+  <data name="469" xml:space="preserve">
+    <value>三重県南東沖</value>
+  </data>
+  <data name="471" xml:space="preserve">
+    <value>茨城県沖</value>
+  </data>
+  <data name="472" xml:space="preserve">
+    <value>関東東方沖</value>
+  </data>
+  <data name="473" xml:space="preserve">
+    <value>千葉県東方沖</value>
+  </data>
+  <data name="475" xml:space="preserve">
+    <value>八丈島東方沖</value>
+  </data>
+  <data name="476" xml:space="preserve">
+    <value>八丈島近海</value>
+  </data>
+  <data name="477" xml:space="preserve">
+    <value>東京湾</value>
+  </data>
+  <data name="478" xml:space="preserve">
+    <value>相模湾</value>
+  </data>
+  <data name="480" xml:space="preserve">
+    <value>伊豆大島近海</value>
+  </data>
+  <data name="481" xml:space="preserve">
+    <value>伊豆半島東方沖</value>
+  </data>
+  <data name="482" xml:space="preserve">
+    <value>三宅島近海</value>
+  </data>
+  <data name="483" xml:space="preserve">
+    <value>新島・神津島近海</value>
+  </data>
+  <data name="485" xml:space="preserve">
+    <value>駿河湾</value>
+  </data>
+  <data name="486" xml:space="preserve">
+    <value>駿河湾南方沖</value>
+  </data>
+  <data name="487" xml:space="preserve">
+    <value>遠州灘</value>
+  </data>
+  <data name="489" xml:space="preserve">
+    <value>三河湾</value>
+  </data>
+  <data name="490" xml:space="preserve">
+    <value>伊勢湾</value>
+  </data>
+  <data name="492" xml:space="preserve">
+    <value>若狭湾</value>
+  </data>
+  <data name="493" xml:space="preserve">
+    <value>福井県沖</value>
+  </data>
+  <data name="494" xml:space="preserve">
+    <value>石川県西方沖</value>
+  </data>
+  <data name="495" xml:space="preserve">
+    <value>能登半島沖</value>
+  </data>
+  <data name="497" xml:space="preserve">
+    <value>富山湾</value>
+  </data>
+  <data name="498" xml:space="preserve">
+    <value>佐渡付近</value>
+  </data>
+  <data name="499" xml:space="preserve">
+    <value>東海道南方沖</value>
+  </data>
+  <data name="500" xml:space="preserve">
+    <value>滋賀県北部</value>
+  </data>
+  <data name="501" xml:space="preserve">
+    <value>滋賀県南部</value>
+  </data>
+  <data name="510" xml:space="preserve">
+    <value>京都府北部</value>
+  </data>
+  <data name="511" xml:space="preserve">
+    <value>京都府南部</value>
+  </data>
+  <data name="520" xml:space="preserve">
+    <value>大阪府北部</value>
+  </data>
+  <data name="521" xml:space="preserve">
+    <value>大阪府南部</value>
+  </data>
+  <data name="530" xml:space="preserve">
+    <value>兵庫県北部</value>
+  </data>
+  <data name="531" xml:space="preserve">
+    <value>兵庫県南東部</value>
+  </data>
+  <data name="532" xml:space="preserve">
+    <value>兵庫県南西部</value>
+  </data>
+  <data name="540" xml:space="preserve">
+    <value>奈良県</value>
+  </data>
+  <data name="550" xml:space="preserve">
+    <value>和歌山県北部</value>
+  </data>
+  <data name="551" xml:space="preserve">
+    <value>和歌山県南部</value>
+  </data>
+  <data name="560" xml:space="preserve">
+    <value>鳥取県東部</value>
+  </data>
+  <data name="562" xml:space="preserve">
+    <value>鳥取県中部</value>
+  </data>
+  <data name="563" xml:space="preserve">
+    <value>鳥取県西部</value>
+  </data>
+  <data name="570" xml:space="preserve">
+    <value>島根県東部</value>
+  </data>
+  <data name="571" xml:space="preserve">
+    <value>島根県西部</value>
+  </data>
+  <data name="580" xml:space="preserve">
+    <value>岡山県北部</value>
+  </data>
+  <data name="581" xml:space="preserve">
+    <value>岡山県南部</value>
+  </data>
+  <data name="590" xml:space="preserve">
+    <value>広島県北部</value>
+  </data>
+  <data name="591" xml:space="preserve">
+    <value>広島県南東部</value>
+  </data>
+  <data name="592" xml:space="preserve">
+    <value>広島県南西部</value>
+  </data>
+  <data name="600" xml:space="preserve">
+    <value>徳島県北部</value>
+  </data>
+  <data name="601" xml:space="preserve">
+    <value>徳島県南部</value>
+  </data>
+  <data name="610" xml:space="preserve">
+    <value>香川県東部</value>
+  </data>
+  <data name="611" xml:space="preserve">
+    <value>香川県西部</value>
+  </data>
+  <data name="620" xml:space="preserve">
+    <value>愛媛県東予</value>
+  </data>
+  <data name="621" xml:space="preserve">
+    <value>愛媛県中予</value>
+  </data>
+  <data name="622" xml:space="preserve">
+    <value>愛媛県南予</value>
+  </data>
+  <data name="630" xml:space="preserve">
+    <value>高知県東部</value>
+  </data>
+  <data name="631" xml:space="preserve">
+    <value>高知県中部</value>
+  </data>
+  <data name="632" xml:space="preserve">
+    <value>高知県西部</value>
+  </data>
+  <data name="673" xml:space="preserve">
+    <value>土佐湾</value>
+  </data>
+  <data name="674" xml:space="preserve">
+    <value>紀伊水道</value>
+  </data>
+  <data name="675" xml:space="preserve">
+    <value>大阪湾</value>
+  </data>
+  <data name="676" xml:space="preserve">
+    <value>播磨灘</value>
+  </data>
+  <data name="677" xml:space="preserve">
+    <value>瀬戸内海中部</value>
+  </data>
+  <data name="678" xml:space="preserve">
+    <value>安芸灘</value>
+  </data>
+  <data name="679" xml:space="preserve">
+    <value>周防灘</value>
+  </data>
+  <data name="680" xml:space="preserve">
+    <value>伊予灘</value>
+  </data>
+  <data name="681" xml:space="preserve">
+    <value>豊後水道</value>
+  </data>
+  <data name="682" xml:space="preserve">
+    <value>山口県北西沖</value>
+  </data>
+  <data name="683" xml:space="preserve">
+    <value>島根県沖</value>
+  </data>
+  <data name="684" xml:space="preserve">
+    <value>鳥取県沖</value>
+  </data>
+  <data name="685" xml:space="preserve">
+    <value>隠岐島近海</value>
+  </data>
+  <data name="686" xml:space="preserve">
+    <value>兵庫県北方沖</value>
+  </data>
+  <data name="687" xml:space="preserve">
+    <value>京都府沖</value>
+  </data>
+  <data name="688" xml:space="preserve">
+    <value>淡路島付近</value>
+  </data>
+  <data name="689" xml:space="preserve">
+    <value>和歌山県南方沖</value>
+  </data>
+  <data name="700" xml:space="preserve">
+    <value>山口県北部</value>
+  </data>
+  <data name="702" xml:space="preserve">
+    <value>山口県西部</value>
+  </data>
+  <data name="703" xml:space="preserve">
+    <value>山口県東部</value>
+  </data>
+  <data name="704" xml:space="preserve">
+    <value>山口県中部</value>
+  </data>
+  <data name="710" xml:space="preserve">
+    <value>福岡県福岡地方</value>
+  </data>
+  <data name="711" xml:space="preserve">
+    <value>福岡県北九州地方</value>
+  </data>
+  <data name="712" xml:space="preserve">
+    <value>福岡県筑豊地方</value>
+  </data>
+  <data name="713" xml:space="preserve">
+    <value>福岡県筑後地方</value>
+  </data>
+  <data name="720" xml:space="preserve">
+    <value>佐賀県北部</value>
+  </data>
+  <data name="721" xml:space="preserve">
+    <value>佐賀県南部</value>
+  </data>
+  <data name="730" xml:space="preserve">
+    <value>長崎県北部</value>
+  </data>
+  <data name="731" xml:space="preserve">
+    <value>長崎県南西部</value>
+  </data>
+  <data name="732" xml:space="preserve">
+    <value>長崎県島原半島</value>
+  </data>
+  <data name="740" xml:space="preserve">
+    <value>熊本県阿蘇地方</value>
+  </data>
+  <data name="741" xml:space="preserve">
+    <value>熊本県熊本地方</value>
+  </data>
+  <data name="742" xml:space="preserve">
+    <value>熊本県球磨地方</value>
+  </data>
+  <data name="743" xml:space="preserve">
+    <value>熊本県天草・芦北地方</value>
+  </data>
+  <data name="750" xml:space="preserve">
+    <value>大分県北部</value>
+  </data>
+  <data name="751" xml:space="preserve">
+    <value>大分県中部</value>
+  </data>
+  <data name="752" xml:space="preserve">
+    <value>大分県南部</value>
+  </data>
+  <data name="753" xml:space="preserve">
+    <value>大分県西部</value>
+  </data>
+  <data name="760" xml:space="preserve">
+    <value>宮崎県北部平野部</value>
+  </data>
+  <data name="761" xml:space="preserve">
+    <value>宮崎県北部山沿い</value>
+  </data>
+  <data name="762" xml:space="preserve">
+    <value>宮崎県南部平野部</value>
+  </data>
+  <data name="763" xml:space="preserve">
+    <value>宮崎県南部山沿い</value>
+  </data>
+  <data name="770" xml:space="preserve">
+    <value>鹿児島県薩摩地方</value>
+  </data>
+  <data name="771" xml:space="preserve">
+    <value>鹿児島県大隅地方</value>
+  </data>
+  <data name="783" xml:space="preserve">
+    <value>五島列島近海</value>
+  </data>
+  <data name="784" xml:space="preserve">
+    <value>天草灘</value>
+  </data>
+  <data name="785" xml:space="preserve">
+    <value>有明海</value>
+  </data>
+  <data name="786" xml:space="preserve">
+    <value>橘湾</value>
+  </data>
+  <data name="787" xml:space="preserve">
+    <value>鹿児島湾</value>
+  </data>
+  <data name="790" xml:space="preserve">
+    <value>種子島近海</value>
+  </data>
+  <data name="791" xml:space="preserve">
+    <value>日向灘</value>
+  </data>
+  <data name="793" xml:space="preserve">
+    <value>奄美大島近海</value>
+  </data>
+  <data name="795" xml:space="preserve">
+    <value>壱岐・対馬近海</value>
+  </data>
+  <data name="796" xml:space="preserve">
+    <value>福岡県北西沖</value>
+  </data>
+  <data name="797" xml:space="preserve">
+    <value>薩摩半島西方沖</value>
+  </data>
+  <data name="798" xml:space="preserve">
+    <value>トカラ列島近海</value>
+  </data>
+  <data name="799" xml:space="preserve">
+    <value>奄美大島北西沖</value>
+  </data>
+  <data name="820" xml:space="preserve">
+    <value>大隅半島東方沖</value>
+  </data>
+  <data name="821" xml:space="preserve">
+    <value>九州地方南東沖</value>
+  </data>
+  <data name="822" xml:space="preserve">
+    <value>種子島南東沖</value>
+  </data>
+  <data name="823" xml:space="preserve">
+    <value>奄美大島北東沖</value>
+  </data>
+  <data name="850" xml:space="preserve">
+    <value>沖縄本島近海</value>
+  </data>
+  <data name="851" xml:space="preserve">
+    <value>南大東島近海</value>
+  </data>
+  <data name="852" xml:space="preserve">
+    <value>沖縄本島南方沖</value>
+  </data>
+  <data name="853" xml:space="preserve">
+    <value>宮古島近海</value>
+  </data>
+  <data name="854" xml:space="preserve">
+    <value>石垣島近海</value>
+  </data>
+  <data name="855" xml:space="preserve">
+    <value>石垣島南方沖</value>
+  </data>
+  <data name="856" xml:space="preserve">
+    <value>西表島付近</value>
+  </data>
+  <data name="857" xml:space="preserve">
+    <value>与那国島近海</value>
+  </data>
+  <data name="858" xml:space="preserve">
+    <value>沖縄本島北西沖</value>
+  </data>
+  <data name="859" xml:space="preserve">
+    <value>宮古島北西沖</value>
+  </data>
+  <data name="860" xml:space="preserve">
+    <value>石垣島北西沖</value>
+  </data>
+  <data name="900" xml:space="preserve">
+    <value>台湾付近</value>
+  </data>
+  <data name="901" xml:space="preserve">
+    <value>東シナ海</value>
+  </data>
+  <data name="902" xml:space="preserve">
+    <value>四国沖</value>
+  </data>
+  <data name="903" xml:space="preserve">
+    <value>鳥島近海</value>
+  </data>
+  <data name="904" xml:space="preserve">
+    <value>鳥島東方沖</value>
+  </data>
+  <data name="905" xml:space="preserve">
+    <value>オホーツク海南部</value>
+  </data>
+  <data name="906" xml:space="preserve">
+    <value>サハリン西方沖</value>
+  </data>
+  <data name="907" xml:space="preserve">
+    <value>日本海北部</value>
+  </data>
+  <data name="908" xml:space="preserve">
+    <value>日本海中部</value>
+  </data>
+  <data name="909" xml:space="preserve">
+    <value>日本海西部</value>
+  </data>
+  <data name="911" xml:space="preserve">
+    <value>父島近海</value>
+  </data>
+  <data name="912" xml:space="preserve">
+    <value>千島列島</value>
+  </data>
+  <data name="913" xml:space="preserve">
+    <value>千島列島南東沖</value>
+  </data>
+  <data name="914" xml:space="preserve">
+    <value>北海道南東沖</value>
+  </data>
+  <data name="915" xml:space="preserve">
+    <value>東北地方東方沖</value>
+  </data>
+  <data name="916" xml:space="preserve">
+    <value>小笠原諸島西方沖</value>
+  </data>
+  <data name="917" xml:space="preserve">
+    <value>硫黄島近海</value>
+  </data>
+  <data name="918" xml:space="preserve">
+    <value>小笠原諸島東方沖</value>
+  </data>
+  <data name="919" xml:space="preserve">
+    <value>南海道南方沖</value>
+  </data>
+  <data name="920" xml:space="preserve">
+    <value>薩南諸島東方沖</value>
+  </data>
+  <data name="921" xml:space="preserve">
+    <value>本州南方沖</value>
+  </data>
+  <data name="922" xml:space="preserve">
+    <value>サハリン南部付近</value>
+  </data>
+  <data name="930" xml:space="preserve">
+    <value>北西太平洋</value>
+  </data>
+  <data name="932" xml:space="preserve">
+    <value>マリアナ諸島</value>
+  </data>
+  <data name="933" xml:space="preserve">
+    <value>黄海</value>
+  </data>
+  <data name="934" xml:space="preserve">
+    <value>朝鮮半島南部</value>
+  </data>
+  <data name="935" xml:space="preserve">
+    <value>朝鮮半島北部</value>
+  </data>
+  <data name="936" xml:space="preserve">
+    <value>中国東北部</value>
+  </data>
+  <data name="937" xml:space="preserve">
+    <value>ウラジオストク付近</value>
+  </data>
+  <data name="938" xml:space="preserve">
+    <value>シベリア南部</value>
+  </data>
+  <data name="939" xml:space="preserve">
+    <value>サハリン近海</value>
+  </data>
+  <data name="940" xml:space="preserve">
+    <value>アリューシャン列島</value>
+  </data>
+  <data name="941" xml:space="preserve">
+    <value>カムチャツカ半島付近</value>
+  </data>
+  <data name="942" xml:space="preserve">
+    <value>北米西部</value>
+  </data>
+  <data name="943" xml:space="preserve">
+    <value>北米中部</value>
+  </data>
+  <data name="944" xml:space="preserve">
+    <value>北米東部</value>
+  </data>
+  <data name="945" xml:space="preserve">
+    <value>中米</value>
+  </data>
+  <data name="946" xml:space="preserve">
+    <value>南米西部</value>
+  </data>
+  <data name="947" xml:space="preserve">
+    <value>南米中部</value>
+  </data>
+  <data name="948" xml:space="preserve">
+    <value>南米東部</value>
+  </data>
+  <data name="949" xml:space="preserve">
+    <value>北東太平洋</value>
+  </data>
+  <data name="950" xml:space="preserve">
+    <value>南太平洋</value>
+  </data>
+  <data name="951" xml:space="preserve">
+    <value>インドシナ半島付近</value>
+  </data>
+  <data name="952" xml:space="preserve">
+    <value>フィリピン付近</value>
+  </data>
+  <data name="953" xml:space="preserve">
+    <value>インドネシア付近</value>
+  </data>
+  <data name="954" xml:space="preserve">
+    <value>グアム付近</value>
+  </data>
+  <data name="955" xml:space="preserve">
+    <value>ニューギニア付近</value>
+  </data>
+  <data name="956" xml:space="preserve">
+    <value>ニュージーランド付近</value>
+  </data>
+  <data name="957" xml:space="preserve">
+    <value>オーストラリア付近</value>
+  </data>
+  <data name="958" xml:space="preserve">
+    <value>シベリア付近</value>
+  </data>
+  <data name="959" xml:space="preserve">
+    <value>ロシア西部</value>
+  </data>
+  <data name="960" xml:space="preserve">
+    <value>ロシア中部</value>
+  </data>
+  <data name="961" xml:space="preserve">
+    <value>ロシア東部</value>
+  </data>
+  <data name="962" xml:space="preserve">
+    <value>中央アジア</value>
+  </data>
+  <data name="963" xml:space="preserve">
+    <value>中国西部</value>
+  </data>
+  <data name="964" xml:space="preserve">
+    <value>中国中部</value>
+  </data>
+  <data name="965" xml:space="preserve">
+    <value>中国東部</value>
+  </data>
+  <data name="966" xml:space="preserve">
+    <value>インド付近</value>
+  </data>
+  <data name="967" xml:space="preserve">
+    <value>インド洋</value>
+  </data>
+  <data name="968" xml:space="preserve">
+    <value>中東</value>
+  </data>
+  <data name="969" xml:space="preserve">
+    <value>ヨーロッパ西部</value>
+  </data>
+  <data name="970" xml:space="preserve">
+    <value>ヨーロッパ中部</value>
+  </data>
+  <data name="971" xml:space="preserve">
+    <value>ヨーロッパ東部</value>
+  </data>
+  <data name="972" xml:space="preserve">
+    <value>地中海</value>
+  </data>
+  <data name="973" xml:space="preserve">
+    <value>アフリカ西部</value>
+  </data>
+  <data name="974" xml:space="preserve">
+    <value>アフリカ中部</value>
+  </data>
+  <data name="975" xml:space="preserve">
+    <value>アフリカ東部</value>
+  </data>
+  <data name="976" xml:space="preserve">
+    <value>北大西洋</value>
+  </data>
+  <data name="977" xml:space="preserve">
+    <value>南大西洋</value>
+  </data>
+  <data name="978" xml:space="preserve">
+    <value>北極付近</value>
+  </data>
+  <data name="979" xml:space="preserve">
+    <value>南極付近</value>
+  </data>
+  <data name="999" xml:space="preserve">
+    <value>遠地</value>
+  </data>
+</root>

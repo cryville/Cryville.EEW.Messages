@@ -1,0 +1,32 @@
+<resources>
+	<string-array name="color_schemes">
+		<item>CysTerra</item>
+		<item>CysTerra (Legacy)</item>
+		<item>SREV</item>
+	</string-array>
+	<string-array name="coordinated_language_pairs">
+		<item>Cantonese → Mandarin Chinese</item>
+		<item>Mandarin Chinese → Cantonese</item>
+		<item>Cantonese → Mandarin Chinese (Traditional)</item>
+		<item>Mandarin Chinese (Traditional) → Cantonese</item>
+		<item>Mandarin Chinese (Simplified → Traditional)</item>
+		<item>Mandarin Chinese (Traditional → Simplified)</item>
+	</string-array>
+	<string-array name="languages">
+		<item>@string/use_system</item>
+		<item>English (United States)</item>
+		<item>Cantonese (Hong Kong)</item>
+		<item>Mandarin Chinese (China)</item>
+		<item>Mandarin Chinese (Taiwan)</item>
+	</string-array>
+	<string-array name="poi_styles">
+		<item>Dot</item>
+		<item>Icon</item>
+		<item>Polygon</item>
+		<item>Polygon with icon</item>
+	</string-array>
+	<string-array name="region_conversion">
+		<item>Flinn-Engdahl regions (long)</item>
+		<item>Flinn-Engdahl regions (short)</item>
+	</string-array>
+</resources>

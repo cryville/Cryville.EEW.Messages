@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AdditionalCommentEarthquake0201" xml:space="preserve">
+    <value>请警戒强烈摇晃。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0211" xml:space="preserve">
+    <value>正在发布海啸警报等（大海啸警报、海啸警报或海啸注意报）。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0212" xml:space="preserve">
+    <value>本次地震可能会引起日本沿岸若干海面变动，但无需担心受灾。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0215" xml:space="preserve">
+    <value>无需担心本次地震引起海啸。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0217" xml:space="preserve">
+    <value>请注意后续的信息。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0221" xml:space="preserve">
+    <value>太平洋的广大区域可能发生海啸。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0222" xml:space="preserve">
+    <value>太平洋可能发生海啸。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0223" xml:space="preserve">
+    <value>西北太平洋可能发生海啸。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0224" xml:space="preserve">
+    <value>印度洋的广大区域可能发生海啸。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0225" xml:space="preserve">
+    <value>印度洋可能发生海啸。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0226" xml:space="preserve">
+    <value>震源附近可能发生海啸。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0227" xml:space="preserve">
+    <value>震源附近可能发生小海啸，但无需担心发生造成受灾的海啸。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0228" xml:space="preserve">
+    <value>一般来说，如果在浅海区域发生这种规模的地震，则有时会发生海啸。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0229" xml:space="preserve">
+    <value>正在调查有无海啸波及日本。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0230" xml:space="preserve">
+    <value>该地震没有引发海啸波及日本的影响。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0241" xml:space="preserve">
+    <value>已发布此地震相关的紧急地震速报。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0242" xml:space="preserve">
+    <value>已发布此地震相关的紧急地震速报。此地震的最大震度为2。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0243" xml:space="preserve">
+    <value>已发布此地震相关的紧急地震速报。此地震的最大震度为1。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0244" xml:space="preserve">
+    <value>已发布此地震相关的紧急地震速报。未监测到此地震震度超过1。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0245" xml:space="preserve">
+    <value>已发布此地震相关的紧急地震速报，但未监测到强烈摇晃。</value>
+  </data>
+  <data name="AdditionalCommentEarthquake0256" xml:space="preserve">
+    <value>订正震源要素。</value>
+  </data>
+  <data name="AshInfo" xml:space="preserve">
+    <value>从{0:HH}时到{1:HH}时，火山口{2}。</value>
+  </data>
+  <data name="AshInfoItem" xml:space="preserve">
+    <value>{0}{1}千米会有{2}</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>取消刚才发布的{0}。</value>
+  </data>
+  <data name="Culture" xml:space="preserve">
+    <value>zh-CN</value>
+  </data>
+  <data name="EarthquakeHypocenterArea" xml:space="preserve">
+    <value>震源位于{0}。</value>
+  </data>
+  <data name="EarthquakeHypocenterDepth" xml:space="preserve">
+    <value>震源深度约{0}千米。</value>
+  </data>
+  <data name="EarthquakeHypocenterDepth0" xml:space="preserve">
+    <value>震源深度为极浅。</value>
+  </data>
+  <data name="EarthquakeHypocenterDepthUnknown" xml:space="preserve">
+    <value>震源深度不明。</value>
+  </data>
+  <data name="EarthquakeMagnitude" xml:space="preserve">
+    <value>表示地震规模的震级推定为{0:F1}级。</value>
+  </data>
+  <data name="EarthquakeMagnitudeUnknown" xml:space="preserve">
+    <value>地震的规模为{0}。</value>
+  </data>
+  <data name="EarthquakeMagnitude不明" xml:space="preserve">
+    <value>不明</value>
+  </data>
+  <data name="EarthquakeMagnitudeＭ８を超える巨大地震" xml:space="preserve">
+    <value>震级大于8的巨大地震</value>
+  </data>
+  <data name="EarthquakeMultiple" xml:space="preserve">
+    <value>本信息是由于多次地震而发表的。</value>
+  </data>
+  <data name="EarthquakeMultipleIndex" xml:space="preserve">
+    <value>地震{0}</value>
+  </data>
+  <data name="HeadlineAshDetailed" xml:space="preserve">
+    <value>此次{0}喷发，降灰等情况的详细预报如下。</value>
+  </data>
+  <data name="HeadlineAshPreliminary" xml:space="preserve">
+    <value>此次{0}喷发，降灰等情况的预报如下。</value>
+  </data>
+  <data name="HeadlineAshScheduled" xml:space="preserve">
+    <value>如果{0}喷发，在各时段的降灰等情况预报如下。</value>
+  </data>
+  <data name="HeadlineEarthquake" xml:space="preserve">
+    <value>{0:d日HH:mm}，发生了一次地震。</value>
+  </data>
+  <data name="HeadlineEruption" xml:space="preserve">
+    <value>{0:d日HH:mm}，{1}{2}。</value>
+  </data>
+  <data name="HeadlineIntensity" xml:space="preserve">
+    <value>{0:d日HH:mm}，感知到由地震带来的强烈摇晃。</value>
+  </data>
+  <data name="HeadlinePlume" xml:space="preserve">
+    <value>此次{0}喷发，喷烟的流向推定如下。</value>
+  </data>
+  <data name="HeadlineTsunamiInformationForecast" xml:space="preserve">
+    <value>各地的满潮时刻和海啸到达预测时刻如下。</value>
+  </data>
+  <data name="HeadlineTsunamiInformationObservation" xml:space="preserve">
+    <value>目前，海啸的观测值如下。</value>
+  </data>
+  <data name="HeadlineTsunamiWarning" xml:space="preserve">
+    <value>现在正在发布海啸预报等。</value>
+  </data>
+  <data name="IntensityObservationMax" xml:space="preserve">
+    <value>本次地震，观测到的最大震度为{0}。</value>
+  </data>
+  <data name="LongIntensityObservationMax" xml:space="preserve">
+    <value>本次地震，观测到的最大长周期地震动阶级为{0}。</value>
+  </data>
+  <data name="MinorItemSeparator" xml:space="preserve">
+    <value>、</value>
+  </data>
+  <data name="PlumeDirectionValue" xml:space="preserve">
+    <value>{0}方向</value>
+  </data>
+  <data name="PlumeDirection北" xml:space="preserve">
+    <value>北</value>
+  </data>
+  <data name="PlumeDirection北東" xml:space="preserve">
+    <value>东北</value>
+  </data>
+  <data name="PlumeDirection北西" xml:space="preserve">
+    <value>西北</value>
+  </data>
+  <data name="PlumeDirection南" xml:space="preserve">
+    <value>南</value>
+  </data>
+  <data name="PlumeDirection南東" xml:space="preserve">
+    <value>东南</value>
+  </data>
+  <data name="PlumeDirection南西" xml:space="preserve">
+    <value>西南</value>
+  </data>
+  <data name="PlumeDirection方向不定" xml:space="preserve">
+    <value>不定</value>
+  </data>
+  <data name="PlumeDirection東" xml:space="preserve">
+    <value>东</value>
+  </data>
+  <data name="PlumeDirection火口近傍" xml:space="preserve">
+    <value>近旁</value>
+  </data>
+  <data name="PlumeDirection直上" xml:space="preserve">
+    <value>直上</value>
+  </data>
+  <data name="PlumeDirection西" xml:space="preserve">
+    <value>西</value>
+  </data>
+  <data name="Status訓練" xml:space="preserve">
+    <value>本报为训练报。</value>
+  </data>
+  <data name="Status試験" xml:space="preserve">
+    <value>本报为试验报。</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>电文</value>
+  </data>
+  <data name="Title噴火に関する火山観測報" xml:space="preserve">
+    <value>关于火山喷发的火山观测报</value>
+  </data>
+  <data name="Title地震情報" xml:space="preserve">
+    <value>地震信息</value>
+  </data>
+  <data name="Title推定噴煙流向報" xml:space="preserve">
+    <value>推定喷烟流向报</value>
+  </data>
+  <data name="Title津波情報" xml:space="preserve">
+    <value>海啸信息</value>
+  </data>
+  <data name="Title津波警報注意報予報" xml:space="preserve">
+    <value>海啸警报、注意报、预报</value>
+  </data>
+  <data name="Title長周期地震動に関する観測情報" xml:space="preserve">
+    <value>关于长周期地震动的观测信息</value>
+  </data>
+  <data name="Title降灰予報" xml:space="preserve">
+    <value>降灰预报</value>
+  </data>
+  <data name="Title震度速報" xml:space="preserve">
+    <value>震度速报</value>
+  </data>
+  <data name="Title震源要素更新のお知らせ" xml:space="preserve">
+    <value>震源要素更新通知</value>
+  </data>
+  <data name="Title震源速報" xml:space="preserve">
+    <value>震源速报</value>
+  </data>
+  <data name="TsunamiForecast" xml:space="preserve">
+    <value>以下的区域正在发布{0}。</value>
+  </data>
+  <data name="TsunamiForecastArea" xml:space="preserve">
+    <value>{0}。{1}。</value>
+  </data>
+  <data name="TsunamiForecastCategory51" xml:space="preserve">
+    <value>海啸警报</value>
+  </data>
+  <data name="TsunamiForecastCategory52" xml:space="preserve">
+    <value>大海啸警报</value>
+  </data>
+  <data name="TsunamiForecastCategory53" xml:space="preserve">
+    <value>大海啸警报</value>
+  </data>
+  <data name="TsunamiForecastCategory62" xml:space="preserve">
+    <value>海啸注意报</value>
+  </data>
+  <data name="TsunamiForecastCategory71" xml:space="preserve">
+    <value>海啸预报（若干的海面变动）</value>
+  </data>
+  <data name="TsunamiForecastCategory72" xml:space="preserve">
+    <value>海啸预报（若干的海面变动）</value>
+  </data>
+  <data name="TsunamiForecastCategory73" xml:space="preserve">
+    <value>海啸预报（若干的海面变动）</value>
+  </data>
+  <data name="TsunamiForecastFirstHeightArrivalTime" xml:space="preserve">
+    <value>预测到达时刻{0:t}</value>
+  </data>
+  <data name="TsunamiForecastFirstHeightConditionただちに津波来襲と予測" xml:space="preserve">
+    <value>预测海啸即将来袭</value>
+  </data>
+  <data name="TsunamiForecastFirstHeightCondition既に津波到達と推測" xml:space="preserve">
+    <value>推测海啸已经到达</value>
+  </data>
+  <data name="TsunamiForecastFirstHeightCondition津波到達中と推測" xml:space="preserve">
+    <value>推测海啸正在到达</value>
+  </data>
+  <data name="TsunamiForecastFirstHeightCondition第１波の到達を確認" xml:space="preserve">
+    <value>第一波已确认到达</value>
+  </data>
+  <data name="TsunamiForecastMaxHeight" xml:space="preserve">
+    <value>预测海啸高度为{0}。</value>
+  </data>
+  <data name="TsunamiForecastSuffix" xml:space="preserve">
+    <value>关于震源的信息</value>
+  </data>
+  <data name="TsunamiHeightValue" xml:space="preserve">
+    <value>{0}米</value>
+  </data>
+  <data name="TsunamiHeightValueAffix" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+  <data name="TsunamiHeightValueAffixBelow" xml:space="preserve">
+    <value>不满{0}</value>
+  </data>
+  <data name="TsunamiHeightValueAffixOver" xml:space="preserve">
+    <value>{0}以上</value>
+  </data>
+  <data name="TsunamiObservationMaxHeightCondition微弱" xml:space="preserve">
+    <value>微弱</value>
+  </data>
+  <data name="TsunamiObservationMaxHeightCondition観測中" xml:space="preserve">
+    <value>观测中</value>
+  </data>
+  <data name="TsunamiObservationMaxHeightRising" xml:space="preserve">
+    <value>上升中。</value>
+  </data>
+  <data name="TsunamiObservationStation" xml:space="preserve">
+    <value>{0}。{1}。{2}。</value>
+  </data>
+  <data name="VolcanicWarning51" xml:space="preserve">
+    <value>爆发</value>
+  </data>
+  <data name="VolcanicWarning52" xml:space="preserve">
+    <value>喷发</value>
+  </data>
+  <data name="VolcanicWarning53" xml:space="preserve">
+    <value>开始喷发</value>
+  </data>
+  <data name="VolcanicWarning54" xml:space="preserve">
+    <value>持续连续喷发</value>
+  </data>
+  <data name="VolcanicWarning55" xml:space="preserve">
+    <value>停止连续喷发</value>
+  </data>
+  <data name="VolcanicWarning56" xml:space="preserve">
+    <value>喷发多发</value>
+  </data>
+  <data name="VolcanicWarning61" xml:space="preserve">
+    <value>似乎已经爆发</value>
+  </data>
+  <data name="VolcanicWarning62" xml:space="preserve">
+    <value>似乎已经喷发</value>
+  </data>
+  <data name="VolcanicWarning63" xml:space="preserve">
+    <value>似乎已经开始喷发</value>
+  </data>
+  <data name="VolcanicWarning64" xml:space="preserve">
+    <value>似乎正在持续连续喷发</value>
+  </data>
+  <data name="VolcanicWarning65" xml:space="preserve">
+    <value>似乎已经停止连续喷发</value>
+  </data>
+  <data name="VolcanicWarning70" xml:space="preserve">
+    <value>降灰</value>
+  </data>
+  <data name="VolcanicWarning71" xml:space="preserve">
+    <value>少量降灰</value>
+  </data>
+  <data name="VolcanicWarning72" xml:space="preserve">
+    <value>较多降灰</value>
+  </data>
+  <data name="VolcanicWarning73" xml:space="preserve">
+    <value>大量降灰</value>
+  </data>
+  <data name="VolcanicWarning75" xml:space="preserve">
+    <value>小型喷石落下</value>
+  </data>
+  <data name="VolcanoObservationColorPlume" xml:space="preserve">
+    <value>有色喷烟</value>
+  </data>
+  <data name="VolcanoObservationPlume" xml:space="preserve">
+    <value>{0}的观测值如下。</value>
+  </data>
+  <data name="VolcanoObservationPlumeDirection" xml:space="preserve">
+    <value>观测到的喷烟流向为{0}方向。</value>
+  </data>
+  <data name="VolcanoObservationPlumeDirectionUnknown" xml:space="preserve">
+    <value>喷烟流向不明。</value>
+  </data>
+  <data name="VolcanoObservationPlumeHeightAboveCrater" xml:space="preserve">
+    <value>火山口上方喷烟高度为{0}米。</value>
+  </data>
+  <data name="VolcanoObservationPlumeHeightAboveCraterUnknown" xml:space="preserve">
+    <value>火山口上方喷烟高度不明。</value>
+  </data>
+  <data name="VolcanoObservationPlumeNone" xml:space="preserve">
+    <value>本次喷发无{0}。</value>
+  </data>
+  <data name="VolcanoObservationWhitePlume" xml:space="preserve">
+    <value>白色喷烟</value>
+  </data>
+  <data name="VolcanoObservationWindAboveCrater" xml:space="preserve">
+    <value>在海拔{0}英尺高度，预测的风向为{1}，风速为{2}。</value>
+  </data>
+  <data name="WindDegreeValue" xml:space="preserve">
+    <value>{0}</value>
+  </data>
+  <data name="WindDegree不明" xml:space="preserve">
+    <value>不明</value>
+  </data>
+  <data name="WindSpeedValue" xml:space="preserve">
+    <value>{0}节</value>
+  </data>
+  <data name="WindSpeed不明" xml:space="preserve">
+    <value>不明</value>
+  </data>
+</root>

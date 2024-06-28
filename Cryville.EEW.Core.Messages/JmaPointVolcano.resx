@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="101" xml:space="preserve">
+    <value>知床硫黄山</value>
+  </data>
+  <data name="102" xml:space="preserve">
+    <value>羅臼岳</value>
+  </data>
+  <data name="103" xml:space="preserve">
+    <value>摩周</value>
+  </data>
+  <data name="104" xml:space="preserve">
+    <value>アトサヌプリ</value>
+  </data>
+  <data name="105" xml:space="preserve">
+    <value>雌阿寒岳</value>
+  </data>
+  <data name="106" xml:space="preserve">
+    <value>丸山</value>
+  </data>
+  <data name="107" xml:space="preserve">
+    <value>大雪山</value>
+  </data>
+  <data name="108" xml:space="preserve">
+    <value>十勝岳</value>
+  </data>
+  <data name="109" xml:space="preserve">
+    <value>樽前山</value>
+  </data>
+  <data name="110" xml:space="preserve">
+    <value>恵庭岳</value>
+  </data>
+  <data name="111" xml:space="preserve">
+    <value>倶多楽</value>
+  </data>
+  <data name="112" xml:space="preserve">
+    <value>有珠山</value>
+  </data>
+  <data name="113" xml:space="preserve">
+    <value>北海道駒ヶ岳</value>
+  </data>
+  <data name="114" xml:space="preserve">
+    <value>恵山</value>
+  </data>
+  <data name="115" xml:space="preserve">
+    <value>渡島大島</value>
+  </data>
+  <data name="116" xml:space="preserve">
+    <value>利尻山</value>
+  </data>
+  <data name="117" xml:space="preserve">
+    <value>羊蹄山</value>
+  </data>
+  <data name="118" xml:space="preserve">
+    <value>ニセコ</value>
+  </data>
+  <data name="119" xml:space="preserve">
+    <value>天頂山</value>
+  </data>
+  <data name="120" xml:space="preserve">
+    <value>雄阿寒岳</value>
+  </data>
+  <data name="151" xml:space="preserve">
+    <value>茂世路岳</value>
+  </data>
+  <data name="152" xml:space="preserve">
+    <value>散布山</value>
+  </data>
+  <data name="153" xml:space="preserve">
+    <value>指臼岳</value>
+  </data>
+  <data name="154" xml:space="preserve">
+    <value>小田萌山</value>
+  </data>
+  <data name="155" xml:space="preserve">
+    <value>択捉焼山</value>
+  </data>
+  <data name="156" xml:space="preserve">
+    <value>択捉阿登佐岳</value>
+  </data>
+  <data name="157" xml:space="preserve">
+    <value>ベルタルベ山</value>
+  </data>
+  <data name="158" xml:space="preserve">
+    <value>爺爺岳</value>
+  </data>
+  <data name="159" xml:space="preserve">
+    <value>羅臼山</value>
+  </data>
+  <data name="160" xml:space="preserve">
+    <value>泊山</value>
+  </data>
+  <data name="161" xml:space="preserve">
+    <value>ルルイ岳</value>
+  </data>
+  <data name="201" xml:space="preserve">
+    <value>恐山</value>
+  </data>
+  <data name="202" xml:space="preserve">
+    <value>岩木山</value>
+  </data>
+  <data name="203" xml:space="preserve">
+    <value>八甲田山</value>
+  </data>
+  <data name="204" xml:space="preserve">
+    <value>十和田</value>
+  </data>
+  <data name="205" xml:space="preserve">
+    <value>秋田焼山</value>
+  </data>
+  <data name="206" xml:space="preserve">
+    <value>八幡平</value>
+  </data>
+  <data name="207" xml:space="preserve">
+    <value>岩手山</value>
+  </data>
+  <data name="208" xml:space="preserve">
+    <value>秋田駒ヶ岳</value>
+  </data>
+  <data name="209" xml:space="preserve">
+    <value>鳥海山</value>
+  </data>
+  <data name="210" xml:space="preserve">
+    <value>栗駒山</value>
+  </data>
+  <data name="211" xml:space="preserve">
+    <value>鳴子</value>
+  </data>
+  <data name="212" xml:space="preserve">
+    <value>蔵王山</value>
+  </data>
+  <data name="213" xml:space="preserve">
+    <value>吾妻山</value>
+  </data>
+  <data name="214" xml:space="preserve">
+    <value>安達太良山</value>
+  </data>
+  <data name="215" xml:space="preserve">
+    <value>磐梯山</value>
+  </data>
+  <data name="216" xml:space="preserve">
+    <value>燧ヶ岳</value>
+  </data>
+  <data name="217" xml:space="preserve">
+    <value>肘折</value>
+  </data>
+  <data name="218" xml:space="preserve">
+    <value>沼沢</value>
+  </data>
+  <data name="301" xml:space="preserve">
+    <value>那須岳</value>
+  </data>
+  <data name="302" xml:space="preserve">
+    <value>日光白根山</value>
+  </data>
+  <data name="303" xml:space="preserve">
+    <value>赤城山</value>
+  </data>
+  <data name="304" xml:space="preserve">
+    <value>榛名山</value>
+  </data>
+  <data name="305" xml:space="preserve">
+    <value>草津白根山</value>
+  </data>
+  <data name="306" xml:space="preserve">
+    <value>浅間山</value>
+  </data>
+  <data name="307" xml:space="preserve">
+    <value>新潟焼山</value>
+  </data>
+  <data name="308" xml:space="preserve">
+    <value>妙高山</value>
+  </data>
+  <data name="309" xml:space="preserve">
+    <value>弥陀ヶ原</value>
+  </data>
+  <data name="310" xml:space="preserve">
+    <value>焼岳</value>
+  </data>
+  <data name="311" xml:space="preserve">
+    <value>乗鞍岳</value>
+  </data>
+  <data name="312" xml:space="preserve">
+    <value>御嶽山</value>
+  </data>
+  <data name="313" xml:space="preserve">
+    <value>白山</value>
+  </data>
+  <data name="314" xml:space="preserve">
+    <value>富士山</value>
+  </data>
+  <data name="315" xml:space="preserve">
+    <value>箱根山</value>
+  </data>
+  <data name="316" xml:space="preserve">
+    <value>伊豆東部火山群</value>
+  </data>
+  <data name="317" xml:space="preserve">
+    <value>伊豆大島</value>
+  </data>
+  <data name="318" xml:space="preserve">
+    <value>新島</value>
+  </data>
+  <data name="319" xml:space="preserve">
+    <value>神津島</value>
+  </data>
+  <data name="320" xml:space="preserve">
+    <value>三宅島</value>
+  </data>
+  <data name="321" xml:space="preserve">
+    <value>八丈島</value>
+  </data>
+  <data name="322" xml:space="preserve">
+    <value>青ヶ島</value>
+  </data>
+  <data name="323" xml:space="preserve">
+    <value>ベヨネース列岩</value>
+  </data>
+  <data name="324" xml:space="preserve">
+    <value>須美寿島</value>
+  </data>
+  <data name="325" xml:space="preserve">
+    <value>伊豆鳥島</value>
+  </data>
+  <data name="326" xml:space="preserve">
+    <value>西之島</value>
+  </data>
+  <data name="327" xml:space="preserve">
+    <value>海徳海山</value>
+  </data>
+  <data name="328" xml:space="preserve">
+    <value>噴火浅根</value>
+  </data>
+  <data name="329" xml:space="preserve">
+    <value>硫黄島</value>
+  </data>
+  <data name="330" xml:space="preserve">
+    <value>北福徳堆</value>
+  </data>
+  <data name="331" xml:space="preserve">
+    <value>福徳岡ノ場</value>
+  </data>
+  <data name="333" xml:space="preserve">
+    <value>高原山</value>
+  </data>
+  <data name="334" xml:space="preserve">
+    <value>横岳</value>
+  </data>
+  <data name="335" xml:space="preserve">
+    <value>アカンダナ山</value>
+  </data>
+  <data name="336" xml:space="preserve">
+    <value>利島</value>
+  </data>
+  <data name="337" xml:space="preserve">
+    <value>御蔵島</value>
+  </data>
+  <data name="338" xml:space="preserve">
+    <value>孀婦岩</value>
+  </data>
+  <data name="339" xml:space="preserve">
+    <value>海形海山</value>
+  </data>
+  <data name="340" xml:space="preserve">
+    <value>南日吉海山</value>
+  </data>
+  <data name="341" xml:space="preserve">
+    <value>日光海山</value>
+  </data>
+  <data name="342" xml:space="preserve">
+    <value>男体山</value>
+  </data>
+  <data name="350" xml:space="preserve">
+    <value>草津白根山（白根山（湯釜付近））</value>
+  </data>
+  <data name="351" xml:space="preserve">
+    <value>草津白根山（本白根山）</value>
+  </data>
+  <data name="401" xml:space="preserve">
+    <value>三瓶山</value>
+  </data>
+  <data name="502" xml:space="preserve">
+    <value>九重山</value>
+  </data>
+  <data name="503" xml:space="preserve">
+    <value>阿蘇山</value>
+  </data>
+  <data name="504" xml:space="preserve">
+    <value>雲仙岳</value>
+  </data>
+  <data name="505" xml:space="preserve">
+    <value>霧島山</value>
+  </data>
+  <data name="506" xml:space="preserve">
+    <value>桜島</value>
+  </data>
+  <data name="507" xml:space="preserve">
+    <value>開聞岳</value>
+  </data>
+  <data name="508" xml:space="preserve">
+    <value>薩摩硫黄島</value>
+  </data>
+  <data name="509" xml:space="preserve">
+    <value>口永良部島</value>
+  </data>
+  <data name="510" xml:space="preserve">
+    <value>中之島</value>
+  </data>
+  <data name="511" xml:space="preserve">
+    <value>諏訪之瀬島</value>
+  </data>
+  <data name="512" xml:space="preserve">
+    <value>阿武火山群</value>
+  </data>
+  <data name="513" xml:space="preserve">
+    <value>鶴見岳・伽藍岳</value>
+  </data>
+  <data name="514" xml:space="preserve">
+    <value>由布岳</value>
+  </data>
+  <data name="515" xml:space="preserve">
+    <value>福江火山群</value>
+  </data>
+  <data name="516" xml:space="preserve">
+    <value>米丸・住吉池</value>
+  </data>
+  <data name="517" xml:space="preserve">
+    <value>若尊</value>
+  </data>
+  <data name="518" xml:space="preserve">
+    <value>池田・山川</value>
+  </data>
+  <data name="519" xml:space="preserve">
+    <value>口之島</value>
+  </data>
+  <data name="550" xml:space="preserve">
+    <value>霧島山（御鉢）</value>
+  </data>
+  <data name="551" xml:space="preserve">
+    <value>霧島山（新燃岳）</value>
+  </data>
+  <data name="552" xml:space="preserve">
+    <value>霧島山（えびの高原（硫黄山）周辺）</value>
+  </data>
+  <data name="553" xml:space="preserve">
+    <value>霧島山（大幡池）</value>
+  </data>
+  <data name="601" xml:space="preserve">
+    <value>硫黄鳥島</value>
+  </data>
+  <data name="602" xml:space="preserve">
+    <value>西表島北北東海底火山</value>
+  </data>
+  <data name="900" xml:space="preserve">
+    <value>全国の活火山</value>
+  </data>
+  <data name="901" xml:space="preserve">
+    <value>その他の活火山</value>
+  </data>
+  <data name="902" xml:space="preserve">
+    <value>新たな活火山</value>
+  </data>
+</root>

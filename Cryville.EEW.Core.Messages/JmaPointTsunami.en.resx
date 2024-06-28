@@ -1,0 +1,1380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="10001" xml:space="preserve">
+    <value>Kushiro</value>
+  </data>
+  <data name="10002" xml:space="preserve">
+    <value>Hanasaki, Nemuro City</value>
+  </data>
+  <data name="10020" xml:space="preserve">
+    <value>Port Nemuro</value>
+  </data>
+  <data name="10021" xml:space="preserve">
+    <value>Port Kiritappu, Hamanaka Town</value>
+  </data>
+  <data name="10050" xml:space="preserve">
+    <value>off the coast of Kushiro 100km A</value>
+  </data>
+  <data name="10060" xml:space="preserve">
+    <value>off the coast of Kushiro 80km A</value>
+  </data>
+  <data name="10061" xml:space="preserve">
+    <value>off the coast of Kushiro 80km B</value>
+  </data>
+  <data name="10062" xml:space="preserve">
+    <value>off the southeast coast of Nemuro 80km A</value>
+  </data>
+  <data name="10070" xml:space="preserve">
+    <value>off the coast of Kushiro 60km A</value>
+  </data>
+  <data name="10071" xml:space="preserve">
+    <value>off the southeast coast of Nemuro 50km A</value>
+  </data>
+  <data name="10072" xml:space="preserve">
+    <value>off the coast of Kushiro 50km A</value>
+  </data>
+  <data name="10073" xml:space="preserve">
+    <value>off the southeast coast of Nemuro 60km A</value>
+  </data>
+  <data name="10101" xml:space="preserve">
+    <value>Urakawa</value>
+  </data>
+  <data name="10102" xml:space="preserve">
+    <value>Port Tokachi</value>
+  </data>
+  <data name="10103" xml:space="preserve">
+    <value>Shoya, Erimo Town</value>
+  </data>
+  <data name="10150" xml:space="preserve">
+    <value>off the coast of Tokachi 100km A</value>
+  </data>
+  <data name="10151" xml:space="preserve">
+    <value>off the coast of Urakawa 100km A</value>
+  </data>
+  <data name="10152" xml:space="preserve">
+    <value>off the coast of Urakawa 100km B</value>
+  </data>
+  <data name="10153" xml:space="preserve">
+    <value>off the coast of Tokachi 90km A</value>
+  </data>
+  <data name="10160" xml:space="preserve">
+    <value>off the coast of Tokachi 80km A</value>
+  </data>
+  <data name="10161" xml:space="preserve">
+    <value>off the coast of Tokachi 80km B</value>
+  </data>
+  <data name="10162" xml:space="preserve">
+    <value>off the coast of Tokachi 80km C</value>
+  </data>
+  <data name="10163" xml:space="preserve">
+    <value>off the coast of Urakawa 70km A</value>
+  </data>
+  <data name="10170" xml:space="preserve">
+    <value>off the coast of Tokachi 60km A</value>
+  </data>
+  <data name="10171" xml:space="preserve">
+    <value>off the coast of Urakawa 60km A</value>
+  </data>
+  <data name="10172" xml:space="preserve">
+    <value>off the coast of Urakawa 50km A</value>
+  </data>
+  <data name="10202" xml:space="preserve">
+    <value>Hakodate</value>
+  </data>
+  <data name="10203" xml:space="preserve">
+    <value>West Port, Tomakomai</value>
+  </data>
+  <data name="10204" xml:space="preserve">
+    <value>Yoshioka, Fukushima Town</value>
+  </data>
+  <data name="10221" xml:space="preserve">
+    <value>East Port, Tomakomai</value>
+  </data>
+  <data name="10222" xml:space="preserve">
+    <value>Port Shiraoi</value>
+  </data>
+  <data name="10223" xml:space="preserve">
+    <value>Port Oshimamori</value>
+  </data>
+  <data name="10224" xml:space="preserve">
+    <value>Port Muroran</value>
+  </data>
+  <data name="11001" xml:space="preserve">
+    <value>Wakkanai</value>
+  </data>
+  <data name="11002" xml:space="preserve">
+    <value>Rumoi</value>
+  </data>
+  <data name="11003" xml:space="preserve">
+    <value>Otaru</value>
+  </data>
+  <data name="11022" xml:space="preserve">
+    <value>New Port, Ishikari Bay</value>
+  </data>
+  <data name="11023" xml:space="preserve">
+    <value>Port Kutsugata, Rishiri Island</value>
+  </data>
+  <data name="11024" xml:space="preserve">
+    <value>Port Haboro</value>
+  </data>
+  <data name="11030" xml:space="preserve">
+    <value>Oshoro, Otaru City</value>
+  </data>
+  <data name="11101" xml:space="preserve">
+    <value>Suttsu</value>
+  </data>
+  <data name="11102" xml:space="preserve">
+    <value>Esashi</value>
+  </data>
+  <data name="11121" xml:space="preserve">
+    <value>Port Setana</value>
+  </data>
+  <data name="11122" xml:space="preserve">
+    <value>Port Iwanai</value>
+  </data>
+  <data name="11123" xml:space="preserve">
+    <value>Port Okushiri, Okushiri Island</value>
+  </data>
+  <data name="11130" xml:space="preserve">
+    <value>Matsue, Okushiri Island</value>
+  </data>
+  <data name="12001" xml:space="preserve">
+    <value>Abashiri</value>
+  </data>
+  <data name="12003" xml:space="preserve">
+    <value>Port Esashi</value>
+  </data>
+  <data name="12020" xml:space="preserve">
+    <value>Port Monbetsu</value>
+  </data>
+  <data name="20001" xml:space="preserve">
+    <value>Fukaura</value>
+  </data>
+  <data name="20002" xml:space="preserve">
+    <value>Tappi</value>
+  </data>
+  <data name="20090" xml:space="preserve">
+    <value>off the coast of Fukaura, Aomori</value>
+  </data>
+  <data name="20102" xml:space="preserve">
+    <value>Sekinehama, Mutsu City</value>
+  </data>
+  <data name="20120" xml:space="preserve">
+    <value>Port Ogawara, Mutsu</value>
+  </data>
+  <data name="20121" xml:space="preserve">
+    <value>Port Hachinohe</value>
+  </data>
+  <data name="20150" xml:space="preserve">
+    <value>off the east coast of Aomori 100km A</value>
+  </data>
+  <data name="20151" xml:space="preserve">
+    <value>off the east coast of Aomori 90km A</value>
+  </data>
+  <data name="20160" xml:space="preserve">
+    <value>off the east coast of Aomori 80km A</value>
+  </data>
+  <data name="20170" xml:space="preserve">
+    <value>off the east coast of Aomori 60km A</value>
+  </data>
+  <data name="20171" xml:space="preserve">
+    <value>off the east coast of Aomori 60km B</value>
+  </data>
+  <data name="20172" xml:space="preserve">
+    <value>off the east coast of Aomori 50km A</value>
+  </data>
+  <data name="20173" xml:space="preserve">
+    <value>off the east coast of Aomori 50km B</value>
+  </data>
+  <data name="20180" xml:space="preserve">
+    <value>off the east coast of Aomori 40km A</value>
+  </data>
+  <data name="20181" xml:space="preserve">
+    <value>off the east coast of Aomori 30km A</value>
+  </data>
+  <data name="20190" xml:space="preserve">
+    <value>off the coast of Hachinohe, Aomori</value>
+  </data>
+  <data name="20201" xml:space="preserve">
+    <value>Aomori</value>
+  </data>
+  <data name="20202" xml:space="preserve">
+    <value>Ominato, Mutsu City</value>
+  </data>
+  <data name="21001" xml:space="preserve">
+    <value>Miyako</value>
+  </data>
+  <data name="21002" xml:space="preserve">
+    <value>Ofunato</value>
+  </data>
+  <data name="21003" xml:space="preserve">
+    <value>Kamaishi</value>
+  </data>
+  <data name="21020" xml:space="preserve">
+    <value>Port Kuji</value>
+  </data>
+  <data name="21050" xml:space="preserve">
+    <value>off the coast of Iwate 90km A</value>
+  </data>
+  <data name="21051" xml:space="preserve">
+    <value>off the coast of Iwate 90km B</value>
+  </data>
+  <data name="21060" xml:space="preserve">
+    <value>off the coast of Iwate 70km A</value>
+  </data>
+  <data name="21061" xml:space="preserve">
+    <value>off the coast of Iwate 80km A</value>
+  </data>
+  <data name="21070" xml:space="preserve">
+    <value>off the coast of Iwate 60km A</value>
+  </data>
+  <data name="21071" xml:space="preserve">
+    <value>off the coast of Iwate 60km B</value>
+  </data>
+  <data name="21072" xml:space="preserve">
+    <value>off the coast of Iwate 60km C</value>
+  </data>
+  <data name="21080" xml:space="preserve">
+    <value>off the coast of Iwate 40km A</value>
+  </data>
+  <data name="21081" xml:space="preserve">
+    <value>off the coast of Iwate 40km B</value>
+  </data>
+  <data name="21082" xml:space="preserve">
+    <value>off the coast of Iwate 40km C</value>
+  </data>
+  <data name="21083" xml:space="preserve">
+    <value>off the coast of Iwate 30km A</value>
+  </data>
+  <data name="21084" xml:space="preserve">
+    <value>off the coast of Iwate 30km B</value>
+  </data>
+  <data name="21090" xml:space="preserve">
+    <value>off the coast of Kamaishi, Iwate</value>
+  </data>
+  <data name="21091" xml:space="preserve">
+    <value>off the coast of Miyako, Iwate</value>
+  </data>
+  <data name="21092" xml:space="preserve">
+    <value>off the coast of Kuji, Iwate</value>
+  </data>
+  <data name="22002" xml:space="preserve">
+    <value>Ayukawa, Ishinomaki City</value>
+  </data>
+  <data name="22021" xml:space="preserve">
+    <value>Port Sendai</value>
+  </data>
+  <data name="22022" xml:space="preserve">
+    <value>Port Ishinomaki</value>
+  </data>
+  <data name="22050" xml:space="preserve">
+    <value>off the coast of Miyagi 90km A</value>
+  </data>
+  <data name="22060" xml:space="preserve">
+    <value>off the coast of Miyagi 80km A</value>
+  </data>
+  <data name="22061" xml:space="preserve">
+    <value>off the coast of Miyagi 80km B</value>
+  </data>
+  <data name="22070" xml:space="preserve">
+    <value>off the coast of Miyagi 60km A</value>
+  </data>
+  <data name="22071" xml:space="preserve">
+    <value>off the coast of Miyagi 50km A</value>
+  </data>
+  <data name="22072" xml:space="preserve">
+    <value>off the coast of Miyagi 50km B</value>
+  </data>
+  <data name="22080" xml:space="preserve">
+    <value>off the coast of Miyagi 40km A</value>
+  </data>
+  <data name="22081" xml:space="preserve">
+    <value>off the coast of Miyagi 30km A</value>
+  </data>
+  <data name="22090" xml:space="preserve">
+    <value>off the coast of Kinkasan, Miyagi</value>
+  </data>
+  <data name="22091" xml:space="preserve">
+    <value>off the coast of Hirota Bay, Kesennuma</value>
+  </data>
+  <data name="22095" xml:space="preserve">
+    <value>off the coast of Oshika, Miyagi</value>
+  </data>
+  <data name="23001" xml:space="preserve">
+    <value>Akita</value>
+  </data>
+  <data name="23090" xml:space="preserve">
+    <value>off the coast of Oga, Akita</value>
+  </data>
+  <data name="24001" xml:space="preserve">
+    <value>Sakata</value>
+  </data>
+  <data name="24030" xml:space="preserve">
+    <value>Tobishima</value>
+  </data>
+  <data name="24031" xml:space="preserve">
+    <value>Nezugaseki, Tsuruoka City</value>
+  </data>
+  <data name="24090" xml:space="preserve">
+    <value>off the coast of Sakata, Yamagata</value>
+  </data>
+  <data name="25002" xml:space="preserve">
+    <value>Onahama, Iwaki City</value>
+  </data>
+  <data name="25030" xml:space="preserve">
+    <value>Soma</value>
+  </data>
+  <data name="25050" xml:space="preserve">
+    <value>off the coast of Fukushima 90km A</value>
+  </data>
+  <data name="25060" xml:space="preserve">
+    <value>off the coast of Fukushima 70km A</value>
+  </data>
+  <data name="25061" xml:space="preserve">
+    <value>off the coast of Fukushima 70km B</value>
+  </data>
+  <data name="25070" xml:space="preserve">
+    <value>off the coast of Fukushima 50km A</value>
+  </data>
+  <data name="25071" xml:space="preserve">
+    <value>off the coast of Fukushima 50km B</value>
+  </data>
+  <data name="25080" xml:space="preserve">
+    <value>off the coast of Fukushima 30km A</value>
+  </data>
+  <data name="25081" xml:space="preserve">
+    <value>off the coast of Fukushima 30km B</value>
+  </data>
+  <data name="25090" xml:space="preserve">
+    <value>off the coast of Onahama, Fukushima</value>
+  </data>
+  <data name="30001" xml:space="preserve">
+    <value>Oarai</value>
+  </data>
+  <data name="30020" xml:space="preserve">
+    <value>Port Kashima, Kamisu City</value>
+  </data>
+  <data name="30050" xml:space="preserve">
+    <value>off the coast of Ibaraki 90km A</value>
+  </data>
+  <data name="30051" xml:space="preserve">
+    <value>off the coast of Ibaraki 90km B</value>
+  </data>
+  <data name="30060" xml:space="preserve">
+    <value>off the coast of Ibaraki 70km A</value>
+  </data>
+  <data name="30070" xml:space="preserve">
+    <value>off the coast of Ibaraki 60km A</value>
+  </data>
+  <data name="30071" xml:space="preserve">
+    <value>off the coast of Ibaraki 50km A</value>
+  </data>
+  <data name="30072" xml:space="preserve">
+    <value>off the coast of Ibaraki 50km B</value>
+  </data>
+  <data name="30080" xml:space="preserve">
+    <value>off the coast of Ibaraki 40km A</value>
+  </data>
+  <data name="30095" xml:space="preserve">
+    <value>off the coast of Kamisu, Ibaraki</value>
+  </data>
+  <data name="31001" xml:space="preserve">
+    <value>Choshi</value>
+  </data>
+  <data name="31002" xml:space="preserve">
+    <value>Okitsu, Katsuura City</value>
+  </data>
+  <data name="31050" xml:space="preserve">
+    <value>off the east coast of Chiba 90km A</value>
+  </data>
+  <data name="31051" xml:space="preserve">
+    <value>off the southeast coast of Chiba 90km A</value>
+  </data>
+  <data name="31060" xml:space="preserve">
+    <value>off the east coast of Chiba 80km A</value>
+  </data>
+  <data name="31061" xml:space="preserve">
+    <value>off the southeast coast of Chiba 80km A</value>
+  </data>
+  <data name="31062" xml:space="preserve">
+    <value>off the east coast of Chiba 70km A</value>
+  </data>
+  <data name="31063" xml:space="preserve">
+    <value>off the east coast of Chiba 70km B</value>
+  </data>
+  <data name="31064" xml:space="preserve">
+    <value>off the southeast coast of Chiba 80km B</value>
+  </data>
+  <data name="31070" xml:space="preserve">
+    <value>off the southeast coast of Chiba 60km A</value>
+  </data>
+  <data name="31071" xml:space="preserve">
+    <value>off the east coast of Chiba 60km A</value>
+  </data>
+  <data name="31072" xml:space="preserve">
+    <value>off the east coast of Chiba 60km B</value>
+  </data>
+  <data name="31073" xml:space="preserve">
+    <value>off the southeast coast of Chiba 60km B</value>
+  </data>
+  <data name="31074" xml:space="preserve">
+    <value>off the east coast of Chiba 50km A</value>
+  </data>
+  <data name="31075" xml:space="preserve">
+    <value>off the east coast of Chiba 50km B</value>
+  </data>
+  <data name="31080" xml:space="preserve">
+    <value>off the southeast coast of Chiba 40km A</value>
+  </data>
+  <data name="31081" xml:space="preserve">
+    <value>off the southeast coast of Chiba 30km A</value>
+  </data>
+  <data name="31082" xml:space="preserve">
+    <value>off the east coast of Chiba 40km A</value>
+  </data>
+  <data name="31083" xml:space="preserve">
+    <value>off the southeast coast of Chiba 30km B</value>
+  </data>
+  <data name="31084" xml:space="preserve">
+    <value>off the southeast coast of Chiba 30km C</value>
+  </data>
+  <data name="31101" xml:space="preserve">
+    <value>Mera, Tateyama City</value>
+  </data>
+  <data name="31202" xml:space="preserve">
+    <value>Harumi, Tokyo</value>
+  </data>
+  <data name="31204" xml:space="preserve">
+    <value>Yokosuka</value>
+  </data>
+  <data name="31205" xml:space="preserve">
+    <value>Chiba</value>
+  </data>
+  <data name="31206" xml:space="preserve">
+    <value>Yokohama</value>
+  </data>
+  <data name="32001" xml:space="preserve">
+    <value>Okada, Izu-Oshima</value>
+  </data>
+  <data name="32002" xml:space="preserve">
+    <value>Tsubota, Miyakejima</value>
+  </data>
+  <data name="32003" xml:space="preserve">
+    <value>Yaene, Hachijojima</value>
+  </data>
+  <data name="32004" xml:space="preserve">
+    <value>Port Kozushima, Kozushima</value>
+  </data>
+  <data name="32005" xml:space="preserve">
+    <value>Ako, Miyakejima</value>
+  </data>
+  <data name="32006" xml:space="preserve">
+    <value>Kaminato, Hachijojima</value>
+  </data>
+  <data name="32101" xml:space="preserve">
+    <value>Futami, Chichijima</value>
+  </data>
+  <data name="32102" xml:space="preserve">
+    <value>Minamitorishima</value>
+  </data>
+  <data name="33000" xml:space="preserve">
+    <value>Odawara</value>
+  </data>
+  <data name="33001" xml:space="preserve">
+    <value>Port Misaki, Miura City</value>
+  </data>
+  <data name="33030" xml:space="preserve">
+    <value>Aburatsubo, Miura City</value>
+  </data>
+  <data name="33080" xml:space="preserve">
+    <value>off the coast of Kanagawa 40km</value>
+  </data>
+  <data name="33095" xml:space="preserve">
+    <value>off the coast of Port Sagami, Kanagawa</value>
+  </data>
+  <data name="34001" xml:space="preserve">
+    <value>Niigata</value>
+  </data>
+  <data name="34003" xml:space="preserve">
+    <value>Awashima</value>
+  </data>
+  <data name="34030" xml:space="preserve">
+    <value>Kujiranami, Kashiwazaki City</value>
+  </data>
+  <data name="34103" xml:space="preserve">
+    <value>Washizaki, Sado City</value>
+  </data>
+  <data name="35001" xml:space="preserve">
+    <value>Toyama</value>
+  </data>
+  <data name="35021" xml:space="preserve">
+    <value>Minato, Fushiki-Toyama Ports</value>
+  </data>
+  <data name="36001" xml:space="preserve">
+    <value>Nagahashi, Suzu City</value>
+  </data>
+  <data name="36002" xml:space="preserve">
+    <value>Iida, Suzu City</value>
+  </data>
+  <data name="36020" xml:space="preserve">
+    <value>Port Wajima</value>
+  </data>
+  <data name="36021" xml:space="preserve">
+    <value>Port Nanao</value>
+  </data>
+  <data name="36101" xml:space="preserve">
+    <value>Kanazawa</value>
+  </data>
+  <data name="37003" xml:space="preserve">
+    <value>Mikuni, Sakai City</value>
+  </data>
+  <data name="37020" xml:space="preserve">
+    <value>Port Tsuruga</value>
+  </data>
+  <data name="38001" xml:space="preserve">
+    <value>Uchiura, Numazu City</value>
+  </data>
+  <data name="38002" xml:space="preserve">
+    <value>Shimizu</value>
+  </data>
+  <data name="38005" xml:space="preserve">
+    <value>Omaezaki</value>
+  </data>
+  <data name="38006" xml:space="preserve">
+    <value>Maisaka</value>
+  </data>
+  <data name="38007" xml:space="preserve">
+    <value>Port Teishi, Minamiizu Town</value>
+  </data>
+  <data name="38020" xml:space="preserve">
+    <value>Port Shimoda</value>
+  </data>
+  <data name="38030" xml:space="preserve">
+    <value>Ito</value>
+  </data>
+  <data name="38031" xml:space="preserve">
+    <value>Tago, Nishiizu Town</value>
+  </data>
+  <data name="38032" xml:space="preserve">
+    <value>Yaizu</value>
+  </data>
+  <data name="38070" xml:space="preserve">
+    <value>off the coast of Shizuoka 50km</value>
+  </data>
+  <data name="38090" xml:space="preserve">
+    <value>off the coast of Omaezaki, Shizuoka</value>
+  </data>
+  <data name="39001" xml:space="preserve">
+    <value>Akabane, Tahara City</value>
+  </data>
+  <data name="39090" xml:space="preserve">
+    <value>off the coast of Ise Bay</value>
+  </data>
+  <data name="39101" xml:space="preserve">
+    <value>Nagoya</value>
+  </data>
+  <data name="39102" xml:space="preserve">
+    <value>Kinuura, Handa City</value>
+  </data>
+  <data name="39103" xml:space="preserve">
+    <value>Yokkaichi</value>
+  </data>
+  <data name="39120" xml:space="preserve">
+    <value>Port Mikawa, Toyohashi City</value>
+  </data>
+  <data name="40001" xml:space="preserve">
+    <value>Toba</value>
+  </data>
+  <data name="40002" xml:space="preserve">
+    <value>Owase</value>
+  </data>
+  <data name="40003" xml:space="preserve">
+    <value>Yuki, Kumano City</value>
+  </data>
+  <data name="40050" xml:space="preserve">
+    <value>off the southeast coast of Mie 90km A</value>
+  </data>
+  <data name="40060" xml:space="preserve">
+    <value>off the southeast coast of Mie 80km A</value>
+  </data>
+  <data name="40061" xml:space="preserve">
+    <value>off the southeast coast of Mie 80km B</value>
+  </data>
+  <data name="40062" xml:space="preserve">
+    <value>off the southeast coast of Mie 80km C</value>
+  </data>
+  <data name="40063" xml:space="preserve">
+    <value>off the southeast coast of Mie 70km A</value>
+  </data>
+  <data name="40070" xml:space="preserve">
+    <value>off the southeast coast of Mie 60km A</value>
+  </data>
+  <data name="40071" xml:space="preserve">
+    <value>off the southeast coast of Mie 60km B</value>
+  </data>
+  <data name="40072" xml:space="preserve">
+    <value>off the southeast coast of Mie 50km A</value>
+  </data>
+  <data name="40080" xml:space="preserve">
+    <value>off the southeast coast of Mie 40km A</value>
+  </data>
+  <data name="40081" xml:space="preserve">
+    <value>off the southeast coast of Mie 40km B</value>
+  </data>
+  <data name="40082" xml:space="preserve">
+    <value>off the southeast coast of Mie 30km A</value>
+  </data>
+  <data name="40090" xml:space="preserve">
+    <value>off the coast of Owase, Mie</value>
+  </data>
+  <data name="50001" xml:space="preserve">
+    <value>Maizuru</value>
+  </data>
+  <data name="51001" xml:space="preserve">
+    <value>Tenpozan, Osaka</value>
+  </data>
+  <data name="51002" xml:space="preserve">
+    <value>Tannowa, Misaki Town</value>
+  </data>
+  <data name="52001" xml:space="preserve">
+    <value>Tsuiyama, Toyooka City</value>
+  </data>
+  <data name="52101" xml:space="preserve">
+    <value>Kobe</value>
+  </data>
+  <data name="52102" xml:space="preserve">
+    <value>Himeji</value>
+  </data>
+  <data name="52202" xml:space="preserve">
+    <value>Sumoto</value>
+  </data>
+  <data name="53001" xml:space="preserve">
+    <value>Uragami, Nachikatsuura Town</value>
+  </data>
+  <data name="53002" xml:space="preserve">
+    <value>Port Fukuro, Kushimoto Town</value>
+  </data>
+  <data name="53004" xml:space="preserve">
+    <value>Wakayama</value>
+  </data>
+  <data name="53006" xml:space="preserve">
+    <value>Haraido, Gobo City</value>
+  </data>
+  <data name="53007" xml:space="preserve">
+    <value>Katata, Shirahama Town</value>
+  </data>
+  <data name="53060" xml:space="preserve">
+    <value>off the coast of Wakayama 80km A</value>
+  </data>
+  <data name="53061" xml:space="preserve">
+    <value>off the coast of Wakayama 80km B</value>
+  </data>
+  <data name="53062" xml:space="preserve">
+    <value>off the coast of Wakayama 70km A</value>
+  </data>
+  <data name="53063" xml:space="preserve">
+    <value>off the coast of Wakayama 70km B</value>
+  </data>
+  <data name="53064" xml:space="preserve">
+    <value>off the coast of Wakayama 80km C</value>
+  </data>
+  <data name="53065" xml:space="preserve">
+    <value>off the coast of Wakayama 80km D</value>
+  </data>
+  <data name="53066" xml:space="preserve">
+    <value>off the coast of Wakayama 80km R</value>
+  </data>
+  <data name="53067" xml:space="preserve">
+    <value>off the coast of Wakayama 70km C</value>
+  </data>
+  <data name="53068" xml:space="preserve">
+    <value>off the coast of Wakayama 70km D</value>
+  </data>
+  <data name="53069" xml:space="preserve">
+    <value>off the coast of Wakayama 70km E</value>
+  </data>
+  <data name="53070" xml:space="preserve">
+    <value>off the coast of Wakayama 50km A</value>
+  </data>
+  <data name="53071" xml:space="preserve">
+    <value>off the coast of Wakayama 50km B</value>
+  </data>
+  <data name="53072" xml:space="preserve">
+    <value>off the coast of Wakayama 60km A</value>
+  </data>
+  <data name="53073" xml:space="preserve">
+    <value>off the coast of Wakayama 60km B</value>
+  </data>
+  <data name="53074" xml:space="preserve">
+    <value>off the coast of Wakayama 60km C</value>
+  </data>
+  <data name="53075" xml:space="preserve">
+    <value>off the coast of Wakayama 50km C</value>
+  </data>
+  <data name="53076" xml:space="preserve">
+    <value>off the coast of Wakayama 50km D</value>
+  </data>
+  <data name="53077" xml:space="preserve">
+    <value>off the coast of Wakayama 50km E</value>
+  </data>
+  <data name="53078" xml:space="preserve">
+    <value>off the coast of Wakayama 50km F</value>
+  </data>
+  <data name="53079" xml:space="preserve">
+    <value>off the coast of Wakayama 40km A</value>
+  </data>
+  <data name="53080" xml:space="preserve">
+    <value>off the coast of Wakayama 30km A</value>
+  </data>
+  <data name="53081" xml:space="preserve">
+    <value>off the coast of Wakayama 30km B</value>
+  </data>
+  <data name="53082" xml:space="preserve">
+    <value>off the coast of Wakayama 40km B</value>
+  </data>
+  <data name="53083" xml:space="preserve">
+    <value>off the coast of Wakayama 40km C</value>
+  </data>
+  <data name="53084" xml:space="preserve">
+    <value>off the coast of Wakayama 40km D</value>
+  </data>
+  <data name="53085" xml:space="preserve">
+    <value>off the coast of Wakayama 40km E</value>
+  </data>
+  <data name="53086" xml:space="preserve">
+    <value>off the coast of Wakayama 40km F</value>
+  </data>
+  <data name="53087" xml:space="preserve">
+    <value>off the coast of Wakayama 40km G</value>
+  </data>
+  <data name="53088" xml:space="preserve">
+    <value>off the coast of Wakayama 30km C</value>
+  </data>
+  <data name="53089" xml:space="preserve">
+    <value>off the coast of Wakayama 30km D</value>
+  </data>
+  <data name="53090" xml:space="preserve">
+    <value>off the coast of Shirahama, Wakayama</value>
+  </data>
+  <data name="54001" xml:space="preserve">
+    <value>Sakaiminato City border</value>
+  </data>
+  <data name="54030" xml:space="preserve">
+    <value>Tajiri, Iwami Town</value>
+  </data>
+  <data name="55001" xml:space="preserve">
+    <value>Hamada</value>
+  </data>
+  <data name="55101" xml:space="preserve">
+    <value>Saigo, Oki</value>
+  </data>
+  <data name="56001" xml:space="preserve">
+    <value>Uno, Tamano City</value>
+  </data>
+  <data name="57001" xml:space="preserve">
+    <value>Hiroshima</value>
+  </data>
+  <data name="57002" xml:space="preserve">
+    <value>Kure</value>
+  </data>
+  <data name="58001" xml:space="preserve">
+    <value>Komatsushima</value>
+  </data>
+  <data name="58002" xml:space="preserve">
+    <value>Yuki, Tokushima</value>
+  </data>
+  <data name="58070" xml:space="preserve">
+    <value>off the coast of Tokushima 50km A</value>
+  </data>
+  <data name="58071" xml:space="preserve">
+    <value>off the coast of Tokushima 50km B</value>
+  </data>
+  <data name="58080" xml:space="preserve">
+    <value>off the coast of Tokushima 40km A</value>
+  </data>
+  <data name="58081" xml:space="preserve">
+    <value>off the coast of Tokushima 40km B</value>
+  </data>
+  <data name="58090" xml:space="preserve">
+    <value>off the coast of Kaiyo, Tokushima</value>
+  </data>
+  <data name="59001" xml:space="preserve">
+    <value>Takamatsu</value>
+  </data>
+  <data name="59020" xml:space="preserve">
+    <value>Port Yoshima, Sakaide City</value>
+  </data>
+  <data name="59022" xml:space="preserve">
+    <value>Port Tadotsu</value>
+  </data>
+  <data name="60001" xml:space="preserve">
+    <value>Uwajima</value>
+  </data>
+  <data name="60101" xml:space="preserve">
+    <value>Matsuyama</value>
+  </data>
+  <data name="60121" xml:space="preserve">
+    <value>Umashima, Imabari City</value>
+  </data>
+  <data name="61001" xml:space="preserve">
+    <value>Cape Muroto, Muroto City</value>
+  </data>
+  <data name="61002" xml:space="preserve">
+    <value>Kochi</value>
+  </data>
+  <data name="61003" xml:space="preserve">
+    <value>Tosashimizu</value>
+  </data>
+  <data name="61020" xml:space="preserve">
+    <value>Port Susaki</value>
+  </data>
+  <data name="61030" xml:space="preserve">
+    <value>Port Kure, Nakatosa Town</value>
+  </data>
+  <data name="61050" xml:space="preserve">
+    <value>off the coast of Kochi 100km A</value>
+  </data>
+  <data name="61060" xml:space="preserve">
+    <value>off the coast of Kochi 70km A</value>
+  </data>
+  <data name="61061" xml:space="preserve">
+    <value>off the coast of Kochi 80km A</value>
+  </data>
+  <data name="61062" xml:space="preserve">
+    <value>off the coast of Kochi 70km B</value>
+  </data>
+  <data name="61063" xml:space="preserve">
+    <value>off the coast of Kochi 70km C</value>
+  </data>
+  <data name="61070" xml:space="preserve">
+    <value>off the coast of Kochi 60km A</value>
+  </data>
+  <data name="61090" xml:space="preserve">
+    <value>off the coast of Cape Ashizuri, Kochi</value>
+  </data>
+  <data name="61091" xml:space="preserve">
+    <value>off the coast of Cape Muroto, Kochi</value>
+  </data>
+  <data name="70021" xml:space="preserve">
+    <value>Port Haedomari, Shimonoseki City</value>
+  </data>
+  <data name="70101" xml:space="preserve">
+    <value>Hikoshimadeshimatsu, Shimonoseki City</value>
+  </data>
+  <data name="70102" xml:space="preserve">
+    <value>Tokuyama</value>
+  </data>
+  <data name="70120" xml:space="preserve">
+    <value>Port Ube</value>
+  </data>
+  <data name="70121" xml:space="preserve">
+    <value>Mitajiri-Nakanoseki Ports</value>
+  </data>
+  <data name="70122" xml:space="preserve">
+    <value>Chofu, Port Shimonoseki</value>
+  </data>
+  <data name="71002" xml:space="preserve">
+    <value>Moji, Kitakyushu City</value>
+  </data>
+  <data name="71021" xml:space="preserve">
+    <value>Port Kanda</value>
+  </data>
+  <data name="71022" xml:space="preserve">
+    <value>Aohama, Port Kitakyushu</value>
+  </data>
+  <data name="71101" xml:space="preserve">
+    <value>Hakata, Fukuoka City</value>
+  </data>
+  <data name="71120" xml:space="preserve">
+    <value>Hiagari, Port Kitakyushu</value>
+  </data>
+  <data name="71201" xml:space="preserve">
+    <value>Miike, Omuta City</value>
+  </data>
+  <data name="71202" xml:space="preserve">
+    <value>Nozaki, Oura, Tara Town</value>
+  </data>
+  <data name="71203" xml:space="preserve">
+    <value>Misumi</value>
+  </data>
+  <data name="71220" xml:space="preserve">
+    <value>Port Yatsushiro</value>
+  </data>
+  <data name="71221" xml:space="preserve">
+    <value>Port Hondo, Amakusa City</value>
+  </data>
+  <data name="71222" xml:space="preserve">
+    <value>Port Kumamoto</value>
+  </data>
+  <data name="72020" xml:space="preserve">
+    <value>Port Karatsu</value>
+  </data>
+  <data name="72030" xml:space="preserve">
+    <value>Kariya, Genkai Town</value>
+  </data>
+  <data name="73001" xml:space="preserve">
+    <value>Nagasaki</value>
+  </data>
+  <data name="73002" xml:space="preserve">
+    <value>Kuchinotsu</value>
+  </data>
+  <data name="73003" xml:space="preserve">
+    <value>Port Fukue, Fukue Island</value>
+  </data>
+  <data name="73004" xml:space="preserve">
+    <value>Sasebo</value>
+  </data>
+  <data name="73020" xml:space="preserve">
+    <value>Kogo, Port Nagasaki</value>
+  </data>
+  <data name="73021" xml:space="preserve">
+    <value>Port Tabira, Hirado City</value>
+  </data>
+  <data name="73102" xml:space="preserve">
+    <value>Hitakatsu, Tsuima</value>
+  </data>
+  <data name="73110" xml:space="preserve">
+    <value>Izuhara, Tsuima City</value>
+  </data>
+  <data name="73120" xml:space="preserve">
+    <value>Port Gonoura, Iki Island</value>
+  </data>
+  <data name="74000" xml:space="preserve">
+    <value>Tororo, Reihoku Town</value>
+  </data>
+  <data name="75001" xml:space="preserve">
+    <value>Oita</value>
+  </data>
+  <data name="75020" xml:space="preserve">
+    <value>Port Beppu</value>
+  </data>
+  <data name="75100" xml:space="preserve">
+    <value>Matsuura, Saiki City</value>
+  </data>
+  <data name="76001" xml:space="preserve">
+    <value>Hososhima, Hyuga City</value>
+  </data>
+  <data name="76002" xml:space="preserve">
+    <value>Aburatsu, Nichinan City</value>
+  </data>
+  <data name="76020" xml:space="preserve">
+    <value>Port Miyazaki</value>
+  </data>
+  <data name="76090" xml:space="preserve">
+    <value>off the coast of Hyuga, Miyazaki</value>
+  </data>
+  <data name="77002" xml:space="preserve">
+    <value>Odomari, Minamiosumi Town</value>
+  </data>
+  <data name="77020" xml:space="preserve">
+    <value>Port Shibushi</value>
+  </data>
+  <data name="77102" xml:space="preserve">
+    <value>Nishinoomote, Tanegashima</value>
+  </data>
+  <data name="77103" xml:space="preserve">
+    <value>Kumano, Tanegashima</value>
+  </data>
+  <data name="77203" xml:space="preserve">
+    <value>Nakanoshima</value>
+  </data>
+  <data name="77204" xml:space="preserve">
+    <value>Kominato, Amami City</value>
+  </data>
+  <data name="77205" xml:space="preserve">
+    <value>Naze, Amami City</value>
+  </data>
+  <data name="77302" xml:space="preserve">
+    <value>Makurazaki</value>
+  </data>
+  <data name="77303" xml:space="preserve">
+    <value>Kagoshima</value>
+  </data>
+  <data name="77330" xml:space="preserve">
+    <value>Akune</value>
+  </data>
+  <data name="80001" xml:space="preserve">
+    <value>Naha</value>
+  </data>
+  <data name="80002" xml:space="preserve">
+    <value>Kumejima</value>
+  </data>
+  <data name="80003" xml:space="preserve">
+    <value>Port of Nakagusuku Bay, Okinami City</value>
+  </data>
+  <data name="80030" xml:space="preserve">
+    <value>Azama, Nanjo City</value>
+  </data>
+  <data name="80102" xml:space="preserve">
+    <value>Port Minamidaito</value>
+  </data>
+  <data name="80203" xml:space="preserve">
+    <value>Iriomote Island</value>
+  </data>
+  <data name="80204" xml:space="preserve">
+    <value>Kubura, Yonaguni Island</value>
+  </data>
+  <data name="80205" xml:space="preserve">
+    <value>Port Ishigaki, Ishigaki Island</value>
+  </data>
+  <data name="80206" xml:space="preserve">
+    <value>Hirara, Miyako Island</value>
+  </data>
+  <data name="91010" xml:space="preserve">
+    <value>off the coast of Kushiro 110km A</value>
+  </data>
+  <data name="91011" xml:space="preserve">
+    <value>off the coast of Tokachi 110km A</value>
+  </data>
+  <data name="91012" xml:space="preserve">
+    <value>off the coast of Tokachi 120km A</value>
+  </data>
+  <data name="91020" xml:space="preserve">
+    <value>off the coast of Kushiro 130km A</value>
+  </data>
+  <data name="91021" xml:space="preserve">
+    <value>off the coast of Kushiro 130km B</value>
+  </data>
+  <data name="91030" xml:space="preserve">
+    <value>off the coast of Kushiro 150km A</value>
+  </data>
+  <data name="91031" xml:space="preserve">
+    <value>off the coast of Tokachi 150km A</value>
+  </data>
+  <data name="91032" xml:space="preserve">
+    <value>off the coast of Kushiro 160km A</value>
+  </data>
+  <data name="91033" xml:space="preserve">
+    <value>off the coast of Kushiro 170km A</value>
+  </data>
+  <data name="91040" xml:space="preserve">
+    <value>off the coast of Kushiro 180km A</value>
+  </data>
+  <data name="92010" xml:space="preserve">
+    <value>off the east coast of Aomori 120km A</value>
+  </data>
+  <data name="92030" xml:space="preserve">
+    <value>off the east coast of Aomori 160km A</value>
+  </data>
+  <data name="92040" xml:space="preserve">
+    <value>off the east coast of Aomori 180km A</value>
+  </data>
+  <data name="92041" xml:space="preserve">
+    <value>off the east coast of Aomori 200km A</value>
+  </data>
+  <data name="92042" xml:space="preserve">
+    <value>off the east coast of Aomori 200km B</value>
+  </data>
+  <data name="92060" xml:space="preserve">
+    <value>off the east coast of Aomori 260km A</value>
+  </data>
+  <data name="92070" xml:space="preserve">
+    <value>off the east coast of Aomori 310km A</value>
+  </data>
+  <data name="92110" xml:space="preserve">
+    <value>off the coast of Iwate 110km A</value>
+  </data>
+  <data name="92111" xml:space="preserve">
+    <value>off the coast of Iwate 120km A</value>
+  </data>
+  <data name="92112" xml:space="preserve">
+    <value>off the coast of Iwate 120km B</value>
+  </data>
+  <data name="92120" xml:space="preserve">
+    <value>off the coast of Iwate 140km A</value>
+  </data>
+  <data name="92121" xml:space="preserve">
+    <value>off the coast of Iwate 140km B</value>
+  </data>
+  <data name="92122" xml:space="preserve">
+    <value>off the coast of Iwate 140km C</value>
+  </data>
+  <data name="92130" xml:space="preserve">
+    <value>off the coast of Iwate 150km A</value>
+  </data>
+  <data name="92131" xml:space="preserve">
+    <value>off the coast of Iwate 160km A</value>
+  </data>
+  <data name="92132" xml:space="preserve">
+    <value>off the coast of Iwate 170km A</value>
+  </data>
+  <data name="92133" xml:space="preserve">
+    <value>off the coast of Iwate 170km B</value>
+  </data>
+  <data name="92134" xml:space="preserve">
+    <value>off the coast of Iwate 170km C</value>
+  </data>
+  <data name="92150" xml:space="preserve">
+    <value>off the coast of Iwate 220km A</value>
+  </data>
+  <data name="92151" xml:space="preserve">
+    <value>off the coast of Iwate 230km A</value>
+  </data>
+  <data name="92152" xml:space="preserve">
+    <value>off the coast of Iwate 240km A</value>
+  </data>
+  <data name="92210" xml:space="preserve">
+    <value>off the coast of Miyagi 110km A</value>
+  </data>
+  <data name="92211" xml:space="preserve">
+    <value>off the coast of Miyagi 110km B</value>
+  </data>
+  <data name="92212" xml:space="preserve">
+    <value>off the coast of Miyagi 120km A</value>
+  </data>
+  <data name="92220" xml:space="preserve">
+    <value>off the coast of Miyagi 130km A</value>
+  </data>
+  <data name="92221" xml:space="preserve">
+    <value>off the coast of Miyagi 140km A</value>
+  </data>
+  <data name="92230" xml:space="preserve">
+    <value>off the coast of Miyagi 150km A</value>
+  </data>
+  <data name="92231" xml:space="preserve">
+    <value>off the coast of Miyagi 160km A</value>
+  </data>
+  <data name="92232" xml:space="preserve">
+    <value>off the coast of Miyagi 160km B</value>
+  </data>
+  <data name="92240" xml:space="preserve">
+    <value>off the coast of Miyagi 180km A</value>
+  </data>
+  <data name="92241" xml:space="preserve">
+    <value>off the coast of Miyagi 180km B</value>
+  </data>
+  <data name="92242" xml:space="preserve">
+    <value>off the coast of Miyagi 190km A</value>
+  </data>
+  <data name="92250" xml:space="preserve">
+    <value>off the coast of Miyagi 230km A</value>
+  </data>
+  <data name="92251" xml:space="preserve">
+    <value>off the coast of Miyagi 240km A</value>
+  </data>
+  <data name="92500" xml:space="preserve">
+    <value>off the coast of Fukushima 100km A</value>
+  </data>
+  <data name="92510" xml:space="preserve">
+    <value>off the coast of Fukushima 120km A</value>
+  </data>
+  <data name="92520" xml:space="preserve">
+    <value>off the coast of Fukushima 130km A</value>
+  </data>
+  <data name="92521" xml:space="preserve">
+    <value>off the coast of Fukushima 140km A</value>
+  </data>
+  <data name="92530" xml:space="preserve">
+    <value>off the coast of Fukushima 160km A</value>
+  </data>
+  <data name="92531" xml:space="preserve">
+    <value>off the coast of Fukushima 170km A</value>
+  </data>
+  <data name="92540" xml:space="preserve">
+    <value>off the coast of Fukushima 180km A</value>
+  </data>
+  <data name="92550" xml:space="preserve">
+    <value>off the coast of Fukushima 240km A</value>
+  </data>
+  <data name="92551" xml:space="preserve">
+    <value>off the coast of Fukushima 250km A</value>
+  </data>
+  <data name="93010" xml:space="preserve">
+    <value>off the coast of Ibaraki 110km A</value>
+  </data>
+  <data name="93011" xml:space="preserve">
+    <value>off the coast of Ibaraki 120km A</value>
+  </data>
+  <data name="93020" xml:space="preserve">
+    <value>off the coast of Ibaraki 140km A</value>
+  </data>
+  <data name="93021" xml:space="preserve">
+    <value>off the coast of Ibaraki 140km B</value>
+  </data>
+  <data name="93030" xml:space="preserve">
+    <value>off the coast of Ibaraki 160km A</value>
+  </data>
+  <data name="93031" xml:space="preserve">
+    <value>off the coast of Ibaraki 160km B</value>
+  </data>
+  <data name="93050" xml:space="preserve">
+    <value>off the coast of Ibaraki 220km A</value>
+  </data>
+  <data name="93051" xml:space="preserve">
+    <value>off the coast of Ibaraki 240km A</value>
+  </data>
+  <data name="93100" xml:space="preserve">
+    <value>off the east coast of Chiba 100km A</value>
+  </data>
+  <data name="93110" xml:space="preserve">
+    <value>off the east coast of Chiba 110km A</value>
+  </data>
+  <data name="93111" xml:space="preserve">
+    <value>off the southeast coast of Chiba 110km A</value>
+  </data>
+  <data name="93112" xml:space="preserve">
+    <value>off the southeast coast of Chiba 120km A</value>
+  </data>
+  <data name="93113" xml:space="preserve">
+    <value>off the southeast coast of Chiba 120km B</value>
+  </data>
+  <data name="93114" xml:space="preserve">
+    <value>off the southeast coast of Chiba 120km C</value>
+  </data>
+  <data name="93120" xml:space="preserve">
+    <value>off the southeast coast of Chiba 140km A</value>
+  </data>
+  <data name="93121" xml:space="preserve">
+    <value>off the southeast coast of Chiba 140km B</value>
+  </data>
+  <data name="93130" xml:space="preserve">
+    <value>off the southeast coast of Chiba 160km A</value>
+  </data>
+  <data name="93131" xml:space="preserve">
+    <value>off the east coast of Chiba 170km A</value>
+  </data>
+  <data name="93140" xml:space="preserve">
+    <value>off the southeast coast of Chiba 180km A</value>
+  </data>
+  <data name="93141" xml:space="preserve">
+    <value>off the east coast of Chiba 180km A</value>
+  </data>
+  <data name="93142" xml:space="preserve">
+    <value>off the east coast of Chiba 190km A</value>
+  </data>
+  <data name="93143" xml:space="preserve">
+    <value>off the east coast of Chiba 200km A</value>
+  </data>
+  <data name="95300" xml:space="preserve">
+    <value>off the coast of Wakayama 100km A</value>
+  </data>
+  <data name="95301" xml:space="preserve">
+    <value>off the coast of Wakayama 100km B</value>
+  </data>
+  <data name="95302" xml:space="preserve">
+    <value>off the coast of Wakayama 100km C</value>
+  </data>
+  <data name="95303" xml:space="preserve">
+    <value>off the coast of Wakayama 100km D</value>
+  </data>
+  <data name="95310" xml:space="preserve">
+    <value>off the coast of Wakayama 110km A</value>
+  </data>
+</root>
