@@ -47,6 +47,7 @@
 	<string name="info_time_enable_time_zone_override_desc">使用系統的時區而不是事件源的時區</string>
 	<string name="map">地圖</string>
 	<string name="map_high_definition_tiles">高解析度圖塊</string>
+	<string name="map_pan_to_ongoing_event">自動聚焦生效中的事件</string>
 	<string name="map_poi">元素風格</string>
 	<string name="map_poi_continuous_color">使用連續的顏色</string>
 	<string name="map_poi_continuous_color_desc">根據額外的參數區分元素間的顏色（如果有）</string>

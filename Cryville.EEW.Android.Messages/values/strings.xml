@@ -47,6 +47,7 @@
 	<string name="info_time_enable_time_zone_override_desc">Use the time zone of the system instead of the event source</string>
 	<string name="map">Map</string>
 	<string name="map_high_definition_tiles">High-definition tiles</string>
+	<string name="map_pan_to_ongoing_event">Focus to ongoing events</string>
 	<string name="map_poi">POI style</string>
 	<string name="map_poi_continuous_color">Use continuous color</string>
 	<string name="map_poi_continuous_color_desc">Color elements by additional parameters (if any)</string>
