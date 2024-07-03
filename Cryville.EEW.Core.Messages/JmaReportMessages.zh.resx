@@ -471,6 +471,9 @@
   <data name="VolcanoObservationPlumeHeightAboveCrater" xml:space="preserve">
     <value>火山口上方喷烟高度为{0}米。</value>
   </data>
+  <data name="VolcanoObservationPlumeHeightAboveCraterRising" xml:space="preserve">
+    <value>上升中。</value>
+  </data>
   <data name="VolcanoObservationPlumeHeightAboveCraterUnknown" xml:space="preserve">
     <value>火山口上方喷烟高度不明。</value>
   </data>
