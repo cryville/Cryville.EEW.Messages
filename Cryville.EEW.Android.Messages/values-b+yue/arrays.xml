@@ -1,0 +1,32 @@
+<resources>
+	<string-array name="color_schemes">
+		<item>CysTerra</item>
+		<item>CysTerra（舊版）</item>
+		<item>SREV</item>
+	</string-array>
+	<string-array name="coordinated_language_pairs">
+		<item>粵語 → 中文</item>
+		<item>中文 → 粵語</item>
+		<item>粵語 → 中文（繁體）</item>
+		<item>中文（繁體）→ 粵語</item>
+		<item>中文（簡體 → 繁體）</item>
+		<item>中文（繁體 → 簡體）</item>
+	</string-array>
+	<string-array name="languages">
+		<item>@string/use_system</item>
+		<item>英文（美國）</item>
+		<item>粵語（香港）</item>
+		<item>中文（中國）</item>
+		<item>中文（台灣）</item>
+	</string-array>
+	<string-array name="poi_styles">
+		<item>點</item>
+		<item>圖標</item>
+		<item>多邊形</item>
+		<item>多邊形 + 圖標</item>
+	</string-array>
+	<string-array name="region_conversion">
+		<item>Flinn-Engdahl 區域（長）</item>
+		<item>Flinn-Engdahl 區域（短）</item>
+	</string-array>
+</resources>
