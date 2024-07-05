@@ -3,6 +3,10 @@
 		<item>CysTerra</item>
 		<item>CysTerra (Legacy)</item>
 		<item>SREV</item>
+		<item>Dichromatic (yellow-blue)</item>
+		<item>Dichromatic (red-cyan)</item>
+		<item>Dichromatic (purple-green)</item>
+		<item>Monochromatic</item>
 	</string-array>
 	<string-array name="coordinated_language_pairs">
 		<item>Cantonese → Mandarin Chinese</item>

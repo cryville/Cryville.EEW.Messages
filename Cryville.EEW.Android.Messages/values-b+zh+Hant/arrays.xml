@@ -3,6 +3,10 @@
 		<item>CysTerra</item>
 		<item>CysTerra（舊版）</item>
 		<item>SREV</item>
+		<item>雙色（黃藍）</item>
+		<item>雙色（紅青）</item>
+		<item>雙色（紫綠）</item>
+		<item>單色</item>
 	</string-array>
 	<string-array name="coordinated_language_pairs">
 		<item>粵語 → 現代標準漢語</item>
