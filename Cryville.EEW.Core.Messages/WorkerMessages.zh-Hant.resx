@@ -129,6 +129,9 @@
   <data name="Exited" xml:space="preserve">
     <value>與 {0} 的連接異常退出：{1}</value>
   </data>
+  <data name="Stopped" xml:space="preserve">
+    <value>與 {0} 的連接結束</value>
+  </data>
   <data name="WorkerCryville.EEW.CwaReportWorker-1[Cryville.EEW.Models.Cwa.Earthquake]" xml:space="preserve">
     <value>CWA（地震）</value>
   </data>

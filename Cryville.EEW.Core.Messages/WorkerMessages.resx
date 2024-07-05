@@ -129,6 +129,9 @@
   <data name="Exited" xml:space="preserve">
     <value>Connection with {0} exited abnormally: {1}</value>
   </data>
+  <data name="Stopped" xml:space="preserve">
+    <value>Connection with {0} stopped</value>
+  </data>
   <data name="WorkerCryville.EEW.CwaReportWorker-1[Cryville.EEW.Models.Cwa.Earthquake]" xml:space="preserve">
     <value>CWA (Earthquake)</value>
   </data>
