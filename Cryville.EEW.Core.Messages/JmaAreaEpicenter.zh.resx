@@ -328,10 +328,10 @@
     <value>岩手县沿岸南部</value>
   </data>
   <data name="212" xml:space="preserve">
-    <value>岩手县内陆地北部</value>
+    <value>岩手县内陆北部</value>
   </data>
   <data name="213" xml:space="preserve">
-    <value>岩手县内陆地南部</value>
+    <value>岩手县内陆南部</value>
   </data>
   <data name="220" xml:space="preserve">
     <value>宫城县北部</value>
@@ -349,10 +349,10 @@
     <value>秋田县沿岸南部</value>
   </data>
   <data name="232" xml:space="preserve">
-    <value>秋田县内陆地北部</value>
+    <value>秋田县内陆北部</value>
   </data>
   <data name="233" xml:space="preserve">
-    <value>秋田县内陆地南部</value>
+    <value>秋田县内陆南部</value>
   </data>
   <data name="240" xml:space="preserve">
     <value>山形县庄内地方</value>
