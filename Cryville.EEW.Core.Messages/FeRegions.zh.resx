@@ -493,7 +493,7 @@
     <value>马里亚纳群岛以南</value>
   </data>
   <data name="211" xml:space="preserve">
-    <value>伊豆群岛</value>
+    <value>本州东南</value>
   </data>
   <data name="212" xml:space="preserve">
     <value>小笠原群岛</value>
@@ -538,10 +538,10 @@
     <value>北海道</value>
   </data>
   <data name="225" xml:space="preserve">
-    <value>北海道近海</value>
+    <value>北海道东南岸近海</value>
   </data>
   <data name="226" xml:space="preserve">
-    <value>北海道沿岸</value>
+    <value>本州西岸</value>
   </data>
   <data name="227" xml:space="preserve">
     <value>本州东部</value>
@@ -556,7 +556,7 @@
     <value>不列颠哥伦比亚省</value>
   </data>
   <data name="230" xml:space="preserve">
-    <value>本州南岸</value>
+    <value>本州东部南岸</value>
   </data>
   <data name="231" xml:space="preserve">
     <value>韩国</value>
@@ -808,10 +808,10 @@
     <value>西藏西部—印度边境</value>
   </data>
   <data name="306" xml:space="preserve">
-    <value>西藏西部</value>
+    <value>中国西藏</value>
   </data>
   <data name="307" xml:space="preserve">
-    <value>中国四川东部</value>
+    <value>中国四川</value>
   </data>
   <data name="308" xml:space="preserve">
     <value>印度北部</value>
@@ -871,7 +871,7 @@
     <value>克什米尔—新疆边境</value>
   </data>
   <data name="325" xml:space="preserve">
-    <value>中国青海北部</value>
+    <value>中国青海</value>
   </data>
   <data name="326" xml:space="preserve">
     <value>西伯利亚西南部</value>
@@ -901,7 +901,7 @@
     <value>俄罗斯—蒙古边境</value>
   </data>
   <data name="334" xml:space="preserve">
-    <value>蒙古中部</value>
+    <value>蒙古</value>
   </data>
   <data name="335" xml:space="preserve">
     <value>乌拉尔山脉</value>

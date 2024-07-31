@@ -886,7 +886,7 @@
     <value>カザフスタン東部</value>
   </data>
   <data name="33" xml:space="preserve">
-    <value>アイダホ州</value>
+    <value>アイダホ州西部</value>
   </data>
   <data name="330" xml:space="preserve">
     <value>イシククル湖</value>
@@ -910,13 +910,13 @@
     <value>カザフスタン西部</value>
   </data>
   <data name="337" xml:space="preserve">
-    <value>コーカサス</value>
+    <value>コーカサス東部</value>
   </data>
   <data name="338" xml:space="preserve">
     <value>カスピ海</value>
   </data>
   <data name="339" xml:space="preserve">
-    <value>ウズベキスタン</value>
+    <value>ウズベキスタン西部</value>
   </data>
   <data name="34" xml:space="preserve">
     <value>カリフォルニア州北部沖</value>
@@ -937,25 +937,25 @@
     <value>イラン／アルメニア／アゼルバイジャン国境</value>
   </data>
   <data name="345" xml:space="preserve">
-    <value>イラン</value>
+    <value>イラン北西部</value>
   </data>
   <data name="346" xml:space="preserve">
     <value>イラン／イラク国境</value>
   </data>
   <data name="347" xml:space="preserve">
-    <value>イラン</value>
+    <value>イラン西部</value>
   </data>
   <data name="348" xml:space="preserve">
-    <value>イラン</value>
+    <value>イラン中央部</value>
   </data>
   <data name="349" xml:space="preserve">
-    <value>アフガニスタン</value>
+    <value>アフガニスタン北西部</value>
   </data>
   <data name="35" xml:space="preserve">
     <value>カリフォルニア州北部沿岸</value>
   </data>
   <data name="350" xml:space="preserve">
-    <value>アフガニスタン</value>
+    <value>アフガニスタン南西部</value>
   </data>
   <data name="351" xml:space="preserve">
     <value>アラビア半島東部</value>
@@ -994,7 +994,7 @@
     <value>クリミア</value>
   </data>
   <data name="362" xml:space="preserve">
-    <value>コーカサス</value>
+    <value>コーカサス北西部</value>
   </data>
   <data name="363" xml:space="preserve">
     <value>ギリシャ／ブルガリア国境</value>
@@ -1153,7 +1153,7 @@
     <value>南大西洋</value>
   </data>
   <data name="41" xml:space="preserve">
-    <value>ネバダ州</value>
+    <value>ネバダ州南部</value>
   </data>
   <data name="410" xml:space="preserve">
     <value>大西洋中央海嶺南部</value>
@@ -1171,7 +1171,7 @@
     <value>大西洋南東部</value>
   </data>
   <data name="415" xml:space="preserve">
-    <value>アデン湾</value>
+    <value>アデン湾東部</value>
   </data>
   <data name="416" xml:space="preserve">
     <value>ソコトラ島</value>
@@ -1186,7 +1186,7 @@
     <value>ソマリア北東部</value>
   </data>
   <data name="42" xml:space="preserve">
-    <value>アリゾナ州</value>
+    <value>アリゾナ州西部</value>
   </data>
   <data name="420" xml:space="preserve">
     <value>北インド洋</value>
@@ -1309,7 +1309,7 @@
     <value>モンタナ州</value>
   </data>
   <data name="457" xml:space="preserve">
-    <value>アイダホ州</value>
+    <value>アイダホ州東部</value>
   </data>
   <data name="458" xml:space="preserve">
     <value>モンタナ州ヘブゲン湖</value>
@@ -1405,10 +1405,10 @@
     <value>ミズーリ／イリノイ州境</value>
   </data>
   <data name="486" xml:space="preserve">
-    <value>ミズーリ州</value>
+    <value>ミズーリ州南東部</value>
   </data>
   <data name="487" xml:space="preserve">
-    <value>ミズーリ州</value>
+    <value>ミズーリ州、ケープジラード</value>
   </data>
   <data name="488" xml:space="preserve">
     <value>イリノイ州南部</value>
@@ -1435,7 +1435,7 @@
     <value>ニュージャージー州</value>
   </data>
   <data name="495" xml:space="preserve">
-    <value>アリゾナ州</value>
+    <value>アリゾナ州東部</value>
   </data>
   <data name="496" xml:space="preserve">
     <value>ニューメキシコ州</value>
@@ -1648,7 +1648,7 @@
     <value>エチオピア</value>
   </data>
   <data name="559" xml:space="preserve">
-    <value>アデン湾</value>
+    <value>アデン湾西部</value>
   </data>
   <data name="56" xml:space="preserve">
     <value>ミチョアカン州沿岸</value>
@@ -1774,7 +1774,7 @@
     <value>ニューカレドニア北西方</value>
   </data>
   <data name="597" xml:space="preserve">
-    <value>ニューカレドニア</value>
+    <value>ニューカレドニア南西方</value>
   </data>
   <data name="598" xml:space="preserve">
     <value>オーストラリア南西方</value>
@@ -1831,7 +1831,7 @@
     <value>ハワイ諸島</value>
   </data>
   <data name="613" xml:space="preserve">
-    <value>ハワイ諸島</value>
+    <value>ハワイ州</value>
   </data>
   <data name="614" xml:space="preserve">
     <value>ミクロネシア連邦</value>
@@ -1840,10 +1840,10 @@
     <value>マーシャル諸島</value>
   </data>
   <data name="616" xml:space="preserve">
-    <value>マーシャル諸島</value>
+    <value>マーシャル諸島、エニウェトク環礁</value>
   </data>
   <data name="617" xml:space="preserve">
-    <value>マーシャル諸島</value>
+    <value>マーシャル諸島、ビキニ環礁</value>
   </data>
   <data name="618" xml:space="preserve">
     <value>ギルバート諸島</value>
@@ -2167,7 +2167,7 @@
     <value>カザフスタン中部</value>
   </data>
   <data name="714" xml:space="preserve">
-    <value>ウズベキスタン</value>
+    <value>ウズベキスタン東部</value>
   </data>
   <data name="715" xml:space="preserve">
     <value>タジキスタン</value>

@@ -493,7 +493,7 @@
     <value>south of the Mariana Islands</value>
   </data>
   <data name="211" xml:space="preserve">
-    <value>Izu Islands</value>
+    <value>southeast of Honshu</value>
   </data>
   <data name="212" xml:space="preserve">
     <value>Bonin Islands</value>
@@ -538,7 +538,7 @@
     <value>Hokkaido</value>
   </data>
   <data name="225" xml:space="preserve">
-    <value>off the coast of Hokkaido</value>
+    <value>off the southeast coast of Hokkaido</value>
   </data>
   <data name="226" xml:space="preserve">
     <value>near the west coast of Honshu</value>
@@ -556,7 +556,7 @@
     <value>British Columbia</value>
   </data>
   <data name="230" xml:space="preserve">
-    <value>near the south coast of Honshu</value>
+    <value>near the south coast of eastern Honshu</value>
   </data>
   <data name="231" xml:space="preserve">
     <value>South Korea</value>
@@ -808,10 +808,10 @@
     <value>western Xizang-India border</value>
   </data>
   <data name="306" xml:space="preserve">
-    <value>western Xizang</value>
+    <value>Xizang, China</value>
   </data>
   <data name="307" xml:space="preserve">
-    <value>eastern Sichuan, China</value>
+    <value>Sichuan, China</value>
   </data>
   <data name="308" xml:space="preserve">
     <value>northern India</value>
@@ -871,7 +871,7 @@
     <value>Kashmir-Xinjiang border</value>
   </data>
   <data name="325" xml:space="preserve">
-    <value>northern Qinghai, China</value>
+    <value>Qinghai, China</value>
   </data>
   <data name="326" xml:space="preserve">
     <value>southwestern Siberia</value>
@@ -901,7 +901,7 @@
     <value>Russia-Mongolia border</value>
   </data>
   <data name="334" xml:space="preserve">
-    <value>central Mongolia</value>
+    <value>Mongolia</value>
   </data>
   <data name="335" xml:space="preserve">
     <value>Ural Mountains</value>
