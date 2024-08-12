@@ -471,6 +471,9 @@
   <data name="VolcanoObservationPlumeHeightAboveCrater" xml:space="preserve">
     <value>The plume height is {0} meters above the crater.</value>
   </data>
+  <data name="VolcanoObservationPlumeHeightAboveCraterIntoClouds" xml:space="preserve">
+    <value> Into clouds.</value>
+  </data>
   <data name="VolcanoObservationPlumeHeightAboveCraterRising" xml:space="preserve">
     <value> Rising.</value>
   </data>

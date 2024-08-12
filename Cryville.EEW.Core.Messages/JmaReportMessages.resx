@@ -243,6 +243,9 @@
   <data name="VolcanoObservationPlumeHeightAboveCrater" xml:space="preserve">
     <value>火口上噴煙高度は{0}メートル。</value>
   </data>
+  <data name="VolcanoObservationPlumeHeightAboveCraterIntoClouds" xml:space="preserve">
+    <value>雲に入る。</value>
+  </data>
   <data name="VolcanoObservationPlumeHeightAboveCraterRising" xml:space="preserve">
     <value>上昇中。</value>
   </data>
