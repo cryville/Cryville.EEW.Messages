@@ -325,10 +325,10 @@
     <value>埼玉县秩父</value>
   </data>
   <data name="340" xml:space="preserve">
-    <value>千叶县北东部</value>
+    <value>千叶县东北部</value>
   </data>
   <data name="341" xml:space="preserve">
-    <value>千叶县北西部</value>
+    <value>千叶县西北部</value>
   </data>
   <data name="342" xml:space="preserve">
     <value>千叶县南部</value>
@@ -643,7 +643,7 @@
     <value>鹿儿岛县十岛村</value>
   </data>
   <data name="775" xml:space="preserve">
-    <value>鹿儿岛县甄岛</value>
+    <value>鹿儿岛县甑岛</value>
   </data>
   <data name="776" xml:space="preserve">
     <value>鹿儿岛种子岛</value>
@@ -661,7 +661,7 @@
     <value>冲绳县本岛北部</value>
   </data>
   <data name="801" xml:space="preserve">
-    <value>冲绳县本岛可中南部</value>
+    <value>冲绳县本岛中南部</value>
   </data>
   <data name="802" xml:space="preserve">
     <value>冲绳县久米岛</value>

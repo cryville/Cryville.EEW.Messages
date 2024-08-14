@@ -268,7 +268,7 @@
     <value>兵库县北部</value>
   </data>
   <data name="521" xml:space="preserve">
-    <value>兵库县濑戸内海沿岸</value>
+    <value>兵库县濑户内海沿岸</value>
   </data>
   <data name="522" xml:space="preserve">
     <value>淡路岛南部</value>
@@ -301,7 +301,7 @@
     <value>爱媛县宇和海沿岸</value>
   </data>
   <data name="601" xml:space="preserve">
-    <value>爱媛县濑戸内海沿岸</value>
+    <value>爱媛县濑户内海沿岸</value>
   </data>
   <data name="610" xml:space="preserve">
     <value>高知县</value>
@@ -322,16 +322,16 @@
     <value>近畿中国日本海沿岸</value>
   </data>
   <data name="693" xml:space="preserve">
-    <value>濑戸内海沿岸</value>
+    <value>濑户内海沿岸</value>
   </data>
   <data name="700" xml:space="preserve">
     <value>山口县日本海沿岸</value>
   </data>
   <data name="701" xml:space="preserve">
-    <value>山口县濑戸内海沿岸</value>
+    <value>山口县濑户内海沿岸</value>
   </data>
   <data name="710" xml:space="preserve">
-    <value>福冈县濑戸内海沿岸</value>
+    <value>福冈县濑户内海沿岸</value>
   </data>
   <data name="711" xml:space="preserve">
     <value>福冈县日本海沿岸</value>
@@ -352,7 +352,7 @@
     <value>熊本县天草滩沿岸</value>
   </data>
   <data name="750" xml:space="preserve">
-    <value>大分县濑戸内海沿岸</value>
+    <value>大分县濑户内海沿岸</value>
   </data>
   <data name="751" xml:space="preserve">
     <value>大分县丰后水道沿岸</value>
