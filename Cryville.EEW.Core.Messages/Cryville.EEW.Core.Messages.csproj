@@ -8,155 +8,41 @@
 		<Platforms>AnyCPU;ARM64</Platforms>
 		<Version>0.2.3</Version>
 		<RootNamespace>Cryville.EEW.Core.Resources</RootNamespace>
+		<RespectAlreadyAssignedItemCulture>True</RespectAlreadyAssignedItemCulture>
 	</PropertyGroup>
 
 	<ItemGroup>
-		<Compile Update="CencEqMessages.Designer.cs">
-			<DependentUpon>CencEqMessages.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="CwaEewMessages.Designer.cs">
-			<DependentUpon>CwaEewMessages.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="CwaReportMessages.Designer.cs">
-			<DependentUpon>CwaReportMessages.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="FeRegions.Designer.cs">
-			<DependentUpon>FeRegions.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="FjEewMessages.Designer.cs">
-			<DependentUpon>FjEewMessages.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="GenericMessages.Designer.cs">
-			<DependentUpon>GenericMessages.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="JmaAreaEpicenter.Designer.cs">
-			<DependentUpon>JmaAreaEpicenter.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="JmaAreaForecastEEW.Designer.cs">
-			<DependentUpon>JmaAreaForecastEEW.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="JmaAreaTsunami.Designer.cs">
-			<DependentUpon>JmaAreaTsunami.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="JmaEewMessages.Designer.cs">
-			<DependentUpon>JmaEewMessages.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="JmaMessages.Designer.cs">
-			<DependentUpon>JmaMessages.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="JmaPointTsunami.Designer.cs">
-			<DependentUpon>JmaPointTsunami.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="JmaPointVolcano.Designer.cs">
-			<DependentUpon>JmaPointVolcano.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="JmaReportMessages.Designer.cs">
-			<DependentUpon>JmaReportMessages.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="ScEewMessages.Designer.cs">
-			<DependentUpon>ScEewMessages.resx</DependentUpon>
-			<DesignTime>True</DesignTime>
-			<AutoGen>True</AutoGen>
-		</Compile>
-		<Compile Update="WorkerMessages.Designer.cs">
-			<DependentUpon>WorkerMessages.resx</DependentUpon>
+		<Compile Update="*.Designer.cs">
+			<DependentUpon>$([System.String]::new('%(Filename)').Substring(0, $([System.String]::new('%(Filename)').IndexOf('.')))).resx</DependentUpon>
 			<DesignTime>True</DesignTime>
 			<AutoGen>True</AutoGen>
 		</Compile>
 	</ItemGroup>
 
 	<ItemGroup>
-		<EmbeddedResource Update="CencEqMessages.resx">
-			<LastGenOutput>CencEqMessages.Designer.cs</LastGenOutput>
+		<NativeResXFiles Include="*.resx" Exclude="*.*.resx" />
+
+		<EmbeddedResource Update="@(NativeResXFiles)">
+			<LastGenOutput>%(Filename).Designer.cs</LastGenOutput>
 			<Generator>ResXFileCodeGenerator</Generator>
 		</EmbeddedResource>
-		<EmbeddedResource Update="CwaEewMessages.resx">
-			<LastGenOutput>CwaEewMessages.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
-		<EmbeddedResource Update="CwaReportMessages.resx">
-			<LastGenOutput>CwaReportMessages.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
-		<EmbeddedResource Update="FeRegions.resx">
-			<LastGenOutput>FeRegions.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
-		<EmbeddedResource Update="FjEewMessages.resx">
-			<LastGenOutput>FjEewMessages.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
+		
 		<EmbeddedResource Update="GenericMessages.resx">
-			<LastGenOutput>GenericMessages.Designer.cs</LastGenOutput>
 			<Generator>PublicResXFileCodeGenerator</Generator>
 		</EmbeddedResource>
 		<EmbeddedResource Update="JmaAreaEpicenter.resx">
-			<LastGenOutput>JmaAreaEpicenter.Designer.cs</LastGenOutput>
 			<Generator>PublicResXFileCodeGenerator</Generator>
 		</EmbeddedResource>
 		<EmbeddedResource Update="JmaAreaForecastEEW.resx">
-			<LastGenOutput>JmaAreaForecastEEW.Designer.cs</LastGenOutput>
 			<Generator>PublicResXFileCodeGenerator</Generator>
 		</EmbeddedResource>
-		<EmbeddedResource Update="JmaAreaTsunami.resx">
-			<LastGenOutput>JmaAreaTsunami.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
-		<EmbeddedResource Update="JmaEewMessages.resx">
-			<LastGenOutput>JmaEewMessages.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
-		<EmbeddedResource Update="JmaMessages.resx">
-			<LastGenOutput>JmaMessages.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
-		<EmbeddedResource Update="JmaPointTsunami.resx">
-			<LastGenOutput>JmaPointTsunami.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
-		<EmbeddedResource Update="JmaPointVolcano.resx">
-			<LastGenOutput>JmaPointVolcano.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
-		<EmbeddedResource Update="JmaReportMessages.resx">
-			<LastGenOutput>JmaReportMessages.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
-		<EmbeddedResource Update="ScEewMessages.resx">
-			<LastGenOutput>ScEewMessages.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
-		</EmbeddedResource>
-		<EmbeddedResource Update="WorkerMessages.resx">
-			<LastGenOutput>WorkerMessages.Designer.cs</LastGenOutput>
-			<Generator>ResXFileCodeGenerator</Generator>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Update="**/*.*.resx">
+			<Culture>$([System.String]::new('%(Filename)').Substring($([MSBuild]::Add($([System.String]::new('%(Filename)').IndexOf('.')), 1))))</Culture>
+			<DependentUpon>$([System.String]::new('%(Filename)').Substring(0, $([System.String]::new('%(Filename)').IndexOf('.')))).resx</DependentUpon>
+			<LogicalName>Cryville.EEW.Core.Resources.%(Filename).resources</LogicalName>
 		</EmbeddedResource>
 	</ItemGroup>
 
