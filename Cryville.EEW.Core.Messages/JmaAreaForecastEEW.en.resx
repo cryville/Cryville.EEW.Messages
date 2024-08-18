@@ -232,7 +232,7 @@
     <value>Southern Nemuro Region, Hokkaido</value>
   </data>
   <data name="200" xml:space="preserve">
-    <value>Northern Tsugaru,  Aomori Prefecture</value>
+    <value>Northern Tsugaru, Aomori Prefecture</value>
   </data>
   <data name="201" xml:space="preserve">
     <value>Southern Tsugaru, Aomori Prefecture</value>
@@ -241,7 +241,7 @@
     <value>Sanpachi-Kamikita, Aomori Prefecture</value>
   </data>
   <data name="203" xml:space="preserve">
-    <value>Shimokita,  Aomori Prefecture </value>
+    <value>Shimokita, Aomori Prefecture</value>
   </data>
   <data name="210" xml:space="preserve">
     <value>Northern Coast, Iwate Prefecture</value>
@@ -253,7 +253,7 @@
     <value>Northern Inland, Iwate Prefecture</value>
   </data>
   <data name="213" xml:space="preserve">
-    <value>Southern Inland, Iwate Prefecture </value>
+    <value>Southern Inland, Iwate Prefecture</value>
   </data>
   <data name="220" xml:space="preserve">
     <value>Northern Miyagi Prefecture</value>
@@ -274,28 +274,28 @@
     <value>Northern Inland, Akita Prefecture</value>
   </data>
   <data name="233" xml:space="preserve">
-    <value>Southern Inland, Akita Prefecture </value>
+    <value>Southern Inland, Akita Prefecture</value>
   </data>
   <data name="240" xml:space="preserve">
-    <value>Shonai,  Yamagata Prefecture</value>
+    <value>Shonai, Yamagata Prefecture</value>
   </data>
   <data name="241" xml:space="preserve">
-    <value>Mogami, Yamagata Prefecture </value>
+    <value>Mogami, Yamagata Prefecture</value>
   </data>
   <data name="242" xml:space="preserve">
-    <value>Murayama,  Yamagata Prefecture</value>
+    <value>Murayama, Yamagata Prefecture</value>
   </data>
   <data name="243" xml:space="preserve">
-    <value>Okitama,  Yamagata Prefecture </value>
+    <value>Okitama, Yamagata Prefecture</value>
   </data>
   <data name="250" xml:space="preserve">
-    <value>Nakadori,  Fukushima Prefecture</value>
+    <value>Nakadori, Fukushima Prefecture</value>
   </data>
   <data name="251" xml:space="preserve">
-    <value>Hamadori,  Fukushima Prefecture</value>
+    <value>Hamadori, Fukushima Prefecture</value>
   </data>
   <data name="252" xml:space="preserve">
-    <value>Aizu,  Fukushima Prefecture</value>
+    <value>Aizu, Fukushima Prefecture</value>
   </data>
   <data name="300" xml:space="preserve">
     <value>Northern Ibaraki Prefecture</value>
@@ -316,19 +316,19 @@
     <value>Southern Gunma Prefecture</value>
   </data>
   <data name="330" xml:space="preserve">
-    <value>Northern Saitama Prefecture </value>
+    <value>Northern Saitama Prefecture</value>
   </data>
   <data name="331" xml:space="preserve">
-    <value>Southern Saitama Prefecture </value>
+    <value>Southern Saitama Prefecture</value>
   </data>
   <data name="332" xml:space="preserve">
-    <value>Chichibu,  Saitama Prefecture  </value>
+    <value>Chichibu, Saitama Prefecture</value>
   </data>
   <data name="340" xml:space="preserve">
-    <value>Northeastern Chiba Prefecture </value>
+    <value>Northeastern Chiba Prefecture</value>
   </data>
   <data name="341" xml:space="preserve">
-    <value>Northwestern Chiba Prefecture </value>
+    <value>Northwestern Chiba Prefecture</value>
   </data>
   <data name="342" xml:space="preserve">
     <value>Southern Chiba Prefecture</value>
@@ -337,10 +337,10 @@
     <value>23 Wards, Tokyo</value>
   </data>
   <data name="351" xml:space="preserve">
-    <value>Eastern Tama,  Tokyo</value>
+    <value>Eastern Tama, Tokyo</value>
   </data>
   <data name="352" xml:space="preserve">
-    <value>Western Tama,  Tokyo</value>
+    <value>Western Tama, Tokyo</value>
   </data>
   <data name="354" xml:space="preserve">
     <value>Kozushima Island, Tokyo</value>
@@ -367,34 +367,34 @@
     <value>Western Kanagawa Prefecture</value>
   </data>
   <data name="370" xml:space="preserve">
-    <value>Joetsu,  Niigata Prefecture </value>
+    <value>Joetsu, Niigata Prefecture</value>
   </data>
   <data name="371" xml:space="preserve">
-    <value>Chuetsu,  Niigata Prefecture</value>
+    <value>Chuetsu, Niigata Prefecture</value>
   </data>
   <data name="372" xml:space="preserve">
-    <value>Kaetsu,  Niigata Prefecture</value>
+    <value>Kaetsu, Niigata Prefecture</value>
   </data>
   <data name="375" xml:space="preserve">
-    <value>Sado,  Niigata Prefecture </value>
+    <value>Sado, Niigata Prefecture</value>
   </data>
   <data name="380" xml:space="preserve">
-    <value>Eastern Toyama Prefecture </value>
+    <value>Eastern Toyama Prefecture</value>
   </data>
   <data name="381" xml:space="preserve">
     <value>Western Toyama Prefecture</value>
   </data>
   <data name="390" xml:space="preserve">
-    <value>Noto,  Ishikawa Prefecture </value>
+    <value>Noto, Ishikawa Prefecture</value>
   </data>
   <data name="391" xml:space="preserve">
-    <value>Kaga,  Ishikawa Prefecture</value>
+    <value>Kaga, Ishikawa Prefecture</value>
   </data>
   <data name="400" xml:space="preserve">
-    <value>Reihoku,  Fukui Prefecture </value>
+    <value>Reihoku, Fukui Prefecture</value>
   </data>
   <data name="401" xml:space="preserve">
-    <value>Reinan,  Fukui Prefecture</value>
+    <value>Reinan, Fukui Prefecture</value>
   </data>
   <data name="411" xml:space="preserve">
     <value>Central · Western Yamanashi Prefecture</value>
@@ -403,28 +403,28 @@
     <value>Eastern Region · Fuji Five Lakes, Yamanashi Prefecture</value>
   </data>
   <data name="420" xml:space="preserve">
-    <value>Northern Nagano Prefecture </value>
+    <value>Northern Nagano Prefecture</value>
   </data>
   <data name="421" xml:space="preserve">
-    <value>Central Nagano Prefecture </value>
+    <value>Central Nagano Prefecture</value>
   </data>
   <data name="422" xml:space="preserve">
-    <value>Southern Nagano Prefecture </value>
+    <value>Southern Nagano Prefecture</value>
   </data>
   <data name="430" xml:space="preserve">
-    <value>Hida, Gifu Prefecture </value>
+    <value>Hida, Gifu Prefecture</value>
   </data>
   <data name="431" xml:space="preserve">
     <value>Eastern Mino, Gifu Prefecture</value>
   </data>
   <data name="432" xml:space="preserve">
-    <value>Central and western Mino,  Gifu Prefecture </value>
+    <value>Central and western Mino, Gifu Prefecture</value>
   </data>
   <data name="440" xml:space="preserve">
-    <value>Izu, Shizuoka Prefecture </value>
+    <value>Izu, Shizuoka Prefecture</value>
   </data>
   <data name="441" xml:space="preserve">
-    <value>Eastern Shizuoka Prefecture </value>
+    <value>Eastern Shizuoka Prefecture</value>
   </data>
   <data name="442" xml:space="preserve">
     <value>Central Shizuoka Prefecture</value>
@@ -433,16 +433,16 @@
     <value>Western Shizuoka Prefecture</value>
   </data>
   <data name="450" xml:space="preserve">
-    <value>Eastern Aichi Prefecture </value>
+    <value>Eastern Aichi Prefecture</value>
   </data>
   <data name="451" xml:space="preserve">
-    <value>Western Aichi Prefecture </value>
+    <value>Western Aichi Prefecture</value>
   </data>
   <data name="460" xml:space="preserve">
     <value>Northern Mie Prefecture</value>
   </data>
   <data name="461" xml:space="preserve">
-    <value>Central Mie Prefecture </value>
+    <value>Central Mie Prefecture</value>
   </data>
   <data name="462" xml:space="preserve">
     <value>Southern Mie Prefecture</value>
@@ -460,10 +460,10 @@
     <value>Southern Kyoto Prefecture</value>
   </data>
   <data name="520" xml:space="preserve">
-    <value>Northern Osaka Prefecture </value>
+    <value>Northern Osaka Prefecture</value>
   </data>
   <data name="521" xml:space="preserve">
-    <value>Southern Osaka Prefecture </value>
+    <value>Southern Osaka Prefecture</value>
   </data>
   <data name="530" xml:space="preserve">
     <value>Northern Hyogo Prefecture</value>
@@ -475,16 +475,16 @@
     <value>Southwestern Hyogo Prefecture</value>
   </data>
   <data name="535" xml:space="preserve">
-    <value>Awajishima, Hyogo Prefecture </value>
+    <value>Awajishima, Hyogo Prefecture</value>
   </data>
   <data name="540" xml:space="preserve">
     <value>Nara Prefecture</value>
   </data>
   <data name="550" xml:space="preserve">
-    <value>Northern Wakayama Prefecture </value>
+    <value>Northern Wakayama Prefecture</value>
   </data>
   <data name="551" xml:space="preserve">
-    <value>Southern Wakayama Prefecture </value>
+    <value>Southern Wakayama Prefecture</value>
   </data>
   <data name="560" xml:space="preserve">
     <value>Eastern Tottori Prefecture</value>
@@ -493,19 +493,19 @@
     <value>Central Tottori Prefecture</value>
   </data>
   <data name="563" xml:space="preserve">
-    <value>Western Tottori Prefecture </value>
+    <value>Western Tottori Prefecture</value>
   </data>
   <data name="570" xml:space="preserve">
-    <value>Eastern Shimane Prefecture  </value>
+    <value>Eastern Shimane Prefecture</value>
   </data>
   <data name="571" xml:space="preserve">
-    <value>Western Shimane Prefecture  </value>
+    <value>Western Shimane Prefecture</value>
   </data>
   <data name="575" xml:space="preserve">
-    <value>Oki, Shimane Prefecture </value>
+    <value>Oki, Shimane Prefecture</value>
   </data>
   <data name="580" xml:space="preserve">
-    <value>Northern Okayama Prefecture </value>
+    <value>Northern Okayama Prefecture</value>
   </data>
   <data name="581" xml:space="preserve">
     <value>Southern Okayama Prefecture</value>
@@ -526,31 +526,31 @@
     <value>Southern Tokushima Prefecture</value>
   </data>
   <data name="610" xml:space="preserve">
-    <value>Eastern Kagawa Prefecture </value>
+    <value>Eastern Kagawa Prefecture</value>
   </data>
   <data name="611" xml:space="preserve">
     <value>Western Kagawa Prefecture</value>
   </data>
   <data name="620" xml:space="preserve">
-    <value>Toyo,  Ehime Prefecture </value>
+    <value>Toyo, Ehime Prefecture</value>
   </data>
   <data name="621" xml:space="preserve">
-    <value>Chuyo, Ehime Prefecture </value>
+    <value>Chuyo, Ehime Prefecture</value>
   </data>
   <data name="622" xml:space="preserve">
     <value>Nan-yo, Ehime Prefecture</value>
   </data>
   <data name="630" xml:space="preserve">
-    <value>Eastern Kochi Prefecture </value>
+    <value>Eastern Kochi Prefecture</value>
   </data>
   <data name="631" xml:space="preserve">
-    <value>Central Kochi Prefecture </value>
+    <value>Central Kochi Prefecture</value>
   </data>
   <data name="632" xml:space="preserve">
     <value>Western Kochi Prefecture</value>
   </data>
   <data name="700" xml:space="preserve">
-    <value>Northern Yamaguchi Prefecture </value>
+    <value>Northern Yamaguchi Prefecture</value>
   </data>
   <data name="702" xml:space="preserve">
     <value>Western Yamaguchi Prefecture</value>
@@ -562,13 +562,13 @@
     <value>Central Yamaguchi Prefecture</value>
   </data>
   <data name="710" xml:space="preserve">
-    <value>Fukuoka, Fukuoka Prefecture </value>
+    <value>Fukuoka, Fukuoka Prefecture</value>
   </data>
   <data name="711" xml:space="preserve">
-    <value>Kitakyushu,  Fukuoka Prefecture </value>
+    <value>Kitakyushu, Fukuoka Prefecture</value>
   </data>
   <data name="712" xml:space="preserve">
-    <value>Chikuho,  Fukuoka Prefecture</value>
+    <value>Chikuho, Fukuoka Prefecture</value>
   </data>
   <data name="713" xml:space="preserve">
     <value>Chikugo, Fukuoka Prefecture</value>
@@ -580,34 +580,34 @@
     <value>Southern Saga Prefecture</value>
   </data>
   <data name="730" xml:space="preserve">
-    <value>Northern Nagasaki Prefecture </value>
+    <value>Northern Nagasaki Prefecture</value>
   </data>
   <data name="731" xml:space="preserve">
-    <value>Southwestern Nagasaki Prefecture </value>
+    <value>Southwestern Nagasaki Prefecture</value>
   </data>
   <data name="732" xml:space="preserve">
-    <value>Shimabara Peninsula,  Nagasaki Prefecture </value>
+    <value>Shimabara Peninsula, Nagasaki Prefecture</value>
   </data>
   <data name="735" xml:space="preserve">
-    <value>Tsushima,  Nagasaki Prefecture </value>
+    <value>Tsushima, Nagasaki Prefecture</value>
   </data>
   <data name="736" xml:space="preserve">
-    <value>Iki,  Nagasaki Prefecture</value>
+    <value>Iki, Nagasaki Prefecture</value>
   </data>
   <data name="737" xml:space="preserve">
-    <value>Goto,  Nagasaki Prefecture </value>
+    <value>Goto, Nagasaki Prefecture</value>
   </data>
   <data name="740" xml:space="preserve">
-    <value>Aso,  Kumamoto Prefecture </value>
+    <value>Aso, Kumamoto Prefecture</value>
   </data>
   <data name="741" xml:space="preserve">
-    <value>Kumamoto, Kumamoto Prefecture </value>
+    <value>Kumamoto, Kumamoto Prefecture</value>
   </data>
   <data name="742" xml:space="preserve">
-    <value>Kuma,  Kumamoto Prefecture</value>
+    <value>Kuma, Kumamoto Prefecture</value>
   </data>
   <data name="743" xml:space="preserve">
-    <value>Amakusa and Ashikita,  Kumamoto Prefecture</value>
+    <value>Amakusa and Ashikita, Kumamoto Prefecture</value>
   </data>
   <data name="750" xml:space="preserve">
     <value>Northern Oita Prefecture</value>
@@ -634,34 +634,34 @@
     <value>Area along mountains of southern Miyazaki Prefecture</value>
   </data>
   <data name="770" xml:space="preserve">
-    <value>Satsuma,  Kagoshima Prefecture</value>
+    <value>Satsuma, Kagoshima Prefecture</value>
   </data>
   <data name="771" xml:space="preserve">
-    <value>Osumi,  Kagoshima Prefecture </value>
+    <value>Osumi, Kagoshima Prefecture</value>
   </data>
   <data name="774" xml:space="preserve">
     <value>Toshima Village, Kagoshima Prefecture</value>
   </data>
   <data name="775" xml:space="preserve">
-    <value>Koshikishima Islands,  Kagoshima Prefecture</value>
+    <value>Koshikishima Islands, Kagoshima Prefecture</value>
   </data>
   <data name="776" xml:space="preserve">
-    <value>Tanegashima Island,  Kagoshima Prefecture </value>
+    <value>Tanegashima Island, Kagoshima Prefecture</value>
   </data>
   <data name="777" xml:space="preserve">
-    <value>Yakushima Island,  Kagoshima Prefecture</value>
+    <value>Yakushima Island, Kagoshima Prefecture</value>
   </data>
   <data name="778" xml:space="preserve">
-    <value>Northern Amami,  Kagoshima Prefecture</value>
+    <value>Northern Amami, Kagoshima Prefecture</value>
   </data>
   <data name="779" xml:space="preserve">
-    <value>Southern Amami,  Kagoshima Prefecture</value>
+    <value>Southern Amami, Kagoshima Prefecture</value>
   </data>
   <data name="800" xml:space="preserve">
     <value>Northern Main Island, Okinawa Prefecture</value>
   </data>
   <data name="801" xml:space="preserve">
-    <value>Central and southern Main Island,  Okinawa Prefecture</value>
+    <value>Central and southern Main Island, Okinawa Prefecture</value>
   </data>
   <data name="802" xml:space="preserve">
     <value>Kumejima Island, Okinawa Prefecture</value>
@@ -766,7 +766,7 @@
     <value>Aichi</value>
   </data>
   <data name="9240" xml:space="preserve">
-    <value>Mie </value>
+    <value>Mie</value>
   </data>
   <data name="9250" xml:space="preserve">
     <value>Shiga</value>
