@@ -118,217 +118,217 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="101" xml:space="preserve">
-    <value>Shiretoko-Iozan </value>
+    <value>Shiretoko-Iozan</value>
   </data>
   <data name="102" xml:space="preserve">
-    <value>Rausudake </value>
+    <value>Rausudake</value>
   </data>
   <data name="103" xml:space="preserve">
-    <value>Mashu </value>
+    <value>Mashu</value>
   </data>
   <data name="104" xml:space="preserve">
-    <value>Atosanupuri </value>
+    <value>Atosanupuri</value>
   </data>
   <data name="105" xml:space="preserve">
-    <value>Meakandake </value>
+    <value>Meakandake</value>
   </data>
   <data name="106" xml:space="preserve">
-    <value>Maruyama </value>
+    <value>Maruyama</value>
   </data>
   <data name="107" xml:space="preserve">
-    <value>Taisetsuzan </value>
+    <value>Taisetsuzan</value>
   </data>
   <data name="108" xml:space="preserve">
-    <value>Tokachidake </value>
+    <value>Tokachidake</value>
   </data>
   <data name="109" xml:space="preserve">
-    <value>Tarumaesan </value>
+    <value>Tarumaesan</value>
   </data>
   <data name="110" xml:space="preserve">
-    <value>Eniwadake </value>
+    <value>Eniwadake</value>
   </data>
   <data name="111" xml:space="preserve">
-    <value>Kuttara </value>
+    <value>Kuttara</value>
   </data>
   <data name="112" xml:space="preserve">
-    <value>Usuzan </value>
+    <value>Usuzan</value>
   </data>
   <data name="113" xml:space="preserve">
-    <value>Hokkaido-Komagatake </value>
+    <value>Hokkaido-Komagatake</value>
   </data>
   <data name="114" xml:space="preserve">
-    <value>Esan </value>
+    <value>Esan</value>
   </data>
   <data name="115" xml:space="preserve">
-    <value>Oshima-Oshima </value>
+    <value>Oshima-Oshima</value>
   </data>
   <data name="116" xml:space="preserve">
-    <value>Rishirizan </value>
+    <value>Rishirizan</value>
   </data>
   <data name="117" xml:space="preserve">
-    <value>Yoteizan </value>
+    <value>Yoteizan</value>
   </data>
   <data name="118" xml:space="preserve">
-    <value>Niseko </value>
+    <value>Niseko</value>
   </data>
   <data name="119" xml:space="preserve">
-    <value>Tenchozan </value>
+    <value>Tenchozan</value>
   </data>
   <data name="120" xml:space="preserve">
-    <value>Oakandake </value>
+    <value>Oakandake</value>
   </data>
   <data name="151" xml:space="preserve">
-    <value>Moyorodake </value>
+    <value>Moyorodake</value>
   </data>
   <data name="152" xml:space="preserve">
-    <value>Chirippusan </value>
+    <value>Chirippusan</value>
   </data>
   <data name="153" xml:space="preserve">
-    <value>Sashiusudake </value>
+    <value>Sashiusudake</value>
   </data>
   <data name="154" xml:space="preserve">
-    <value>Odamoisan </value>
+    <value>Odamoisan</value>
   </data>
   <data name="155" xml:space="preserve">
-    <value>Etorofu-Yakeyama </value>
+    <value>Etorofu-Yakeyama</value>
   </data>
   <data name="156" xml:space="preserve">
-    <value>Etorofu-Atosanupuri </value>
+    <value>Etorofu-Atosanupuri</value>
   </data>
   <data name="157" xml:space="preserve">
-    <value>Berutarubesan </value>
+    <value>Berutarubesan</value>
   </data>
   <data name="158" xml:space="preserve">
-    <value>Chachadake </value>
+    <value>Chachadake</value>
   </data>
   <data name="159" xml:space="preserve">
-    <value>Raususan </value>
+    <value>Raususan</value>
   </data>
   <data name="160" xml:space="preserve">
-    <value>Tomariyama </value>
+    <value>Tomariyama</value>
   </data>
   <data name="161" xml:space="preserve">
-    <value>Ruruidake </value>
+    <value>Ruruidake</value>
   </data>
   <data name="201" xml:space="preserve">
-    <value>Osorezan </value>
+    <value>Osorezan</value>
   </data>
   <data name="202" xml:space="preserve">
-    <value>Iwakisan </value>
+    <value>Iwakisan</value>
   </data>
   <data name="203" xml:space="preserve">
-    <value>Hakkodasan </value>
+    <value>Hakkodasan</value>
   </data>
   <data name="204" xml:space="preserve">
-    <value>Towada </value>
+    <value>Towada</value>
   </data>
   <data name="205" xml:space="preserve">
-    <value>Akita-Yakeyama </value>
+    <value>Akita-Yakeyama</value>
   </data>
   <data name="206" xml:space="preserve">
-    <value>Hachimantai </value>
+    <value>Hachimantai</value>
   </data>
   <data name="207" xml:space="preserve">
-    <value>Iwatesan </value>
+    <value>Iwatesan</value>
   </data>
   <data name="208" xml:space="preserve">
-    <value>Akita-Komagatake </value>
+    <value>Akita-Komagatake</value>
   </data>
   <data name="209" xml:space="preserve">
-    <value>Chokaisan </value>
+    <value>Chokaisan</value>
   </data>
   <data name="210" xml:space="preserve">
-    <value>Kurikomayama </value>
+    <value>Kurikomayama</value>
   </data>
   <data name="211" xml:space="preserve">
-    <value>Naruko </value>
+    <value>Naruko</value>
   </data>
   <data name="212" xml:space="preserve">
     <value>Zaozan (Zaosan)</value>
   </data>
   <data name="213" xml:space="preserve">
-    <value>Azumayama </value>
+    <value>Azumayama</value>
   </data>
   <data name="214" xml:space="preserve">
-    <value>Adatarayama </value>
+    <value>Adatarayama</value>
   </data>
   <data name="215" xml:space="preserve">
-    <value>Bandaisan </value>
+    <value>Bandaisan</value>
   </data>
   <data name="216" xml:space="preserve">
-    <value>Hiuchigatake </value>
+    <value>Hiuchigatake</value>
   </data>
   <data name="217" xml:space="preserve">
-    <value>Hijiori </value>
+    <value>Hijiori</value>
   </data>
   <data name="218" xml:space="preserve">
-    <value>Numazawa </value>
+    <value>Numazawa</value>
   </data>
   <data name="301" xml:space="preserve">
     <value>Nasudake</value>
   </data>
   <data name="302" xml:space="preserve">
-    <value>Nikko-Shiranesan </value>
+    <value>Nikko-Shiranesan</value>
   </data>
   <data name="303" xml:space="preserve">
-    <value>Akagisan </value>
+    <value>Akagisan</value>
   </data>
   <data name="304" xml:space="preserve">
-    <value>Harunasan </value>
+    <value>Harunasan</value>
   </data>
   <data name="305" xml:space="preserve">
-    <value>Kusatsu-Shiranesan </value>
+    <value>Kusatsu-Shiranesan</value>
   </data>
   <data name="306" xml:space="preserve">
-    <value>Asamayama </value>
+    <value>Asamayama</value>
   </data>
   <data name="307" xml:space="preserve">
-    <value>Niigata-Yakeyama </value>
+    <value>Niigata-Yakeyama</value>
   </data>
   <data name="308" xml:space="preserve">
-    <value>Myokosan </value>
+    <value>Myokosan</value>
   </data>
   <data name="309" xml:space="preserve">
-    <value>Midagahara </value>
+    <value>Midagahara</value>
   </data>
   <data name="310" xml:space="preserve">
-    <value>Yakedake </value>
+    <value>Yakedake</value>
   </data>
   <data name="311" xml:space="preserve">
-    <value>Norikuradake </value>
+    <value>Norikuradake</value>
   </data>
   <data name="312" xml:space="preserve">
-    <value>Ontakesan </value>
+    <value>Ontakesan</value>
   </data>
   <data name="313" xml:space="preserve">
-    <value>Hakusan </value>
+    <value>Hakusan</value>
   </data>
   <data name="314" xml:space="preserve">
-    <value>Fujisan </value>
+    <value>Fujisan</value>
   </data>
   <data name="315" xml:space="preserve">
-    <value>Hakoneyama </value>
+    <value>Hakoneyama</value>
   </data>
   <data name="316" xml:space="preserve">
     <value>Izu-Tobu Volcanoes</value>
   </data>
   <data name="317" xml:space="preserve">
-    <value>Izu-Oshima </value>
+    <value>Izu-Oshima</value>
   </data>
   <data name="318" xml:space="preserve">
-    <value>Niijima </value>
+    <value>Niijima</value>
   </data>
   <data name="319" xml:space="preserve">
-    <value>Kozushima </value>
+    <value>Kozushima</value>
   </data>
   <data name="320" xml:space="preserve">
-    <value>Miyakejima </value>
+    <value>Miyakejima</value>
   </data>
   <data name="321" xml:space="preserve">
-    <value>Hachijojima </value>
+    <value>Hachijojima</value>
   </data>
   <data name="322" xml:space="preserve">
-    <value>Aogashima </value>
+    <value>Aogashima</value>
   </data>
   <data name="323" xml:space="preserve">
     <value>Beyonesu (Bayonnaise) Rocks</value>
@@ -337,25 +337,25 @@
     <value>Sumisujima (Smith Rocks)</value>
   </data>
   <data name="325" xml:space="preserve">
-    <value>Izu-Torishima </value>
+    <value>Izu-Torishima</value>
   </data>
   <data name="326" xml:space="preserve">
-    <value>Nishinoshima </value>
+    <value>Nishinoshima</value>
   </data>
   <data name="327" xml:space="preserve">
-    <value>Kaitoku Seamount </value>
+    <value>Kaitoku Seamount</value>
   </data>
   <data name="328" xml:space="preserve">
-    <value>Funka Asane </value>
+    <value>Funka Asane</value>
   </data>
   <data name="329" xml:space="preserve">
-    <value>Ioto </value>
+    <value>Ioto</value>
   </data>
   <data name="330" xml:space="preserve">
-    <value>Kita-Fukutokutai </value>
+    <value>Kita-Fukutokutai</value>
   </data>
   <data name="331" xml:space="preserve">
-    <value>Fukutoku-Oka-no-Ba </value>
+    <value>Fukutoku-Oka-no-Ba</value>
   </data>
   <data name="333" xml:space="preserve">
     <value>Takaharayama</value>
@@ -367,22 +367,22 @@
     <value>Akandanayama</value>
   </data>
   <data name="336" xml:space="preserve">
-    <value>Toshima </value>
+    <value>Toshima</value>
   </data>
   <data name="337" xml:space="preserve">
-    <value>Mikurajima </value>
+    <value>Mikurajima</value>
   </data>
   <data name="338" xml:space="preserve">
-    <value>Sofugan </value>
+    <value>Sofugan</value>
   </data>
   <data name="339" xml:space="preserve">
-    <value>Kaikata Seamount </value>
+    <value>Kaikata Seamount</value>
   </data>
   <data name="340" xml:space="preserve">
-    <value>Minami-Hiyoshi Seamount </value>
+    <value>Minami-Hiyoshi Seamount</value>
   </data>
   <data name="341" xml:space="preserve">
-    <value>Nikko Seamount </value>
+    <value>Nikko Seamount</value>
   </data>
   <data name="342" xml:space="preserve">
     <value>Nantaisan</value>
@@ -394,64 +394,64 @@
     <value>Mt. Kusatsu-Shirane(Mt. Motoshirane)</value>
   </data>
   <data name="401" xml:space="preserve">
-    <value>Sanbesan </value>
+    <value>Sanbesan</value>
   </data>
   <data name="502" xml:space="preserve">
-    <value>Kujusan </value>
+    <value>Kujusan</value>
   </data>
   <data name="503" xml:space="preserve">
-    <value>Asosan </value>
+    <value>Asosan</value>
   </data>
   <data name="504" xml:space="preserve">
-    <value>Unzendake </value>
+    <value>Unzendake</value>
   </data>
   <data name="505" xml:space="preserve">
-    <value>Kirishimayama </value>
+    <value>Kirishimayama</value>
   </data>
   <data name="506" xml:space="preserve">
-    <value>Sakurajima </value>
+    <value>Sakurajima</value>
   </data>
   <data name="507" xml:space="preserve">
-    <value>Kaimondake </value>
+    <value>Kaimondake</value>
   </data>
   <data name="508" xml:space="preserve">
-    <value>Satsuma-Iojima </value>
+    <value>Satsuma-Iojima</value>
   </data>
   <data name="509" xml:space="preserve">
-    <value>Kuchinoerabujima </value>
+    <value>Kuchinoerabujima</value>
   </data>
   <data name="510" xml:space="preserve">
-    <value>Nakanoshima </value>
+    <value>Nakanoshima</value>
   </data>
   <data name="511" xml:space="preserve">
-    <value>Suwanosejima </value>
+    <value>Suwanosejima</value>
   </data>
   <data name="512" xml:space="preserve">
-    <value>Abu Volcanoes </value>
+    <value>Abu Volcanoes</value>
   </data>
   <data name="513" xml:space="preserve">
-    <value>Tsurumidake and Garandake </value>
+    <value>Tsurumidake and Garandake</value>
   </data>
   <data name="514" xml:space="preserve">
-    <value>Yufudake </value>
+    <value>Yufudake</value>
   </data>
   <data name="515" xml:space="preserve">
-    <value>Fukue Volcanoes </value>
+    <value>Fukue Volcanoes</value>
   </data>
   <data name="516" xml:space="preserve">
-    <value>Yonemaru and Sumiyoshiike </value>
+    <value>Yonemaru and Sumiyoshiike</value>
   </data>
   <data name="517" xml:space="preserve">
-    <value>Wakamiko </value>
+    <value>Wakamiko</value>
   </data>
   <data name="518" xml:space="preserve">
-    <value>Ikeda and Yamagawa </value>
+    <value>Ikeda and Yamagawa</value>
   </data>
   <data name="519" xml:space="preserve">
-    <value>Kuchinoshima </value>
+    <value>Kuchinoshima</value>
   </data>
   <data name="550" xml:space="preserve">
-    <value>Kirishimayama (Ohachi) </value>
+    <value>Kirishimayama (Ohachi)</value>
   </data>
   <data name="551" xml:space="preserve">
     <value>Kirishimayama (Shinmoedake)</value>
@@ -463,7 +463,7 @@
     <value>Kirishimayama（Ohataike）</value>
   </data>
   <data name="601" xml:space="preserve">
-    <value>Io-Torishima </value>
+    <value>Io-Torishima</value>
   </data>
   <data name="602" xml:space="preserve">
     <value>Submarine Volcano NNE of Iriomotejima</value>
