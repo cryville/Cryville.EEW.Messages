@@ -72,4 +72,8 @@
 	<string name="voice_language_prioritize_first">Prioritize first language</string>
 	<string name="voice_language_prioritize_first_desc">Skip the second language if a subsequent event arrives</string>
 	<string name="voice_language_source_first">Source language first</string>
+	<string name="voice_silent_mode">Silent mode</string>
+	<string name="voice_silent_mode_begin_time">Silent mode begin time</string>
+	<string name="voice_silent_mode_desc">Disable alert sounds and TTS during the selected period</string>
+	<string name="voice_silent_mode_end_time">Silent mode end time</string>
 </resources>

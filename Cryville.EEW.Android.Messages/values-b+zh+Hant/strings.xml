@@ -72,4 +72,8 @@
 	<string name="voice_language_prioritize_first">優先首先播報的語言</string>
 	<string name="voice_language_prioritize_first_desc">接收到下一個事件時跳過第二播報的語言</string>
 	<string name="voice_language_source_first">首先使用事件源語言播報</string>
+	<string name="voice_silent_mode">勿擾模式</string>
+	<string name="voice_silent_mode_begin_time">勿擾模式開始時間</string>
+	<string name="voice_silent_mode_desc">在選定的時間段不播放音效和語音播報</string>
+	<string name="voice_silent_mode_end_time">勿擾模式結束時間</string>
 </resources>
