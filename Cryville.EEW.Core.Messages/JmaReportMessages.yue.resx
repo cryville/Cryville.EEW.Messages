@@ -252,14 +252,29 @@
   <data name="HeadlineTsunamiWarning" xml:space="preserve">
     <value>而家正在發佈海嘯預報等。</value>
   </data>
+  <data name="Intensity" xml:space="preserve">
+    <value>震度</value>
+  </data>
+  <data name="IntensityObservation" xml:space="preserve">
+    <value>呢次地震，</value>
+  </data>
+  <data name="IntensityObservationArea" xml:space="preserve">
+    <value>觀測到{0}{1}嘅地區有：{2}。</value>
+  </data>
   <data name="IntensityObservationMax" xml:space="preserve">
     <value>呢次地震，觀測到嘅最大震度為{0}。</value>
+  </data>
+  <data name="LongIntensity" xml:space="preserve">
+    <value>長週期地震動階級</value>
   </data>
   <data name="LongIntensityObservationMax" xml:space="preserve">
     <value>呢次地震，觀測到嘅最大長週期地震動階級為{0}。</value>
   </data>
+  <data name="Maximum" xml:space="preserve">
+    <value>最大{0}</value>
+  </data>
   <data name="MinorItemSeparator" xml:space="preserve">
-    <value>、</value>
+    <value>；</value>
   </data>
   <data name="PlumeDirectionValue" xml:space="preserve">
     <value>{0}方向</value>

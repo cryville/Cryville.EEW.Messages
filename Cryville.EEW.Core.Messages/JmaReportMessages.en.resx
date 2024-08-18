@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -252,11 +252,26 @@
   <data name="HeadlineTsunamiWarning" xml:space="preserve">
     <value>Currently, tsunami warnings, advisories, or forecasts are in effect.</value>
   </data>
+  <data name="Intensity" xml:space="preserve">
+    <value>seismic intensity</value>
+  </data>
+  <data name="IntensityObservation" xml:space="preserve">
+    <value>In this earthquake, </value>
+  </data>
+  <data name="IntensityObservationArea" xml:space="preserve">
+    <value>{0} {1} was observed in {2}.</value>
+  </data>
   <data name="IntensityObservationMax" xml:space="preserve">
     <value>This earthquake resulted in {0} of the maximum seismic intensity recorded.</value>
   </data>
+  <data name="LongIntensity" xml:space="preserve">
+    <value>long-period ground motion intensity</value>
+  </data>
   <data name="LongIntensityObservationMax" xml:space="preserve">
     <value>This earthquake resulted in {0} of the maximum long-period ground motion intensity recorded.</value>
+  </data>
+  <data name="Maximum" xml:space="preserve">
+    <value>the maximum {0}</value>
   </data>
   <data name="MinorItemSeparator" xml:space="preserve">
     <value>; </value>
