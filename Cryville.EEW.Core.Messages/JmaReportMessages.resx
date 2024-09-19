@@ -256,16 +256,22 @@
     <value>噴煙流向は不明です。</value>
   </data>
   <data name="VolcanoObservationPlumeHeightAboveCrater" xml:space="preserve">
-    <value>火口上噴煙高度は{0}メートル。</value>
-  </data>
-  <data name="VolcanoObservationPlumeHeightAboveCraterIntoClouds" xml:space="preserve">
-    <value>雲に入る。</value>
-  </data>
-  <data name="VolcanoObservationPlumeHeightAboveCraterRising" xml:space="preserve">
-    <value>上昇中。</value>
+    <value>火口上噴煙高度は{0}。</value>
   </data>
   <data name="VolcanoObservationPlumeHeightAboveCraterUnknown" xml:space="preserve">
     <value>火口上噴煙高度は不明です。</value>
+  </data>
+  <data name="VolcanoObservationPlumeHeightAboveCraterValue" xml:space="preserve">
+    <value>{0}メートル</value>
+  </data>
+  <data name="VolcanoObservationPlumeHeightAboveCraterValueCondition上昇中" xml:space="preserve">
+    <value>{0}メートル（上昇中）</value>
+  </data>
+  <data name="VolcanoObservationPlumeHeightAboveCraterValueCondition以上" xml:space="preserve">
+    <value>{0}メートル以上</value>
+  </data>
+  <data name="VolcanoObservationPlumeHeightAboveCraterValueCondition雲に入る" xml:space="preserve">
+    <value>{0}メートル（雲に入る）</value>
   </data>
   <data name="VolcanoObservationPlumeNone" xml:space="preserve">
     <value>この噴火による、{0}はありません。</value>

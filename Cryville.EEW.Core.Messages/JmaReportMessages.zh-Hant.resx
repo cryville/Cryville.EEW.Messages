@@ -484,16 +484,22 @@
     <value>噴煙流向不明。</value>
   </data>
   <data name="VolcanoObservationPlumeHeightAboveCrater" xml:space="preserve">
-    <value>火山口上方噴煙高度為{0}公尺。</value>
-  </data>
-  <data name="VolcanoObservationPlumeHeightAboveCraterIntoClouds" xml:space="preserve">
-    <value>進入雲層。</value>
-  </data>
-  <data name="VolcanoObservationPlumeHeightAboveCraterRising" xml:space="preserve">
-    <value>上升中。</value>
+    <value>火山口上方噴煙高度為{0}。</value>
   </data>
   <data name="VolcanoObservationPlumeHeightAboveCraterUnknown" xml:space="preserve">
     <value>火山口上方噴煙高度不明。</value>
+  </data>
+  <data name="VolcanoObservationPlumeHeightAboveCraterValue" xml:space="preserve">
+    <value>{0}公尺</value>
+  </data>
+  <data name="VolcanoObservationPlumeHeightAboveCraterValueCondition上昇中" xml:space="preserve">
+    <value>{0}公尺（上升中）</value>
+  </data>
+  <data name="VolcanoObservationPlumeHeightAboveCraterValueCondition以上" xml:space="preserve">
+    <value>{0}公尺以上</value>
+  </data>
+  <data name="VolcanoObservationPlumeHeightAboveCraterValueCondition雲に入る" xml:space="preserve">
+    <value>{0}公尺（進入雲層）</value>
   </data>
   <data name="VolcanoObservationPlumeNone" xml:space="preserve">
     <value>本次噴發無{0}。</value>
