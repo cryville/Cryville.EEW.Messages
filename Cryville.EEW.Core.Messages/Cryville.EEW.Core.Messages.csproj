@@ -40,9 +40,10 @@
 
 	<ItemGroup>
 		<EmbeddedResource Update="**/*.*.resx">
-			<Culture>$([System.String]::new('%(Filename)').Substring($([MSBuild]::Add($([System.String]::new('%(Filename)').IndexOf('.')), 1))))</Culture>
 			<DependentUpon>$([System.String]::new('%(Filename)').Substring(0, $([System.String]::new('%(Filename)').IndexOf('.')))).resx</DependentUpon>
+			<Culture>$([System.String]::new('%(Filename)').Substring($([MSBuild]::Add($([System.String]::new('%(Filename)').IndexOf('.')), 1))))</Culture>
 			<LogicalName>Cryville.EEW.Core.Resources.%(Filename).resources</LogicalName>
+			<ManifestResourceName>Cryville.EEW.Core.Resources.%(Filename)</ManifestResourceName>
 		</EmbeddedResource>
 	</ItemGroup>
 
