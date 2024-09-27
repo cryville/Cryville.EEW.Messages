@@ -37,10 +37,11 @@
 	<string name="event_sources_wolfx_jma_eew">日本氣象廳緊急地震速報</string>
 	<string name="event_sources_wolfx_sc_eew">四川地震局地震預警</string>
 	<string name="info">資訊</string>
+	<string name="info_allow_custom_fonts">允許使用系統字體</string>
 	<string name="info_color_scheme">顏色主題</string>
 	<string name="info_color_scheme_restart_required">切換到舊版顏色主題或者從舊版切換到其它主題要重啟應用先有效果</string>
 	<string name="info_override_fonts">覆蓋字體</string>
-	<string name="info_override_fonts_desc">覆蓋系統嘅字體選擇（因為有啲廠商自作聰明整弊咗）</string>
+	<string name="info_override_fonts_desc">覆蓋系統嘅字體選擇</string>
 	<string name="info_time">日期同時間</string>
 	<string name="info_time_display_time_zone">顯示時區</string>
 	<string name="info_time_enable_time_zone_override">用本地時區</string>
@@ -55,6 +56,7 @@
 	<string name="map_poi_shindo_station">各觀測點震度</string>
 	<string name="notification_worker_name">監測</string>
 	<string name="notification_worker_title">正在監測事件</string>
+	<string name="setting_auto">呢條係自動設置，唔可以手動切換</string>
 	<string name="settings">設置</string>
 	<string name="use_system">（用系統設置）</string>
 	<string name="voice">語音</string>
