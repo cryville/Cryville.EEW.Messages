@@ -6,7 +6,7 @@
 		<LangVersion>latest</LangVersion>
 		<AnalysisLevel>latest-all</AnalysisLevel>
 		<Platforms>AnyCPU;ARM64</Platforms>
-		<Version>0.2.5</Version>
+		<Version>0.2.6</Version>
 		<RootNamespace>Cryville.EEW.Core.Resources</RootNamespace>
 		<RespectAlreadyAssignedItemCulture>True</RespectAlreadyAssignedItemCulture>
 	</PropertyGroup>
