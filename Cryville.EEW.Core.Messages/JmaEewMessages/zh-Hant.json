@@ -1,0 +1,14 @@
+{
+	"Culture": "zh-TW",
+	"Strings": {
+		"Area": "{0}，請警戒強烈的震動。",
+		"AreaDelimiter": "；",
+		"Body": "{0}。{1}發生地震。推定最大震度{2}。",
+		"BodyLowQuality": "{0}。{1}檢測到地震。推定最大震度{2}。",
+		"Cancel": "剛才發布的緊急地震速報已被取消。",
+		"Drilling": "本報為訓練報。",
+		"Serial": "第{0}報",
+		"SerialFinal": "最終報",
+		"Title": "緊急地震速報。"
+	}
+}

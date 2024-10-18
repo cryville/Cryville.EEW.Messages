@@ -1,0 +1,188 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AshInfo": "From {0:h tt} to {1:h tt}, {2}.",
+		"AshInfoItem": "areas up to {1} kilometers to the {0} will undergo {2}",
+		"Cancel": "Cancels the {0} issued just now.",
+		"EarthquakeHypocenterArea": "The hypocenter is in {0}.",
+		"EarthquakeHypocenterDepth": "The hypocenter depth is around {0} kilometers.",
+		"EarthquakeHypocenterDepth0": "The hypocenter depth is very shallow.",
+		"EarthquakeHypocenterDepthUnknown": "The hypocenter depth is unknown.",
+		"EarthquakeMagnitude": "The magnitude of the earthquake is estimated at {0:F1}.",
+		"EarthquakeMultiple": "This information has multiple related earthquakes.",
+		"EarthquakeMultipleIndex": "Earthquake {0}",
+		"HeadlineAshDetailed": "As for this {0} eruption, detailed forecasts of ash fall during the hours are as follows.",
+		"HeadlineAshPreliminary": "As for this {0} eruption, forecasts of ash fall are as follows.",
+		"HeadlineAshScheduled": "If {0} erupts, forecasts of ash fall per period are as follows.",
+		"HeadlineEarthquake": "At {0:d MMM HH:mm}, an earthquake occurred.",
+		"HeadlineEruption": "At {0:d MMM HH:mm}, {1} {2}.",
+		"HeadlineIntensity": "At {0:d MMM HH:mm}, strong tremors from an earthquake was perceived.",
+		"HeadlinePlume": "As for this {0} eruption, estimated plume direction is as follows.",
+		"HeadlineTsunamiInformationForecast": "The high tide time and estimated initial tsunami arrival time per area is as follows.",
+		"HeadlineTsunamiInformationObservation": "Currently, tsunami observed is as follows.",
+		"HeadlineTsunamiWarning": "Currently, tsunami warnings, advisories, or forecasts are in effect.",
+		"Intensity": "seismic intensity",
+		"IntensityObservation": "In this earthquake, ",
+		"IntensityObservationArea": "{0} {1} was observed in {2}.",
+		"IntensityObservationMax": "This earthquake resulted in {0} of the maximum seismic intensity recorded.",
+		"LongIntensity": "long-period ground motion intensity",
+		"LongIntensityObservationMax": "This earthquake resulted in {0} of the maximum long-period ground motion intensity recorded.",
+		"Maximum": "the maximum {0}",
+		"MinorItemSeparator": "; ",
+		"PlumeDirectionValue": "{0} direction",
+		"TsunamiForecast": "{0} has been issued for the following coastal regions of Japan.",
+		"TsunamiForecastArea": "{0}. {1}.",
+		"TsunamiForecastFirstHeightArrivalTime": "Estimated arrival time {0:t}",
+		"TsunamiForecastMaxHeight": "Estimated tsunami height {0}.",
+		"TsunamiForecastSuffix": "Information related to the earthquake",
+		"TsunamiHeightValue": "{0} meters",
+		"TsunamiHeightValueAffix": "{0}",
+		"TsunamiHeightValueAffixBelow": "below {0}",
+		"TsunamiHeightValueAffixOver": "over {0}",
+		"TsunamiObservationMaxHeightRising": " Rising.",
+		"TsunamiObservationStation": "{1}, {0}. {2}.",
+		"VolcanoObservationColorPlume": "colored plumes",
+		"VolcanoObservationPlume": "The observation of {0} is as follows.",
+		"VolcanoObservationPlumeDirection": "The plume flows to the {0}.",
+		"VolcanoObservationPlumeDirectionUnknown": "The plume direction is unknown.",
+		"VolcanoObservationPlumeHeightAboveCrater": "The plume height is {0} above the crater.",
+		"VolcanoObservationPlumeHeightAboveCraterUnknown": "The plume height is unknown.",
+		"VolcanoObservationPlumeNone": "This eruption produced no {0}.",
+		"VolcanoObservationWhitePlume": "white plumes",
+		"VolcanoObservationWindAboveCrater": "At sea level {0} feet, the estimated wind degree is {1}, and the wind speed is {2}."
+	},
+	"StringSets": {
+		"AdditionalCommentEarthquake": {
+			"Strings": {
+				"0201": "Watch out for strong shaking.",
+				"0211": "Tsunami warnings or advisories are currently in effect.",
+				"0212": "Although there may be slight sea-level changes in coastal regions, this earthquake causes no tsunami damage to Japan.",
+				"0215": "This earthquake poses no tsunami risk.",
+				"0217": "Check the information which will be issued from now on.",
+				"0221": "There is a possibility of a destructive ocean-wide tsunami in the Pacific Ocean.",
+				"0222": "There is a possibility of a destructive regional tsunami in the Pacific Ocean.",
+				"0223": "There is a possibility of a destructive regional tsunami in the Northwest Pacific Ocean.",
+				"0224": "There is a possibility of a destructive ocean-wide tsunami in the Indian Ocean.",
+				"0225": "There is a possibility of a destructive regional tsunami in the Indian Ocean.",
+				"0226": "There is a possibility of a destructive local tsunami near the epicenter.",
+				"0227": "Minor local tsunami may occur near the epicenter, but no tsunami damage is expected.",
+				"0228": "A shallow earthquake with the same magnitude in a sea area may generate a tsunami.",
+				"0229": "The possibility of tsunami generation toward Japan in currently under evaluation.",
+				"0230": "This earthquake poses no tsunami risk to Japan.",
+				"0241": "Earthquake Early Warning is in effect for this earthquake.",
+				"0242": "Earthquake Early Warning is in effect for this earthquake. Its maximum seismic intensity was 2.",
+				"0243": "Earthquake Early Warning is in effect for this earthquake. Its maximum seismic intensity was 1.",
+				"0244": "Earthquake Early Warning is in effect for this earthquake. There was no observation of seismic intensity 1 or above.",
+				"0245": "Earthquake Early Warning was issued for this earthquake, however no strong tremors were observed.",
+				"0256": "Information related to the hypocenter has been corrected."
+			}
+		},
+		"EarthquakeMagnitudeUnknown": {
+			"Strings": {
+				"": "The magnitude of the earthquake is unknown.",
+				"Ｍ８を超える巨大地震": "This earthquake is estimated to be a massive earthquake of magnitude 8 and above."
+			}
+		},
+		"PlumeDirection": {
+			"Strings": {
+				"北": "north",
+				"北東": "northeast",
+				"北西": "northwest",
+				"南": "south",
+				"南東": "southeast",
+				"南西": "southwest",
+				"方向不定": "uncertain",
+				"東": "east",
+				"火口近傍": "nearby",
+				"直上": "straight up",
+				"西": "west"
+			}
+		},
+		"Status": {
+			"Strings": {
+				"訓練": "This report is for drilling.",
+				"試験": "This report is for experiment."
+			}
+		},
+		"Title": {
+			"Strings": {
+				"": "report",
+				"噴火に関する火山観測報": "Volcano observation information about eruption",
+				"地震情報": "Earthquake and seismic intensity information",
+				"推定噴煙流向報": "Estimated plume direction information",
+				"津波情報": "Tsunami information",
+				"津波警報・注意報・予報": "Tsunami warning, advisory, and forecast",
+				"長周期地震動に関する観測情報": "Long period ground motion observation information",
+				"降灰予報": "Volcanic ash fall forecast",
+				"震度速報": "Seismic intensity information",
+				"震源要素更新のお知らせ": "Significant earthquake hypocenter update notice",
+				"震源速報": "Earthquake information"
+			}
+		},
+		"TsunamiForecastCategory": {
+			"Strings": {
+				"51": "Tsunami Warning",
+				"52": "Major Tsunami Warning",
+				"53": "Major Tsunami Warning",
+				"62": "Tsunami Advisory",
+				"71": "Tsunami Forecast (slight sea-level changes)",
+				"72": "Tsunami Forecast (slight sea-level changes)",
+				"73": "Tsunami Forecast (slight sea-level changes)"
+			}
+		},
+		"TsunamiForecastFirstHeightCondition": {
+			"Strings": {
+				"ただちに津波来襲と予測": "Imminent tsunami arrival expected",
+				"既に津波到達と推測": "Tsunami already arrived estimated",
+				"津波到達中と推測": "Tsunami arrival expected",
+				"第１波の到達を確認": "Arrival of initial tsunami confirmed"
+			}
+		},
+		"TsunamiObservationMaxHeightCondition": {
+			"Strings": {
+				"微弱": "Slight",
+				"観測中": "Information pending"
+			}
+		},
+		"VolcanicWarning": {
+			"Strings": {
+				"51": "explosively erupted",
+				"52": "erupted",
+				"53": "started erupting",
+				"54": "is erupting continuously",
+				"55": "stopped erupting continuously",
+				"56": "is actively erupting",
+				"61": "appeared explosively erupted",
+				"62": "appeared erupted",
+				"63": "appeared to start erupting",
+				"64": "appeared to be erupting continuously",
+				"65": "appeared to stop erupting",
+				"70": "ash fall",
+				"71": "light ash fall",
+				"72": "moderate ash fall",
+				"73": "heavy ash fall",
+				"75": "falling debris"
+			}
+		},
+		"VolcanoObservationPlumeHeightAboveCraterValue": {
+			"Strings": {
+				"": "{0} meters",
+				"上昇中": "{0} meters (rising)",
+				"以上": "over {0} meters",
+				"雲に入る": "{0} meters (entering clouds)"
+			}
+		},
+		"WindDegreeValue": {
+			"Strings": {
+				"": "{0}",
+				"不明": "unknown"
+			}
+		},
+		"WindSpeedValue": {
+			"Strings": {
+				"": "{0} knots",
+				"不明": "unknown"
+			}
+		}
+	}
+}

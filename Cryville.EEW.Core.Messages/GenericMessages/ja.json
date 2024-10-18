@@ -1,0 +1,11 @@
+{
+	"Culture": "ja-JP",
+	"Strings": {
+		"Repeat": "先ほどの{0}を改めてお伝えします。",
+		"Serial": "#{0}",
+		"SerialFinal": "#{0}終",
+		"UnknownLocation": "地域不明",
+		"UnknownVersion": "非公式バージョンを使っています。",
+		"UpdateAvailable": "新バージョンがあります。設定の「CysTerra について」で変更内容を確認し、新バージョンをダウンロードしてください。"
+	}
+}

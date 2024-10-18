@@ -1,0 +1,22 @@
+{
+	"Culture": "yue-HK",
+	"Strings": {
+		"Connected": "已連接到 {0}",
+		"Disconnected": "同 {0} 斷開連接：{1}",
+		"Error": "同 {0} 嘅連接發生錯誤：{1}",
+		"Exited": "同 {0} 嘅連接異常退出：{1}",
+		"Stopped": "同 {0} 嘅連接結束"
+	},
+	"StringSets": {
+		"Worker": {
+			"Strings": {
+				"Cryville.EEW.CwaReportWorker`1[Cryville.EEW.Models.Cwa.Earthquake]": "CWA（地震）",
+				"Cryville.EEW.CwaReportWorker`1[Cryville.EEW.Models.Cwa.Tsunami]": "CWA（海嘯）",
+				"Cryville.EEW.GlobalQuakeWorker": "GlobalQuakeServer",
+				"Cryville.EEW.JmaAtomWorker": "JMA",
+				"Cryville.EEW.UpdateChecker": "更新檢查",
+				"Cryville.EEW.WebSocketWorker`1[Cryville.EEW.Models.Wolfx.BaseModel]": "Wolfx"
+			}
+		}
+	}
+}

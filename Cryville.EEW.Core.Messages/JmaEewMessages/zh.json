@@ -1,0 +1,14 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"Area": "{0}，请注意强烈震动。",
+		"AreaDelimiter": "；",
+		"Body": "{0}。{1}发生地震。推定最大震度{2}。",
+		"BodyLowQuality": "{0}。{1}检测到地震。推定最大震度{2}。",
+		"Cancel": "刚才发布的紧急地震速报已被取消。",
+		"Drilling": "本报为训练报。",
+		"Serial": "第{0}报",
+		"SerialFinal": "最终报",
+		"Title": "紧急地震速报。"
+	}
+}

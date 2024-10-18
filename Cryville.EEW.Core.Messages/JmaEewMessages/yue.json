@@ -1,0 +1,14 @@
+{
+	"Culture": "yue-HK",
+	"Strings": {
+		"Area": "{0}，請注意強烈震動。",
+		"AreaDelimiter": "；",
+		"Body": "{0}。{1}發生地震。推定最大震度{2}。",
+		"BodyLowQuality": "{0}。{1}檢測到地震。推定最大震度{2}。",
+		"Cancel": "頭先發佈嘅緊急地震速報已被取消。",
+		"Drilling": "呢報係訓練報。",
+		"Serial": "第{0}報",
+		"SerialFinal": "最終報",
+		"Title": "緊急地震速報。"
+	}
+}

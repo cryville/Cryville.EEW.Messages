@@ -1,0 +1,43 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"EarthquakeBody": "{0}，{1}发生规模{2:F1}有感地震，最大震度{3}。",
+		"EarthquakeFocalDepth": "震源深度{0}千米。",
+		"IntensitySuffixLevel": "级",
+		"IntensitySuffixLower": "弱",
+		"IntensitySuffixUpper": "强",
+		"IntensityUnknown": "不明",
+		"TsunamiForecast": "以下地区预计海啸高度{0}。",
+		"TsunamiForecastArea": "{0}。预计到达时间{1:HH:mm}。",
+		"TsunamiObservation": "当前，各地观测到的海啸高度如下。",
+		"TsunamiObservationMaxHeight": "当前，各地观测到的最大海啸高度为{0}米。",
+		"TsunamiObservationStation": "{0}。{1}米。"
+	},
+	"StringSets": {
+		"Title": {
+			"Strings": {
+				"地震報告": "地震报告",
+				"海嘯警報": "海啸警报",
+				"海嘯警報解除": "海啸警报解除"
+			}
+		},
+		"TsunamiForecastArea": {
+			"Strings": {
+				"北部沿海地區": "北部沿海地区",
+				"東北沿海地區": "东北沿海地区",
+				"東南沿海地區": "东南沿海地区",
+				"東部沿海地區": "东部沿海地区",
+				"海峽沿海地區": "海峡沿海地区",
+				"西南沿海地區": "西南沿海地区"
+			}
+		},
+		"TsunamiForecastWaveHeight": {
+			"Strings": {
+				"小於1公尺": "小于1米",
+				"1至3公尺": "1至3米",
+				"3至6公尺": "3至6米",
+				"大於6公尺": "大于6米"
+			}
+		}
+	}
+}

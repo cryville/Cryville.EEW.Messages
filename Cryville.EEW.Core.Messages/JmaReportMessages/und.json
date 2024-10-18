@@ -1,0 +1,92 @@
+{
+	"Culture": "ja-JP",
+	"Strings": {
+		"AshInfo": "{0:HH}時から{1:HH}時まで、火口から{2}",
+		"AshInfoItem": "{0}{1}キロメートルに{2}",
+		"EarthquakeHypocenterArea": "震源地は{0}。",
+		"EarthquakeHypocenterDepth": "震源の深さは約{0}キロメートル。",
+		"EarthquakeHypocenterDepth0": "震源の深さはごく浅い。",
+		"EarthquakeHypocenterDepthUnknown": "震源の深さ不明。",
+		"EarthquakeMagnitude": "地震の規模を示すマグニチュードは、{0:F1}と、推定されています。",
+		"EarthquakeMultiple": "本情報の発表は、複数の地震が原因です。",
+		"EarthquakeMultipleIndex": "地震{0}",
+		"Intensity": "震度",
+		"IntensityObservation": "この地震で、",
+		"IntensityObservationArea": "{0}{1}を、{2}、で観測しました。",
+		"IntensityObservationMax": "この地震で、最大震度{0}を観測しました。",
+		"LongIntensity": "長周期地震動階級",
+		"LongIntensityObservationMax": "この地震で、最大長周期地震動階級{0}を観測しました。",
+		"Maximum": "最大{0}",
+		"MinorItemSeparator": "、",
+		"PlumeDirectionValue": "{0}方向",
+		"TsunamiForecast": "{0}が、次の地域に発表されています。",
+		"TsunamiForecastArea": "{0}。{1}。",
+		"TsunamiForecastFirstHeightArrivalTime": "到達予想時刻{0:t}",
+		"TsunamiForecastMaxHeight": "予想される津波の高さは、{0}です。",
+		"TsunamiForecastSuffix": "震源に関する情報",
+		"TsunamiHeightValue": "{0}メートル",
+		"TsunamiHeightValueAffix": "{0}",
+		"TsunamiHeightValueAffixBelow": "{0}未満",
+		"TsunamiHeightValueAffixOver": "{0}以上",
+		"TsunamiObservationMaxHeightRising": "上昇中。",
+		"TsunamiObservationStation": "{0}。{1}。{2}。",
+		"VolcanoObservationColorPlume": "有色噴煙",
+		"VolcanoObservationPlume": "{0}の観測値は次の通りです。",
+		"VolcanoObservationPlumeDirection": "噴煙流向は{0}方向と観測しました。",
+		"VolcanoObservationPlumeDirectionUnknown": "噴煙流向は不明です。",
+		"VolcanoObservationPlumeHeightAboveCrater": "火口上噴煙高度は{0}。",
+		"VolcanoObservationPlumeHeightAboveCraterUnknown": "火口上噴煙高度は不明です。",
+		"VolcanoObservationPlumeNone": "この噴火による、{0}はありません。",
+		"VolcanoObservationWhitePlume": "白色噴煙",
+		"VolcanoObservationWindAboveCrater": "海抜{0}フィートでは、風向は{1}、風速は{2}と予測されています。"
+	},
+	"StringSets": {
+		"EarthquakeMagnitudeUnknown": {
+			"Strings": {
+				"": "地震の規模を示すマグニチュードは、不明です。",
+				"Ｍ８を超える巨大地震": "この地震は、Ｍ８を超える巨大地震と、推定されています。"
+			}
+		},
+		"PlumeDirection": {
+			"Strings": {
+				"方向不定": "不定",
+				"火口近傍": "近傍"
+			}
+		},
+		"Status": {
+			"Strings": {
+				"訓練": "これは訓練です。",
+				"試験": "これは試験です。"
+			}
+		},
+		"TsunamiForecastCategory": {
+			"Strings": {
+				"51": "津波警報",
+				"52": "大津波警報",
+				"53": "大津波警報",
+				"62": "津波注意報",
+				"71": "津波予報（若干の海面変動）",
+				"72": "津波予報（若干の海面変動）",
+				"73": "津波予報（若干の海面変動）"
+			}
+		},
+		"VolcanoObservationPlumeHeightAboveCraterValue": {
+			"Strings": {
+				"": "{0}メートル",
+				"上昇中": "{0}メートル（上昇中）",
+				"以上": "{0}メートル以上",
+				"雲に入る": "{0}メートル（雲に入る）"
+			}
+		},
+		"WindDegreeValue": {
+			"Strings": {
+				"": "{0}"
+			}
+		},
+		"WindSpeedValue": {
+			"Strings": {
+				"": "{0}ノット"
+			}
+		}
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"Culture": "ja-JP",
+	"Strings": {
+		"Area": "{0}では、強い揺れに警戒してください。",
+		"AreaDelimiter": "、",
+		"Body": "{0}。{1}で地震。推定最大震度{2}。",
+		"BodyLowQuality": "{0}。{1}で地震を検知。推定最大震度{2}。",
+		"Cancel": "先ほどの緊急地震速報は取り消されました。",
+		"Drilling": "これは訓練です。",
+		"Serial": "第{0}報",
+		"SerialFinal": "最終報",
+		"Title": "緊急地震速報。"
+	}
+}

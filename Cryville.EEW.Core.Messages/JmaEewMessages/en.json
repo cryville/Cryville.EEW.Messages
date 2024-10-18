@@ -1,0 +1,14 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"Area": "Watch out for strong shaking in {0}.",
+		"AreaDelimiter": "; ",
+		"Body": "{0}. Earthquake in {1}. Max intensity {2} estimated.",
+		"BodyLowQuality": "{0}. Earthquake detected in {1}. Max intensity {2} estimated.",
+		"Cancel": "JMA has cancelled the earthquake early warning.",
+		"Drilling": "This is for drilling. ",
+		"Serial": "Revision {0}",
+		"SerialFinal": "Final revision",
+		"Title": "Earthquake early warning. "
+	}
+}

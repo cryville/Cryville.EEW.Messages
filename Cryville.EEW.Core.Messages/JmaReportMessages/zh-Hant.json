@@ -1,0 +1,188 @@
+{
+	"Culture": "zh-TW",
+	"Strings": {
+		"AshInfo": "從{0:HH}時到{1:HH}時，火山口{2}。",
+		"AshInfoItem": "{0}{1}公里會有{2}",
+		"Cancel": "取消剛才發佈的{0}。",
+		"EarthquakeHypocenterArea": "震源位於{0}。",
+		"EarthquakeHypocenterDepth": "震源深度約{0}公里。",
+		"EarthquakeHypocenterDepth0": "震源深度為極淺。",
+		"EarthquakeHypocenterDepthUnknown": "震源深度不明。",
+		"EarthquakeMagnitude": "表示地震規模的震級推定為{0:F1}級。",
+		"EarthquakeMultiple": "本資訊是由於多次地震而發表的。",
+		"EarthquakeMultipleIndex": "地震{0}",
+		"HeadlineAshDetailed": "此次{0}噴發，降灰等情況的詳細預報如下。",
+		"HeadlineAshPreliminary": "此次{0}噴發，降灰等情況的預報如下。",
+		"HeadlineAshScheduled": "如果{0}噴發，在各時段的降灰等情況預報如下。",
+		"HeadlineEarthquake": "{0:d日HH:mm}，發生了一次地震。",
+		"HeadlineEruption": "{0:d日HH:mm}，{1}{2}。",
+		"HeadlineIntensity": "{0:d日HH:mm}，感知到由地震帶來的強烈搖晃。",
+		"HeadlinePlume": "此次{0}噴發，噴煙的流向推定如下。",
+		"HeadlineTsunamiInformationForecast": "各地的滿潮時刻和海嘯到達預測時刻如下。",
+		"HeadlineTsunamiInformationObservation": "目前，海嘯的觀測值如下。",
+		"HeadlineTsunamiWarning": "現在正在發佈海嘯預報等。",
+		"Intensity": "震度",
+		"IntensityObservation": "本次地震，",
+		"IntensityObservationArea": "觀測到{0}{1}的地區有：{2}。",
+		"IntensityObservationMax": "本次地震，觀測到的最大震度為{0}。",
+		"LongIntensity": "長周期地震動階級",
+		"LongIntensityObservationMax": "本次地震，觀測到的最大長周期地震動階級為{0}。",
+		"Maximum": "最大{0}",
+		"MinorItemSeparator": "；",
+		"PlumeDirectionValue": "{0}方向",
+		"TsunamiForecast": "以下的區域正在發布{0}。",
+		"TsunamiForecastArea": "{0}。{1}。",
+		"TsunamiForecastFirstHeightArrivalTime": "預測到達時刻{0:t}",
+		"TsunamiForecastMaxHeight": "預測海嘯高度為{0}。",
+		"TsunamiForecastSuffix": "關於震源的資訊",
+		"TsunamiHeightValue": "{0}公尺",
+		"TsunamiHeightValueAffix": "{0}",
+		"TsunamiHeightValueAffixBelow": "不滿{0}",
+		"TsunamiHeightValueAffixOver": "{0}以上",
+		"TsunamiObservationMaxHeightRising": "上升中。",
+		"TsunamiObservationStation": "{0}。{1}。{2}。",
+		"VolcanoObservationColorPlume": "有色噴煙",
+		"VolcanoObservationPlume": "{0}的觀測值如下。",
+		"VolcanoObservationPlumeDirection": "觀測到的噴煙流向為{0}方向。",
+		"VolcanoObservationPlumeDirectionUnknown": "噴煙流向不明。",
+		"VolcanoObservationPlumeHeightAboveCrater": "火山口上方噴煙高度為{0}。",
+		"VolcanoObservationPlumeHeightAboveCraterUnknown": "火山口上方噴煙高度不明。",
+		"VolcanoObservationPlumeNone": "本次噴發無{0}。",
+		"VolcanoObservationWhitePlume": "白色噴煙",
+		"VolcanoObservationWindAboveCrater": "在海拔{0}英呎高度，預測的風向為{1}，風速為{2}。"
+	},
+	"StringSets": {
+		"AdditionalCommentEarthquake": {
+			"Strings": {
+				"0201": "請警戒強烈搖晃。",
+				"0211": "正在發佈海嘯警報等（大海嘯警報、海嘯警報或海嘯注意報）。",
+				"0212": "本次地震可能會引起日本沿岸若干海面變動，但無需擔心受災。",
+				"0215": "無需擔心本次地震引起海嘯。",
+				"0217": "請注意後續的資訊。",
+				"0221": "太平洋的廣大區域可能發生海嘯。",
+				"0222": "太平洋可能發生海嘯。",
+				"0223": "西北太平洋可能發生海嘯。",
+				"0224": "印度洋的廣大區域可能發生海嘯。",
+				"0225": "印度洋可能發生海嘯。",
+				"0226": "震源附近可能發生海嘯。",
+				"0227": "震源附近可能發生小海嘯，但無需擔心發生造成受災的海嘯。",
+				"0228": "一般來說，如果在淺海區域發生這種規模的地震，則有時會發生海嘯。",
+				"0229": "正在調查有無海嘯波及日本。",
+				"0230": "該地震沒有引發海嘯波及日本的影響。",
+				"0241": "已發佈此地震相關的緊急地震速報。",
+				"0242": "已發佈此地震相關的緊急地震速報。此地震的最大震度為2。",
+				"0243": "已發佈此地震相關的緊急地震速報。此地震的最大震度為1。",
+				"0244": "已發佈此地震相關的緊急地震速報。未監測到此地震震度超過1。",
+				"0245": "已發佈此地震相關的緊急地震速報，但未監測到強烈搖晃。",
+				"0256": "訂正震源要素"
+			}
+		},
+		"EarthquakeMagnitudeUnknown": {
+			"Strings": {
+				"": "地震的規模不明。",
+				"Ｍ８を超える巨大地震": "推定本次地震為震級大於8的巨大地震"
+			}
+		},
+		"PlumeDirection": {
+			"Strings": {
+				"北": "北",
+				"北東": "東北",
+				"北西": "西北",
+				"南": "南",
+				"南東": "東南",
+				"南西": "西南",
+				"方向不定": "不定",
+				"東": "東",
+				"火口近傍": "近旁",
+				"直上": "直上",
+				"西": "西"
+			}
+		},
+		"Status": {
+			"Strings": {
+				"訓練": "本報為訓練報。",
+				"試験": "本報為試驗報。"
+			}
+		},
+		"Title": {
+			"Strings": {
+				"": "電文",
+				"噴火に関する火山観測報": "關於火山噴發的火山觀測報",
+				"地震情報": "地震資訊",
+				"推定噴煙流向報": "推定噴煙流向報",
+				"津波情報": "海嘯資訊",
+				"津波警報・注意報・予報": "海嘯警報、注意報、預報",
+				"長周期地震動に関する観測情報": "關於長周期地震動的觀測資訊",
+				"降灰予報": "降灰預報",
+				"震度速報": "震度速報",
+				"震源要素更新のお知らせ": "震源要素更新通知",
+				"震源速報": "震源速報"
+			}
+		},
+		"TsunamiForecastCategory": {
+			"Strings": {
+				"51": "海嘯警報",
+				"52": "大海嘯警報",
+				"53": "大海嘯警報",
+				"62": "海嘯注意報",
+				"71": "海嘯預報（若干的海面變動）",
+				"72": "海嘯預報（若干的海面變動）",
+				"73": "海嘯預報（若干的海面變動）"
+			}
+		},
+		"TsunamiForecastFirstHeightCondition": {
+			"Strings": {
+				"ただちに津波来襲と予測": "預測海嘯即將來襲",
+				"既に津波到達と推測": "推測海嘯已經到達",
+				"津波到達中と推測": "推測海嘯正在到達",
+				"第１波の到達を確認": "第一波已確認到達"
+			}
+		},
+		"TsunamiObservationMaxHeightCondition": {
+			"Strings": {
+				"微弱": "微弱",
+				"観測中": "觀測中"
+			}
+		},
+		"VolcanicWarning": {
+			"Strings": {
+				"51": "爆發",
+				"52": "噴發",
+				"53": "開始噴發",
+				"54": "持續連續噴發",
+				"55": "停止連續噴發",
+				"56": "噴發多發",
+				"61": "似乎已經爆發",
+				"62": "似乎已經噴發",
+				"63": "似乎已經開始噴發",
+				"64": "似乎正在持續連續噴發",
+				"65": "似乎已經停止連續噴發",
+				"70": "降灰",
+				"71": "少量降灰",
+				"72": "較多降灰",
+				"73": "大量降灰",
+				"75": "小型噴石落下"
+			}
+		},
+		"VolcanoObservationPlumeHeightAboveCraterValue": {
+			"Strings": {
+				"": "{0}公尺",
+				"上昇中": "{0}公尺（上升中）",
+				"以上": "{0}公尺以上",
+				"雲に入る": "{0}公尺（進入雲層）"
+			}
+		},
+		"WindDegreeValue": {
+			"Strings": {
+				"": "{0}",
+				"不明": "不明"
+			}
+		},
+		"WindSpeedValue": {
+			"Strings": {
+				"": "{0}節",
+				"不明": "不明"
+			}
+		}
+	}
+}

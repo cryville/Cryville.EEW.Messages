@@ -1,0 +1,22 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"Connected": "Connected to {0}",
+		"Disconnected": "Disconnected with {0}: {1}",
+		"Error": "Error in connection with {0}: {1}",
+		"Exited": "Connection with {0} exited abnormally: {1}",
+		"Stopped": "Connection with {0} stopped"
+	},
+	"StringSets": {
+		"Worker": {
+			"Strings": {
+				"Cryville.EEW.CwaReportWorker`1[Cryville.EEW.Models.Cwa.Earthquake]": "CWA (Earthquake)",
+				"Cryville.EEW.CwaReportWorker`1[Cryville.EEW.Models.Cwa.Tsunami]": "CWA (Tsunami)",
+				"Cryville.EEW.GlobalQuakeWorker": "GlobalQuakeServer",
+				"Cryville.EEW.JmaAtomWorker": "JMA",
+				"Cryville.EEW.UpdateChecker": "update checker",
+				"Cryville.EEW.WebSocketWorker`1[Cryville.EEW.Models.Wolfx.BaseModel]": "Wolfx"
+			}
+		}
+	}
+}

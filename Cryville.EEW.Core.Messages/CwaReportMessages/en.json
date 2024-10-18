@@ -1,0 +1,43 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"EarthquakeBody": "At {0}, a magnitude {2:F1} earthquake occurred in {1}. Max intensity {3}.",
+		"EarthquakeFocalDepth": "Hypocenter depth {0} kilometers.",
+		"IntensitySuffixLevel": "",
+		"IntensitySuffixLower": "-lower",
+		"IntensitySuffixUpper": "-upper",
+		"IntensityUnknown": "unknown",
+		"TsunamiForecast": "The following areas are estimated to have a tsunami height of {0}.",
+		"TsunamiForecastArea": "{0}. Estimated arrival time {1:HH:mm}.",
+		"TsunamiObservation": "Currently, the tsunami heights observed per area are as follows.",
+		"TsunamiObservationMaxHeight": "Currently, the maximum tsunami height observed is {0} meters.",
+		"TsunamiObservationStation": "{0}. {1} meters."
+	},
+	"StringSets": {
+		"Title": {
+			"Strings": {
+				"地震報告": "Earthquake report",
+				"海嘯警報": "Tsunami warning",
+				"海嘯警報解除": "Tsunami warning lifted"
+			}
+		},
+		"TsunamiForecastArea": {
+			"Strings": {
+				"北部沿海地區": "Northern coastal area",
+				"東北沿海地區": "North-eastern coastal area",
+				"東南沿海地區": "South-eastern coastal area",
+				"東部沿海地區": "Eastern coastal area",
+				"海峽沿海地區": "Strait coastal area",
+				"西南沿海地區": "South-western coastal area"
+			}
+		},
+		"TsunamiForecastWaveHeight": {
+			"Strings": {
+				"小於1公尺": "less than 1 meter",
+				"1至3公尺": "1 to 3 meters",
+				"3至6公尺": "3 to 6 meters",
+				"大於6公尺": "greater than 6 meters"
+			}
+		}
+	}
+}

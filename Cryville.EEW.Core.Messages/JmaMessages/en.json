@@ -1,0 +1,8 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"IntensitySuffixLower": "-lower",
+		"IntensitySuffixUpper": "-upper",
+		"Unknown": "unknown"
+	}
+}
