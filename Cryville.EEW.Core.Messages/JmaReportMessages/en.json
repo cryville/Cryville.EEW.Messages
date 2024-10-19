@@ -83,6 +83,13 @@
 				"Ｍ８を超える巨大地震": "This earthquake is estimated to be a massive earthquake of magnitude 8 and above."
 			}
 		},
+		"HeadlineVolcanoWarning": {
+			"Strings": {
+				"": "Currently, {0} is at volcanic warning {2}.",
+				"引上げ": "The volcanic warning of {0} is being upgraded from {1} to {2}.",
+				"引下げ": "The volcanic warning of {0} is being downgraded from {1} to {2}."
+			}
+		},
 		"PlumeDirection": {
 			"Strings": {
 				"北": "north",
@@ -108,10 +115,12 @@
 			"Strings": {
 				"": "report",
 				"噴火に関する火山観測報": "Volcano observation information about eruption",
+				"噴火警報・予報": "Vocanic warning and forecast",
 				"地震情報": "Earthquake and seismic intensity information",
 				"推定噴煙流向報": "Estimated plume direction information",
 				"津波情報": "Tsunami information",
 				"津波警報・注意報・予報": "Tsunami warning, advisory, and forecast",
+				"火山の状況に関する解説情報": "Volcano condition information",
 				"長周期地震動に関する観測情報": "Long period ground motion observation information",
 				"降灰予報": "Volcanic ash fall forecast",
 				"震度速報": "Seismic intensity information",
@@ -146,6 +155,21 @@
 		},
 		"VolcanicWarning": {
 			"Strings": {
+				"11": "Level 1 (Potential for increased activity)",
+				"12": "Level 2 (Restriction on proximity to the crater)",
+				"13": "Level 3 (Restriction on proximity to the volcano)",
+				"14": "Level 4 (Evacuation of the elderly, etc.)",
+				"15": "Level 5 (Evacuation)",
+				"21": "Potential for increased activity",
+				"22": "Caution advised around the crater",
+				"23": "Caution in non-residential areas near the crater",
+				"24": "Extreme caution advised at the foot of mountains concerned",
+				"25": "Extreme caution advised in residential areas",
+				"31": "Volcanic Marine Warning (Volcanic Warning)",
+				"32": "Volcanic Marine Warning (Volcanic Warning lifted)",
+				"33": "Volcanic Marine Forecast (Volcanic Forecast)",
+				"35": "Potential for increased activity (Submarine volcano)",
+				"36": "Caution advised for the sea area in the vicinity of the volcano",
 				"51": "explosively erupted",
 				"52": "erupted",
 				"53": "started erupting",
