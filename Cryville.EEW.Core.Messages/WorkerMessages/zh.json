@@ -2,9 +2,9 @@
 	"Culture": "zh-CN",
 	"Strings": {
 		"Connected": "已连接到 {0}",
-		"Disconnected": "与 {0} 断开连接：{1}",
-		"Error": "与 {0} 的连接发生错误：{1}",
-		"Exited": "与 {0} 的连接异常退出：{1}",
+		"Disconnected": "与 {0} 断开连接",
+		"Error": "与 {0} 的连接发生错误",
+		"Exited": "与 {0} 的连接异常退出",
 		"Stopped": "与 {0} 的连接结束"
 	},
 	"StringSets": {

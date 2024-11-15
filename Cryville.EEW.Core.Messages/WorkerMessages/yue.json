@@ -2,9 +2,9 @@
 	"Culture": "yue-HK",
 	"Strings": {
 		"Connected": "已連接到 {0}",
-		"Disconnected": "同 {0} 斷開連接：{1}",
-		"Error": "同 {0} 嘅連接發生錯誤：{1}",
-		"Exited": "同 {0} 嘅連接異常退出：{1}",
+		"Disconnected": "同 {0} 斷開連接",
+		"Error": "同 {0} 嘅連接發生錯誤",
+		"Exited": "同 {0} 嘅連接異常退出",
 		"Stopped": "同 {0} 嘅連接結束"
 	},
 	"StringSets": {
