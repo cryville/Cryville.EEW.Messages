@@ -10,12 +10,12 @@
 	"StringSets": {
 		"Worker": {
 			"Strings": {
-				"Cryville.EEW.CwaReportWorker`1[Cryville.EEW.Models.Cwa.Earthquake]": "CWA (Earthquake)",
-				"Cryville.EEW.CwaReportWorker`1[Cryville.EEW.Models.Cwa.Tsunami]": "CWA (Tsunami)",
-				"Cryville.EEW.GlobalQuakeWorker": "GlobalQuakeServer",
-				"Cryville.EEW.JmaAtomWorker": "JMA",
+				"Cryville.EEW.CWAOpenData.CWAReportWorker`1[Cryville.EEW.CWAOpenData.Model.Earthquake]": "CWA (Earthquake)",
+				"Cryville.EEW.CWAOpenData.CWAReportWorker`1[Cryville.EEW.CWAOpenData.Model.Tsunami]": "CWA (Tsunami)",
+				"Cryville.EEW.GlobalQuake.GlobalQuakeWorker": "GlobalQuakeServer",
+				"Cryville.EEW.JMAAtom.JMAAtomWorker": "JMA Atom",
 				"Cryville.EEW.UpdateChecker": "update checker",
-				"Cryville.EEW.WebSocketWorker`1[Cryville.EEW.Models.Wolfx.BaseModel]": "Wolfx"
+				"Cryville.EEW.WebSocketWorker`1[Cryville.EEW.Wolfx.Model.BaseModel]": "Wolfx"
 			}
 		}
 	}
