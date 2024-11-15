@@ -3,6 +3,7 @@
 	"Strings": {
 		"Repeat": "先ほどの{0}を改めてお伝えします。",
 		"Serial": "#{0}",
+		"SerialCancel": "取消",
 		"SerialFinal": "#{0}終",
 		"UnknownLocation": "地域不明",
 		"UnknownVersion": "非公式バージョンを使っています。",

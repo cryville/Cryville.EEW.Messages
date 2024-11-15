@@ -3,7 +3,7 @@
 	"Strings": {
 		"Repeat": "Repeating the last {0}.",
 		"Serial": "#{0}",
-		"SerialFinal": "#{0} (Final)",
+		"SerialCancel": "Cancel",
 		"UnknownLocation": "unknown location",
 		"UnknownVersion": "You are using an unofficial version.",
 		"UpdateAvailable": "An update is available. Please go to the settings and tap \"About\" to check out the changelog and download the new version."

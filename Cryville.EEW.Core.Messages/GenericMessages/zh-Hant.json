@@ -3,6 +3,7 @@
 	"Strings": {
 		"Repeat": "重新播報剛才的{0}。",
 		"Serial": "#{0}",
+		"SerialCancel": "取消",
 		"SerialFinal": "#{0}終",
 		"UnknownLocation": "不明位置",
 		"UnknownVersion": "您正在使用非官方版本。",
