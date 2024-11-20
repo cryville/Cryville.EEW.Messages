@@ -152,6 +152,7 @@
 		"TsunamiObservationMaxHeightCondition": {
 			"Strings": {
 				"微弱": "微弱",
+				"欠測": "缺失數據",
 				"観測中": "觀測中"
 			}
 		},
