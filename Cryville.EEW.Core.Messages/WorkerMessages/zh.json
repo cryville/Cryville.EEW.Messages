@@ -14,7 +14,7 @@
 				"Cryville.EEW.CWAOpenData.CWAReportWorker`1[Cryville.EEW.CWAOpenData.Model.Tsunami]": "CWA（海啸）",
 				"Cryville.EEW.GlobalQuake.GlobalQuakeWorker": "GlobalQuakeServer",
 				"Cryville.EEW.JMAAtom.JMAAtomWorker": "JMA Atom",
-				"Cryville.EEW.UpdateChecker": "更新检查",
+				"Cryville.EEW.UpdateChecker.UpdateCheckerWorker": "更新检查",
 				"Cryville.EEW.WebSocketWorker`1[Cryville.EEW.Wolfx.Model.BaseModel]": "Wolfx"
 			}
 		}
