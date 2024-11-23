@@ -47,6 +47,8 @@
 	<string name="info_time_enable_time_zone_override">使用本地時區</string>
 	<string name="info_time_enable_time_zone_override_desc">使用系統的時區而不是事件源的時區</string>
 	<string name="map">地圖</string>
+	<string name="map_compatibility_view">使用相容地圖渲染模式</string>
+	<string name="map_compatibility_view_desc">舊版安卓上渲染不正確時請啟用該選項（重啟生效）</string>
 	<string name="map_high_definition_tiles">高解析度圖塊</string>
 	<string name="map_pan_to_ongoing_event">自動聚焦生效中的事件</string>
 	<string name="map_poi">元素風格</string>
