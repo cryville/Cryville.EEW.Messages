@@ -40,6 +40,7 @@
 	<string name="info_allow_custom_fonts">Allow system fonts</string>
 	<string name="info_color_scheme">Color scheme</string>
 	<string name="info_color_scheme_restart_required">Change from or to the legacy color scheme requires an restart</string>
+	<string name="info_font_size">Font size</string>
 	<string name="info_override_fonts">Override fonts</string>
 	<string name="info_override_fonts_desc">Override the system font matching logic</string>
 	<string name="info_time">Date time</string>

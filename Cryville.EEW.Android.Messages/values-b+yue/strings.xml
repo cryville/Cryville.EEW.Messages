@@ -40,6 +40,7 @@
 	<string name="info_allow_custom_fonts">允許使用系統字體</string>
 	<string name="info_color_scheme">顏色主題</string>
 	<string name="info_color_scheme_restart_required">切換到舊版顏色主題或者從舊版切換到其它主題要重啟應用先有效果</string>
+	<string name="info_font_size">字體大細</string>
 	<string name="info_override_fonts">覆蓋字體</string>
 	<string name="info_override_fonts_desc">覆蓋系統嘅字體選擇</string>
 	<string name="info_time">日期同時間</string>
