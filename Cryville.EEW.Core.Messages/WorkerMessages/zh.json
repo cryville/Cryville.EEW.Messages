@@ -15,7 +15,7 @@
 				"Cryville.EEW.GlobalQuake.GlobalQuakeWorker": "GlobalQuakeServer",
 				"Cryville.EEW.JMAAtom.JMAAtomWorker": "JMA Atom",
 				"Cryville.EEW.UpdateChecker.UpdateCheckerWorker": "更新检查",
-				"Cryville.EEW.WebSocketWorker`1[Cryville.EEW.Wolfx.Model.BaseModel]": "Wolfx"
+				"Cryville.EEW.Wolfx.WolfxWorker": "Wolfx"
 			}
 		}
 	}
