@@ -29,6 +29,9 @@
 	<string name="event_sources_jma_vxse60">关于地震次数的信息</string>
 	<string name="event_sources_jma_vxse61">显著地震的震源要素更新通知</string>
 	<string name="event_sources_jma_vxse62">关于长周期地震动的观测信息</string>
+	<string name="event_sources_noaa">美国国家海洋和大气管理局</string>
+	<string name="event_sources_noaa_ntwc">国家海啸警报中心海啸警报</string>
+	<string name="event_sources_noaa_ptwc">太平洋海啸警报中心海啸警报</string>
 	<string name="event_sources_others">其它</string>
 	<string name="event_sources_wolfx">Wolfx API</string>
 	<string name="event_sources_wolfx_cenc_eq">中国地震台网地震信息</string>

@@ -29,6 +29,9 @@
 	<string name="event_sources_jma_vxse60">Earthquake count information</string>
 	<string name="event_sources_jma_vxse61">Significant earthquake hypocenter update notice</string>
 	<string name="event_sources_jma_vxse62">Long period ground motion observation information</string>
+	<string name="event_sources_noaa">NOAA (U.S.)</string>
+	<string name="event_sources_noaa_ntwc">National Tsunami Warning Center tsunami warnings</string>
+	<string name="event_sources_noaa_ptwc">Pacific Tsunami Warning Center tsunami warnings</string>
 	<string name="event_sources_others">Others</string>
 	<string name="event_sources_wolfx">Wolfx API</string>
 	<string name="event_sources_wolfx_cenc_eq">CENC (China) earthquake information</string>
