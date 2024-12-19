@@ -1,0 +1,9 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"IntensitySuffixLevel": "级",
+		"IntensitySuffixLower": "弱",
+		"IntensitySuffixUpper": "强",
+		"IntensityUnknown": "不明"
+	}
+}

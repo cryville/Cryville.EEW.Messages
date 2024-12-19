@@ -1,0 +1,9 @@
+{
+	"Culture": "yue-HK",
+	"Strings": {
+		"IntensitySuffixLevel": "級",
+		"IntensitySuffixLower": "弱",
+		"IntensitySuffixUpper": "強",
+		"IntensityUnknown": "不明"
+	}
+}

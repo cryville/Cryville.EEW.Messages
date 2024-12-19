@@ -3,10 +3,6 @@
 	"Strings": {
 		"EarthquakeBody": "{0}，{1}發生規模{2:F1}有感地震，最大震度{3}。",
 		"EarthquakeFocalDepth": "震源深度{0}公里。",
-		"IntensitySuffixLevel": "級",
-		"IntensitySuffixLower": "弱",
-		"IntensitySuffixUpper": "強",
-		"IntensityUnknown": "不明",
 		"TsunamiForecast": "以下地區預計海嘯高度{0}。",
 		"TsunamiForecastArea": "{0}。預計到達時間{1:HH:mm}。",
 		"TsunamiObservation": "當前，各地觀測到嘅海嘯高度如下。",

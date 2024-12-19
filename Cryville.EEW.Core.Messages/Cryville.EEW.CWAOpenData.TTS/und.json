@@ -2,10 +2,6 @@
 	"Culture": "zh-TW",
 	"Strings": {
 		"EarthquakeFocalDepth": "震源深度{0}公里。",
-		"IntensitySuffixLevel": "級",
-		"IntensitySuffixLower": "弱",
-		"IntensitySuffixUpper": "強",
-		"IntensityUnknown": "不明",
 		"TsunamiForecast": "以下地區預估波高{0}。",
 		"TsunamiForecastArea": "{0}。預估到達時間{1:HH:mm}。",
 		"TsunamiObservation": "當前，各地觀測波高如下。",

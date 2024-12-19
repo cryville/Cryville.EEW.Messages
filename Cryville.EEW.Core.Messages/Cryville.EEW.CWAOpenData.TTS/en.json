@@ -3,10 +3,6 @@
 	"Strings": {
 		"EarthquakeBody": "At {0}, a magnitude {2:F1} earthquake occurred in {1}. Max intensity {3}.",
 		"EarthquakeFocalDepth": "Hypocenter depth {0} kilometers.",
-		"IntensitySuffixLevel": "",
-		"IntensitySuffixLower": "-lower",
-		"IntensitySuffixUpper": "-upper",
-		"IntensityUnknown": "unknown",
 		"TsunamiForecast": "The following areas are estimated to have a tsunami height of {0}.",
 		"TsunamiForecastArea": "{0}. Estimated arrival time {1:HH:mm}.",
 		"TsunamiObservation": "Currently, the tsunami heights observed per area are as follows.",
