@@ -1,0 +1,15 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"Repeat": "Repeating the last {0}.",
+		"Serial": "#{0}",
+		"SerialCancel": "Cancel",
+		"SerialFinal": "#{0} (Fin.)",
+		"UnknownLocation": "unknown location",
+		"WorkerConnected": "Connected to {0}",
+		"WorkerDisconnected": "Disconnected with {0}",
+		"WorkerError": "Error in connection with {0}",
+		"WorkerExited": "Connection with {0} exited abnormally",
+		"WorkerStopped": "Connection with {0} stopped"
+	}
+}

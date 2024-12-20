@@ -1,0 +1,15 @@
+{
+	"Culture": "yue-HK",
+	"Strings": {
+		"Repeat": "重新播報頭先嘅{0}。",
+		"Serial": "#{0}",
+		"SerialCancel": "取消",
+		"SerialFinal": "#{0}終",
+		"UnknownLocation": "不明位置",
+		"WorkerConnected": "已連接到 {0}",
+		"WorkerDisconnected": "同 {0} 斷開連接",
+		"WorkerError": "同 {0} 嘅連接發生錯誤",
+		"WorkerExited": "同 {0} 嘅連接異常退出",
+		"WorkerStopped": "同 {0} 嘅連接結束"
+	}
+}

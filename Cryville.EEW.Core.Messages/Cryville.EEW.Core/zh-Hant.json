@@ -1,0 +1,15 @@
+{
+	"Culture": "zh-TW",
+	"Strings": {
+		"Repeat": "重新播報剛才的{0}。",
+		"Serial": "#{0}",
+		"SerialCancel": "取消",
+		"SerialFinal": "#{0}終",
+		"UnknownLocation": "不明位置",
+		"WorkerConnected": "已連接到 {0}",
+		"WorkerDisconnected": "與 {0} 斷開連接",
+		"WorkerError": "與 {0} 的連接發生錯誤",
+		"WorkerExited": "與 {0} 的連接異常退出",
+		"WorkerStopped": "與 {0} 的連接結束"
+	}
+}
