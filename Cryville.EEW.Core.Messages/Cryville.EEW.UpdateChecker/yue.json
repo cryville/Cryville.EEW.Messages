@@ -1,0 +1,8 @@
+{
+	"Culture": "yue-HK",
+	"Strings": {
+		"SourceName": "更新檢查",
+		"UnknownVersion": "你正在使用嘅係非官方版本。",
+		"UpdateAvailable": "揾到咗新版本。請轉到設置入面嘅“關於”嚟睇更新咗乜嘢同埋下載新版本。"
+	}
+}

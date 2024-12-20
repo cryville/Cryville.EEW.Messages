@@ -1,0 +1,14 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"SourceName": "CWA ({0})"
+	},
+	"StringSets": {
+		"EventTypes": {
+			"Strings": {
+				"Earthquake": "Earthquake",
+				"Tsunami": "Tsunami"
+			}
+		}
+	}
+}

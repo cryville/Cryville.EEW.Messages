@@ -1,0 +1,8 @@
+{
+	"Culture": "ja-JP",
+	"Strings": {
+		"SourceName": "アップデートチェッカー",
+		"UnknownVersion": "非公式バージョンを使っています。",
+		"UpdateAvailable": "新バージョンがあります。設定の「CysTerra について」で変更内容を確認し、新バージョンをダウンロードしてください。"
+	}
+}

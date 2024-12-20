@@ -1,0 +1,14 @@
+{
+	"Culture": "yue-HK",
+	"Strings": {
+		"SourceName": "CWA（{0}）"
+	},
+	"StringSets": {
+		"EventTypes": {
+			"Strings": {
+				"Earthquake": "地震",
+				"Tsunami": "海嘯"
+			}
+		}
+	}
+}
