@@ -3,6 +3,7 @@
 	<string name="app_name">CysTerra</string>
 	<string name="category_low_usability">These settings are now having a low usability. Use at your own risk!</string>
 	<string name="category_restart_required">Restart the app to apply the changes to the settings in this category</string>
+	<string name="error">Error</string>
 	<string name="event_sources">Event sources</string>
 	<string name="event_sources_cwa">CWA (Taiwan)</string>
 	<string name="event_sources_cwa_e_a0014_001">Tsunami information</string>

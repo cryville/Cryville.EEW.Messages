@@ -3,6 +3,7 @@
 	<string name="app_name">CysTerra</string>
 	<string name="category_low_usability">以下设置可用性较低。请谨慎使用！</string>
 	<string name="category_restart_required">本类别的设置需要重启应用生效</string>
+	<string name="error">错误</string>
 	<string name="event_sources">事件信息源</string>
 	<string name="event_sources_cwa">台湾中央气象署</string>
 	<string name="event_sources_cwa_e_a0014_001">海啸资讯资料</string>
