@@ -43,6 +43,7 @@
 		"TsunamiHeightValueAffixOver": "over {0}",
 		"TsunamiObservationMaxHeightRising": " Rising.",
 		"TsunamiObservationStation": "{1}, {0}. {2}.",
+		"TsunamiObservationStationNoArea": "{0}. {1}.",
 		"VolcanoObservationColorPlume": "colored plumes",
 		"VolcanoObservationPlume": "The observation of {0} is as follows.",
 		"VolcanoObservationPlumeDirection": "The plume flows to the {0}.",

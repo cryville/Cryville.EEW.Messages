@@ -43,6 +43,7 @@
 		"TsunamiHeightValueAffixOver": "{0}以上",
 		"TsunamiObservationMaxHeightRising": "上升中。",
 		"TsunamiObservationStation": "{0}。{1}。{2}。",
+		"TsunamiObservationStationNoArea": "{0}。{1}。",
 		"VolcanoObservationColorPlume": "有色喷烟",
 		"VolcanoObservationPlume": "{0}的观测值如下。",
 		"VolcanoObservationPlumeDirection": "观测到的喷烟流向为{0}方向。",

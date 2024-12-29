@@ -30,6 +30,7 @@
 		"TsunamiHeightValueAffixOver": "{0}以上",
 		"TsunamiObservationMaxHeightRising": "上昇中。",
 		"TsunamiObservationStation": "{0}。{1}。{2}。",
+		"TsunamiObservationStationNoArea": "{0}。{1}。",
 		"VolcanoObservationColorPlume": "有色噴煙",
 		"VolcanoObservationPlume": "{0}の観測値は次の通りです。",
 		"VolcanoObservationPlumeDirection": "噴煙流向は{0}方向と観測しました。",
