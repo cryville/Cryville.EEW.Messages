@@ -3,8 +3,7 @@
 	"Strings": {
 		"NoSegmentCategoryHeadline": "The tsunami threat from this earthquake has now passed.",
 		"PreliminarySeismicInformation": "An earthquake with a preliminary magnitude of {0:F1} occurred in {1}, at {2:HH:mm 'UTC' 'on' dddd MMM dd yyyy}. The hypocenter depth is {3} {4}.",
-		"RegionDelimiter": ". ",
-		"Title": "Tsunami Message"
+		"RegionDelimiter": ". "
 	},
 	"StringSets": {
 		"HypocenterDepthUnit": {
@@ -16,7 +15,7 @@
 		"SegmentCategoryHeadlines": {
 			"Strings": {
 				"Cancellation": "The tsunami Warning, Advisory, or Watch is canceled for some coastal areas of the following regions.\n{0}.",
-				"Information": "There is no tsunami threat from this earthquake.",
+				"Information": "There is no tsunami threat to {0} from this earthquake.",
 				"Potential Threat": "Hazardous tsunami waves from this earthquake are possible along the coasts of the following regions.\n{0}.",
 				"Threat": "Hazardous tsunami waves from this earthquake are possible along the coasts of the following regions.\n{0}.",
 				"0-0.3 meters": "Tsunami waves are forecast to be less than 0.3 meters above the tide level for the coasts of the following regions.\n{0}.",
@@ -62,6 +61,22 @@
 				"VA": "Virginia",
 				"VI": "U.S. Virgin Islands",
 				"WA": "Washington"
+			}
+		},
+		"TargetRegion": {
+			"Strings": {
+				"": "unknown region",
+				"WEAK": "Alaska, British Colombia, and US West Coast",
+				"WECA": "non US Caribbean",
+				"WECA40": "Puerto Rico and Virgin Islands",
+				"WECA42": "Puerto Rico and Virgin Islands",
+				"WECA60": "Puerto Rico and Virgin Islands",
+				"WEGM": "Guam and CNMI",
+				"WEHW": "Hawaii",
+				"WEPA": "non US Pacific",
+				"WEPA41": "Alaska, British Colombia, and US West Coast",
+				"WEXX": "US Atlantic, Gulf of Mexico, and Canada",
+				"WEZS": "American Samoa"
 			}
 		},
 		"Territories": {
@@ -343,6 +358,30 @@
 				"ZM": "Zambia",
 				"ZW": "Zimbabwe",
 				"ZZ": "Unknown Region"
+			}
+		},
+		"Title": {
+			"Strings": {
+				"": "Tsunami Message",
+				"WEAK51": "Tsunami Warning, Advisory, and Watch for Alaska, British Colombia, and US West Coast",
+				"WEAK53": "Tsunami Information Statement for Alaska, British Colombia, and US West Coast",
+				"WECA40": "Tsunami Warning, Advisory, and Watch for Puerto Rico and Virgin Islands",
+				"WECA41": "Tsunami Threat Message for Non US Caribbean",
+				"WECA42": "Tsunami Information Statement for Puerto Rico and Virgin Islands",
+				"WECA43": "Tsunami Information Statement for Non US Caribbean",
+				"WECA60": "Tsunami Warning, Advisory, and Watch for Puerto Rico and Virgin Islands",
+				"WEGM40": "Tsunami Warning, Advisory, and Watch for Guam and CNMI",
+				"WEGM42": "Tsunami Information Statement for Guam and CNMI",
+				"WEHW40": "Tsunami Warning, Advisory, and Watch for Hawaii",
+				"WEHW42": "Tsunami Information Statement for Hawaii",
+				"WEPA40": "Tsunami Threat Message for Non US Pacific",
+				"WEPA41": "Tsunami Warning, Advisory, and Watch for Alaska, British Colombia, and US West Coast",
+				"WEPA42": "Tsunami Information Statement for Non US Pacific",
+				"WEXX20": "Tsunami Warning, Advisory, and Watch for US Atlantic, Gulf of Mexico, and Canada",
+				"WEXX30": "Tsunami Warning, Advisory, and Watch for US Atlantic, Gulf of Mexico, and Canada",
+				"WEXX32": "Tsunami Information Statement for US Atlantic, Gulf of Mexico, and Canada",
+				"WEZS40": "Tsunami Warning, Advisory, and Watch for American Samoa",
+				"WEZS42": "Tsunami Information Statement for American Samoa"
 			}
 		}
 	}
