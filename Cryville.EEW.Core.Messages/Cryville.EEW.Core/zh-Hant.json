@@ -1,10 +1,12 @@
 {
 	"Culture": "zh-TW",
 	"Strings": {
+		"CoreError": "核心發生錯誤",
 		"Repeat": "重新播報剛才的{0}。",
 		"Serial": "#{0}",
 		"SerialCancel": "取消",
 		"SerialFinal": "#{0}終",
+		"TTSError": "語音合成發生錯誤",
 		"UnknownLocation": "不明位置",
 		"WorkerConnected": "已連接到 {0}",
 		"WorkerDisconnected": "與 {0} 斷開連接",

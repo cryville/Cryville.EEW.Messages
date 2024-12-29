@@ -1,10 +1,12 @@
 {
 	"Culture": "en-US",
 	"Strings": {
+		"CoreError": "Error in core worker",
 		"Repeat": "Repeating the last {0}.",
 		"Serial": "#{0}",
 		"SerialCancel": "Cancel",
 		"SerialFinal": "#{0} (Fin.)",
+		"TTSError": "Error in TTS worker",
 		"UnknownLocation": "unknown location",
 		"WorkerConnected": "Connected to {0}",
 		"WorkerDisconnected": "Disconnected with {0}",
