@@ -37,7 +37,7 @@
 		"TsunamiForecastFirstHeightArrivalTime": "Estimated arrival time {0:t}",
 		"TsunamiForecastMaxHeight": "Estimated tsunami height {0}.",
 		"TsunamiForecastSuffix": "Information related to the earthquake",
-		"TsunamiHeightValue": "{0} meters",
+		"TsunamiHeightValue": "{0:F1} meters",
 		"TsunamiHeightValueAffix": "{0}",
 		"TsunamiHeightValueAffixBelow": "below {0}",
 		"TsunamiHeightValueAffixOver": "over {0}",

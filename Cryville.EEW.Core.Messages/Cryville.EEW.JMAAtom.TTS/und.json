@@ -24,7 +24,7 @@
 		"TsunamiForecastFirstHeightArrivalTime": "到達予想時刻{0:t}",
 		"TsunamiForecastMaxHeight": "予想される津波の高さは、{0}です。",
 		"TsunamiForecastSuffix": "震源に関する情報",
-		"TsunamiHeightValue": "{0}メートル",
+		"TsunamiHeightValue": "{0:F1}メートル",
 		"TsunamiHeightValueAffix": "{0}",
 		"TsunamiHeightValueAffixBelow": "{0}未満",
 		"TsunamiHeightValueAffixOver": "{0}以上",
