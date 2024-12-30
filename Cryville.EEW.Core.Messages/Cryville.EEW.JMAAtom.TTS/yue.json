@@ -37,7 +37,7 @@
 		"TsunamiForecastFirstHeightArrivalTime": "預測到達時刻{0:t}",
 		"TsunamiForecastMaxHeight": "預測海嘯高度為{0}。",
 		"TsunamiForecastSuffix": "關於震源嘅資訊",
-		"TsunamiHeightValue": "{0:F1}米",
+		"TsunamiHeightValue": "{0}米",
 		"TsunamiHeightValueAffix": "{0}",
 		"TsunamiHeightValueAffixBelow": "不滿{0}",
 		"TsunamiHeightValueAffixOver": "{0}以上",
