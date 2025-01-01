@@ -48,6 +48,8 @@
 	<string name="info_font_size">字体大小</string>
 	<string name="info_override_fonts">覆盖字体</string>
 	<string name="info_override_fonts_desc">覆盖系统的字体匹配逻辑</string>
+	<string name="info_switch_back_to_history">自动切换至历史</string>
+	<string name="info_switch_back_to_history_desc">当所有生效中的事件结束时自动切换至最后的历史事件</string>
 	<string name="info_time">日期与时间</string>
 	<string name="info_time_display_time_zone">显示时区</string>
 	<string name="info_time_enable_time_zone_override">使用本地时区</string>

@@ -48,6 +48,8 @@
 	<string name="info_font_size">Font size</string>
 	<string name="info_override_fonts">Override fonts</string>
 	<string name="info_override_fonts_desc">Override the system font matching logic</string>
+	<string name="info_switch_back_to_history">Switch back to history</string>
+	<string name="info_switch_back_to_history_desc">Switch back to the latest history event when all the ongoing events are invalidated</string>
 	<string name="info_time">Date time</string>
 	<string name="info_time_display_time_zone">Display time zone</string>
 	<string name="info_time_enable_time_zone_override">Use local time zone</string>
