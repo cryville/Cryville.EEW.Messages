@@ -1,6 +1,7 @@
 <resources>
 	<string name="about">關於</string>
 	<string name="app_name">CysTerra</string>
+	<string name="category_low_reliability">落面啲事件源唔係好穩陣。請謹慎使用！</string>
 	<string name="category_low_usability">落面嘅設置仲唔係好好用。請謹慎使用！</string>
 	<string name="category_restart_required">呢個類別嘅設置要重啟應用先有效果</string>
 	<string name="error">錯誤</string>

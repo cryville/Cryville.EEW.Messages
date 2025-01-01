@@ -1,6 +1,7 @@
 <resources>
 	<string name="about">关于</string>
 	<string name="app_name">CysTerra</string>
+	<string name="category_low_reliability">以下事件源可靠性低。请谨慎使用！</string>
 	<string name="category_low_usability">以下设置可用性较低。请谨慎使用！</string>
 	<string name="category_restart_required">本类别的设置需要重启应用生效</string>
 	<string name="error">错误</string>
