@@ -16,10 +16,13 @@
 	<string name="event_sources_globalquake_host">主機</string>
 	<string name="event_sources_globalquake_port">端口</string>
 	<string name="event_sources_jma">日本氣象廳</string>
+	<string name="event_sources_jma_vfvo50">火山噴發警報、預報</string>
+	<string name="event_sources_jma_vfvo51">關於火山嘅狀況嘅解説資訊</string>
 	<string name="event_sources_jma_vfvo52">關於火山嘅火山觀測報</string>
 	<string name="event_sources_jma_vfvo53">降灰預報（定時）</string>
 	<string name="event_sources_jma_vfvo54">降灰預報（速報）</string>
 	<string name="event_sources_jma_vfvo55">降灰預報（詳細）</string>
+	<string name="event_sources_jma_vfvo56">火山噴發速報</string>
 	<string name="event_sources_jma_vfvo60">推定噴煙流向報</string>
 	<string name="event_sources_jma_vtse41">海嘯警報、注意報、預報</string>
 	<string name="event_sources_jma_vtse51">海嘯資訊</string>
@@ -31,6 +34,8 @@
 	<string name="event_sources_jma_vxse60">關於地震次數嘅資訊</string>
 	<string name="event_sources_jma_vxse61">顯著地震嘅震源要素更新通知</string>
 	<string name="event_sources_jma_vxse62">關於長週期地震動嘅觀測資訊</string>
+	<string name="event_sources_jma_vyse50">南海海槽地震臨時資訊</string>
+	<string name="event_sources_jma_vyse51_vyse52">南海海槽地震關聯解説資訊</string>
 	<string name="event_sources_noaa">美國國家海洋及大氣管理局</string>
 	<string name="event_sources_noaa_ntwc">國家海嘯警報中心海嘯警報</string>
 	<string name="event_sources_noaa_ptwc">太平洋海嘯警報中心海嘯警報</string>

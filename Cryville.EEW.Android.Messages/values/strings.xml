@@ -16,10 +16,13 @@
 	<string name="event_sources_globalquake_host">Host</string>
 	<string name="event_sources_globalquake_port">Port</string>
 	<string name="event_sources_jma">Japan Meteorological Agency</string>
+	<string name="event_sources_jma_vfvo50">Volcanic warning and forecast</string>
+	<string name="event_sources_jma_vfvo51">Explanatory information on volcano status</string>
 	<string name="event_sources_jma_vfvo52">Volcano observation information about eruption</string>
 	<string name="event_sources_jma_vfvo53">Volcanic ash fall forecast (scheduled)</string>
 	<string name="event_sources_jma_vfvo54">Volcanic ash fall forecast (preliminary)</string>
 	<string name="event_sources_jma_vfvo55">Volcanic ash fall forecast (detailed)</string>
+	<string name="event_sources_jma_vfvo56">Volcanic eruption notice</string>
 	<string name="event_sources_jma_vfvo60">Estimated plume direction information</string>
 	<string name="event_sources_jma_vtse41">Tsunami warning / Tsunami advisory</string>
 	<string name="event_sources_jma_vtse51">Tsunami information</string>
@@ -31,6 +34,8 @@
 	<string name="event_sources_jma_vxse60">Earthquake count information</string>
 	<string name="event_sources_jma_vxse61">Significant earthquake hypocenter update notice</string>
 	<string name="event_sources_jma_vxse62">Long period ground motion observation information</string>
+	<string name="event_sources_jma_vyse50">Nankai Trough earthquake extra information</string>
+	<string name="event_sources_jma_vyse51_vyse52">Explanatory information related to Nankai Trough earthquake</string>
 	<string name="event_sources_noaa">NOAA (U.S.)</string>
 	<string name="event_sources_noaa_ntwc">National Tsunami Warning Center tsunami warnings</string>
 	<string name="event_sources_noaa_ptwc">Pacific Tsunami Warning Center tsunami warnings</string>
