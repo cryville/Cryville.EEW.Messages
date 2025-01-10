@@ -3,6 +3,10 @@
 	"Strings": {
 		"AshInfo": "{0:HH}時から{1:HH}時まで、火口から{2}",
 		"AshInfoItem": "{0}{1}キロメートルに{2}",
+		"EarthquakeCount": "{0:d日HH時}から、{1:d日HH時}まで{2}が発生しました。",
+		"EarthquakeCountFeltNumber": "、{0}回の有感地震",
+		"EarthquakeCountNumber": "、{0}回の地震",
+		"EarthquakeCountTotal": "まとめて、{0}",
 		"EarthquakeHypocenterArea": "震源地は{0}。",
 		"EarthquakeHypocenterDepth": "震源の深さは約{0}キロメートル。",
 		"EarthquakeHypocenterDepth0": "震源の深さはごく浅い。",
