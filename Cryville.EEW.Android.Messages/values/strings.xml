@@ -41,6 +41,7 @@
 	<string name="event_sources_noaa_ptwc">Pacific Tsunami Warning Center tsunami warnings</string>
 	<string name="event_sources_others">Others</string>
 	<string name="event_sources_wolfx">Wolfx API</string>
+	<string name="event_sources_wolfx_cenc_eew">CENC (China) EEW</string>
 	<string name="event_sources_wolfx_cenc_eq">CENC (China) earthquake information</string>
 	<string name="event_sources_wolfx_cwa_eew">CWA (Taiwan) EEW</string>
 	<string name="event_sources_wolfx_fj_eew">FEA (Fujian) EEW</string>

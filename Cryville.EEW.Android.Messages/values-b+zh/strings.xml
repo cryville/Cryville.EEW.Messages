@@ -41,6 +41,7 @@
 	<string name="event_sources_noaa_ptwc">太平洋海啸警报中心海啸警报</string>
 	<string name="event_sources_others">其它</string>
 	<string name="event_sources_wolfx">Wolfx API</string>
+	<string name="event_sources_wolfx_cenc_eew">中国地震台网地震预警</string>
 	<string name="event_sources_wolfx_cenc_eq">中国地震台网地震信息</string>
 	<string name="event_sources_wolfx_cwa_eew">台湾中央气象署地震预警</string>
 	<string name="event_sources_wolfx_fj_eew">福建地震局地震预警</string>
