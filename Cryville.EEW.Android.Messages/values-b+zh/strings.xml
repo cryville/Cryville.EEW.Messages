@@ -13,6 +13,7 @@
 	<string name="event_sources_cwa_token">授权码</string>
 	<string name="event_sources_enabled">启用</string>
 	<string name="event_sources_globalquake">GlobalQuake</string>
+	<string name="event_sources_globalquake_api">API版本</string>
 	<string name="event_sources_globalquake_host">主机</string>
 	<string name="event_sources_globalquake_port">端口</string>
 	<string name="event_sources_jma">日本气象厅</string>

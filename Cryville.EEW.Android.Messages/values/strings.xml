@@ -11,8 +11,9 @@
 	<string name="event_sources_cwa_e_a0015_001">Significant earthquake report</string>
 	<string name="event_sources_cwa_e_a0016_001">Minor earthquake report</string>
 	<string name="event_sources_cwa_token">Authorization token</string>
-	<string name="event_sources_globalquake">GlobalQuake</string>
 	<string name="event_sources_enabled">Enabled</string>
+	<string name="event_sources_globalquake">GlobalQuake</string>
+	<string name="event_sources_globalquake_api">API version</string>
 	<string name="event_sources_globalquake_host">Host</string>
 	<string name="event_sources_globalquake_port">Port</string>
 	<string name="event_sources_jma">Japan Meteorological Agency</string>
