@@ -33,4 +33,9 @@
 		<item>Flinn-Engdahl regions (long)</item>
 		<item>Flinn-Engdahl regions (short)</item>
 	</string-array>
+	<string-array name="voice_streams">
+		<item>Notification event</item>
+		<item>Notification</item>
+		<item>Media</item>
+	</string-array>
 </resources>

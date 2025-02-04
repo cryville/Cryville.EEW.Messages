@@ -33,4 +33,9 @@
 		<item>Flinn-Engdahl 区域（长）</item>
 		<item>Flinn-Engdahl 区域（短）</item>
 	</string-array>
+	<string-array name="voice_streams">
+		<item>事件通知</item>
+		<item>通知</item>
+		<item>媒体</item>
+	</string-array>
 </resources>

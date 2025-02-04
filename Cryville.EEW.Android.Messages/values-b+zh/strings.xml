@@ -75,8 +75,8 @@
 	<string name="setting_auto">本项为自动设置，无法手动切换</string>
 	<string name="settings">设置</string>
 	<string name="use_system">（使用系统设置）</string>
-	<string name="voice">语音</string>
-	<string name="voice_language">语言</string>
+	<string name="voice">声音</string>
+	<string name="voice_language">语音语言</string>
 	<string name="voice_language_coordinated_language_pairs">对等语言</string>
 	<string name="voice_language_coordinated_language_pairs_desc">允许保留事件源中未本地化名称的语言映射</string>
 	<string name="voice_language_enable_primary">启用主语言</string>
@@ -94,4 +94,7 @@
 	<string name="voice_silent_mode_begin_time">免打扰模式开始时间</string>
 	<string name="voice_silent_mode_desc">在选定的时间段不播放音效和语音播报</string>
 	<string name="voice_silent_mode_end_time">免打扰模式结束时间</string>
+	<string name="voice_stream">音频频道</string>
+	<string name="voice_stream_sound">音效音频频道</string>
+	<string name="voice_stream_voice">语音音频频道</string>
 </resources>
