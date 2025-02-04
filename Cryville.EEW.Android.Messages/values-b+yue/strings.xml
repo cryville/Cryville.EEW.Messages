@@ -76,6 +76,8 @@
 	<string name="settings">設置</string>
 	<string name="use_system">（用系統設置）</string>
 	<string name="voice">聲音</string>
+	<string name="voice_filter_incorrect_time">過濾延遲事件</string>
+	<string name="voice_filter_incorrect_time_desc">防止時間唔啱嘅警報觸發音效同語音</string>
 	<string name="voice_language">語音語言</string>
 	<string name="voice_language_coordinated_language_pairs">對等語言</string>
 	<string name="voice_language_coordinated_language_pairs_desc">畀保留事件源入面冇翻譯啲名嘅語言映射</string>

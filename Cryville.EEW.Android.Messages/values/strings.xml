@@ -76,6 +76,8 @@
 	<string name="settings">Settings</string>
 	<string name="use_system">(Use system settings)</string>
 	<string name="voice">Sound</string>
+	<string name="voice_filter_incorrect_time">Filter delayed events</string>
+	<string name="voice_filter_incorrect_time_desc">Prevent warnings with incorrect time from triggering sound effects and TTS</string>
 	<string name="voice_language">TTS language</string>
 	<string name="voice_language_coordinated_language_pairs">Coordinated languages</string>
 	<string name="voice_language_coordinated_language_pairs_desc">Language mappings that the unlocalized names from the event source are preserved</string>

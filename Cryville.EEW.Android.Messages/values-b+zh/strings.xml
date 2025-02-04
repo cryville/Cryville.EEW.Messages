@@ -76,6 +76,8 @@
 	<string name="settings">设置</string>
 	<string name="use_system">（使用系统设置）</string>
 	<string name="voice">声音</string>
+	<string name="voice_filter_incorrect_time">过滤延迟事件</string>
+	<string name="voice_filter_incorrect_time_desc">防止时间不正确的警报触发音效和语音</string>
 	<string name="voice_language">语音语言</string>
 	<string name="voice_language_coordinated_language_pairs">对等语言</string>
 	<string name="voice_language_coordinated_language_pairs_desc">允许保留事件源中未本地化名称的语言映射</string>
