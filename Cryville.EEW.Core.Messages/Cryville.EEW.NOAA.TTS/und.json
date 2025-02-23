@@ -75,7 +75,7 @@
 				"WEHW": "Hawaii",
 				"WEPA": "non US Pacific",
 				"WEPA41": "Alaska, British Colombia, and US West Coast",
-				"WEXX": "US Atlantic, Gulf of Mexico, and Canada",
+				"WEXX": "US Atlantic, Gulf of America, and Canada",
 				"WEZS": "American Samoa"
 			}
 		},
@@ -378,9 +378,9 @@
 				"WEPA40": "Tsunami Threat Message for Non US Pacific",
 				"WEPA41": "Tsunami Warning, Advisory, and Watch for Alaska, British Colombia, and US West Coast",
 				"WEPA42": "Tsunami Information Statement for Non US Pacific",
-				"WEXX20": "Tsunami Warning, Advisory, and Watch for US Atlantic, Gulf of Mexico, and Canada",
-				"WEXX30": "Tsunami Warning, Advisory, and Watch for US Atlantic, Gulf of Mexico, and Canada",
-				"WEXX32": "Tsunami Information Statement for US Atlantic, Gulf of Mexico, and Canada",
+				"WEXX20": "Tsunami Warning, Advisory, and Watch for US Atlantic, Gulf of America, and Canada",
+				"WEXX30": "Tsunami Warning, Advisory, and Watch for US Atlantic, Gulf of America, and Canada",
+				"WEXX32": "Tsunami Information Statement for US Atlantic, Gulf of America, and Canada",
 				"WEZS40": "Tsunami Warning, Advisory, and Watch for American Samoa",
 				"WEZS42": "Tsunami Information Statement for American Samoa"
 			}
