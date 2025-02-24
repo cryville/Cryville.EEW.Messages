@@ -1,0 +1,12 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"Depth": "震源深度{0}千米。",
+		"Headline": "{0}，发生了一次地震。",
+		"MaxIntensity": "本次地震，最大烈度为{0}。",
+		"Magnitude": "表示地震规模的震级为{0:F1}级。",
+		"Region": "震中位于{0}。",
+		"Title": "地震数据。",
+		"TitleStandAlone": "地震数据"
+	}
+}

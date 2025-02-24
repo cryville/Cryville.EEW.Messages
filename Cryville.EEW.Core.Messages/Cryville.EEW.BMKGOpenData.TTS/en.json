@@ -1,0 +1,12 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"Depth": "Hypocenter depth {0}km.",
+		"Headline": "An earthquake occurred at {0:HH:mm:ss} on {0:MMM dd yyyy}.",
+		"MaxIntensity": "In this earthquake, the maximum intensity is {0}.",
+		"Magnitude": "The magnitude denoting the strength of the earthquake is {0:F1}.",
+		"Region": "The epicenter is in {0}.",
+		"Title": "Earthquake Data.",
+		"TitleStandAlone": "Earthquake Data"
+	}
+}

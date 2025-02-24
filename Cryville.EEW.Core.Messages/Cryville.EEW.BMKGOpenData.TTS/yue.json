@@ -1,0 +1,12 @@
+{
+	"Culture": "yue-HK",
+	"Strings": {
+		"Depth": "震源深度{0}公里。",
+		"Headline": "{0}，發生咗一次地震。",
+		"MaxIntensity": "呢次地震，最大烈度為{0}。",
+		"Magnitude": "表示地震規模嘅震級為{0:F1}級。",
+		"Region": "震中位於{0}。",
+		"Title": "地震數據。",
+		"TitleStandAlone": "地震數據"
+	}
+}

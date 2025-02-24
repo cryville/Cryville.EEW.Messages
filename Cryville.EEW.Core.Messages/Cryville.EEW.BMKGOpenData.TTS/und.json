@@ -1,0 +1,12 @@
+{
+	"Culture": "id-ID",
+	"Strings": {
+		"Depth": "Kedalaman hiposenternya {0} km.",
+		"Headline": "Gempa bumi terjadi pada {0:dd MMMM yyyy}, pukul {0:HH.mm.ss}.",
+		"MaxIntensity": "Pada gempa bumi ini, intensitas maksimum adalah {0}.",
+		"Magnitude": "Magnitudo yang merupakan kekuatan gempa adalah {0:F1}.",
+		"Region": "Pusat gempa berada di {0}.",
+		"Title": "Data Gempabumi.",
+		"TitleStandAlone": "Data Gempabumi"
+	}
+}
