@@ -16,6 +16,18 @@
 		<item>中文（簡體 → 繁體）</item>
 		<item>中文（繁體 → 簡體）</item>
 	</string-array>
+	<string-array name="event_sources_usgs_feeds">
+		<item>顯著地震（近30日）</item>
+		<item>顯著地震（近7日）</item>
+		<item>顯著地震（近一日）</item>
+		<item>顯著地震（近一個鐘）</item>
+		<item>M4.5及以上地震（近一日）</item>
+		<item>M4.5及以上地震（近一個鐘）</item>
+		<item>M2.5及以上地震（近一日）</item>
+		<item>M2.5及以上地震（近一個鐘）</item>
+		<item>M1.0及以上地震（近一個鐘）</item>
+		<item>全部地震（近一個鐘）</item>
+	</string-array>
 	<string-array name="languages">
 		<item>@string/use_system</item>
 		<item>英文（美國）</item>

@@ -16,6 +16,18 @@
 		<item>Mandarin Chinese (Simplified → Traditional)</item>
 		<item>Mandarin Chinese (Traditional → Simplified)</item>
 	</string-array>
+	<string-array name="event_sources_usgs_feeds">
+		<item>Significant Earthquakes, Past 30 Days</item>
+		<item>Significant Earthquakes, Past 7 Days</item>
+		<item>Significant Earthquakes, Past Day</item>
+		<item>Significant Earthquakes, Past Hour</item>
+		<item>M4.5+ Earthquakes, Past Day</item>
+		<item>M4.5+ Earthquakes, Past Hour</item>
+		<item>M2.5+ Earthquakes, Past Day</item>
+		<item>M2.5+ Earthquakes, Past Hour</item>
+		<item>M1.0+ Earthquakes, Past Hour</item>
+		<item>All Earthquakes, Past Hour</item>
+	</string-array>
 	<string-array name="languages">
 		<item>@string/use_system</item>
 		<item>English (United States)</item>

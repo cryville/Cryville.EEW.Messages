@@ -16,6 +16,18 @@
 		<item>现代标准汉语（简体 → 繁体）</item>
 		<item>现代标准汉语（繁体 → 简体）</item>
 	</string-array>
+	<string-array name="event_sources_usgs_feeds">
+		<item>显著地震（近30天）</item>
+		<item>显著地震（近7天）</item>
+		<item>显著地震（近一天）</item>
+		<item>显著地震（近一小时）</item>
+		<item>M4.5及以上地震（近一天）</item>
+		<item>M4.5及以上地震（近一小时）</item>
+		<item>M2.5及以上地震（近一天）</item>
+		<item>M2.5及以上地震（近一小时）</item>
+		<item>M1.0及以上地震（近一小时）</item>
+		<item>全部地震（近一小时）</item>
+	</string-array>
 	<string-array name="languages">
 		<item>@string/use_system</item>
 		<item>英语（美国）</item>
