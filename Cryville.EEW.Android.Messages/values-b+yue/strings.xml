@@ -14,6 +14,7 @@
 	<string name="event_sources_cwa_e_a0015_001">顯著有感地震報告</string>
 	<string name="event_sources_cwa_e_a0016_001">小區域有感地震報告</string>
 	<string name="event_sources_cwa_token">授權碼</string>
+	<string name="event_sources_emsc">歐洲與地中海地震中心</string>
 	<string name="event_sources_enabled">啟用</string>
 	<string name="event_sources_globalquake">GlobalQuake</string>
 	<string name="event_sources_globalquake_api">API版本</string>
