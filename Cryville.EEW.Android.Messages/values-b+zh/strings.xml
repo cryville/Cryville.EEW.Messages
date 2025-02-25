@@ -8,7 +8,7 @@
 	<string name="event_sources">事件信息源</string>
 	<string name="event_sources_bmkg">印度尼西亚气象、气候及地球物理局</string>
 	<string name="event_sources_bmkg_felt">有感地震</string>
-	<string name="event_sources_bmkg_major">M5.0 及以上地震</string>
+	<string name="event_sources_bmkg_major">M5.0及以上地震</string>
 	<string name="event_sources_cwa">台湾中央气象署</string>
 	<string name="event_sources_cwa_e_a0014_001">海啸资讯资料</string>
 	<string name="event_sources_cwa_e_a0015_001">显著有感地震报告</string>
