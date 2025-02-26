@@ -1,10 +1,10 @@
 {
 	"Culture": "id-ID",
 	"Strings": {
-		"Depth": "Kedalaman hiposenternya {0} km.",
-		"Headline": "Gempa bumi terjadi pada {0:dd MMMM yyyy}, pukul {0:HH.mm.ss}.",
-		"MaxIntensity": "Pada gempa bumi ini, intensitas maksimum adalah {0}.",
-		"Magnitude": "Magnitudo yang merupakan kekuatan gempa adalah {0:F1}.",
+		"Headline": "Telah terjadi gempa pada {0:dd MMMM yyyy 'pukul' H 'lewat' m 'menit' s 'detik'} Waktu Indonesia Barat{1}{2}.",
+		"HeadlineDepth": ", pada kedalaman {0} km",
+		"HeadlineMagnitude": ", dengan magnitudo {0:F1}",
+		"MaxIntensity": "Intensitas gempa maksimum yang dirasakan adalah {0}.",
 		"Region": "Pusat gempa berada di {0}.",
 		"Title": "Data Gempabumi.",
 		"TitleStandAlone": "Data Gempabumi"
