@@ -3,7 +3,7 @@
 	"Strings": {
 		"Headline": "印度尼西亞西部時間{0}，發生了一次{1}地震。{2}",
 		"HeadlineDepth": "震源深度{0}公里。",
-		"HeadlineMagnitude": "規模{0:F1}級。",
+		"HeadlineMagnitude": "規模{0:F1}級",
 		"MaxIntensity": "觀測到的最大震度為{0}。",
 		"Region": "震中位於{0}。",
 		"Title": "地震數據。",
