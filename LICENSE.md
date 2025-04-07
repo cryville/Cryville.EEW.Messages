@@ -3,6 +3,8 @@ The following files are licensed under [CC-BY-4.0](LICENSE-CCBY.txt) © Cryville
 
 - Cryville.EEW.Android.Messages
 - Cryville.EEW.Core.Messages
+  - Cryville.EEW.BMKGOpenData/*
+  - Cryville.EEW.BMKGOpenData.TTS/*
   - Cryville.EEW.Core/*
   - Cryville.EEW.CWA/*
   - Cryville.EEW.CWAOpenData/*
@@ -20,9 +22,11 @@ The following files are licensed under [CC-BY-4.0](LICENSE-CCBY.txt) © Cryville
   - Cryville.EEW.JMAAtom.TTS/*
   - Cryville.EEW.NOAA/*
   - Cryville.EEW.NOAA.TTS/*
+  - Cryville.EEW.QuakeML/*
   - Cryville.EEW.UpdateChecker/*
+  - Cryville.EEW.USGS/*
   - Cryville.EEW.Wolfx/*
-  - Cryville.EEW.Wolfx.TTS/**/*
+  - Cryville.EEW.Wolfx.TTS/\*\*/*
 
 The following files are copyrighted by [Japan Meteorological Agency](https://www.jma.go.jp/jma/index.html):
 
