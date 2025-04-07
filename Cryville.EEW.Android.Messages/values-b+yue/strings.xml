@@ -51,9 +51,9 @@
 	<string name="event_sources_wolfx_cenc_eew">中國地震台網地震預警</string>
 	<string name="event_sources_wolfx_cenc_eq">中國地震台網地震資訊</string>
 	<string name="event_sources_wolfx_cwa_eew">台灣中央氣象署地震預警</string>
-	<string name="event_sources_wolfx_fj_eew">福建地震局地震預警</string>
+	<string name="event_sources_wolfx_fj_eew">福建省地震局地震預警</string>
 	<string name="event_sources_wolfx_jma_eew">日本氣象廳緊急地震速報</string>
-	<string name="event_sources_wolfx_sc_eew">四川地震局地震預警</string>
+	<string name="event_sources_wolfx_sc_eew">四川省地震局地震預警</string>
 	<string name="info">資訊</string>
 	<string name="info_allow_custom_fonts">允許使用系統字體</string>
 	<string name="info_color_scheme">顏色主題</string>
