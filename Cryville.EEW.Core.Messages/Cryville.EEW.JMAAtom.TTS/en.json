@@ -160,7 +160,7 @@
 		"Status": {
 			"Strings": {
 				"訓練": "This report is for drilling.",
-				"試験": "This report is for experiment."
+				"試験": "This report is for testing."
 			}
 		},
 		"Title": {
