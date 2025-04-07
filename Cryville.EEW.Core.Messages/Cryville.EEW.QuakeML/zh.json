@@ -1,0 +1,9 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"LocationAggregated": "{0}（+{1}）",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"Title": "地震学事件"
+	}
+}

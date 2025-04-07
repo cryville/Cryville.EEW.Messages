@@ -1,6 +1,15 @@
 {
 	"Culture": "yue-HK",
 	"Strings": {
+		"AuthorityName": "CWA",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMaxIntensity": "最大震度",
+		"PropertyMaxTsunamiHeight": "最大波高",
+		"PropertyMaxTsunamiHeightValue": "{0}m",
+		"PropertyMaxTsunamiHeightValueUnknown": "不明",
+		"PropertyTsunamiMessage": "海\u2060嘯消\u2060息",
+		"PropertyTsunamiWarning": "海\u2060嘯警\u2060報",
 		"SourceName": "CWA（{0}）"
 	},
 	"StringSets": {
@@ -8,6 +17,20 @@
 			"Strings": {
 				"Earthquake": "地震",
 				"Tsunami": "海嘯"
+			}
+		},
+		"PropertyMagnitude": {
+			"Strings": {
+				"": "震級",
+				"芮氏規模": "黎克特制震級"
+			}
+		},
+		"Title": {
+			"Strings": {
+				"地震報告": "地震報告",
+				"海嘯消息": "海嘯消息",
+				"海嘯警報": "海嘯警報",
+				"海嘯警報解除": "海嘯警報解除"
 			}
 		}
 	}

@@ -1,6 +1,57 @@
 {
 	"Culture": "yue-HK",
 	"Strings": {
+		"AuthorityName": "NOAA",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyDepthValueMiles": "{0}mi",
 		"SourceName": "NOAA"
+	},
+	"StringSets": {
+		"Category": {
+			"Strings": {
+				"Cancellation": "取\u2060消",
+				"Information": "資\u2060訊",
+				"Potential Threat": "潛\u2060在威\u2060脅",
+				"Threat": "威\u2060脅",
+				"0-0.3 meters": "0-0\u2060.\u20603米",
+				"0.3-1 meters": "0\u2060.\u20603-1米",
+				"1-3 meters": "1-3米",
+				">3.0 meters": ">3\u2060.\u20600米",
+				"Watch": "觀\u2060察報",
+				"Advisory": "注\u2060意報",
+				"Warning": "警\u2060報"
+			}
+		},
+		"SourceName": {
+			"Strings": {
+				"": "NOAA",
+				"PAAQ": "NTWC",
+				"PHEB": "PTWC"
+			}
+		},
+		"Title": {
+			"Strings": {
+				"WEAK51": "（AK/BC/西岸）海嘯警報、注意報、觀察報",
+				"WEAK53": "（AK/BC/西岸）海嘯資訊説明",
+				"WECA40": "（PR/處女群島）海嘯警報、注意報、觀察報",
+				"WECA41": "（美國本土外加勒比海沿岸）海嘯威脅消息",
+				"WECA42": "（PR/處女群島）海嘯資訊説明",
+				"WECA43": "（美國本土外加勒比海沿岸）海嘯資訊説明",
+				"WECA60": "（PR/處女群島）海嘯警報、注意報、觀察報",
+				"WEGM40": "（關島/CNMI）海嘯警報、注意報、觀察報",
+				"WEGM42": "（關島/CNMI）海嘯資訊説明",
+				"WEHW40": "（夏威夷）海嘯警報、注意報、觀察報",
+				"WEHW42": "（夏威夷）海嘯資訊説明",
+				"WEPA40": "（美國本土/加拿大外環太平洋沿岸）海嘯威脅消息",
+				"WEPA41": "（AK/BC/西岸）海嘯警報、注意報、觀察報",
+				"WEPA42": "（美國本土/加拿大外環太平洋沿岸）海嘯資訊説明",
+				"WEXX20": "（墨西哥灣/東岸）海嘯警報、注意報、觀察報",
+				"WEXX30": "（墨西哥灣/東岸）海嘯警報、注意報、觀察報",
+				"WEXX32": "（墨西哥灣/東岸）海嘯資訊説明",
+				"WEZS40": "（美屬薩摩亞）海嘯警報、注意報、觀察報",
+				"WEZS42": "（美屬薩摩亞）海嘯資訊説明"
+			}
+		}
 	}
 }

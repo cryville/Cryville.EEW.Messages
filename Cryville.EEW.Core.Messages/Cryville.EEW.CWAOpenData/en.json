@@ -1,6 +1,15 @@
 {
 	"Culture": "en-US",
 	"Strings": {
+		"AuthorityName": "CWA",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMaxIntensity": "Max intensity",
+		"PropertyMaxTsunamiHeight": "Max tsunami height",
+		"PropertyMaxTsunamiHeightValue": "{0}m",
+		"PropertyMaxTsunamiHeightValueUnknown": "Unknown",
+		"PropertyTsunamiMessage": "Tsunami message",
+		"PropertyTsunamiWarning": "Tsunami warning",
 		"SourceName": "CWA ({0})"
 	},
 	"StringSets": {
@@ -8,6 +17,20 @@
 			"Strings": {
 				"Earthquake": "Earthquake",
 				"Tsunami": "Tsunami"
+			}
+		},
+		"PropertyMagnitude": {
+			"Strings": {
+				"": "Magnitude",
+				"芮氏規模": "Richter magnitude"
+			}
+		},
+		"Title": {
+			"Strings": {
+				"地震報告": "Earthquake report",
+				"海嘯消息": "Tsunami message",
+				"海嘯警報": "Tsunami warning",
+				"海嘯警報解除": "Tsunami warning lifted"
 			}
 		}
 	}

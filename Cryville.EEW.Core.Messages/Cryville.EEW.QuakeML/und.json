@@ -1,0 +1,9 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"LocationAggregated": "{0} (+{1})",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"Title": "Seismic event"
+	}
+}

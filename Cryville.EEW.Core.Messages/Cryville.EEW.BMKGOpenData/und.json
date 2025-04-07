@@ -1,6 +1,12 @@
 {
 	"Culture": "id-ID",
 	"Strings": {
-		"SourceName": "Data Terbuka BMKG"
+		"AuthorityName": "BMKG",
+		"PropertyDepth": "Kedalaman",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "Intensitas maks.",
+		"SourceName": "Data Terbuka BMKG",
+		"Title": "Data gempabumi"
 	}
 }

@@ -1,6 +1,117 @@
 {
 	"Culture": "zh-TW",
 	"Strings": {
+		"AuthorityName": "JMA",
+		"LocationAggregated": "{0}（+{1}）",
+		"PlumeColorPlume": "有\u2060色噴\u2060煙",
+		"PlumeWhitePlume": "白\u2060色噴\u2060煙",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyDepthValueVeryShallow": "極淺",
+		"PropertyMaxIntensity": "最大震度",
+		"PropertyMaxLPGM": "最\u2060大長\u2060周\u2060期地\u2060震\u2060動階\u2060級",
+		"PropertyMaxTsunamiHeight": "最大波",
+		"PropertyMaxTsunamiHeightConditionBelow": "不滿",
+		"PropertyMaxTsunamiHeightConditionOver": "以上",
+		"PropertyMaxTsunamiHeightValue": "{0}m",
+		"PropertyPlumeHeightAboveCrater": "{0}火\u2060山\u2060口上\u2060方高\u2060度",
+		"PropertyPlumeHeightAboveCraterValue": "{0}km",
+		"PropertyPlumeHeightAboveCraterValueNone": "無噴\u2060煙",
+		"PropertyPlumeHeightAboveCraterValueUnknown": "不明",
 		"SourceName": "JMA Atom"
+	},
+	"StringSets": {
+		"InfoKind": {
+			"Strings": {
+				"": "資訊",
+				"北海道・三陸沖後発地震注意情報": "北海道、三陸外海餘震注意資訊",
+				"南海トラフ地震に関連する情報": "關於南海海槽地震的資訊",
+				"噴火に関する火山観測報": "關於火山噴發的火山觀測報",
+				"噴火警報・予報": "火山噴發警報、預報",
+				"噴火速報": "火山噴發速報",
+				"地震の活動状況等に関する情報": "關於地震的活動狀況等的資訊",
+				"地震回数情報": "地震次數資訊",
+				"地震情報": "地震資訊",
+				"推定噴煙流向報": "推定噴煙流向報",
+				"津波情報": "海嘯資訊",
+				"津波警報・注意報・予報": "海嘯警報、注意報、預報",
+				"火山の状況に関する解説情報": "關於火山的狀況的解説資訊",
+				"長周期地震動に関する観測情報": "關於長周期地震動的觀測資訊",
+				"降灰予報": "降灰預報",
+				"震度速報": "震度速報",
+				"震源要素更新のお知らせ": "震源要素更新通知",
+				"震源速報": "震源速報"
+			}
+		},
+		"PredicateVolcanic": {
+			"Strings": {
+				"51": "爆發",
+				"52": "噴發",
+				"53": "開始噴發",
+				"54": "持續連續噴發",
+				"55": "停止連續噴發",
+				"56": "噴發多發",
+				"61": "似乎已經爆發",
+				"62": "似乎已經噴發",
+				"63": "似乎已經開始噴發",
+				"64": "似乎正在持續連續噴發",
+				"65": "似乎已經停止連續噴發"
+			}
+		},
+		"PropertyMagnitudeValueUnknown": {
+			"Strings": {
+				"": "不\u2060明",
+				"Ｍ８を超える巨大地震": "規\u2060模大\u2060於8的巨\u2060大地\u2060震"
+			}
+		},
+		"PropertyMaxTsunamiHeightSpecialValue": {
+			"Strings": {
+				"微弱": "微\u2060弱",
+				"欠測": "缺\u2060失數\u2060據",
+				"観測中": "觀\u2060測中"
+			}
+		},
+		"PropertyPlumeHeightAboveCraterValueCondition": {
+			"Strings": {
+				"上昇中": "上升中",
+				"以上": "以上",
+				"雲に入る": "進入雲層"
+			}
+		},
+		"PropertyTsunamiWarningValue": {
+			"Strings": {
+				"5": "大\u2060海\u2060嘯警\u2060報",
+				"4": "海\u2060嘯警\u2060報",
+				"3": "海\u2060嘯注\u2060意\u2060報",
+				"0": "海\u2060嘯預\u2060報",
+				"": "解\u2060除"
+			}
+		},
+		"PropertyVocanicWarningValue": {
+			"Strings": {
+				"11": "等\u2060級1",
+				"12": "等\u2060級2",
+				"13": "等\u2060級3",
+				"14": "等\u2060級4",
+				"15": "等\u2060級5",
+				"21": "活\u2060火\u2060山留\u2060意",
+				"22": "火\u2060山\u2060口周\u2060邊危\u2060險",
+				"23": "入\u2060山危\u2060險",
+				"24": "山\u2060麓警\u2060戒",
+				"25": "居\u2060住地\u2060區警\u2060戒",
+				"31": "火\u2060山噴\u2060發警\u2060報",
+				"32": "警\u2060報解\u2060除",
+				"33": "火\u2060山噴\u2060發預\u2060報",
+				"35": "活\u2060火\u2060山留\u2060意",
+				"36": "周\u2060邊海\u2060域警\u2060戒",
+				"": "火\u2060山噴\u2060發警\u2060報"
+			}
+		},
+		"Status": {
+			"Strings": {
+				"訓練": "{0}（訓練）",
+				"試験": "{0}（測試）"
+			}
+		}
 	}
 }

@@ -1,6 +1,57 @@
 {
 	"Culture": "en-US",
 	"Strings": {
+		"AuthorityName": "NOAA",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyDepthValueMiles": "{0}mi",
 		"SourceName": "NOAA"
+	},
+	"StringSets": {
+		"Category": {
+			"Strings": {
+				"Cancellation": "Cancellation",
+				"Information": "Information",
+				"Potential Threat": "Potential Threat",
+				"Threat": "Threat",
+				"0-0.3 meters": "0-0.3 meters",
+				"0.3-1 meters": "0.3-1 meters",
+				"1-3 meters": "1-3 meters",
+				">3.0 meters": ">3.0 meters",
+				"Watch": "Watch",
+				"Advisory": "Advisory",
+				"Warning": "Warning"
+			}
+		},
+		"SourceName": {
+			"Strings": {
+				"": "NOAA",
+				"PAAQ": "NTWC",
+				"PHEB": "PTWC"
+			}
+		},
+		"Title": {
+			"Strings": {
+				"WEAK51": "(AK/BC/West Coast) Tsunami Warning, Advisory, and Watch",
+				"WEAK53": "(AK/BC/West Coast) Tsunami Information Statement",
+				"WECA40": "(PR/Virgin Isl.) Tsunami Warning, Advisory, and Watch",
+				"WECA41": "(Non-US Caribbean) Tsunami Threat Message",
+				"WECA42": "(PR/Virgin Isl.) Tsunami Information Statement",
+				"WECA43": "(Non-US Caribbean) Tsunami Information Statement",
+				"WECA60": "(PR/Virgin Isl.) Tsunami Warning, Advisory, and Watch",
+				"WEGM40": "(Guam/CNMI) Tsunami Warning, Advisory, and Watch",
+				"WEGM42": "(Guam/CNMI) Tsunami Information Statement",
+				"WEHW40": "(Hawaii) Tsunami Warning, Advisory, and Watch",
+				"WEHW42": "(Hawaii) Tsunami Information Statement",
+				"WEPA40": "(Non-US/Canada Pacific) Tsunami Threat Message",
+				"WEPA41": "(AK/BC/West Coast) Tsunami Warning, Advisory, and Watch",
+				"WEPA42": "(Non-US/Canada Pacific) Tsunami Information Statement",
+				"WEXX20": "(GoAm/East Coast) Tsunami Warning, Advisory, and Watch",
+				"WEXX30": "(GoAm/East Coast) Tsunami Warning, Advisory, and Watch",
+				"WEXX32": "(GoAm/East Coast) Tsunami Information Statement",
+				"WEZS40": "(American Samoa) Tsunami Warning, Advisory, and Watch",
+				"WEZS42": "(American Samoa) Tsunami Information Statement"
+			}
+		}
 	}
 }

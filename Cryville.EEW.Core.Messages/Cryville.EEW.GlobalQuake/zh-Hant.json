@@ -1,6 +1,28 @@
 {
 	"Culture": "zh-TW",
 	"Strings": {
-		"SourceName": "GlobalQuakeServer"
+		"AuthorityName": "GlobalQuake",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyQuality": "品質",
+		"SourceName": "GlobalQuakeServer",
+		"Title": "檢出",
+		"TitleArchived": "歸檔",
+		"TitleCanceled": "取消"
+	},
+	"StringSets": {
+		"PropertyQualityValue": {
+			"Strings": {
+				"S": "S",
+				"A": "A",
+				"B": "B",
+				"C": "C",
+				"D": "D",
+				"E": "E",
+				"F": "F",
+				"?": "?"
+			}
+		}
 	}
 }

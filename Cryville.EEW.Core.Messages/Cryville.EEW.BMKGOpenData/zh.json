@@ -1,6 +1,12 @@
 {
 	"Culture": "zh-CN",
 	"Strings": {
-		"SourceName": "BMKG 开放数据"
+		"AuthorityName": "BMKG",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "最大烈度",
+		"SourceName": "BMKG 开放数据",
+		"Title": "地震数据"
 	}
 }

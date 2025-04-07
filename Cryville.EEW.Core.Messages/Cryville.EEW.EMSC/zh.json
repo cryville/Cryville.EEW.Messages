@@ -1,11 +1,11 @@
 {
-	"Culture": "en-US",
+	"Culture": "zh-CN",
 	"Strings": {
 		"AuthorityName": "EMSC",
 		"AuthorityNameForwarded": "EMSC | {0}",
-		"PropertyDepth": "Depth",
+		"PropertyDepth": "深度",
 		"PropertyDepthValue": "{0}km",
 		"SourceName": "EMSC",
-		"Title": "Earthquake event"
+		"Title": "地震事件"
 	}
 }

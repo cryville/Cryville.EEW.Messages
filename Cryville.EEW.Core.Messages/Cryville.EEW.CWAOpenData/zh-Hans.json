@@ -1,6 +1,15 @@
 {
 	"Culture": "zh-CN",
 	"Strings": {
+		"AuthorityName": "CWA",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMaxIntensity": "最大震度",
+		"PropertyMaxTsunamiHeight": "最大波高",
+		"PropertyMaxTsunamiHeightValue": "{0}m",
+		"PropertyMaxTsunamiHeightValueUnknown": "不明",
+		"PropertyTsunamiMessage": "海\u2060啸消\u2060息",
+		"PropertyTsunamiWarning": "海\u2060啸警\u2060报",
 		"SourceName": "CWA（{0}）"
 	},
 	"StringSets": {
@@ -8,6 +17,20 @@
 			"Strings": {
 				"Earthquake": "地震",
 				"Tsunami": "海啸"
+			}
+		},
+		"PropertyMagnitude": {
+			"Strings": {
+				"": "震级",
+				"芮氏規模": "里氏震级"
+			}
+		},
+		"Title": {
+			"Strings": {
+				"地震報告": "地震报告",
+				"海嘯消息": "海啸消息",
+				"海嘯警報": "海啸警报",
+				"海嘯警報解除": "海啸警报解除"
 			}
 		}
 	}

@@ -1,0 +1,19 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"AuthorityName": "JMA",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyDepthValueUnknown": "不明",
+		"PropertyDepthValueVeryShallow": "极浅",
+		"PropertyMagnitude": "M",
+		"PropertyMagnitudeValueUnknown": "不明",
+		"PropertyMaxIntensity": "最大震度",
+		"StatusDrilling": "{0}（训练）",
+		"StatusTesting": "{0}（测试）",
+		"Title": "紧急地震速报",
+		"TitleCancellation": "紧急地震速报（取消）",
+		"TitleForecast": "紧急地震速报（预报）",
+		"TitleWarning": "紧急地震速报（警报）"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AuthorityName": "JMA",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyDepthValueUnknown": "Unknown",
+		"PropertyDepthValueVeryShallow": "Very shallow",
+		"PropertyMagnitude": "M",
+		"PropertyMagnitudeValueUnknown": "Unknown",
+		"PropertyMaxIntensity": "Max intensity",
+		"StatusDrilling": "{0} (Drilling)",
+		"StatusTesting": "{0} (Testing)",
+		"Title": "Earthquake early warning",
+		"TitleCancellation": "Earthquake early warning (Cancellation)",
+		"TitleForecast": "Earthquake early warning (Forecast)",
+		"TitleWarning": "Earthquake early warning (Warning)"
+	}
+}

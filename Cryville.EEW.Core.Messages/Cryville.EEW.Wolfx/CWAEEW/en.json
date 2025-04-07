@@ -1,12 +1,12 @@
 {
 	"Culture": "en-US",
 	"Strings": {
-		"AuthorityName": "BMKG",
+		"AuthorityName": "CWA",
 		"PropertyDepth": "Depth",
 		"PropertyDepthValue": "{0}km",
 		"PropertyMagnitude": "M",
 		"PropertyMaxIntensity": "Max intensity",
-		"SourceName": "BMKG Open Data",
-		"Title": "Earthquake data"
+		"Title": "Earthquake warning",
+		"TitleCancellation": "Earthquake warning (Cancellation)"
 	}
 }

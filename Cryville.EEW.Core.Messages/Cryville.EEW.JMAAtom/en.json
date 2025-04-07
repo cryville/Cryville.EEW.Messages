@@ -1,6 +1,117 @@
 {
 	"Culture": "en-US",
 	"Strings": {
+		"AuthorityName": "JMA",
+		"LocationAggregated": "{0} (+{1})",
+		"PlumeColorPlume": "Colored plume",
+		"PlumeWhitePlume": "White plume",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyDepthValueVeryShallow": "Very shallow",
+		"PropertyMaxIntensity": "Max intensity",
+		"PropertyMaxLPGM": "Max LPGM intensity",
+		"PropertyMaxTsunamiHeight": "Max tsunami height",
+		"PropertyMaxTsunamiHeightConditionBelow": "below",
+		"PropertyMaxTsunamiHeightConditionOver": "over",
+		"PropertyMaxTsunamiHeightValue": "{0}m",
+		"PropertyPlumeHeightAboveCrater": "{0} height above crater",
+		"PropertyPlumeHeightAboveCraterValue": "{0}km",
+		"PropertyPlumeHeightAboveCraterValueNone": "No plume",
+		"PropertyPlumeHeightAboveCraterValueUnknown": "Unknown",
 		"SourceName": "JMA Atom"
+	},
+	"StringSets": {
+		"InfoKind": {
+			"Strings": {
+				"": "Information",
+				"北海道・三陸沖後発地震注意情報": "Hokkaido and off-Sanriku aftershock notice",
+				"南海トラフ地震に関連する情報": "Information related to Nankai Trough earthquake",
+				"噴火に関する火山観測報": "Volcano observation information about eruption",
+				"噴火警報・予報": "Vocanic warning and forecast",
+				"噴火速報": "Volcanic eruption notice",
+				"地震の活動状況等に関する情報": "Earthquake activity information",
+				"地震回数情報": "Earthquake count information",
+				"地震情報": "Earthquake and seismic intensity information",
+				"推定噴煙流向報": "Estimated plume direction information",
+				"津波情報": "Tsunami information",
+				"津波警報・注意報・予報": "Tsunami warning, advisory, and forecast",
+				"火山の状況に関する解説情報": "Explanatory information on volcano status",
+				"長周期地震動に関する観測情報": "Long period ground motion observation information",
+				"降灰予報": "Volcanic ash fall forecast",
+				"震度速報": "Seismic intensity information",
+				"震源要素更新のお知らせ": "Significant earthquake hypocenter update notice",
+				"震源速報": "Earthquake information"
+			}
+		},
+		"PredicateVolcanic": {
+			"Strings": {
+				"51": "explosively erupted",
+				"52": "erupted",
+				"53": "started erupting",
+				"54": "is erupting continuously",
+				"55": "stopped erupting continuously",
+				"56": "is actively erupting",
+				"61": "appeared explosively erupted",
+				"62": "appeared erupted",
+				"63": "appeared to start erupting",
+				"64": "appeared to be erupting continuously",
+				"65": "appeared to stop erupting"
+			}
+		},
+		"PropertyMagnitudeValueUnknown": {
+			"Strings": {
+				"": "Unknown",
+				"Ｍ８を超える巨大地震": "Massive earthquake of M8 and above"
+			}
+		},
+		"PropertyMaxTsunamiHeightSpecialValue": {
+			"Strings": {
+				"微弱": "Slight",
+				"欠測": "Data missing",
+				"観測中": "Information pending"
+			}
+		},
+		"PropertyPlumeHeightAboveCraterValueCondition": {
+			"Strings": {
+				"上昇中": "rising",
+				"以上": "over",
+				"雲に入る": "entering clouds"
+			}
+		},
+		"PropertyTsunamiWarningValue": {
+			"Strings": {
+				"5": "Major Tsunami Warning",
+				"4": "Tsunami Warning",
+				"3": "Tsunami Advisory",
+				"0": "Tsunami Forecast",
+				"": "Lifted"
+			}
+		},
+		"PropertyVocanicWarningValue": {
+			"Strings": {
+				"11": "Level 1",
+				"12": "Level 2",
+				"13": "Level 3",
+				"14": "Level 4",
+				"15": "Level 5",
+				"21": "Potential",
+				"22": "Caution around crater",
+				"23": "Caution non-residential",
+				"24": "Caution foot of mountains",
+				"25": "Caution residential",
+				"31": "Volcanic warning",
+				"32": "Warning lifted",
+				"33": "Volcanic forecast",
+				"35": "Potential",
+				"36": "Caution sea area",
+				"": "Volcanic warning"
+			}
+		},
+		"Status": {
+			"Strings": {
+				"訓練": "{0} (Drilling)",
+				"試験": "{0} (Testing)"
+			}
+		}
 	}
 }

@@ -1,6 +1,73 @@
 {
 	"Culture": "ja-JP",
 	"Strings": {
+		"AuthorityName": "JMA",
+		"LocationAggregated": "{0}（+{1}）",
+		"PlumeColorPlume": "有\u2060色噴\u2060煙",
+		"PlumeWhitePlume": "白\u2060色噴\u2060煙",
+		"PropertyDepth": "深さ",
+		"PropertyDepthValue": "{0}km",
+		"PropertyDepthValueVeryShallow": "ごく浅い",
+		"PropertyMaxIntensity": "最大震度",
+		"PropertyMaxLPGM": "最\u2060大長\u2060周\u2060期地\u2060震\u2060動階\u2060級",
+		"PropertyMaxTsunamiHeight": "最大波",
+		"PropertyMaxTsunamiHeightConditionBelow": "未満",
+		"PropertyMaxTsunamiHeightConditionOver": "以上",
+		"PropertyMaxTsunamiHeightValue": "{0}m",
+		"PropertyPlumeHeightAboveCrater": "{0}火\u2060口\u2060上高\u2060度",
+		"PropertyPlumeHeightAboveCraterValue": "{0}km",
+		"PropertyPlumeHeightAboveCraterValueNone": "噴\u2060煙な\u2060し",
+		"PropertyPlumeHeightAboveCraterValueUnknown": "不明",
 		"SourceName": "JMA Atom"
+	},
+	"StringSets": {
+		"PropertyMagnitudeValueUnknown": {
+			"Strings": {
+				"": "不\u2060明",
+				"Ｍ８を超える巨大地震": "Ｍ\u2060８を超\u2060え\u2060る巨\u2060大地\u2060震"
+			}
+		},
+		"PropertyMaxTsunamiHeightSpecialValue": {
+			"Strings": {
+				"微弱": "微\u2060弱",
+				"欠測": "欠\u2060測",
+				"観測中": "観\u2060測中"
+			}
+		},
+		"PropertyTsunamiWarningValue": {
+			"Strings": {
+				"5": "大\u2060津\u2060波警\u2060報",
+				"4": "津\u2060波警\u2060報",
+				"3": "津\u2060波注\u2060意\u2060報",
+				"0": "津\u2060波予\u2060報",
+				"": "解\u2060除"
+			}
+		},
+		"PropertyVocanicWarningValue": {
+			"Strings": {
+				"11": "レ\u2060ベ\u2060ル１",
+				"12": "レ\u2060ベ\u2060ル２",
+				"13": "レ\u2060ベ\u2060ル３",
+				"14": "レ\u2060ベ\u2060ル４",
+				"15": "レ\u2060ベ\u2060ル５",
+				"21": "活\u2060火\u2060山留\u2060意",
+				"22": "火\u2060口周\u2060辺危\u2060険",
+				"23": "入\u2060山危\u2060険",
+				"24": "山\u2060麓警\u2060戒",
+				"25": "居\u2060住地\u2060域警\u2060戒",
+				"31": "噴\u2060火警\u2060報",
+				"32": "警\u2060報解\u2060除",
+				"33": "噴\u2060火予\u2060報",
+				"35": "活\u2060火\u2060山留\u2060意",
+				"36": "周\u2060辺海\u2060域警\u2060戒",
+				"": "噴\u2060火警\u2060報"
+			}
+		},
+		"Status": {
+			"Strings": {
+				"訓練": "{0}（訓練）",
+				"試験": "{0}（試験）"
+			}
+		}
 	}
 }
