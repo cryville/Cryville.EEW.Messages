@@ -59,6 +59,10 @@
 	<string name="info_color_scheme">颜色主题</string>
 	<string name="info_color_scheme_restart_required">切换到旧版颜色主题或从旧版切换到其它主题需要重启生效</string>
 	<string name="info_font_size">字体大小</string>
+	<string name="info_language">显示语言</string>
+	<string name="info_language_primary">显示语言</string>
+	<string name="info_language_use_source">使用事件源语言</string>
+	<string name="info_language_use_source_desc">使用事件信息源的语言显示信息</string>
 	<string name="info_override_fonts">覆盖字体</string>
 	<string name="info_override_fonts_desc">覆盖系统的字体匹配逻辑</string>
 	<string name="info_switch_back_to_history">自动切换至历史</string>

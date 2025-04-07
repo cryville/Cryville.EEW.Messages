@@ -59,6 +59,10 @@
 	<string name="info_color_scheme">Color scheme</string>
 	<string name="info_color_scheme_restart_required">Change from or to the legacy color scheme requires an restart</string>
 	<string name="info_font_size">Font size</string>
+	<string name="info_language">Display language</string>
+	<string name="info_language_primary">Display language</string>
+	<string name="info_language_use_source">Use source language</string>
+	<string name="info_language_use_source_desc">Display information in the language of the event source</string>
 	<string name="info_override_fonts">Override fonts</string>
 	<string name="info_override_fonts_desc">Override the system font matching logic</string>
 	<string name="info_switch_back_to_history">Switch back to history</string>
