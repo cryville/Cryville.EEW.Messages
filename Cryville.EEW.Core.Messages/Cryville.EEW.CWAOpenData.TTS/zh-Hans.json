@@ -1,7 +1,7 @@
 {
 	"Culture": "zh-CN",
 	"Strings": {
-		"EarthquakeBody": "{0}，{1}发生规模{2:F1}有感地震，最大震度{3}。",
+		"EarthquakeBody": "{0}，{1}发生震级{2:F1}有感地震，最大震度{3}。",
 		"EarthquakeFocalDepth": "震源深度{0}千米。",
 		"TsunamiForecast": "以下地区预计海啸高度{0}。",
 		"TsunamiForecastArea": "{0}。预计到达时间{1:HH:mm}。",

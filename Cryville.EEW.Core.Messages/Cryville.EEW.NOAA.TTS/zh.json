@@ -2,7 +2,7 @@
 	"Culture": "zh-CN",
 	"Strings": {
 		"NoSegmentCategoryHeadline": "本次地震造成的海啸威胁已结束。",
-		"PreliminarySeismicInformation": "协调世界时{2}，{1}发生暂定规模{0:F1}级地震。震源深度{3}{4}。",
+		"PreliminarySeismicInformation": "协调世界时{2}，{1}发生暂定震级{0:F1}级地震。震源深度{3}{4}。",
 		"RegionDelimiter": "。"
 	},
 	"StringSets": {
