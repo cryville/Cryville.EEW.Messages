@@ -13,6 +13,7 @@
 		"Title": {
 			"Strings": {
 				"地震報告": "Earthquake report",
+				"海嘯消息": "Tsunami message",
 				"海嘯警報": "Tsunami warning",
 				"海嘯警報解除": "Tsunami warning lifted"
 			}
