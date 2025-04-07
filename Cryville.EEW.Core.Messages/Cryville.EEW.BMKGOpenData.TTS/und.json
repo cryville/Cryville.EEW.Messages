@@ -6,7 +6,7 @@
 		"HeadlineMagnitude": ", dengan magnitudo {0:F1}",
 		"MaxIntensity": "Intensitas gempa maksimum yang dirasakan adalah {0}.",
 		"Region": "Pusat gempa berada di {0}.",
-		"Title": "Data Gempabumi.",
-		"TitleStandAlone": "Data Gempabumi"
+		"Title": "Data gempabumi.",
+		"TitleStandAlone": "Data gempabumi"
 	}
 }

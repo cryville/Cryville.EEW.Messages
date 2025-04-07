@@ -6,7 +6,7 @@
 		"HeadlineMagnitude": " of magnitude {0:F1}",
 		"MaxIntensity": "The maximum intensity observed is {0}.",
 		"Region": "The epicenter is in {0}.",
-		"Title": "Earthquake Data.",
-		"TitleStandAlone": "Earthquake Data"
+		"Title": "Earthquake data.",
+		"TitleStandAlone": "Earthquake data"
 	}
 }
