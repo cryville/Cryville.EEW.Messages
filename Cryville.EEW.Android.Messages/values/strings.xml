@@ -50,6 +50,7 @@
 	<string name="event_sources_wolfx">Wolfx API</string>
 	<string name="event_sources_wolfx_cenc_eew">CENC (China) EEW</string>
 	<string name="event_sources_wolfx_cenc_eq">CENC (China) earthquake information</string>
+	<string name="event_sources_wolfx_cenc_eq_raw_location">Use raw location name (CENC earthquake information)</string>
 	<string name="event_sources_wolfx_cwa_eew">CWA (Taiwan) EEW</string>
 	<string name="event_sources_wolfx_fj_eew">FEA (Fujian) EEW</string>
 	<string name="event_sources_wolfx_jma_eew">JMA (Japan) EEW</string>

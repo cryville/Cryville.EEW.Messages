@@ -50,6 +50,7 @@
 	<string name="event_sources_wolfx">Wolfx API</string>
 	<string name="event_sources_wolfx_cenc_eew">中國地震台網地震預警</string>
 	<string name="event_sources_wolfx_cenc_eq">中國地震台網地震資訊</string>
+	<string name="event_sources_wolfx_cenc_eq_raw_location">用原始地名（中國地震台網地震資訊）</string>
 	<string name="event_sources_wolfx_cwa_eew">台灣中央氣象署地震預警</string>
 	<string name="event_sources_wolfx_fj_eew">福建省地震局地震預警</string>
 	<string name="event_sources_wolfx_jma_eew">日本氣象廳緊急地震速報</string>
