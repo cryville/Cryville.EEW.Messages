@@ -1,0 +1,24 @@
+{
+	"Culture": "zh-TW",
+	"Strings": {
+		"AuthorityName": "GeoNet",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "最大震度",
+		"SourceName": "GeoNet",
+		"TitleQuake": "地震資訊",
+		"TitleStrong": "強震動資訊"
+	},
+	"StringSets": {
+		"PropertyQualityValue": {
+			"Strings": {
+				"": "不明",
+				"best": "精確",
+				"preliminary": "速報",
+				"automatic": "自動",
+				"deleted": "刪除"
+			}
+		}
+	}
+}

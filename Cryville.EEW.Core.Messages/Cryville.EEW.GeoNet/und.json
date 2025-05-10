@@ -1,0 +1,24 @@
+{
+	"Culture": "en-NZ",
+	"Strings": {
+		"AuthorityName": "GeoNet",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "Max intensity",
+		"SourceName": "GeoNet",
+		"TitleQuake": "Quake information",
+		"TitleStrong": "Strong motion information"
+	},
+	"StringSets": {
+		"PropertyQualityValue": {
+			"Strings": {
+				"": "Unknown",
+				"best": "Best",
+				"preliminary": "Preliminary",
+				"automatic": "Automatic",
+				"deleted": "Deleted"
+			}
+		}
+	}
+}
