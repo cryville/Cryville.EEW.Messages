@@ -16,6 +16,10 @@
 	<string name="event_sources_cwa_token">Authorization token</string>
 	<string name="event_sources_emsc">EMSC</string>
 	<string name="event_sources_enabled">Enabled</string>
+	<string name="event_sources_geonet">GeoNet</string>
+	<string name="event_sources_geonet_history">Full history</string>
+	<string name="event_sources_geonet_mmi">Minimum MMI</string>
+	<string name="event_sources_geonet_strong">Strong motion infomation</string>
 	<string name="event_sources_globalquake">GlobalQuake</string>
 	<string name="event_sources_globalquake_api">API version</string>
 	<string name="event_sources_globalquake_host">Host</string>

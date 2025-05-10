@@ -16,6 +16,10 @@
 	<string name="event_sources_cwa_token">授權碼</string>
 	<string name="event_sources_emsc">歐洲與地中海地震中心</string>
 	<string name="event_sources_enabled">啟用</string>
+	<string name="event_sources_geonet">GeoNet</string>
+	<string name="event_sources_geonet_history">完整歷史</string>
+	<string name="event_sources_geonet_mmi">最小烈度</string>
+	<string name="event_sources_geonet_strong">強震動資訊</string>
 	<string name="event_sources_globalquake">GlobalQuake</string>
 	<string name="event_sources_globalquake_api">API版本</string>
 	<string name="event_sources_globalquake_host">主機</string>
