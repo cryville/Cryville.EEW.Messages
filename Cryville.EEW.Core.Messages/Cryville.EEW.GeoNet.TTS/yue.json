@@ -1,9 +1,10 @@
 {
 	"Culture": "yue-HK",
 	"Strings": {
-		"BodyQuake": "地震資訊。{0}，{2}發生震級{1}級地震。震源深度{3}公里。最大烈度{4}。",
+		"BodyQuake": "地震資訊。{0}，{2}發生震級{1}級地震。震源深度{3}公里。",
 		"BodyQuakeDeleted": "頭先發佈嘅一條地震資訊已被刪除。",
 		"BodyStrong": "強震動資訊。{1}發生震級{0}級地震。震源深度{2}公里。最大儀器烈度{3}。",
+		"MaxIntensity": "最大烈度{0}。",
 		"TitleQuake": "地震資訊",
 		"TitleStrong": "強震動資訊"
 	}

@@ -1,9 +1,10 @@
 {
 	"Culture": "zh-TW",
 	"Strings": {
-		"BodyQuake": "地震資訊。{0}，{2}發生規模{1}級地震。震源深度{3}公里。最大震度{4}。",
+		"BodyQuake": "地震資訊。{0}，{2}發生規模{1}級地震。震源深度{3}公里。",
 		"BodyQuakeDeleted": "先前發佈的一條地震資訊已被刪除。",
 		"BodyStrong": "強震動資訊。{1}發生規模{0}級地震。震源深度{2}公里。最大計測震度{3}。",
+		"MaxIntensity": "最大震度{0}。",
 		"TitleQuake": "地震資訊",
 		"TitleStrong": "強震動資訊"
 	}
