@@ -1,0 +1,10 @@
+{
+	"Culture": "en-NZ",
+	"Strings": {
+		"BodyQuake": "Quake information. At {0}, a magnitude {1} earthquake occurred in {2}. Hypocenter depth {3} kilometers. Max intensity {4}.",
+		"BodyQuakeDeleted": "A previously reported quake has been deleted.",
+		"BodyStrong": "Strong motion information. A magnitude {0} earthquake occurred in {1}. Hypocenter depth {2} kilometers. Max measured intensity {3}.",
+		"TitleQuake": "Quake information",
+		"TitleStrong": "Strong motion information"
+	}
+}
