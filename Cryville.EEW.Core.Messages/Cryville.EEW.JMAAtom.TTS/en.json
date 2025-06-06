@@ -25,6 +25,7 @@
 		"HeadlineTsunamiInformationForecast": "The high tide time and estimated initial tsunami arrival time per area is as follows.",
 		"HeadlineTsunamiInformationObservation": "Currently, tsunami observed is as follows.",
 		"HeadlineTsunamiWarning": "{0} has been issued.",
+		"HeadlineTsunamiWarningDowngraded": "{0} has been lifted and switched to {1}.",
 		"HeadlineTsunamiWarningLifted": "{0} has been lifted.",
 		"HeadlineTsunamiWarningUpdate": "The current {0} in effect has been updated.",
 		"Intensity": "seismic intensity",
@@ -34,8 +35,9 @@
 		"LongIntensity": "long-period ground motion intensity",
 		"LongIntensityObservationMax": "This earthquake resulted in {0} of the maximum long-period ground motion intensity recorded.",
 		"Maximum": "the maximum {0}",
-		"MinorItemSeparator": "; ",
+		"MediumItemSeparator": "; ",
 		"PlumeDirectionValue": "{0} direction",
+		"ShortItemSeparator": ", ",
 		"TsunamiForecast": "{0} has been issued for the following coastal regions of Japan.",
 		"TsunamiForecastArea": "{0}. {1}.",
 		"TsunamiForecastFirstHeightArrivalTime": "Estimated arrival time {0:t}",
@@ -194,6 +196,13 @@
 				"71": "Tsunami Forecast (slight sea-level changes)",
 				"72": "Tsunami Forecast (slight sea-level changes)",
 				"73": "Tsunami Forecast (slight sea-level changes)"
+			}
+		},
+		"TsunamiForecastCategoryShort": {
+			"Strings": {
+				"71": "Tsunami Forecast",
+				"72": "Tsunami Forecast",
+				"73": "Tsunami Forecast"
 			}
 		},
 		"TsunamiForecastFirstHeightCondition": {

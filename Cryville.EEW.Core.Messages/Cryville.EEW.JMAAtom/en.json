@@ -18,6 +18,7 @@
 		"PropertyPlumeHeightAboveCraterValue": "{0}km",
 		"PropertyPlumeHeightAboveCraterValueNone": "No plume",
 		"PropertyPlumeHeightAboveCraterValueUnknown": "Unknown",
+		"ShortItemSeparator": ", ",
 		"SourceName": "JMA Atom"
 	},
 	"StringSets": {
@@ -111,6 +112,17 @@
 			"Strings": {
 				"訓練": "{0} (Drilling)",
 				"試験": "{0} (Testing)"
+			}
+		},
+		"TsunamiForecastCategory": {
+			"Strings": {
+				"51": "Tsunami Warning",
+				"52": "Major Tsunami Warning",
+				"53": "Major Tsunami Warning",
+				"62": "Tsunami Advisory",
+				"71": "Tsunami Forecast",
+				"72": "Tsunami Forecast",
+				"73": "Tsunami Forecast"
 			}
 		}
 	}

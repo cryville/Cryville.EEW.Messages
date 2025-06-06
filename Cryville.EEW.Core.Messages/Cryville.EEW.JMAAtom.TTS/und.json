@@ -21,8 +21,9 @@
 		"LongIntensity": "長周期地震動階級",
 		"LongIntensityObservationMax": "この地震で、最大長周期地震動階級{0}を観測しました。",
 		"Maximum": "最大{0}",
-		"MinorItemSeparator": "、",
+		"MediumItemSeparator": "、",
 		"PlumeDirectionValue": "{0}方向",
+		"ShortItemSeparator": "、",
 		"TsunamiForecast": "{0}が、次の地域に発表されています。",
 		"TsunamiForecastArea": "{0}。{1}。",
 		"TsunamiForecastFirstHeightArrivalTime": "到達予想時刻{0:t}",
@@ -73,6 +74,13 @@
 				"71": "津波予報（若干の海面変動）",
 				"72": "津波予報（若干の海面変動）",
 				"73": "津波予報（若干の海面変動）"
+			}
+		},
+		"TsunamiForecastCategoryShort": {
+			"Strings": {
+				"71": "津波予報",
+				"72": "津波予報",
+				"73": "津波予報"
 			}
 		},
 		"VolcanoObservationPlumeHeightAboveCraterValue": {

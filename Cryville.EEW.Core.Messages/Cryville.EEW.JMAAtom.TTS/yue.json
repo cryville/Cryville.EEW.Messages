@@ -25,6 +25,7 @@
 		"HeadlineTsunamiInformationForecast": "各地嘅滿潮時刻同海嘯到達預測時刻如下。",
 		"HeadlineTsunamiInformationObservation": "目前，海嘯嘅觀測值如下。",
 		"HeadlineTsunamiWarning": "{0}已被發佈。",
+		"HeadlineTsunamiWarningDowngraded": "{0}已被解除，切換為{1}。",
 		"HeadlineTsunamiWarningLifted": "{0}已被解除。",
 		"HeadlineTsunamiWarningUpdate": "而家發佈緊嘅{0}已被更新。",
 		"Intensity": "震度",
@@ -34,9 +35,10 @@
 		"LongIntensity": "長週期地震動階級",
 		"LongIntensityObservationMax": "呢次地震，觀測到嘅最大長週期地震動階級為{0}。",
 		"Maximum": "最大{0}",
-		"MinorItemSeparator": "；",
+		"MediumItemSeparator": "；",
 		"PlumeDirectionValue": "{0}方向",
-		"TsunamiForecast": "以下嘅區域正在發佈{0}。",
+		"ShortItemSeparator": "、",
+		"TsunamiForecast": "{0}正在向以下嘅區域發佈。",
 		"TsunamiForecastArea": "{0}。{1}。",
 		"TsunamiForecastFirstHeightArrivalTime": "預測到達時刻{0:t}",
 		"TsunamiForecastMaxHeight": "預測海嘯高度為{0}。",
@@ -194,6 +196,13 @@
 				"71": "海嘯預報（若干嘅海面變動）",
 				"72": "海嘯預報（若干嘅海面變動）",
 				"73": "海嘯預報（若干嘅海面變動）"
+			}
+		},
+		"TsunamiForecastCategoryShort": {
+			"Strings": {
+				"71": "海嘯預報",
+				"72": "海嘯預報",
+				"73": "海嘯預報"
 			}
 		},
 		"TsunamiForecastFirstHeightCondition": {

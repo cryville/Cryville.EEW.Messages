@@ -25,6 +25,7 @@
 		"HeadlineTsunamiInformationForecast": "各地的滿潮時刻和海嘯到達預測時刻如下。",
 		"HeadlineTsunamiInformationObservation": "目前，海嘯的觀測值如下。",
 		"HeadlineTsunamiWarning": "{0}已被發佈。",
+		"HeadlineTsunamiWarningDowngraded": "{0}已被解除，切換為{1}。",
 		"HeadlineTsunamiWarningLifted": "{0}已被解除。",
 		"HeadlineTsunamiWarningUpdate": "當前發佈中的{0}已被更新。",
 		"Intensity": "震度",
@@ -34,9 +35,10 @@
 		"LongIntensity": "長周期地震動階級",
 		"LongIntensityObservationMax": "本次地震，觀測到的最大長周期地震動階級為{0}。",
 		"Maximum": "最大{0}",
-		"MinorItemSeparator": "；",
+		"MediumItemSeparator": "；",
 		"PlumeDirectionValue": "{0}方向",
-		"TsunamiForecast": "以下的區域正在發布{0}。",
+		"ShortItemSeparator": "、",
+		"TsunamiForecast": "{0}正在對以下的區域發布。",
 		"TsunamiForecastArea": "{0}。{1}。",
 		"TsunamiForecastFirstHeightArrivalTime": "預測到達時刻{0:t}",
 		"TsunamiForecastMaxHeight": "預測海嘯高度為{0}。",
@@ -119,7 +121,7 @@
 		"EarthquakeMagnitudeUnknown": {
 			"Strings": {
 				"": "地震的規模不明。",
-				"Ｍ８を超える巨大地震": "推定本次地震為規模大於8的巨大地震"
+				"Ｍ８を超える巨大地震": "推定本次地震為規模大於8的巨大地震。"
 			}
 		},
 		"HeadlineVolcanoWarning": {
@@ -194,6 +196,13 @@
 				"71": "海嘯預報（若干的海面變動）",
 				"72": "海嘯預報（若干的海面變動）",
 				"73": "海嘯預報（若干的海面變動）"
+			}
+		},
+		"TsunamiForecastCategoryShort": {
+			"Strings": {
+				"71": "海嘯預報",
+				"72": "海嘯預報",
+				"73": "海嘯預報"
 			}
 		},
 		"TsunamiForecastFirstHeightCondition": {

@@ -18,6 +18,7 @@
 		"PropertyPlumeHeightAboveCraterValue": "{0}km",
 		"PropertyPlumeHeightAboveCraterValueNone": "无喷\u2060烟",
 		"PropertyPlumeHeightAboveCraterValueUnknown": "不明",
+		"ShortItemSeparator": "、",
 		"SourceName": "JMA Atom"
 	},
 	"StringSets": {
@@ -111,6 +112,17 @@
 			"Strings": {
 				"訓練": "{0}（训练）",
 				"試験": "{0}（测试）"
+			}
+		},
+		"TsunamiForecastCategory": {
+			"Strings": {
+				"51": "海啸警报",
+				"52": "大海啸警报",
+				"53": "大海啸警报",
+				"62": "海啸注意报",
+				"71": "海啸预报",
+				"72": "海啸预报",
+				"73": "海啸预报"
 			}
 		}
 	}
