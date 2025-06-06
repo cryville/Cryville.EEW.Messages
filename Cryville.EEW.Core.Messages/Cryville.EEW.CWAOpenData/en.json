@@ -2,6 +2,7 @@
 	"Culture": "en-US",
 	"Strings": {
 		"AuthorityName": "CWA",
+		"ErrorUnauthorized": "Authorization token is invalid.",
 		"PropertyDepth": "Depth",
 		"PropertyDepthValue": "{0}km",
 		"PropertyMaxIntensity": "Max intensity",

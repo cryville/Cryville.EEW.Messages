@@ -2,6 +2,7 @@
 	"Culture": "zh-CN",
 	"Strings": {
 		"AuthorityName": "CWA",
+		"ErrorUnauthorized": "授权码无效。",
 		"PropertyDepth": "深度",
 		"PropertyDepthValue": "{0}km",
 		"PropertyMaxIntensity": "最大震度",
