@@ -16,6 +16,9 @@
 		<item>Mandarin Chinese (Simplified → Traditional)</item>
 		<item>Mandarin Chinese (Traditional → Simplified)</item>
 	</string-array>
+	<string-array name="event_sources_globalquake_apis">
+		<item>0.10.1~0.11.0_pre-1</item>
+	</string-array>
 	<string-array name="event_sources_usgs_feeds">
 		<item>Significant Earthquakes, Past 30 Days</item>
 		<item>Significant Earthquakes, Past 7 Days</item>
