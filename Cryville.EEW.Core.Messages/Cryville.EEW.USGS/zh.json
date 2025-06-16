@@ -1,30 +1,30 @@
 {
-	"Culture": "en-US",
+	"Culture": "zh-CN",
 	"Strings": {
 		"AuthorityName": "USGS",
 		"AuthorityNameForwarded": "{0} | {1}",
-		"PropertyDepth": "Depth",
+		"PropertyDepth": "深度",
 		"PropertyDepthValue": "{0}km",
 		"PropertyMagnitude": "M",
 		"PropertyValue": "{0}{1}",
-		"ShakeMapTitle": "ShakeMap ({0})",
+		"ShakeMapTitle": "地震动图（{0}）",
 		"SourceName": "USGS"
 	},
 	"StringSets": {
 		"ContoursName": {
 			"Strings": {
-				"cont_mi": "Intensity Contours",
-				"cont_mmi": "Intensity Contours",
-				"cont_pga": "PGA Contours",
-				"cont_pgv": "PGV Contours"
+				"cont_mi": "等烈度线",
+				"cont_mmi": "等烈度线",
+				"cont_pga": "等峰值地面加速度线",
+				"cont_pgv": "等峰值地面速度线"
 			}
 		},
 		"ContoursPropertyName": {
 			"Strings": {
-				"cont_mi": "Max intensity",
-				"cont_mmi": "Max intensity",
-				"cont_pga": "Max PGA",
-				"cont_pgv": "Max PGV"
+				"cont_mi": "最大烈度",
+				"cont_mmi": "最大烈度",
+				"cont_pga": "最大PGA",
+				"cont_pgv": "最大PGV"
 			}
 		},
 		"PropertyUnits": {
