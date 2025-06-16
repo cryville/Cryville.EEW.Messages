@@ -28,6 +28,12 @@
 		<item>M1.0及以上地震（近一小时）</item>
 		<item>全部地震（近一小时）</item>
 	</string-array>
+	<string-array name="event_sources_usgs_products">
+		<item>震源</item>
+		<item>地震动图（等烈度线）</item>
+		<item>地震动图（等峰值地面加速度线）</item>
+		<item>地震动图（等峰值地面速度线）</item>
+	</string-array>
 	<string-array name="languages">
 		<item>@string/use_system</item>
 		<item>英语（美国）</item>

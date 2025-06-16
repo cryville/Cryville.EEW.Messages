@@ -51,6 +51,8 @@
 	<string name="event_sources_others">其它</string>
 	<string name="event_sources_usgs">美國地質調查局</string>
 	<string name="event_sources_usgs_feed">推送</string>
+	<string name="event_sources_usgs_geojson">使用詳細推送</string>
+	<string name="event_sources_usgs_products">產品</string>
 	<string name="event_sources_wolfx">Wolfx API</string>
 	<string name="event_sources_wolfx_cenc_eew">中國地震臺網地震預警</string>
 	<string name="event_sources_wolfx_cenc_eq">中國地震臺網地震資訊</string>

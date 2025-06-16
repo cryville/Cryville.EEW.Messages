@@ -28,6 +28,12 @@
 		<item>M1.0+ Earthquakes, Past Hour</item>
 		<item>All Earthquakes, Past Hour</item>
 	</string-array>
+	<string-array name="event_sources_usgs_products">
+		<item>Origin</item>
+		<item>ShakeMap (Intensity Contours)</item>
+		<item>ShakeMap (PGA Contours)</item>
+		<item>ShakeMap (PGV Contours)</item>
+	</string-array>
 	<string-array name="languages">
 		<item>@string/use_system</item>
 		<item>English (United States)</item>

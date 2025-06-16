@@ -51,6 +51,8 @@
 	<string name="event_sources_others">Others</string>
 	<string name="event_sources_usgs">United States Geological Survey</string>
 	<string name="event_sources_usgs_feed">Feed</string>
+	<string name="event_sources_usgs_geojson">Use detail feeds</string>
+	<string name="event_sources_usgs_products">Products</string>
 	<string name="event_sources_wolfx">Wolfx API</string>
 	<string name="event_sources_wolfx_cenc_eew">CENC (China) EEW</string>
 	<string name="event_sources_wolfx_cenc_eq">CENC (China) earthquake information</string>
