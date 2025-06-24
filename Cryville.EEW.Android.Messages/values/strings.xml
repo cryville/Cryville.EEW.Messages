@@ -82,6 +82,9 @@
 	<string name="map_compatibility_view">Use compatibility map view</string>
 	<string name="map_compatibility_view_desc">Enable if the map is not rendered correctly on older Android (Restart required)</string>
 	<string name="map_high_definition_tiles">High-definition tiles</string>
+	<string name="map_hillshade_layer">Hillshade</string>
+	<string name="map_hillshade_layer_desc">Display an emphasized land terrain</string>
+	<string name="map_hillshade_layer_opacity">Hillshade opacity</string>
 	<string name="map_pan_to_ongoing_event">Focus to ongoing events</string>
 	<string name="map_poi">POI style</string>
 	<string name="map_poi_continuous_color">Use continuous color</string>

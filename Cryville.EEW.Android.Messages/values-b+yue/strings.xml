@@ -82,6 +82,9 @@
 	<string name="map_compatibility_view">使用兼容地圖渲染模式</string>
 	<string name="map_compatibility_view_desc">舊版安卓上地圖唔啱嘅話打開呢項（重啟生效）</string>
 	<string name="map_high_definition_tiles">高解像度圖塊</string>
+	<string name="map_hillshade_layer">山體陰影</string>
+	<string name="map_hillshade_layer_desc">突出顯示陸地地形</string>
+	<string name="map_hillshade_layer_opacity">山體陰影不透明度</string>
 	<string name="map_pan_to_ongoing_event">自動聚焦發生緊嘅事件</string>
 	<string name="map_poi">元素風格</string>
 	<string name="map_poi_continuous_color">用連續嘅顏色</string>
