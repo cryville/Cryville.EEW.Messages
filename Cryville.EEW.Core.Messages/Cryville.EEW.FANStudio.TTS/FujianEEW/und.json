@@ -1,0 +1,8 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"Body": "{0}发生震级{1:F1}级地震。",
+		"Revision": "第{0}报。",
+		"Title": "地震预警。"
+	}
+}

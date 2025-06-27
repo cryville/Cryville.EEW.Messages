@@ -1,0 +1,17 @@
+{
+	"Culture": "yue-HK",
+	"Strings": {
+		"SourceName": "FAN Studio",
+		"SourceNameTyped": "FAN Studio（{0}）"
+	},
+	"StringSets": {
+		"SourceNameTypes": {
+			"Strings": {
+				"CEAEEW": "中國地震預警網地震預警",
+				"FujianEEW": "福建省地震局地震預警",
+				"ICLEEW": "成都高新防災減災研究所地震預警",
+				"SichuanEEW": "四川省地震局地震預警"
+			}
+		}
+	}
+}

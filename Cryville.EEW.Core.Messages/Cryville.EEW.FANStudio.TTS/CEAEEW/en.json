@@ -1,0 +1,6 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"Body": "Earthquake warning. Earthquake in {0}. Magnitude {1}. Max intensity {2}."
+	}
+}

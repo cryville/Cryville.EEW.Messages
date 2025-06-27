@@ -1,0 +1,17 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"SourceName": "FAN Studio",
+		"SourceNameTyped": "FAN Studio ({0})"
+	},
+	"StringSets": {
+		"SourceNameTypes": {
+			"Strings": {
+				"CEAEEW": "CEA (China) EEW",
+				"FujianEEW": "FEA (Fujian) EEW",
+				"ICLEEW": "ICL EEW",
+				"SichuanEEW": "SEA (Sichuan) EEW"
+			}
+		}
+	}
+}

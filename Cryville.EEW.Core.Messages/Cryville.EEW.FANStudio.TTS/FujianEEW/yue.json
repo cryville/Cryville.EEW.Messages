@@ -1,0 +1,8 @@
+{
+	"Culture": "yue-HK",
+	"Strings": {
+		"Body": "{0}發生震級{1:F1}級地震。",
+		"Revision": "第{0}報。",
+		"Title": "地震預警。"
+	}
+}

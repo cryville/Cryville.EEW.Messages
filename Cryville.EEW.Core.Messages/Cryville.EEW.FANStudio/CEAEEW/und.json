@@ -1,0 +1,11 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"AuthorityName": "中国地震预警网",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "最大烈度",
+		"Title": "地震预警"
+	}
+}

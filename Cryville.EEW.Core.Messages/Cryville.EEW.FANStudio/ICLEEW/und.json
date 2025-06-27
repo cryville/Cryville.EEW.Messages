@@ -1,0 +1,11 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"AuthorityName": "ICL",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "最大烈度",
+		"Title": "地震预警"
+	}
+}

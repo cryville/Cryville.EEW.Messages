@@ -1,0 +1,9 @@
+{
+	"Culture": "yue-HK",
+	"Strings": {
+		"AuthorityName": "四川省地震局",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "最大烈度",
+		"Title": "地震預警"
+	}
+}

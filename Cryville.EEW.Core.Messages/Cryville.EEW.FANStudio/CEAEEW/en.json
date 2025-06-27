@@ -1,0 +1,11 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AuthorityName": "China Earthquake Early Warning Network",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "Max intensity",
+		"Title": "Earthquake warning"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"AuthorityName": "四川省地震局",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "最大烈度",
+		"Title": "地震预警"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AuthorityName": "Sichuan Earthquake Administration",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "Max intensity",
+		"Title": "Earthquake warning"
+	}
+}
