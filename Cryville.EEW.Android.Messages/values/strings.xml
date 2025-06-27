@@ -29,6 +29,7 @@
 	<string name="event_sources_globalquake_host">Host</string>
 	<string name="event_sources_globalquake_port">Port</string>
 	<string name="event_sources_jma">Japan Meteorological Agency</string>
+	<string name="event_sources_jma_reports">Reports</string>
 	<string name="event_sources_jma_vfvo50">Volcanic warning and forecast</string>
 	<string name="event_sources_jma_vfvo51">Explanatory information on volcano status</string>
 	<string name="event_sources_jma_vfvo52">Volcano observation information about eruption</string>
@@ -65,6 +66,7 @@
 	<string name="event_sources_wolfx_fj_eew">FEA (Fujian) EEW</string>
 	<string name="event_sources_wolfx_jma_eew">JMA (Japan) EEW</string>
 	<string name="event_sources_wolfx_sc_eew">SEA (Sichuan) EEW</string>
+	<string name="event_sources_wolfx_sources">Sources</string>
 	<string name="info">Information</string>
 	<string name="info_allow_custom_fonts">Allow system fonts</string>
 	<string name="info_color_scheme">Color scheme</string>

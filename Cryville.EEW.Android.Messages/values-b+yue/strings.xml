@@ -29,6 +29,7 @@
 	<string name="event_sources_globalquake_host">主機</string>
 	<string name="event_sources_globalquake_port">端口</string>
 	<string name="event_sources_jma">日本氣象廳</string>
+	<string name="event_sources_jma_reports">事件資訊</string>
 	<string name="event_sources_jma_vfvo50">火山噴發警報、預報</string>
 	<string name="event_sources_jma_vfvo51">關於火山嘅狀況嘅解説資訊</string>
 	<string name="event_sources_jma_vfvo52">關於火山嘅火山觀測報</string>
@@ -65,6 +66,7 @@
 	<string name="event_sources_wolfx_fj_eew">福建省地震局地震預警</string>
 	<string name="event_sources_wolfx_jma_eew">日本氣象廳緊急地震速報</string>
 	<string name="event_sources_wolfx_sc_eew">四川省地震局地震預警</string>
+	<string name="event_sources_wolfx_sources">事件源</string>
 	<string name="info">資訊</string>
 	<string name="info_allow_custom_fonts">允許使用系統字體</string>
 	<string name="info_color_scheme">顏色主題</string>
