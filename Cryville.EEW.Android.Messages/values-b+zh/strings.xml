@@ -16,6 +16,10 @@
 	<string name="event_sources_cwa_token">授权码</string>
 	<string name="event_sources_emsc">欧洲与地中海地震中心</string>
 	<string name="event_sources_enabled">启用</string>
+	<string name="event_sources_fan_studio">FAN Studio API</string>
+	<string name="event_sources_fan_studio_cea">中国地震预警网地震预警</string>
+	<string name="event_sources_fan_studio_fujian">福建省地震局地震预警</string>
+	<string name="event_sources_fan_studio_sichuan">四川省地震局地震预警</string>
 	<string name="event_sources_geonet">GeoNet</string>
 	<string name="event_sources_geonet_history">完整历史</string>
 	<string name="event_sources_geonet_mmi">最小烈度</string>
