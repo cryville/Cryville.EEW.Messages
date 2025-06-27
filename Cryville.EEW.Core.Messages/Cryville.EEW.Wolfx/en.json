@@ -1,6 +1,18 @@
 {
 	"Culture": "en-US",
 	"Strings": {
-		"SourceName": "Wolfx"
+		"SourceName": "Wolfx",
+		"SourceNameTyped": "Wolfx ({0})"
+	},
+	"StringSets": {
+		"SourceNameTypes": {
+			"Strings": {
+				"CENCEarthquake": "CENC (China) earthquake information",
+				"CWAEEW": "CWA (Taiwan) EEW",
+				"FujianEEW": "FEA (Fujian) EEW",
+				"JMAEEW": "JMA (Japan) EEW",
+				"SichuanEEW": "SEA (Sichuan) EEW"
+			}
+		}
 	}
 }

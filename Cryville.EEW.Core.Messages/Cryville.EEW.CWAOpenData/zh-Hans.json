@@ -3,6 +3,7 @@
 	"Strings": {
 		"AuthorityName": "CWA",
 		"ErrorUnauthorized": "授权码无效。",
+		"ErrorUnknownSubtype": "未知子类型。",
 		"PropertyDepth": "深度",
 		"PropertyDepthValue": "{0}km",
 		"PropertyMaxIntensity": "最大震度",

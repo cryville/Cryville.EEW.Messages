@@ -3,6 +3,7 @@
 	"Strings": {
 		"AuthorityName": "CWA",
 		"ErrorUnauthorized": "Authorization token is invalid.",
+		"ErrorUnknownSubtype": "Unknown subtype.",
 		"PropertyDepth": "Depth",
 		"PropertyDepthValue": "{0}km",
 		"PropertyMaxIntensity": "Max intensity",

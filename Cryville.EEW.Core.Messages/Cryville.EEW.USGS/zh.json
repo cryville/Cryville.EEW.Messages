@@ -7,8 +7,10 @@
 		"PropertyDepthValue": "{0}km",
 		"PropertyMagnitude": "M",
 		"PropertyValue": "{0}{1}",
+		"PropertyValueUnknown": "不明",
 		"ShakeMapTitle": "地震动图（{0}）",
-		"SourceName": "USGS"
+		"SourceName": "USGS",
+		"SourceNameContours": "USGS地震动图（轮廓线）"
 	},
 	"StringSets": {
 		"ContoursName": {

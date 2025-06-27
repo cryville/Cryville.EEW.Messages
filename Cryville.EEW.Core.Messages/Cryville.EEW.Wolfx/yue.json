@@ -1,6 +1,18 @@
 {
 	"Culture": "yue-HK",
 	"Strings": {
-		"SourceName": "Wolfx"
+		"SourceName": "Wolfx",
+		"SourceNameTyped": "Wolfx（{0}）"
+	},
+	"StringSets": {
+		"SourceNameTypes": {
+			"Strings": {
+				"CENCEarthquake": "中國地震台網地震資訊",
+				"CWAEEW": "台灣中央氣象署地震預警",
+				"FujianEEW": "福建省地震局地震預警",
+				"JMAEEW": "日本氣象廳緊急地震速報",
+				"SichuanEEW": "四川省地震局地震預警"
+			}
+		}
 	}
 }

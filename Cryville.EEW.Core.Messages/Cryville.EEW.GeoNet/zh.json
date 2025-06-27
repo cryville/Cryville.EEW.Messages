@@ -7,6 +7,7 @@
 		"PropertyMagnitude": "M",
 		"PropertyMaxIntensity": "最大烈度",
 		"SourceName": "GeoNet",
+		"SourceNameTyped": "GeoNet（{0}）",
 		"TitleQuake": "地震信息",
 		"TitleStrong": "强震动信息"
 	},
@@ -18,6 +19,13 @@
 				"preliminary": "速报",
 				"automatic": "自动",
 				"deleted": "删除"
+			}
+		},
+		"SourceNameTypes": {
+			"Strings": {
+				"Quake": "地震信息",
+				"QuakeHistory": "地震位置历史",
+				"Strong": "强震动信息"
 			}
 		}
 	}

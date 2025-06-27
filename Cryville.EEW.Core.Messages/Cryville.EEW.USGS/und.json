@@ -7,8 +7,10 @@
 		"PropertyDepthValue": "{0}km",
 		"PropertyMagnitude": "M",
 		"PropertyValue": "{0}{1}",
+		"PropertyValueUnknown": "Unknown",
 		"ShakeMapTitle": "ShakeMap ({0})",
-		"SourceName": "USGS"
+		"SourceName": "USGS",
+		"SourceNameContours": "USGS ShakeMap (Contours)"
 	},
 	"StringSets": {
 		"ContoursName": {

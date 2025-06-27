@@ -2,6 +2,7 @@
 	"Culture": "en-US",
 	"Strings": {
 		"AuthorityName": "NOAA",
+		"ErrorUnknownSubtype": "Unknown subtype.",
 		"PropertyDepth": "Depth",
 		"PropertyDepthValue": "{0}km",
 		"PropertyDepthValueMiles": "{0}mi",

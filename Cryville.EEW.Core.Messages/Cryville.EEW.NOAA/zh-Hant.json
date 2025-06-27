@@ -2,6 +2,7 @@
 	"Culture": "zh-TW",
 	"Strings": {
 		"AuthorityName": "NOAA",
+		"ErrorUnknownSubtype": "未知子類型。",
 		"PropertyDepth": "深度",
 		"PropertyDepthValue": "{0}km",
 		"PropertyDepthValueMiles": "{0}mi",
