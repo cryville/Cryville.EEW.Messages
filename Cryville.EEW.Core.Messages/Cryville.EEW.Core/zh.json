@@ -1,12 +1,13 @@
 {
 	"Culture": "zh-CN",
 	"Strings": {
-		"CoreError": "核心发生错误",
+		"CoreError": "处理一个事件时发生错误",
+		"CoreErrorSourced": "处理一个 {0} 的事件时发生错误",
 		"Repeat": "重新播报刚才的{0}。",
 		"Serial": "#{0}",
 		"SerialCancel": "取消",
 		"SerialFinal": "#{0}终",
-		"TTSError": "语音合成发生错误",
+		"TTSError": "语音合成因错误停止工作",
 		"UnknownLocation": "不明位置",
 		"WorkerConnected": "已连接到 {0}",
 		"WorkerDisconnected": "与 {0} 断开连接",

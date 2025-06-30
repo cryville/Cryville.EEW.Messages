@@ -1,12 +1,13 @@
 {
 	"Culture": "yue-HK",
 	"Strings": {
-		"CoreError": "核心發生錯誤",
+		"CoreError": "處理一個事件時發生錯誤",
+		"CoreErrorSourced": "處理一個 {0} 的事件時發生錯誤",
 		"Repeat": "重新播報頭先嘅{0}。",
 		"Serial": "#{0}",
 		"SerialCancel": "取消",
 		"SerialFinal": "#{0}終",
-		"TTSError": "語音合成發生錯誤",
+		"TTSError": "語音合成因錯誤停止工作",
 		"UnknownLocation": "不明位置",
 		"WorkerConnected": "已連接到 {0}",
 		"WorkerDisconnected": "同 {0} 斷開連接",
