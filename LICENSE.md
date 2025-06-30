@@ -9,6 +9,8 @@ The following files are licensed under [CC-BY-4.0](LICENSE-CCBY.txt) © Cryville
   - Cryville.EEW.CWA/*
   - Cryville.EEW.CWAOpenData/*
   - Cryville.EEW.CWAOpenData.TTS/*
+  - Cryville.EEW.FANStudio/*
+  - Cryville.EEW.FANStudio.TTS/*
   - Cryville.EEW.FERegion/yue.json
   - Cryville.EEW.FERegion/zh.json
   - Cryville.EEW.FERegion/zh-Hant.json
