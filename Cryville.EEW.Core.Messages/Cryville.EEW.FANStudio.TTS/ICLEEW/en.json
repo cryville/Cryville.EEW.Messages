@@ -1,6 +1,6 @@
 {
 	"Culture": "en-US",
 	"Strings": {
-		"Body": "Earthquake warning. Revision {0}. Earthquake in {1}. Magnitude {2:F1}. Max intensity {3}."
+		"Body": "Earthquake warning. Revision {0}. Earthquake in {1}. Magnitude {2}. Max intensity {3}."
 	}
 }
