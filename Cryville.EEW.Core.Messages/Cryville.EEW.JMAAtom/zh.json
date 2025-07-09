@@ -66,8 +66,8 @@
 		},
 		"PropertyMagnitudeValueUnknown": {
 			"Strings": {
-				"": "不\u2060明",
-				"Ｍ８を超える巨大地震": "震\u2060级大\u2060于8的巨\u2060大地\u2060震"
+				"": "震\u2060级不\u2060明",
+				"Ｍ８を超える巨大地震": "震\u2060级大\u2060于8"
 			}
 		},
 		"PropertyMaxTsunamiHeightSpecialValue": {

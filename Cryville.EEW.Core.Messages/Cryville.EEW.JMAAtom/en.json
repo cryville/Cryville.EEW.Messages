@@ -66,8 +66,8 @@
 		},
 		"PropertyMagnitudeValueUnknown": {
 			"Strings": {
-				"": "Unknown",
-				"Ｍ８を超える巨大地震": "Massive earthquake of M8 and above"
+				"": "Magnitude unknown",
+				"Ｍ８を超える巨大地震": "M8 or above"
 			}
 		},
 		"PropertyMaxTsunamiHeightSpecialValue": {
