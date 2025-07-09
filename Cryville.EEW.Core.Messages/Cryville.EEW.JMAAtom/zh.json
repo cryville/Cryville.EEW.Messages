@@ -44,6 +44,11 @@
 				"震源速報": "震源速报"
 			}
 		},
+		"OverseaVolcanicEruption": {
+			"Strings": {
+				"Title": "关于远地火山喷发的信息"
+			}
+		},
 		"PredicateVolcanic": {
 			"Strings": {
 				"51": "爆发",

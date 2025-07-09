@@ -144,6 +144,17 @@
 				"219": "The government is calling on areas promoting disaster prevention measures for the Nankai Trough earthquake to take cautions. Please continue to take disaster prevention measures in accordance with future appeals from the government and local governments.\nThe Japan Meteorological Agency will continue to closely monitor changes in crustal activity along the Nankai Trough."
 			}
 		},
+		"OverseaVolcanicEruption": {
+			"Strings": {
+				"Area": "This eruption occurred in {0}.",
+				"Headline": "At {0:d MMM HH:mm}, a large volcanic eruption overseas occurred.",
+				"ReplaceEruptionSource": "earthquake",
+				"ReplaceEruptionTarget": "eruption",
+				"ReplaceVolcanoSource": "epicenter",
+				"ReplaceVolcanoTarget": "volcano",
+				"Title": "Distant volcanic eruption information"
+			}
+		},
 		"PlumeDirection": {
 			"Strings": {
 				"北": "north",

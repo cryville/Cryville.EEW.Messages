@@ -53,6 +53,17 @@
 				"Ｍ８を超える巨大地震": "この地震は、Ｍ８を超える巨大地震と、推定されています。"
 			}
 		},
+		"OverseaVolcanicEruption": {
+			"Strings": {
+				"Area": "噴火の場所は{0}。",
+				"Headline": "{0:d日HH時mm分}ころ、海外で規模の大きな噴火がありました。",
+				"ReplaceEruptionSource": "地震",
+				"ReplaceEruptionTarget": "噴火",
+				"ReplaceVolcanoSource": "震源",
+				"ReplaceVolcanoTarget": "火山",
+				"Title": "遠地噴火に関する情報"
+			}
+		},
 		"PlumeDirection": {
 			"Strings": {
 				"方向不定": "不定",

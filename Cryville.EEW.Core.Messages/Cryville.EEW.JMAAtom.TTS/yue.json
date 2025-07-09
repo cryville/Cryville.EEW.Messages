@@ -144,6 +144,17 @@
 				"219": "政府正在落實對南海海槽地震防災推進地區做好警戒或注意措施嘅呼籲等。請繼續根據政府同自治體等後續嘅呼籲等採取防災措施。\n氣象廳將繼續密切監視沿南海海槽地殼活動嘅推移。"
 			}
 		},
+		"OverseaVolcanicEruption": {
+			"Strings": {
+				"Area": "呢次火山噴發位於{0}。",
+				"Headline": "{0:d號HH點mm分}左右，海外發生咗大規模嘅火山噴發。",
+				"ReplaceEruptionSource": "地震",
+				"ReplaceEruptionTarget": "火山噴發",
+				"ReplaceVolcanoSource": "震源",
+				"ReplaceVolcanoTarget": "火山",
+				"Title": "關於遠地火山噴發嘅資訊"
+			}
+		},
 		"PlumeDirection": {
 			"Strings": {
 				"北": "北",

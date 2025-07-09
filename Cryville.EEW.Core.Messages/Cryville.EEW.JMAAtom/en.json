@@ -44,6 +44,11 @@
 				"震源速報": "Earthquake information"
 			}
 		},
+		"OverseaVolcanicEruption": {
+			"Strings": {
+				"Title": "Distant volcanic eruption information"
+			}
+		},
 		"PredicateVolcanic": {
 			"Strings": {
 				"51": "explosively erupted",
