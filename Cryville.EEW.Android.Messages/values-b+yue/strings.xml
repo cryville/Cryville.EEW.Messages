@@ -37,7 +37,7 @@
 	<string name="event_sources_jma_reports">事件資訊</string>
 	<string name="event_sources_jma_vfvo50">火山噴發警報、預報</string>
 	<string name="event_sources_jma_vfvo51">關於火山嘅狀況嘅解説資訊</string>
-	<string name="event_sources_jma_vfvo52">關於火山嘅火山觀測報</string>
+	<string name="event_sources_jma_vfvo52">關於火山噴發嘅火山觀測報</string>
 	<string name="event_sources_jma_vfvo53">降灰預報（定時）</string>
 	<string name="event_sources_jma_vfvo54">降灰預報（速報）</string>
 	<string name="event_sources_jma_vfvo55">降灰預報（詳細）</string>
