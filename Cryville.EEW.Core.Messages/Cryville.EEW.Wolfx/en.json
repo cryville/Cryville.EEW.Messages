@@ -7,7 +7,7 @@
 	"StringSets": {
 		"SourceNameTypes": {
 			"Strings": {
-				"CENCEarthquake": "CENC (China) earthquake information",
+				"CENCEarthquake": "CENC earthquake information",
 				"CWAEEW": "CWA (Taiwan) EEW",
 				"FujianEEW": "FEA (Fujian) EEW",
 				"JMAEEW": "JMA (Japan) EEW",
