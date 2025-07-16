@@ -1,0 +1,10 @@
+{
+	"Culture": "zh-HK",
+	"Strings": {
+		"AuthorityName": "香港天文台",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"Title": "地震報告"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Culture": "zh-TW",
+	"Strings": {
+		"AuthorityName": "CENC",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyQualityValueAutomatic": "自動測定",
+		"PropertyQualityValueReviewed": "正式測定",
+		"Title": "地震資訊"
+	}
+}

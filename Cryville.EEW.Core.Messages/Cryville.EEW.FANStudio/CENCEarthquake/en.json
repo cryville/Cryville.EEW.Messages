@@ -1,0 +1,12 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AuthorityName": "CENC",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyQualityValueAutomatic": "Automatic",
+		"PropertyQualityValueReviewed": "Reviewed",
+		"Title": "Earthquake information"
+	}
+}

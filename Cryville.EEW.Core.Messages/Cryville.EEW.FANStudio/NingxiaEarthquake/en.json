@@ -1,0 +1,10 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AuthorityName": "Earthquake Agency of Ningxia Hui Autonomous Region",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"Title": "Earthquake information"
+	}
+}

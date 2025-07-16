@@ -7,9 +7,15 @@
 	"StringSets": {
 		"SourceNameTypes": {
 			"Strings": {
-				"CEAEEW": "CEA (China) EEW",
+				"BeijingEarthquake": "BEA (Beijing) earthquake information",
+				"CEAEEW": "CEA EEW",
+				"CENCEarthquake": "CENC earthquake information",
+				"CMAWeatherAlarm": "CMA weather alarm",
 				"FujianEEW": "FEA (Fujian) EEW",
+				"HKOEarthquake": "HKO earthquake report",
 				"ICLEEW": "ICL EEW",
+				"NingxiaEarthquake": "EANHAR (Ningxia) earthquake information",
+				"NMEFCTsunamiWarning": "NMEFC tsunami warning",
 				"SichuanEEW": "SEA (Sichuan) EEW"
 			}
 		}

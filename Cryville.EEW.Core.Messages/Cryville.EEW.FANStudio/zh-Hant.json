@@ -7,9 +7,15 @@
 	"StringSets": {
 		"SourceNameTypes": {
 			"Strings": {
+				"BeijingEarthquake": "北京市地震局地震資訊",
 				"CEAEEW": "中國地震預警網地震預警",
+				"CENCEarthquake": "中國地震臺網地震資訊",
+				"CMAWeatherAlarm": "中國氣象局氣象預警",
 				"FujianEEW": "福建省地震局地震預警",
+				"HKOEarthquake": "香港天文臺地震報告",
 				"ICLEEW": "成都高新防災減災研究所地震預警",
+				"NingxiaEarthquake": "寧夏回族自治區地震局地震資訊",
+				"NMEFCTsunamiWarning": "自然資源部海嘯預警中心海嘯預警資訊",
 				"SichuanEEW": "四川省地震局地震預警"
 			}
 		}

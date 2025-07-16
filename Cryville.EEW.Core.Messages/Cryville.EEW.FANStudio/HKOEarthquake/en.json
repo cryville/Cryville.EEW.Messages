@@ -1,0 +1,10 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AuthorityName": "Hong Kong Observatory",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"Title": "Earthquake report"
+	}
+}
