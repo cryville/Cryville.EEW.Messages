@@ -17,9 +17,14 @@
 	<string name="event_sources_emsc">欧洲与地中海地震中心</string>
 	<string name="event_sources_enabled">启用</string>
 	<string name="event_sources_fan_studio">FAN Studio API</string>
+	<string name="event_sources_fan_studio_beijing">北京市地震局地震信息</string>
 	<string name="event_sources_fan_studio_cea">中国地震预警网地震预警</string>
+	<string name="event_sources_fan_studio_cenc">中国地震台网地震信息</string>
 	<string name="event_sources_fan_studio_fujian">福建省地震局地震预警</string>
+	<string name="event_sources_fan_studio_hko">香港天文台地震报告</string>
+	<string name="event_sources_fan_studio_ningxia">宁夏回族自治区地震局地震信息</string>
 	<string name="event_sources_fan_studio_sichuan">四川省地震局地震预警</string>
+	<string name="event_sources_fan_studio_sources">事件源</string>
 	<string name="event_sources_geonet">GeoNet</string>
 	<string name="event_sources_geonet_history">完整历史</string>
 	<string name="event_sources_geonet_mmi">最小烈度</string>
