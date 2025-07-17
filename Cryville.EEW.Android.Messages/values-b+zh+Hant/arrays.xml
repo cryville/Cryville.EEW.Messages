@@ -34,6 +34,9 @@
 		<item>地震動圖（等最大地面加速度綫）</item>
 		<item>地震動圖（等最大地面速度綫）</item>
 	</string-array>
+	<string-array name="identical_language_pairs">
+		<item>粵語 = 中文（香港）</item>
+	</string-array>
 	<string-array name="languages">
 		<item>@string/use_system</item>
 		<item>英語（美國）</item>

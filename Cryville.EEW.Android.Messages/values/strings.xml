@@ -117,6 +117,8 @@
 	<string name="voice_language_enable_primary_desc">Speak in the language selected below</string>
 	<string name="voice_language_enable_source">Enable source language</string>
 	<string name="voice_language_enable_source_desc">Speak in the language of the event source</string>
+	<string name="voice_language_identical_language_pairs">Identical languages</string>
+	<string name="voice_language_identical_language_pairs_desc">Language mappings that are treated as identical in TTS to prevent duplication</string>
 	<string name="voice_language_ignore_variant">Ignore language variant</string>
 	<string name="voice_language_ignore_variant_desc">Treat languages only different in variants as the same language</string>
 	<string name="voice_language_noncoordinated_region_conversion">Noncoordinated region conversion</string>

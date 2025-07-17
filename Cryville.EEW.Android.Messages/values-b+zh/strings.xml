@@ -117,6 +117,8 @@
 	<string name="voice_language_enable_primary_desc">使用下面选择的语言播报</string>
 	<string name="voice_language_enable_source">启用事件源语言</string>
 	<string name="voice_language_enable_source_desc">使用事件信息源的语言播报</string>
+	<string name="voice_language_identical_language_pairs">等价语言</string>
+	<string name="voice_language_identical_language_pairs_desc">在语音播报中视为等价以防止重复的语言映射</string>
 	<string name="voice_language_ignore_variant">忽略语言变体</string>
 	<string name="voice_language_ignore_variant_desc">将仅有变体不同的语言视为相同的语言</string>
 	<string name="voice_language_noncoordinated_region_conversion">非对等地区转换</string>

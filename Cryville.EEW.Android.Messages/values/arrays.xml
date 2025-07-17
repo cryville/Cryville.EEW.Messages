@@ -37,6 +37,9 @@
 		<item>ShakeMap (PGA Contours)</item>
 		<item>ShakeMap (PGV Contours)</item>
 	</string-array>
+	<string-array name="identical_language_pairs">
+		<item>Cantonese = Chinese (Hong Kong)</item>
+	</string-array>
 	<string-array name="languages">
 		<item>@string/use_system</item>
 		<item>English (United States)</item>

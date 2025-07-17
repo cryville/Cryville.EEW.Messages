@@ -34,6 +34,9 @@
 		<item>地震动图（等峰值地面加速度线）</item>
 		<item>地震动图（等峰值地面速度线）</item>
 	</string-array>
+	<string-array name="identical_language_pairs">
+		<item>粤语 = 中文（香港）</item>
+	</string-array>
 	<string-array name="languages">
 		<item>@string/use_system</item>
 		<item>英语（美国）</item>
