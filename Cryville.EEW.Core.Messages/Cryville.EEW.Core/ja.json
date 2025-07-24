@@ -7,6 +7,7 @@
 		"Serial": "#{0}",
 		"SerialCancel": "取消",
 		"SerialFinal": "#{0}終",
+		"SoundPlayerError": "効果音プレーヤーでエラー",
 		"TTSError": "エラーのため音声合成が動作を停止しました",
 		"UnknownLocation": "地域不明",
 		"WorkerConnected": "{0} に接続しました",

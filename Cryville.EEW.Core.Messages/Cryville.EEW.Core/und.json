@@ -7,6 +7,7 @@
 		"Serial": "#{0}",
 		"SerialCancel": "Cancel",
 		"SerialFinal": "#{0} (Fin.)",
+		"SoundPlayerError": "Error in sound player",
 		"TTSError": "TTS stopped working due to an error",
 		"UnknownLocation": "unknown location",
 		"WorkerConnected": "Connected to {0}",

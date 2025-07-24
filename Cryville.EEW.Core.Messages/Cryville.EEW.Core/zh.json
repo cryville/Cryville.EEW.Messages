@@ -7,6 +7,7 @@
 		"Serial": "#{0}",
 		"SerialCancel": "取消",
 		"SerialFinal": "#{0}终",
+		"SoundPlayerError": "音效播放器发生错误",
 		"TTSError": "语音合成因错误停止工作",
 		"UnknownLocation": "不明位置",
 		"WorkerConnected": "已连接到 {0}",
