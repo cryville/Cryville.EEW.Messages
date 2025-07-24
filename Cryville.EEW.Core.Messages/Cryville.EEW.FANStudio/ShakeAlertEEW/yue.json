@@ -1,0 +1,10 @@
+{
+	"Culture": "yue-HK",
+	"Strings": {
+		"AuthorityName": "ShakeAlert",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"Title": "地震預警"
+	}
+}

@@ -16,7 +16,9 @@
 				"ICLEEW": "成都高新防災減災研究所地震預警",
 				"NingxiaEarthquake": "寧夏回族自治區地震局地震資訊",
 				"NMEFCTsunamiWarning": "自然資源部海嘯預警中心海嘯預警資訊",
-				"SichuanEEW": "四川省地震局地震預警"
+				"ShakeAlertEEW": "ShakeAlert地震預警",
+				"SichuanEEW": "四川省地震局地震預警",
+				"USGSEarthquake": "美國地質調查局地震資訊"
 			}
 		}
 	}

@@ -16,7 +16,9 @@
 				"ICLEEW": "ICL EEW",
 				"NingxiaEarthquake": "EANHAR (Ningxia) earthquake information",
 				"NMEFCTsunamiWarning": "NMEFC tsunami warning",
-				"SichuanEEW": "SEA (Sichuan) EEW"
+				"ShakeAlertEEW": "ShakeAlert EEW",
+				"SichuanEEW": "SEA (Sichuan) EEW",
+				"USGSEarthquake": "USGS earthquake information"
 			}
 		}
 	}
