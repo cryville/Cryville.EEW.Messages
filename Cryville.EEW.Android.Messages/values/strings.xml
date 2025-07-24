@@ -1,11 +1,12 @@
 <resources>
 	<string name="about">About</string>
+	<string name="about_desc">Authors, licenses, terms</string>
 	<string name="app_name">CysTerra</string>
 	<string name="category_low_reliability">These event sources are of low reliability. Use at your own risk!</string>
 	<string name="category_low_usability">These settings are now having a low usability. Use at your own risk!</string>
 	<string name="category_restart_required">Restart the app to apply the changes to the settings in this category</string>
 	<string name="error">Error</string>
-	<string name="event_sources">Event sources</string>
+	<string name="event_sources">Events</string>
 	<string name="event_sources_bmkg">BMKG (Indonesia)</string>
 	<string name="event_sources_bmkg_felt">Felt earthquakes</string>
 	<string name="event_sources_bmkg_major">M 5.0+ earthquakes</string>
@@ -14,6 +15,7 @@
 	<string name="event_sources_cwa_e_a0015_001">Significant earthquake report</string>
 	<string name="event_sources_cwa_e_a0016_001">Minor earthquake report</string>
 	<string name="event_sources_cwa_token">Authorization token</string>
+	<string name="event_sources_desc">Event sources, filters</string>
 	<string name="event_sources_emsc">EMSC</string>
 	<string name="event_sources_enabled">Enabled</string>
 	<string name="event_sources_fan_studio">FAN Studio API</string>
@@ -77,6 +79,7 @@
 	<string name="info_allow_custom_fonts">Allow system fonts</string>
 	<string name="info_color_scheme">Color scheme</string>
 	<string name="info_color_scheme_restart_required">Change from or to the legacy color scheme requires an restart</string>
+	<string name="info_desc">Display, date time, language</string>
 	<string name="info_font_size">Font size</string>
 	<string name="info_language">Display language</string>
 	<string name="info_language_primary">Display language</string>
@@ -93,6 +96,7 @@
 	<string name="map">Map</string>
 	<string name="map_compatibility_view">Use compatibility map view</string>
 	<string name="map_compatibility_view_desc">Enable if the map is not rendered correctly on older Android (Restart required)</string>
+	<string name="map_desc">Map layers, style</string>
 	<string name="map_high_definition_tiles">High-definition tiles</string>
 	<string name="map_hillshade_layer">Hillshade</string>
 	<string name="map_hillshade_layer_desc">Display an emphasized land terrain</string>
@@ -109,6 +113,7 @@
 	<string name="settings">Settings</string>
 	<string name="use_system">(Use system settings)</string>
 	<string name="voice">Sound</string>
+	<string name="voice_desc">Sound effects, text-to-speech</string>
 	<string name="voice_filter_incorrect_time">Filter delayed events</string>
 	<string name="voice_filter_incorrect_time_desc">Prevent warnings with incorrect time from triggering sound effects and TTS</string>
 	<string name="voice_language">TTS language</string>

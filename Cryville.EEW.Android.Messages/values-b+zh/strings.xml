@@ -1,11 +1,12 @@
 <resources>
 	<string name="about">关于</string>
+	<string name="about_desc">作者、许可证、条款</string>
 	<string name="app_name">CysTerra</string>
 	<string name="category_low_reliability">以下事件源可靠性低。请谨慎使用！</string>
 	<string name="category_low_usability">以下设置可用性较低。请谨慎使用！</string>
 	<string name="category_restart_required">本类别的设置需要重启应用生效</string>
 	<string name="error">错误</string>
-	<string name="event_sources">事件信息源</string>
+	<string name="event_sources">事件</string>
 	<string name="event_sources_bmkg">印度尼西亚气象、气候及地球物理局</string>
 	<string name="event_sources_bmkg_felt">有感地震</string>
 	<string name="event_sources_bmkg_major">M5.0及以上地震</string>
@@ -14,6 +15,7 @@
 	<string name="event_sources_cwa_e_a0015_001">显著有感地震报告</string>
 	<string name="event_sources_cwa_e_a0016_001">小区域有感地震报告</string>
 	<string name="event_sources_cwa_token">授权码</string>
+	<string name="event_sources_desc">事件源、筛选</string>
 	<string name="event_sources_emsc">欧洲与地中海地震中心</string>
 	<string name="event_sources_enabled">启用</string>
 	<string name="event_sources_fan_studio">FAN Studio API</string>
@@ -77,6 +79,7 @@
 	<string name="info_allow_custom_fonts">允许使用系统字体</string>
 	<string name="info_color_scheme">颜色主题</string>
 	<string name="info_color_scheme_restart_required">切换到旧版颜色主题或从旧版切换到其它主题需要重启生效</string>
+	<string name="info_desc">显示、日期与时间、语言</string>
 	<string name="info_font_size">字体大小</string>
 	<string name="info_language">显示语言</string>
 	<string name="info_language_primary">显示语言</string>
@@ -93,6 +96,7 @@
 	<string name="map">地图</string>
 	<string name="map_compatibility_view">使用兼容地图渲染模式</string>
 	<string name="map_compatibility_view_desc">旧版安卓上渲染不正确时请启用该选项（重启生效）</string>
+	<string name="map_desc">地图图层、风格</string>
 	<string name="map_high_definition_tiles">高分辨率图块</string>
 	<string name="map_hillshade_layer">山体阴影</string>
 	<string name="map_hillshade_layer_desc">突出显示陆地地形</string>
@@ -109,6 +113,7 @@
 	<string name="settings">设置</string>
 	<string name="use_system">（使用系统设置）</string>
 	<string name="voice">声音</string>
+	<string name="voice_desc">音效、语音播报</string>
 	<string name="voice_filter_incorrect_time">过滤延迟事件</string>
 	<string name="voice_filter_incorrect_time_desc">防止时间不正确的警报触发音效和语音</string>
 	<string name="voice_language">语音语言</string>
