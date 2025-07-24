@@ -23,6 +23,7 @@
 	<string name="event_sources_fan_studio_fujian">福建省地震局地震预警</string>
 	<string name="event_sources_fan_studio_hko">香港天文台地震报告</string>
 	<string name="event_sources_fan_studio_ningxia">宁夏回族自治区地震局地震信息</string>
+	<string name="event_sources_fan_studio_sa">ShakeAlert地震预警</string>
 	<string name="event_sources_fan_studio_sichuan">四川省地震局地震预警</string>
 	<string name="event_sources_fan_studio_sources">事件源</string>
 	<string name="event_sources_geonet">GeoNet</string>
