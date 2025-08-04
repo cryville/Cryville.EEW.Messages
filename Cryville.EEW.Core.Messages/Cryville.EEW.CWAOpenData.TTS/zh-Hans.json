@@ -3,6 +3,11 @@
 	"Strings": {
 		"EarthquakeBody": "{0}，{1}发生震级{2:F1}有感地震，最大震度{3}。",
 		"EarthquakeFocalDepth": "震源深度{0}千米。",
+		"TsunamiBodyLifted": "经研判海啸的威胁解除，故解除海啸警报。",
+		"TsunamiBodyMessage": "该地震所引发的海啸可能会影响台湾，请注意后续的信息。",
+		"TsunamiBodyMessageGreen": "该地震所引发的海啸将不会影响台湾。",
+		"TsunamiBodyWarning": "该地震所引发的海啸将会影响台湾，特此发布海啸警报，提醒沿海地区民众提高警觉严加防范，注意海浪突然涌升所造成的危害。",
+		"TsunamiEarthquakeBody": "{0}，{1}发生震级{2:F1}地震。",
 		"TsunamiForecast": "以下地区预计海啸高度{0}。",
 		"TsunamiForecastArea": "{0}。预计到达时间{1:HH:mm}。",
 		"TsunamiObservation": "当前，各地观测到的海啸高度如下。",
@@ -15,7 +20,8 @@
 				"地震報告": "地震报告",
 				"海嘯消息": "海啸消息",
 				"海嘯警報": "海啸警报",
-				"海嘯警報解除": "海啸警报解除"
+				"海嘯警報解除": "海啸警报解除",
+				"海嘯警訊": "海啸警讯"
 			}
 		},
 		"TsunamiForecastArea": {

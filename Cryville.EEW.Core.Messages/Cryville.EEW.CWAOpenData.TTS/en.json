@@ -3,6 +3,11 @@
 	"Strings": {
 		"EarthquakeBody": "At {0}, a magnitude {2:F1} earthquake occurred in {1}. Max intensity {3}.",
 		"EarthquakeFocalDepth": "Hypocenter depth {0} kilometers.",
+		"TsunamiBodyLifted": "Based on the analysis, the tsunami threat has passed, and thus the tsunami warning is lifted.",
+		"TsunamiBodyMessage": "The tsunami caused by this earthquake may impact Taiwan. Please stay tuned for further information.",
+		"TsunamiBodyMessageGreen": "The tsunami caused by this earthquake does not impact Taiwan.",
+		"TsunamiBodyWarning": "The tsunami caused by this earthquake will impact Taiwan, and thus a tsunami warning has been issued. People in coastal areas should be alerted to pay attention to the harm caused by sudden rises of waves.",
+		"TsunamiEarthquakeBody": "At {0}, a magnitude {2:F1} earthquake occurred in {1}.",
 		"TsunamiForecast": "The following areas are estimated to have a tsunami height of {0}.",
 		"TsunamiForecastArea": "{0}. Estimated arrival time {1:HH:mm}.",
 		"TsunamiObservation": "Currently, the tsunami heights observed per area are as follows.",
@@ -15,7 +20,8 @@
 				"地震報告": "Earthquake report",
 				"海嘯消息": "Tsunami message",
 				"海嘯警報": "Tsunami warning",
-				"海嘯警報解除": "Tsunami warning lifted"
+				"海嘯警報解除": "Tsunami warning lifted",
+				"海嘯警訊": "Tsunami warning information"
 			}
 		},
 		"TsunamiForecastArea": {
