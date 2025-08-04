@@ -1,0 +1,10 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"AuthorityName": "KMA",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "最大烈度",
+		"Title": "地震信息",
+		"Unknown": "不明"
+	}
+}

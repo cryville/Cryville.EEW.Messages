@@ -1,0 +1,10 @@
+{
+	"Culture": "yue-HK",
+	"Strings": {
+		"AuthorityName": "KMA",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "最大烈度",
+		"Title": "地震資訊",
+		"Unknown": "不明"
+	}
+}

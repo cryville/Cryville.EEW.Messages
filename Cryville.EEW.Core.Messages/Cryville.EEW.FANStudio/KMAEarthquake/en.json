@@ -1,0 +1,10 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AuthorityName": "KMA",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "Max intensity",
+		"Title": "Earthquake information",
+		"Unknown": "Unknown"
+	}
+}

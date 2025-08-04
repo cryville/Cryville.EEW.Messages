@@ -1,0 +1,8 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"Body": "Earthquake information. At {0:HH:mm:ss 'on' MMM dd yyyy}, a magnitude {2} earthquake occurred in {1}. Max intensity {3}.",
+		"Unknown": "unknown",
+		"Title": "Earthquake information"
+	}
+}

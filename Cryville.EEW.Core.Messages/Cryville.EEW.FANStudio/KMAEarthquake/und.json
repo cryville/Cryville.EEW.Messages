@@ -1,0 +1,10 @@
+{
+	"Culture": "ko-KR",
+	"Strings": {
+		"AuthorityName": "KMA",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "최대진도",
+		"Title": "지진정보",
+		"Unknown": "불명"
+	}
+}
