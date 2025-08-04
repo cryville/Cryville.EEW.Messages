@@ -38,6 +38,7 @@
 	<string name="event_sources_fan_studio_cenc">中國地震臺網地震資訊</string>
 	<string name="event_sources_fan_studio_fujian">福建省地震局地震預警</string>
 	<string name="event_sources_fan_studio_hko">香港天文臺地震報告</string>
+	<string name="event_sources_fan_studio_kma">韓國氣象廳地震資訊</string>
 	<string name="event_sources_fan_studio_ningxia">寧夏回族自治區地震局地震資訊</string>
 	<string name="event_sources_fan_studio_sa">ShakeAlert地震預警</string>
 	<string name="event_sources_fan_studio_sichuan">四川省地震局地震預警</string>
