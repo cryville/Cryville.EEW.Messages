@@ -15,10 +15,10 @@
 	"StringSets": {
 		"ContoursName": {
 			"Strings": {
-				"cont_mi": "等烈度綫",
-				"cont_mmi": "等烈度綫",
-				"cont_pga": "等最大地面加速度綫",
-				"cont_pgv": "等最大地面速度綫"
+				"cont_mi": "等震綫",
+				"cont_mmi": "等震綫",
+				"cont_pga": "等PGA綫",
+				"cont_pgv": "等PGV綫"
 			}
 		},
 		"ContoursPropertyName": {
