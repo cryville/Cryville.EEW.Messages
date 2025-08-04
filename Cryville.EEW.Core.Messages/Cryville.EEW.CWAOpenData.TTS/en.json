@@ -30,6 +30,8 @@
 		},
 		"TsunamiForecastWaveHeight": {
 			"Strings": {
+				"小於0.3公尺": "less than 0.3 meter",
+				"0.3至1公尺": "0.3 to 1 meter",
 				"小於1公尺": "less than 1 meter",
 				"1至3公尺": "1 to 3 meters",
 				"3至6公尺": "3 to 6 meters",
