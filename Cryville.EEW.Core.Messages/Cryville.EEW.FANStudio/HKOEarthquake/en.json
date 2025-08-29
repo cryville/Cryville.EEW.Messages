@@ -1,7 +1,7 @@
 {
 	"Culture": "en-US",
 	"Strings": {
-		"AuthorityName": "Hong Kong Observatory",
+		"AuthorityName": "HKO",
 		"PropertyDepth": "Depth",
 		"PropertyDepthValue": "{0}km",
 		"PropertyMagnitude": "M",

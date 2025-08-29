@@ -1,7 +1,7 @@
 {
 	"Culture": "zh-TW",
 	"Strings": {
-		"AuthorityName": "香港天文臺",
+		"AuthorityName": "HKO",
 		"PropertyDepth": "深度",
 		"PropertyDepthValue": "{0}km",
 		"PropertyMagnitude": "M",
