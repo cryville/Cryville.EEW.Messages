@@ -2,6 +2,8 @@
 	"Culture": "ko-KR",
 	"Strings": {
 		"AuthorityName": "KMA",
+		"PropertyDepth": "깊이",
+		"PropertyDepthValue": "{0}km",
 		"PropertyMagnitude": "M",
 		"PropertyMaxIntensity": "최대진도",
 		"Title": "지진정보",

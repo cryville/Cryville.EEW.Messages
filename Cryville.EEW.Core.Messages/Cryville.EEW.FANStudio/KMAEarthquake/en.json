@@ -2,6 +2,8 @@
 	"Culture": "en-US",
 	"Strings": {
 		"AuthorityName": "KMA",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
 		"PropertyMagnitude": "M",
 		"PropertyMaxIntensity": "Max intensity",
 		"Title": "Earthquake information",

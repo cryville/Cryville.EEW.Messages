@@ -1,7 +1,9 @@
 {
 	"Culture": "ko-KR",
 	"Strings": {
-		"Body": "지진정보. {0:yyyy년 M월 d일 tt h시 m분 s초}, {1}에서 규모 {2}의 지진이 발생했습니다. 최대진도 {3}.",
+		"Body": "지진정보. {0:yyyy년 M월 d일 tt h시 m분 s초}, {1}에서 규모 {2}의 지진이 발생했습니다.",
+		"Depth": " 발생깊이 {0}킬로미터.",
+		"MaxIntensity": " 최대진도 {0}.",
 		"Unknown": "불명",
 		"Title": "지진정보"
 	}

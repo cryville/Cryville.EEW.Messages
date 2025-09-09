@@ -1,7 +1,9 @@
 {
 	"Culture": "yue-HK",
 	"Strings": {
-		"Body": "地震資訊。{0:yyyy年M月d號H點m分s秒}，{1}發生震級{2}級地震。最大烈度{3}。",
+		"Body": "地震資訊。{0:yyyy年M月d號H點m分s秒}，{1}發生震級{2}級地震。",
+		"Depth": "震源深度{0}公里。",
+		"MaxIntensity": "最大烈度{0}。",
 		"Unknown": "不明",
 		"Title": "地震資訊"
 	}

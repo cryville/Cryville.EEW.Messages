@@ -1,7 +1,9 @@
 {
 	"Culture": "zh-TW",
 	"Strings": {
-		"Body": "地震資訊。{0:yyyy年M月d日HH:mm:ss}，{1}發生規模{2}級地震。最大震度{3}。",
+		"Body": "地震資訊。{0:yyyy年M月d日HH:mm:ss}，{1}發生規模{2}級地震。",
+		"Depth": "震源深度{0}公里。",
+		"MaxIntensity": "最大震度{0}。",
 		"Unknown": "不明",
 		"Title": "地震資訊"
 	}
