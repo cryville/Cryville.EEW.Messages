@@ -9,6 +9,8 @@
 		"PropertyMagnitude": "M",
 		"PropertyMagnitudeValueUnknown": "不明",
 		"PropertyMaxIntensity": "最大震度",
+		"PropertyQualityValueLevel": "レベル法による予報",
+		"PropertyQualityValuePLUM": "PLUM 法による予報",
 		"StatusDrilling": "{0}（訓練）",
 		"StatusTesting": "{0}（試験）",
 		"Title": "緊急地震速報",

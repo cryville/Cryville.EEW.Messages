@@ -9,6 +9,8 @@
 		"PropertyMagnitude": "M",
 		"PropertyMagnitudeValueUnknown": "Unknown",
 		"PropertyMaxIntensity": "Max intensity",
+		"PropertyQualityValueLevel": "Forecast by the level method",
+		"PropertyQualityValuePLUM": "Forecast by the PLUM method",
 		"StatusDrilling": "{0} (Drilling)",
 		"StatusTesting": "{0} (Testing)",
 		"Title": "Earthquake early warning",

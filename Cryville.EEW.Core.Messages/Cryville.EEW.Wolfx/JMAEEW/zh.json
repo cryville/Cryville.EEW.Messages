@@ -9,6 +9,8 @@
 		"PropertyMagnitude": "M",
 		"PropertyMagnitudeValueUnknown": "不明",
 		"PropertyMaxIntensity": "最大震度",
+		"PropertyQualityValueLevel": "基于水平法的预报",
+		"PropertyQualityValuePLUM": "基于 PLUM 法的预报",
 		"StatusDrilling": "{0}（训练）",
 		"StatusTesting": "{0}（测试）",
 		"Title": "紧急地震速报",
