@@ -2,6 +2,7 @@
 	"Culture": "yue-HK",
 	"Strings": {
 		"Body": "{0}發生震級{1}級地震。",
+		"BodyNoMagnitude": "{0}發生地震。",
 		"Title": "地震預警。"
 	}
 }

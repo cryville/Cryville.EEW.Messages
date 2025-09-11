@@ -2,6 +2,7 @@
 	"Culture": "en-US",
 	"Strings": {
 		"Body": "Earthquake in {0}. Magnitude {1}.",
+		"BodyNoMagnitude": "Earthquake in {0}.",
 		"Title": "Earthquake warning. "
 	}
 }

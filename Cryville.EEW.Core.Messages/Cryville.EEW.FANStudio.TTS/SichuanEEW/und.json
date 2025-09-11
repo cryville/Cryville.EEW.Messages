@@ -1,7 +1,8 @@
 {
 	"Culture": "zh-CN",
 	"Strings": {
-		"Body": "{0}发生震级{1}级地震。最大烈度{2}。",
+		"Body": "{0}发生震级{1}级地震。",
+		"MaxIntensity": "最大烈度{0}。",
 		"Revision": "第{0}报。",
 		"Title": "地震预警。"
 	}

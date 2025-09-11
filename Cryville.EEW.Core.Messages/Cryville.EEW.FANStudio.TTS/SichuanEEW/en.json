@@ -1,7 +1,8 @@
 {
 	"Culture": "en-US",
 	"Strings": {
-		"Body": "Earthquake in {0}. Magnitude {1}. Max intensity {2}.",
+		"Body": "Earthquake in {0}. Magnitude {1}.",
+		"MaxIntensity": " Max intensity {0}.",
 		"Revision": "Revision {0}. ",
 		"Title": "Earthquake warning. "
 	}

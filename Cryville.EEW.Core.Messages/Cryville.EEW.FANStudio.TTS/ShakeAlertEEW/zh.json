@@ -2,6 +2,7 @@
 	"Culture": "zh-CN",
 	"Strings": {
 		"Body": "{0}发生震级{1}级地震。",
+		"BodyNoMagnitude": "{0}发生地震。",
 		"Title": "地震预警。"
 	}
 }
