@@ -8,6 +8,7 @@
 		"SourceNameTypes": {
 			"Strings": {
 				"CENCEarthquake": "CENC earthquake information",
+				"CENCEEW": "CENC EEW",
 				"CWAEEW": "CWA (Taiwan) EEW",
 				"FujianEEW": "FEA (Fujian) EEW",
 				"JMAEEW": "JMA (Japan) EEW",

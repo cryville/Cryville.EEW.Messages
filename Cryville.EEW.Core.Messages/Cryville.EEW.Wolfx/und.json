@@ -8,6 +8,7 @@
 		"SourceNameTypes": {
 			"Strings": {
 				"CENCEarthquake": "中国地震台网地震信息",
+				"CENCEEW": "中国地震台网地震预警",
 				"CWAEEW": "台湾中央气象署地震预警",
 				"FujianEEW": "福建省地震局地震预警",
 				"JMAEEW": "日本气象厅紧急地震速报",
