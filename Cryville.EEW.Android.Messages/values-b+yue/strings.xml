@@ -125,6 +125,7 @@
 	<string name="notification_worker_name">監測</string>
 	<string name="notification_worker_title">正在監測事件</string>
 	<string name="report_error">報告</string>
+	<string name="report_error_new_version">揾到咗新版本 {0}。建議更新應用確認呢嘅錯誤係唔係已經被修復咗。</string>
 	<string name="setting_auto">呢條係自動設置，唔可以手動切換</string>
 	<string name="settings">設置</string>
 	<string name="use_system">（用系統設置）</string>

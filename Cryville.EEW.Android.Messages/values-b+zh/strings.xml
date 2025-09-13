@@ -125,6 +125,7 @@
 	<string name="notification_worker_name">监测</string>
 	<string name="notification_worker_title">正在监测事件</string>
 	<string name="report_error">报告</string>
+	<string name="report_error_new_version">发现新版本 {0}。建议更新应用确认该错误是否已被修复。</string>
 	<string name="setting_auto">本项为自动设置，无法手动切换</string>
 	<string name="settings">设置</string>
 	<string name="use_system">（使用系统设置）</string>
