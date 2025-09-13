@@ -35,6 +35,7 @@
 	<string name="event_sources_fan_studio">FAN Studio API</string>
 	<string name="event_sources_fan_studio_beijing">北京市地震局地震資訊</string>
 	<string name="event_sources_fan_studio_cea">中國地震預警網地震預警</string>
+	<string name="event_sources_fan_studio_cea_pr">中國地震預警網各省級網地震預警</string>
 	<string name="event_sources_fan_studio_cenc">中國地震台網地震資訊</string>
 	<string name="event_sources_fan_studio_fujian">福建省地震局地震預警</string>
 	<string name="event_sources_fan_studio_hko">香港天文台地震報告</string>

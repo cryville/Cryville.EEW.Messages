@@ -35,6 +35,7 @@
 	<string name="event_sources_fan_studio">FAN Studio API</string>
 	<string name="event_sources_fan_studio_beijing">BEA (Beijing) earthquake information</string>
 	<string name="event_sources_fan_studio_cea">CEA EEW</string>
+	<string name="event_sources_fan_studio_cea_pr">CEA provincial-level EEW</string>
 	<string name="event_sources_fan_studio_cenc">CENC earthquake information</string>
 	<string name="event_sources_fan_studio_fujian">FEA (Fujian) EEW</string>
 	<string name="event_sources_fan_studio_hko">HKO earthquake report</string>
