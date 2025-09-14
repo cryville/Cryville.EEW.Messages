@@ -11,6 +11,7 @@
 	<string name="connection_status_disconnected_desc_reconnecting">与事件源断开连接。正在重新连接。</string>
 	<string name="connection_status_exited">异常终止</string>
 	<string name="connection_status_exited_desc">事件源连接因发生重大错误而终止。</string>
+	<string name="connection_status_exited_desc_client">事件源连接因发生重大错误而终止。该错误很可能是由于错误的配置导致的。请检查您的设置。</string>
 	<string name="connection_status_error">{0}个错误</string>
 	<string name="connection_status_idle">空闲</string>
 	<string name="connection_status_idle_desc">事件源连接未启动</string>

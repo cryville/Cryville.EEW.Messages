@@ -11,6 +11,7 @@
 	<string name="connection_status_disconnected_desc_reconnecting">Disconnected from the event source. Reconnecting.</string>
 	<string name="connection_status_exited">Exited</string>
 	<string name="connection_status_exited_desc">The connection to the event source has stopped due to a critical error.</string>
+	<string name="connection_status_exited_desc_client">The connection to the event source has stopped due to a critical error. This error is considered to be caused by incorrect configuration. Please check your settings.</string>
 	<string name="connection_status_error">{0} error(s)</string>
 	<string name="connection_status_idle">Idle</string>
 	<string name="connection_status_idle_desc">The connection to the event source is not started</string>

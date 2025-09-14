@@ -11,6 +11,7 @@
 	<string name="connection_status_disconnected_desc_reconnecting">與事件源斷開連接。正在重新連接。</string>
 	<string name="connection_status_exited">異常終止</string>
 	<string name="connection_status_exited_desc">事件源連接因發生重大錯誤而終止。</string>
+	<string name="connection_status_exited_desc_client">事件源連接因發生重大錯誤而終止。呢個錯誤好可能係由於錯誤嘅配置導致嘅。請檢查您嘅設置。</string>
 	<string name="connection_status_error">{0}個錯誤</string>
 	<string name="connection_status_idle">空閑</string>
 	<string name="connection_status_idle_desc">事件源連接未啓動</string>
