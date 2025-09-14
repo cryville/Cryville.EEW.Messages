@@ -2,6 +2,7 @@
 	"Culture": "en-US",
 	"Strings": {
 		"AuthorityName": "GlobalQuake",
+		"ErrorInvalidServer": "The server connected is not a GlobalQuakeServer.",
 		"PropertyDepth": "Depth",
 		"PropertyDepthValue": "{0}km",
 		"PropertyMagnitude": "M",

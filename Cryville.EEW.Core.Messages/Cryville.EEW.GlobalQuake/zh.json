@@ -2,6 +2,7 @@
 	"Culture": "zh-CN",
 	"Strings": {
 		"AuthorityName": "GlobalQuake",
+		"ErrorInvalidServer": "连接到的服务器不是一个 GlobalQuakeServer。",
 		"PropertyDepth": "深度",
 		"PropertyDepthValue": "{0}km",
 		"PropertyMagnitude": "M",

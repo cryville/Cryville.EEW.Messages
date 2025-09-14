@@ -2,6 +2,7 @@
 	"Culture": "yue-HK",
 	"Strings": {
 		"AuthorityName": "GlobalQuake",
+		"ErrorInvalidServer": "連接到嘅服務器唔係一個 GlobalQuakeServer。",
 		"PropertyDepth": "深度",
 		"PropertyDepthValue": "{0}km",
 		"PropertyMagnitude": "M",
