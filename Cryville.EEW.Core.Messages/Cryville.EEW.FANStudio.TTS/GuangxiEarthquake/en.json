@@ -1,0 +1,7 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"Body": "Earthquake information. At {0}, a magnitude {2:F1} earthquake occurred in {1}. Hypocenter depth {3} kilometers.",
+		"Title": "Earthquake information"
+	}
+}

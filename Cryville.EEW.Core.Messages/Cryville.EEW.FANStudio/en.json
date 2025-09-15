@@ -13,12 +13,14 @@
 				"CENCEarthquake": "CENC earthquake information",
 				"CMAWeatherAlarm": "CMA weather alarm",
 				"FujianEEW": "FEA (Fujian) EEW",
+				"GuangxiEarthquake": "GXEA (Guangxi) earthquake information",
 				"HKOEarthquake": "HKO earthquake report",
 				"ICLEEW": "ICL EEW",
 				"KMAEarthquake": "KMA earthquake information",
 				"NingxiaEarthquake": "EANHAR (Ningxia) earthquake information",
 				"NMEFCTsunamiWarning": "NMEFC tsunami warning",
 				"ShakeAlertEEW": "ShakeAlert EEW",
+				"ShanxiEarthquake": "SEA (Shanxi) earthquake information",
 				"SichuanEEW": "SEA (Sichuan) EEW",
 				"USGSEarthquake": "USGS earthquake information"
 			}

@@ -1,0 +1,10 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"AuthorityName": "山西省地震局",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"Title": "地震信息"
+	}
+}
