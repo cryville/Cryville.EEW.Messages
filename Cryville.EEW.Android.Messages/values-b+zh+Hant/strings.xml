@@ -34,11 +34,14 @@
 	<string name="event_sources_emsc">歐洲與地中海地震中心</string>
 	<string name="event_sources_enabled">啟用</string>
 	<string name="event_sources_fan_studio">FAN Studio API</string>
+	<string name="event_sources_fan_studio_bcsf">法國中央地震局地震資訊</string>
 	<string name="event_sources_fan_studio_beijing">北京市地震局地震資訊</string>
 	<string name="event_sources_fan_studio_cea">中國地震預警網地震預警</string>
 	<string name="event_sources_fan_studio_cea_pr">中國地震預警網各省級網地震預警</string>
 	<string name="event_sources_fan_studio_cenc">中國地震臺網地震資訊</string>
+	<string name="event_sources_fan_studio_emsc">歐洲與地中海地震中心地震資訊</string>
 	<string name="event_sources_fan_studio_fujian">福建省地震局地震預警</string>
+	<string name="event_sources_fan_studio_gfz">德國地球科學研究中心地震資訊</string>
 	<string name="event_sources_fan_studio_guangxi">廣西壯族自治區地震局地震資訊</string>
 	<string name="event_sources_fan_studio_hko">香港天文臺地震報告</string>
 	<string name="event_sources_fan_studio_kma">韓國氣象廳地震資訊</string>
@@ -47,6 +50,7 @@
 	<string name="event_sources_fan_studio_shanxi">山西省地震局地震資訊</string>
 	<string name="event_sources_fan_studio_sichuan">四川省地震局地震預警</string>
 	<string name="event_sources_fan_studio_sources">事件源</string>
+	<string name="event_sources_fan_studio_usp">巴西聖保羅大學地震資訊</string>
 	<string name="event_sources_geonet">GeoNet</string>
 	<string name="event_sources_geonet_history">完整歷史</string>
 	<string name="event_sources_geonet_mmi">最小震度</string>

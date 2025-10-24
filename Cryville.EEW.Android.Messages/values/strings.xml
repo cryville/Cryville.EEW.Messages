@@ -34,11 +34,14 @@
 	<string name="event_sources_emsc">EMSC</string>
 	<string name="event_sources_enabled">Enabled</string>
 	<string name="event_sources_fan_studio">FAN Studio API</string>
+	<string name="event_sources_fan_studio_bcsf">BCSF earthquake information</string>
 	<string name="event_sources_fan_studio_beijing">BEA (Beijing) earthquake information</string>
 	<string name="event_sources_fan_studio_cea">CEA EEW</string>
 	<string name="event_sources_fan_studio_cea_pr">CEA provincial-level EEW</string>
 	<string name="event_sources_fan_studio_cenc">CENC earthquake information</string>
+	<string name="event_sources_fan_studio_emsc">EMSC earthquake information</string>
 	<string name="event_sources_fan_studio_fujian">FEA (Fujian) EEW</string>
+	<string name="event_sources_fan_studio_gfz">GFZ earthquake information</string>
 	<string name="event_sources_fan_studio_guangxi">GXEA (Guangxi) earthquake information</string>
 	<string name="event_sources_fan_studio_hko">HKO earthquake report</string>
 	<string name="event_sources_fan_studio_kma">KMA earthquake information</string>
@@ -47,6 +50,7 @@
 	<string name="event_sources_fan_studio_shanxi">SEA (Shanxi) earthquake information</string>
 	<string name="event_sources_fan_studio_sichuan">SEA (Sichuan) EEW</string>
 	<string name="event_sources_fan_studio_sources">Sources</string>
+	<string name="event_sources_fan_studio_usp">USP earthquake information</string>
 	<string name="event_sources_geonet">GeoNet</string>
 	<string name="event_sources_geonet_history">Full history</string>
 	<string name="event_sources_geonet_mmi">Minimum MMI</string>
