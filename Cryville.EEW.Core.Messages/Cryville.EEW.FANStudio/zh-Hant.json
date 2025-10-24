@@ -7,12 +7,15 @@
 	"StringSets": {
 		"SourceNameTypes": {
 			"Strings": {
+				"BCSFEarthquake": "法國中央地震局地震資訊",
 				"BeijingEarthquake": "北京市地震局地震資訊",
 				"CEAEEW": "中國地震預警網地震預警",
 				"CEAProvinceEEW": "中國地震預警網各省級網地震預警",
 				"CENCEarthquake": "中國地震臺網地震資訊",
 				"CMAWeatherAlarm": "中國氣象局氣象預警",
+				"EMSCEarthquake": "歐洲與地中海地震中心地震資訊",
 				"FujianEEW": "福建省地震局地震預警",
+				"GFZEarthquake": "德國地球科學研究中心地震資訊",
 				"GuangxiEarthquake": "廣西壯族自治區地震局地震資訊",
 				"HKOEarthquake": "香港天文臺地震報告",
 				"ICLEEW": "成都高新防災減災研究所地震預警",
@@ -22,7 +25,8 @@
 				"ShakeAlertEEW": "ShakeAlert地震預警",
 				"ShanxiEarthquake": "山西省地震局地震資訊",
 				"SichuanEEW": "四川省地震局地震預警",
-				"USGSEarthquake": "美國地質調查局地震資訊"
+				"USGSEarthquake": "美國地質調查局地震資訊",
+				"USPEarthquake": "巴西聖保羅大學地震資訊"
 			}
 		}
 	}

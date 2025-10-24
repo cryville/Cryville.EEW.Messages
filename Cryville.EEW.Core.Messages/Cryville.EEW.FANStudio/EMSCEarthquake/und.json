@@ -1,0 +1,10 @@
+{
+	"Culture": "en-GB",
+	"Strings": {
+		"AuthorityName": "EMSC",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"Title": "Earthquake information"
+	}
+}

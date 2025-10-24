@@ -7,12 +7,15 @@
 	"StringSets": {
 		"SourceNameTypes": {
 			"Strings": {
+				"BCSFEarthquake": "BCSF earthquake information",
 				"BeijingEarthquake": "BEA (Beijing) earthquake information",
 				"CEAEEW": "CEA EEW",
 				"CEAProvinceEEW": "CEA provincial-level EEW",
 				"CENCEarthquake": "CENC earthquake information",
 				"CMAWeatherAlarm": "CMA weather alarm",
+				"EMSCEarthquake": "EMSC earthquake information",
 				"FujianEEW": "FEA (Fujian) EEW",
+				"GFZEarthquake": "GFZ earthquake information",
 				"GuangxiEarthquake": "GXEA (Guangxi) earthquake information",
 				"HKOEarthquake": "HKO earthquake report",
 				"ICLEEW": "ICL EEW",
@@ -22,7 +25,8 @@
 				"ShakeAlertEEW": "ShakeAlert EEW",
 				"ShanxiEarthquake": "SEA (Shanxi) earthquake information",
 				"SichuanEEW": "SEA (Sichuan) EEW",
-				"USGSEarthquake": "USGS earthquake information"
+				"USGSEarthquake": "USGS earthquake information",
+				"USPEarthquake": "USP earthquake information"
 			}
 		}
 	}
