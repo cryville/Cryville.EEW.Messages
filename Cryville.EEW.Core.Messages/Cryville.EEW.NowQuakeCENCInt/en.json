@@ -1,0 +1,12 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AuthorityName": "CENC",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "Max intensity",
+		"Title": "Intensity information",
+		"SourceName": "NowQuake CENC Intensity information API"
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Culture": "zh-TW",
+	"Strings": {
+		"AuthorityName": "CENC",
+		"PropertyDepth": "深度",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "最大震度",
+		"Title": "震度速報",
+		"SourceName": "NowQuake CENC震度速報API"
+	}
+}
