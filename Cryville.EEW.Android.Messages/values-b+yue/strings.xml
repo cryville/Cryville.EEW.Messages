@@ -84,6 +84,7 @@
 	<string name="event_sources_noaa">美國國家海洋及大氣管理局</string>
 	<string name="event_sources_noaa_ntwc">國家海嘯警報中心海嘯警報</string>
 	<string name="event_sources_noaa_ptwc">太平洋海嘯警報中心海嘯警報</string>
+	<string name="event_sources_nowquake_cencint">NowQuake CENC烈度速報API</string>
 	<string name="event_sources_others">其它</string>
 	<string name="event_sources_usgs">美國地質調查局</string>
 	<string name="event_sources_usgs_feed">推送</string>
