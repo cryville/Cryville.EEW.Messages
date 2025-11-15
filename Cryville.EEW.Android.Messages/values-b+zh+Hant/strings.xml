@@ -40,6 +40,7 @@
 	<string name="event_sources_fan_studio_cea_pr">中國地震預警網各省級網地震預警</string>
 	<string name="event_sources_fan_studio_cenc">中國地震臺網地震資訊</string>
 	<string name="event_sources_fan_studio_emsc">歐洲與地中海地震中心地震資訊</string>
+	<string name="event_sources_fan_studio_fssn">FSSN地震資訊</string>
 	<string name="event_sources_fan_studio_fujian">福建省地震局地震預警</string>
 	<string name="event_sources_fan_studio_gfz">德國地球科學研究中心地震資訊</string>
 	<string name="event_sources_fan_studio_guangxi">廣西壯族自治區地震局地震資訊</string>
