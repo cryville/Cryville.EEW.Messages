@@ -1,0 +1,10 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AuthorityName": "FSSN",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"Title": "Earthquake information"
+	}
+}
