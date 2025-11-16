@@ -133,6 +133,9 @@
 	<string name="map_poi_continuous_color_desc">Color elements by additional parameters (if any)</string>
 	<string name="map_poi_shindo_area">Shindo per area</string>
 	<string name="map_poi_shindo_station">Shindo per station</string>
+	<string name="map_tile_source">Tile source</string>
+	<string name="map_tile_source_arcgis">Default (ArcGIS)</string>
+	<string name="map_tile_source_fan_studio">Backup (FAN Studio)</string>
 	<string name="notification_worker_name">Worker</string>
 	<string name="notification_worker_title">Monitoring events</string>
 	<string name="report_error">Report</string>

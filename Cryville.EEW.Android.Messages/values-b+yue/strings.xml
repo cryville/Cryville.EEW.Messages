@@ -133,6 +133,9 @@
 	<string name="map_poi_continuous_color_desc">根據附加嘅參數區別元素之間嘅顏色（有嘅話）</string>
 	<string name="map_poi_shindo_area">各地區震度</string>
 	<string name="map_poi_shindo_station">各觀測點震度</string>
+	<string name="map_tile_source">圖塊源</string>
+	<string name="map_tile_source_arcgis">默認（ArcGIS）</string>
+	<string name="map_tile_source_fan_studio">備用（FAN Studio）</string>
 	<string name="notification_worker_name">監測</string>
 	<string name="notification_worker_title">正在監測事件</string>
 	<string name="report_error">報告</string>
