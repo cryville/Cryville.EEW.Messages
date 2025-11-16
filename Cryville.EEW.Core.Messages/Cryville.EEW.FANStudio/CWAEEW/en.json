@@ -1,0 +1,12 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AuthorityName": "CWA",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyMaxIntensity": "Max intensity",
+		"Title": "Earthquake warning",
+		"TitleCancellation": "Earthquake warning (Cancellation)"
+	}
+}
