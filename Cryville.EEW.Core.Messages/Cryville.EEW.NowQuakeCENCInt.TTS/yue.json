@@ -1,7 +1,8 @@
 {
 	"Culture": "yue-HK",
 	"Strings": {
-		"Headline": "{0}，{1}發生震級{2:F1}級地震。",
+		"DefaultType": "地震",
+		"Headline": "{0}，{1}發生震級{2:F1}級{3}。",
 		"HeadlineDepth": "震源深度{0}公里。",
 		"Intensity": "烈度",
 		"IntensityArea": "觀測到{0}{1}嘅地區有：{2}。",

@@ -1,0 +1,14 @@
+{
+	"Culture": "yue-HK",
+	"StringSets": {
+		"LocationAffixes": {
+			"Strings": {
+				"Collapse": "塌陷",
+				"Explosion": "爆破",
+				"Mining": "礦震",
+				"Separator": "、",
+				"Suspected": "疑似{0}"
+			}
+		}
+	}
+}

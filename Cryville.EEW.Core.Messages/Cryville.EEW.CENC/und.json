@@ -1,0 +1,14 @@
+{
+	"Culture": "zh-CN",
+	"StringSets": {
+		"LocationAffixes": {
+			"Strings": {
+				"Collapse": "塌陷",
+				"Explosion": "爆破",
+				"Mining": "矿震",
+				"Separator": "、",
+				"Suspected": "疑似{0}"
+			}
+		}
+	}
+}

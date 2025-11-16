@@ -1,7 +1,8 @@
 {
 	"Culture": "yue-HK",
 	"Strings": {
-		"Body": "地震資訊。{4}。{0}，{1}發生震級{2:F1}級地震。震源深度{3}公里。",
+		"Body": "地震資訊。{4}。{0}，{1}發生震級{2:F1}級{5}。震源深度{3}公里。",
+		"DefaultType": "地震",
 		"Title": "地震資訊",
 		"TypeAutomatic": "自動測定",
 		"TypeReviewed": "正式測定"

@@ -1,7 +1,8 @@
 {
 	"Culture": "zh-CN",
 	"Strings": {
-		"Body": "地震信息。{4}。{0}，{1}发生震级{2:F1}级地震。震源深度{3}千米。",
+		"Body": "地震信息。{4}。{0}，{1}发生震级{2:F1}级{5}。震源深度{3}千米。",
+		"DefaultType": "地震",
 		"Title": "地震信息",
 		"TypeAutomatic": "自动测定",
 		"TypeReviewed": "正式测定"

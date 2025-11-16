@@ -1,7 +1,8 @@
 {
 	"Culture": "zh-CN",
 	"Strings": {
-		"Headline": "{0}，{1}发生震级{2:F1}级地震。",
+		"DefaultType": "地震",
+		"Headline": "{0}，{1}发生震级{2:F1}级{3}。",
 		"HeadlineDepth": "震源深度{0}千米。",
 		"Intensity": "烈度",
 		"IntensityArea": "观测到{0}{1}的地区有：{2}。",

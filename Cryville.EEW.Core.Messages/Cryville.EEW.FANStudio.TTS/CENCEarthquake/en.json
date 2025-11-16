@@ -1,7 +1,8 @@
 {
 	"Culture": "en-US",
 	"Strings": {
-		"Body": "Earthquake information. {4}. At {0}, a magnitude {2:F1} earthquake occurred in {1}. Hypocenter depth {3} kilometers.",
+		"Body": "Earthquake information. {4}. At {0}, a magnitude {2:F1} {5} occurred in {1}. Hypocenter depth {3} kilometers.",
+		"DefaultType": "earthquake",
 		"Title": "Earthquake information",
 		"TypeAutomatic": "Automatic",
 		"TypeReviewed": "Reviewed"

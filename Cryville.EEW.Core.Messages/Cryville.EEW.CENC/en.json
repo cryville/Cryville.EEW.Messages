@@ -1,0 +1,14 @@
+{
+	"Culture": "en-US",
+	"StringSets": {
+		"LocationAffixes": {
+			"Strings": {
+				"Collapse": "collapse",
+				"Explosion": "explosion",
+				"Mining": "mine blast",
+				"Separator": ", ",
+				"Suspected": "suspected {0}"
+			}
+		}
+	}
+}
