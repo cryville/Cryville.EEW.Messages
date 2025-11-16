@@ -39,6 +39,7 @@
 	<string name="event_sources_fan_studio_cea">中国地震预警网地震预警</string>
 	<string name="event_sources_fan_studio_cea_pr">中国地震预警网各省级网地震预警</string>
 	<string name="event_sources_fan_studio_cenc">中国地震台网地震信息</string>
+	<string name="event_sources_fan_studio_cwa">台湾中央气象署地震预警</string>
 	<string name="event_sources_fan_studio_emsc">欧洲与地中海地震中心地震信息</string>
 	<string name="event_sources_fan_studio_fssn">FSSN地震信息</string>
 	<string name="event_sources_fan_studio_fujian">福建省地震局地震预警</string>
