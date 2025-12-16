@@ -1,0 +1,17 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"AppName": "CysTerra",
+		"EventDetail": "事件详情",
+		"EventInvalidatedReports": "已失效报告",
+		"EventReportDetail": "报告详情",
+		"Events": "事件",
+		"Settings": "设置",
+		"SettingsAbout": "关于",
+		"SettingsEvents": "事件",
+		"SettingsExtensions": "扩展",
+		"SettingsInformation": "信息",
+		"SettingsMap": "地图",
+		"SettingsSound": "声音"
+	}
+}

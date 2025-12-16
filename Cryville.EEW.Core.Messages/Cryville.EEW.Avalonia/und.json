@@ -1,0 +1,17 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AppName": "CysTerra",
+		"EventDetail": "Event Detail",
+		"EventInvalidatedReports": "Invalidated reports",
+		"EventReportDetail": "Report Detail",
+		"Events": "Events",
+		"Settings": "Settings",
+		"SettingsAbout": "About",
+		"SettingsEvents": "Events",
+		"SettingsExtensions": "Extensions",
+		"SettingsInformation": "Information",
+		"SettingsMap": "Map",
+		"SettingsSound": "Sound"
+	}
+}
