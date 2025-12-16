@@ -1,0 +1,295 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"Parentheses": "({0})"
+	},
+	"StringSets": {
+		"HypocenterDepthName": {
+			"Strings": {
+				"": "震源深度",
+				"Wide": "深度"
+			}
+		},
+		"IntensityCSISName": {
+			"Strings": {
+				"": "中国地震烈度表烈度",
+				"Wide": "CSIS烈度",
+				"Medium": "烈度"
+			}
+		},
+		"IntensityCWAName": {
+			"Strings": {
+				"": "交通部中央气象署地震烈度分级烈度",
+				"Wide": "CWA烈度",
+				"Medium": "烈度"
+			}
+		},
+		"IntensityCWANameLiteral": {
+			"Strings": {
+				"": "交通部中央气象署地震震度分级震度",
+				"Wide": "CWA震度",
+				"Medium": "震度"
+			}
+		},
+		"IntensityJMAName": {
+			"Strings": {
+				"": "日本气象厅地震烈度表烈度",
+				"Wide": "JMA烈度",
+				"Medium": "烈度"
+			}
+		},
+		"IntensityJMANameLiteral": {
+			"Strings": {
+				"": "日本气象厅震度阶级震度",
+				"Wide": "JMA震度",
+				"Medium": "震度"
+			}
+		},
+		"IntensityJMALPGMName": {
+			"Strings": {
+				"": "日本气象厅长周期地震动阶级",
+				"Wide": "JMA长\u2060周\u2060期地\u2060震\u2060动阶\u2060级",
+				"Medium": "长\u2060周\u2060期地\u2060震\u2060动阶\u2060级"
+			}
+		},
+		"IntensityMMIName": {
+			"Strings": {
+				"": "修订麦加利地震烈度表烈度",
+				"Wide": "MMI烈度",
+				"Medium": "烈度"
+			}
+		},
+		"IntensitySubdivided": {
+			"StringSets": {
+				"": {
+					"Strings": {
+						"CharacterOffset": "0",
+						"Lower": "{0}弱",
+						"Upper": "{0}强"
+					}
+				},
+				"Narrow": {
+					"Strings": {
+						"CharacterOffset": "0",
+						"Lower": "{0}-",
+						"Upper": "{0}+"
+					}
+				},
+				"Tiny": {
+					"Strings": {
+						"CharacterOffset": "0",
+						"Lower": "{0}˗",
+						"Upper": "{0}˖"
+					}
+				}
+			}
+		},
+		"IntensityCWADefaultAffix": {
+			"Strings": {
+				"": "{0}级",
+				"Narrow": "{0}"
+			}
+		},
+		"IntervalGE": {
+			"Strings": {
+				"": "大于等于 {0}",
+				"Wide": "≥{0}"
+			}
+		},
+		"IntervalGT": {
+			"Strings": {
+				"": "大于 {0}",
+				"Wide": ">{0}"
+			}
+		},
+		"IntervalLE": {
+			"Strings": {
+				"": "小于等于 {0}",
+				"Wide": "≤{0}"
+			}
+		},
+		"IntervalLT": {
+			"Strings": {
+				"": "小于 {0}",
+				"Wide": "<{0}"
+			}
+		},
+		"MagnitudeName": {
+			"StringSets": {
+				"": {
+					"Strings": {
+						"": "震级",
+						"Wide": "M"
+					}
+				},
+				"Magnitude:BodyWave": {
+					"Strings": {
+						"": "体波震级",
+						"Wide": "mB"
+					}
+				},
+				"Magnitude:Duration": {
+					"Strings": {
+						"": "持续时间震级",
+						"Wide": "Md"
+					}
+				},
+				"Magnitude:JMA": {
+					"Strings": {
+						"": "日本气象厅震级",
+						"Wide": "MJMA",
+						"Medium": "Mj"
+					}
+				},
+				"Magnitude:Local": {
+					"Strings": {
+						"": "近震震级",
+						"Wide": "ML"
+					}
+				},
+				"Magnitude:Mantle": {
+					"Strings": {
+						"": "地幔波震级",
+						"Wide": "Mm"
+					}
+				},
+				"Magnitude:Moment": {
+					"Strings": {
+						"": "矩震级",
+						"Wide": "Mw"
+					}
+				},
+				"Magnitude:Richter": {
+					"Strings": {
+						"": "里氏震级",
+						"Wide": "ML"
+					}
+				},
+				"Magnitude:SurfaceWave": {
+					"Strings": {
+						"": "面波震级",
+						"Wide": "Ms"
+					}
+				}
+			}
+		},
+		"PolarityName": {
+			"Strings": {
+				"": "极性"
+			}
+		},
+		"PolarityValuePull": {
+			"Strings": {
+				"": "下拉"
+			}
+		},
+		"PolarityValueNone": {
+			"Strings": {
+				"": "无"
+			}
+		},
+		"PolarityValuePush": {
+			"Strings": {
+				"": "上推"
+			}
+		},
+		"ReportName": {
+			"StringSets": {
+				"": {
+					"Strings": {
+						"": "报告"
+					}
+				},
+				"Report:Estimation": {
+					"Strings": {
+						"": "推测报告",
+						"Wide": "推测"
+					}
+				},
+				"Report:Forecast": {
+					"Strings": {
+						"": "预测报告",
+						"Wide": "预测"
+					}
+				},
+				"Report:Observation": {
+					"Strings": {
+						"": "实测报告",
+						"Wide": "实测"
+					}
+				}
+			}
+		},
+		"SeismicWavePeriodName": {
+			"Strings": {
+				"": "地震波周期",
+				"Wide": "波周期",
+				"Medium": "周期"
+			}
+		},
+		"SvaName": {
+			"Strings": {
+				"": "绝对速度响应谱",
+				"Wide": "Sva"
+			}
+		},
+		"TideName": {
+			"StringSets": {
+				"": {
+					"Strings": {
+						"": "潮汐"
+					}
+				},
+				"Tide:High": {
+					"Strings": {
+						"": "高潮"
+					}
+				}
+			}
+		},
+		"TimeName": {
+			"Strings": {
+				"": "时间",
+				"Medium": ""
+			}
+		},
+		"TimeValuePast": {
+			"Strings": {
+				"": "已经发生"
+			}
+		},
+		"TimeValuePresent": {
+			"Strings": {
+				"": "正在发生"
+			}
+		},
+		"TimeValueFuture": {
+			"Strings": {
+				"": "未发生"
+			}
+		},
+		"TimeValueUnknown": {
+			"Strings": {
+				"": "时间不明"
+			}
+		},
+		"TsunamiArrivalName": {
+			"Strings": {
+				"": "海啸到达",
+				"Medium": "到达"
+			}
+		},
+		"TsunamiHeightName": {
+			"Strings": {
+				"": "海啸高度",
+				"Medium": "高度"
+			}
+		},
+		"Unknown": {
+			"Strings": {
+				"": "不明",
+				"Narrow": "?"
+			}
+		}
+	}
+}

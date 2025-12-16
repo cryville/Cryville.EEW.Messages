@@ -1,0 +1,288 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"IntensityCWADefaultAffix": "{0}",
+		"Parentheses": "({0})"
+	},
+	"StringSets": {
+		"HypocenterDepthName": {
+			"Strings": {
+				"": "Hypocentral depth",
+				"Wide": "Depth"
+			}
+		},
+		"IntensityCSISName": {
+			"Strings": {
+				"": "China seismic intensity scale intensity",
+				"Wide": "CSIS intensity",
+				"Medium": "Intensity",
+				"Tiny": "Int."
+			}
+		},
+		"IntensityCWAName": {
+			"Strings": {
+				"": "Central Weather Administration seismic intensity scale intensity",
+				"Wide": "CWA intensity",
+				"Medium": "Intensity",
+				"Tiny": "Int."
+			}
+		},
+		"IntensityJMAName": {
+			"Strings": {
+				"": "Japan Meteorological Agency seismic intensity scale intensity",
+				"Wide": "JMA intensity",
+				"Medium": "Intensity",
+				"Tiny": "Int."
+			}
+		},
+		"IntensityJMALPGMName": {
+			"Strings": {
+				"": "Japan Meteorological Agency long-period ground motion intensity scale intensity",
+				"Wide": "JMA LPGM intensity",
+				"Medium": "LPGM Intensity",
+				"Tiny": "LPGM Int."
+			}
+		},
+		"IntensityMMIName": {
+			"Strings": {
+				"": "Modified Mercalli intensity scale intensity",
+				"Wide": "MMI intensity",
+				"Medium": "Intensity",
+				"Tiny": "Int."
+			}
+		},
+		"IntensitySubdivided": {
+			"StringSets": {
+				"": {
+					"Strings": {
+						"CharacterOffset": "0",
+						"Lower": "{0} Lower",
+						"Upper": "{0} Upper"
+					}
+				},
+				"Wide": {
+					"Strings": {
+						"CharacterOffset": "0",
+						"Lower": "{0}-",
+						"Upper": "{0}+"
+					}
+				},
+				"Tiny": {
+					"Strings": {
+						"CharacterOffset": "0",
+						"Lower": "{0}˗",
+						"Upper": "{0}˖"
+					}
+				}
+			}
+		},
+		"IntensityCWADefaultAffix": {
+			"Strings": {
+				"": "{0}"
+			}
+		},
+		"IntervalGE": {
+			"Strings": {
+				"": "Greater than or equal to {0}",
+				"Wide": "≥{0}"
+			}
+		},
+		"IntervalGT": {
+			"Strings": {
+				"": "Greater than {0}",
+				"Wide": ">{0}"
+			}
+		},
+		"IntervalLE": {
+			"Strings": {
+				"": "Less than or equal to {0}",
+				"Wide": "≤{0}"
+			}
+		},
+		"IntervalLT": {
+			"Strings": {
+				"": "Less than {0}",
+				"Wide": "<{0}"
+			}
+		},
+		"MagnitudeName": {
+			"StringSets": {
+				"": {
+					"Strings": {
+						"": "Magnitude",
+						"Wide": "M"
+					}
+				},
+				"Magnitude:BodyWave": {
+					"Strings": {
+						"": "Body-wave magnitude",
+						"Wide": "mB"
+					}
+				},
+				"Magnitude:Duration": {
+					"Strings": {
+						"": "Duration magnitude",
+						"Wide": "Md"
+					}
+				},
+				"Magnitude:JMA": {
+					"Strings": {
+						"": "Japan Meteorological Agency magnitude",
+						"Wide": "MJMA",
+						"Medium": "Mj"
+					}
+				},
+				"Magnitude:Local": {
+					"Strings": {
+						"": "Local magnitude",
+						"Wide": "ML"
+					}
+				},
+				"Magnitude:Mantle": {
+					"Strings": {
+						"": "Mantle magnitude",
+						"Wide": "Mm"
+					}
+				},
+				"Magnitude:Moment": {
+					"Strings": {
+						"": "Moment magnitude",
+						"Wide": "Mw"
+					}
+				},
+				"Magnitude:Richter": {
+					"Strings": {
+						"": "Richter magnitude",
+						"Wide": "ML"
+					}
+				},
+				"Magnitude:SurfaceWave": {
+					"Strings": {
+						"": "Surface-wave magnitude",
+						"Wide": "Ms"
+					}
+				}
+			}
+		},
+		"PolarityName": {
+			"Strings": {
+				"": "Polarity"
+			}
+		},
+		"PolarityValuePull": {
+			"Strings": {
+				"": "Pull down",
+				"Wide": "Pull"
+			}
+		},
+		"PolarityValueNone": {
+			"Strings": {
+				"": "None"
+			}
+		},
+		"PolarityValuePush": {
+			"Strings": {
+				"": "Push up",
+				"Wide": "Push"
+			}
+		},
+		"ReportName": {
+			"StringSets": {
+				"": {
+					"Strings": {
+						"": "Report"
+					}
+				},
+				"Report:Estimation": {
+					"Strings": {
+						"": "Estimation report",
+						"Wide": "Estimation"
+					}
+				},
+				"Report:Forecast": {
+					"Strings": {
+						"": "Forecast report",
+						"Wide": "Forecast"
+					}
+				},
+				"Report:Observation": {
+					"Strings": {
+						"": "Observation report",
+						"Wide": "Observation"
+					}
+				}
+			}
+		},
+		"SeismicWavePeriodName": {
+			"Strings": {
+				"": "Seismic wave period",
+				"Wide": "Wave period",
+				"Medium": "Period"
+			}
+		},
+		"SvaName": {
+			"Strings": {
+				"": "Absolute velocity response spectrum",
+				"Wide": "Sva"
+			}
+		},
+		"TideName": {
+			"StringSets": {
+				"": {
+					"Strings": {
+						"": "Tide"
+					}
+				},
+				"Tide:High": {
+					"Strings": {
+						"": "High tide"
+					}
+				}
+			}
+		},
+		"TimeName": {
+			"Strings": {
+				"": "Time",
+				"Medium": ""
+			}
+		},
+		"TimeValuePast": {
+			"Strings": {
+				"": "Already occurred"
+			}
+		},
+		"TimeValuePresent": {
+			"Strings": {
+				"": "Now occurs"
+			}
+		},
+		"TimeValueFuture": {
+			"Strings": {
+				"": "Yet to occur"
+			}
+		},
+		"TimeValueUnknown": {
+			"Strings": {
+				"": "Time unknown"
+			}
+		},
+		"TsunamiArrivalName": {
+			"Strings": {
+				"": "Tsunami arrival",
+				"Medium": "Arrival"
+			}
+		},
+		"TsunamiHeightName": {
+			"Strings": {
+				"": "Tsunami height",
+				"Medium": "Height"
+			}
+		},
+		"Unknown": {
+			"Strings": {
+				"": "Unknown",
+				"Narrow": "?"
+			}
+		}
+	}
+}
