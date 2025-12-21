@@ -285,6 +285,18 @@
 				"Medium": "高度"
 			}
 		},
+		"Uncertainty": {
+			"Strings": {
+				"": "{0}（误差 {1}）",
+				"Wide": "{0}±{1}"
+			}
+		},
+		"UncertaintyLU": {
+			"Strings": {
+				"": "{0}（下误差 {1}，上误差 {2}）",
+				"Wide": "{0}(-{1}/+{2})"
+			}
+		},
 		"Unknown": {
 			"Strings": {
 				"": "不明",

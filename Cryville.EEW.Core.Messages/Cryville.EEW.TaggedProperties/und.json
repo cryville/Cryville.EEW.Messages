@@ -278,6 +278,18 @@
 				"Medium": "Height"
 			}
 		},
+		"Uncertainty": {
+			"Strings": {
+				"": "{0} (uncertainty {1})",
+				"Wide": "{0}±{1}"
+			}
+		},
+		"UncertaintyLU": {
+			"Strings": {
+				"": "{0} (lower uncertainty {1}, upper uncertainty {2})",
+				"Wide": "{0}(-{1}/+{2})"
+			}
+		},
 		"Unknown": {
 			"Strings": {
 				"": "Unknown",
