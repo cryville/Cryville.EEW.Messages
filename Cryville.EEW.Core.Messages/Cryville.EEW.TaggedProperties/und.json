@@ -39,8 +39,8 @@
 			"Strings": {
 				"": "Japan Meteorological Agency long-period ground motion intensity scale intensity",
 				"Wide": "JMA LPGM intensity",
-				"Medium": "LPGM Intensity",
-				"Tiny": "LPGM Int."
+				"Medium": "LPGM intensity",
+				"Tiny": "LPGM int."
 			}
 		},
 		"IntensityMMIName": {
