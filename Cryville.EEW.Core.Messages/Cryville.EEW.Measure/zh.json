@@ -1,0 +1,36 @@
+{
+	"Culture": "zh-CN",
+	"Strings": {
+		"Tera": "太拉{0}",
+		"TeraShort": "太{0}",
+		"Giga": "吉咖{0}",
+		"GigaShort": "吉{0}",
+		"Mega": "兆{0}",
+		"Kilo": "千{0}",
+		"Hecto": "百{0}",
+		"Deca": "十{0}",
+
+		"Deci": "分{0}",
+		"Centi": "厘{0}",
+		"Milli": "毫{0}",
+		"Micro": "微{0}",
+		"Nano": "纳诺{0}",
+		"NanoShort": "纳{0}",
+
+		"Dimensionless": "",
+		"Second": "秒",
+		"Metre": "米",
+		"Gram": "克",
+		"Ampere": "安培",
+		"AmpereShort": "安",
+		"Kelvin": "开尔文",
+		"KelvinShort": "开",
+		"Mole": "摩尔",
+		"Candela": "坎德拉",
+		"CandelaShort": "坎",
+
+		"DivideFormat": "{0}每{1}",
+		"MultiplyFormat": "{0}{1}",
+		"QuantityFormat": "{0}{1}"
+	}
+}

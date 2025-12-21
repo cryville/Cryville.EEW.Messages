@@ -1,0 +1,31 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"Tera": "tera{0}",
+		"Giga": "giga{0}",
+		"Mega": "mega{0}",
+		"Kilo": "kilo{0}",
+		"Hecto": "hecto{0}",
+		"Deca": "deca{0}",
+
+		"Deci": "deci{0}",
+		"Centi": "centi{0}",
+		"Milli": "milli{0}",
+		"Micro": "micro{0}",
+		"Nano": "nano{0}",
+
+		"Dimensionless": "",
+		"Second": "second",
+		"Metre": "meter",
+		"Gram": "gram",
+		"Ampere": "ampere",
+		"AmpereShort": "amp",
+		"Kelvin": "kelvin",
+		"Mole": "mole",
+		"Candela": "candela",
+
+		"DivideFormat": "{0} per {1}",
+		"MultiplyFormat": "{0}-{1}",
+		"QuantityFormat": "{0}{1}"
+	}
+}
