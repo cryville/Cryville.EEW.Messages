@@ -266,7 +266,9 @@
 						"商丘": "Shangqiu",
 						"信阳": "Xinyang",
 						"周口": "Zhoukou",
-						"驻马店": "Zhumadian"
+						"驻马店": "Zhumadian",
+
+						"济源": "Jiyuan"
 					}
 				},
 				"湖北": {
@@ -283,7 +285,11 @@
 						"黄冈": "Huanggang",
 						"咸宁": "Xianning",
 						"随州": "Suizhou",
-						"恩施": "Enshi"
+						"恩施": "Enshi",
+
+						"仙桃": "Xiantao",
+						"潜江": "Qianjiang",
+						"天门": "Tianmen"
 					}
 				},
 				"湖南": {
@@ -352,7 +358,13 @@
 						"海口": "Haikou",
 						"三亚": "Sanya",
 						"三沙": "Sansha",
-						"儋州": "Danzhou"
+						"儋州": "Danzhou",
+
+						"五指山": "Wuzhishan",
+						"琼海": "Qionghai",
+						"文昌": "Wenchang",
+						"万宁": "Wanning",
+						"东方": "Dongfang"
 					}
 				},
 				"四川": {
@@ -492,7 +504,20 @@
 						"和田": "Hotan",
 						"伊犁": "Ili",
 						"塔城": "Tacheng",
-						"阿勒泰": "Altay"
+						"阿勒泰": "Altay",
+
+						"石河子": "Shihezi",
+						"阿拉尔": "Aral",
+						"图木舒克": "Tumxuk",
+						"五家渠": "Wujiaqu",
+						"北屯": "Beitun",
+						"铁门关": "Tiemenguan",
+						"双河": "Shuanghe",
+						"可克达拉": "Kokdala",
+						"昆玉": "Kunyu",
+						"胡杨河": "Huyanghe",
+						"新星": "Xinxing",
+						"白杨": "Baiyang"
 					}
 				}
 			}
