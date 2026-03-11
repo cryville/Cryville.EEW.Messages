@@ -1,6 +1,8 @@
 {
 	"Culture": "zh-CN",
 	"Strings": {
+		"$ExtensionDesc": "用于处理日本气象厅来源的信息的通用组件。",
+		"$ExtensionName": "JMA通用组件",
 		"IntensitySuffixLower": "弱",
 		"IntensitySuffixUpper": "强",
 		"Unknown": "不明"
