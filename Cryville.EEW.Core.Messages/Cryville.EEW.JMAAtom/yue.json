@@ -1,6 +1,8 @@
 {
 	"Culture": "yue-HK",
 	"Strings": {
+		"$ExtensionDesc": "用於接收及處理日本氣象廳Atom推送來源嘅資訊嘅核心組件。",
+		"$ExtensionName": "JMA Atom事件源組件",
 		"AuthorityName": "JMA",
 		"LocationAggregated": "{0}（+{1}）",
 		"PlumeColorPlume": "有\u2060色噴\u2060煙",
@@ -19,9 +21,36 @@
 		"PropertyPlumeHeightAboveCraterValueNone": "冇噴\u2060煙",
 		"PropertyPlumeHeightAboveCraterValueUnknown": "不明",
 		"ShortItemSeparator": "、",
-		"SourceName": "JMA Atom"
+		"SourceName": "JMA Atom",
+		"PNFilter": "篩選項",
+		"PNIsFilterWhitelist": "白名單模式",
+		"PDIsFilterWhitelist": "接收篩選項中揀定嘅資訊。唔啟用時，接收篩選項中未揀定嘅資訊。"
 	},
 	"StringSets": {
+		"ControlTitle": {
+			"Strings": {
+				"VFVO50": "火山噴發警報、預報",
+				"VFVO51": "關於火山嘅狀況嘅解説資訊",
+				"VFVO52": "關於火山噴發嘅火山觀測報",
+				"VFVO53": "降灰預報（定時）",
+				"VFVO54": "降灰預報（速報）",
+				"VFVO55": "降灰預報（詳細）",
+				"VFVO56": "火山噴發速報",
+				"VFVO60": "推定噴煙流向報",
+				"VTSE41": "海嘯警報、注意報、預報",
+				"VTSE51": "海嘯資訊",
+				"VTSE52": "關於離岸海嘯觀測嘅資訊",
+				"VXSE51": "震度速報",
+				"VXSE52": "關於震源嘅資訊",
+				"VXSE53": "關於震源、震度嘅資訊",
+				"VXSE56": "關於地震嘅活動狀況等嘅資訊",
+				"VXSE60": "關於地震次數嘅資訊",
+				"VXSE61": "顯著地震嘅震源要素更新通知",
+				"VXSE62": "關於長週期地震動嘅觀測資訊",
+				"VYSE50": "南海海槽地震臨時資訊",
+				"VYSE51VYSE52": "南海海槽地震關聯解説資訊"
+			}
+		},
 		"InfoKind": {
 			"Strings": {
 				"": "資訊",

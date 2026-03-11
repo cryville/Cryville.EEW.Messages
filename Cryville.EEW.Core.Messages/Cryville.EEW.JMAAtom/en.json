@@ -1,6 +1,8 @@
 {
 	"Culture": "en-US",
 	"Strings": {
+		"$ExtensionDesc": "Core components for receiving and processing information from Japan Meteorological Agency Atom Feed.",
+		"$ExtensionName": "JMA Atom event source components",
 		"AuthorityName": "JMA",
 		"LocationAggregated": "{0} (+{1})",
 		"PlumeColorPlume": "Colored plume",
@@ -19,9 +21,36 @@
 		"PropertyPlumeHeightAboveCraterValueNone": "No plume",
 		"PropertyPlumeHeightAboveCraterValueUnknown": "Unknown",
 		"ShortItemSeparator": ", ",
-		"SourceName": "JMA Atom"
+		"SourceName": "JMA Atom",
+		"PNFilter": "Filter",
+		"PNIsFilterWhitelist": "Whitelist mode",
+		"PDIsFilterWhitelist": "Receive information selected in the filter. If disabled, receive information not selected in the filter instead."
 	},
 	"StringSets": {
+		"ControlTitle": {
+			"Strings": {
+				"VFVO50": "Volcanic warning and forecast",
+				"VFVO51": "Explanatory information on volcano status",
+				"VFVO52": "Volcano observation information about eruption",
+				"VFVO53": "Volcanic ash fall forecast (scheduled)",
+				"VFVO54": "Volcanic ash fall forecast (preliminary)",
+				"VFVO55": "Volcanic ash fall forecast (detailed)",
+				"VFVO56": "Volcanic eruption notice",
+				"VFVO60": "Estimated plume direction information",
+				"VTSE41": "Tsunami warning / Tsunami advisory",
+				"VTSE51": "Tsunami information",
+				"VTSE52": "Offshore tsunami observation information",
+				"VXSE51": "Seismic intensity information",
+				"VXSE52": "Earthquake information",
+				"VXSE53": "Earthquake and seismic intensity information",
+				"VXSE56": "Earthquake activity information",
+				"VXSE60": "Earthquake count information",
+				"VXSE61": "Significant earthquake hypocenter update notice",
+				"VXSE62": "Long period ground motion observation information",
+				"VYSE50": "Nankai Trough earthquake extra information",
+				"VYSE51VYSE52": "Explanatory information related to Nankai Trough earthquake"
+			}
+		},
 		"InfoKind": {
 			"Strings": {
 				"": "Information",
