@@ -37,15 +37,41 @@
 		"GenericConfirm": "确认",
 		"GenericParenthesesSuffix": "（{0}）",
 		"GenericForwardArrow": "→",
+		"GenericWarning": "警告",
+		"MainVersionNotice": "Demo 演示版",
 		"Settings": "设置",
 		"SettingsAbout": "关于",
+		"SettingsAboutComponents": "应用组件",
+		"SettingsAboutCopyright": "版权所有 © Cryville 2026 | 保留所有权利",
+		"SettingsAboutDemo": "本应用为 CysTerra 共通端的 Demo 版本，仍有部分主要功能尚未完成或完善，仅作为演示。",
+		"SettingsAboutDesc": "从多方事件源获取实时地震、海啸和火山信息",
+		"SettingsAboutLicense": "开源许可证",
+		"SettingsAboutSite": "项目网站",
 		"SettingsExtensions": "扩展",
 		"SettingsExtensionsDragDrop": "将扩展包文件或含有扩展的目录拖拽到此列表中导入",
 		"SettingsExtensionsEmpty": "未导入任何扩展",
 		"SettingsFeatures": "功能",
+		"SettingsFeaturesComponentPropertiesEmpty": "此功能没有额外的设置",
 		"SettingsFeaturesComponentsEmpty": "未配置任何功能\n点击右下角的加号按钮添加",
+		"SettingsFeaturesFeature": "功能",
+		"SettingsFeaturesName": "备注名",
 		"SettingsInformation": "信息",
 		"SettingsMap": "地图",
 		"SettingsSound": "声音"
+	},
+	"StringSets": {
+		"Assembly": {
+			"Strings": {
+				"Cryville.EEW": "接口层核心（Cryville.EEW）",
+				"Cryville.EEW.Core": "应用层核心",
+				"Cryville.EEW.Avalonia": "共通端应用核心",
+				"Cryville.EEW.Avalonia.Windows": "共通端 Windows 版应用",
+				"Cryville.EEW.Features": "接口层事物接口（Cryville.EEW.Features）",
+				"Cryville.EEW.Measure": "通用度量扩展组件（Cryville.EEW.Measure）",
+				"Cryville.EEW.TagTypeKeys": "通用标签类型键（Cryville.EEW.TagTypeKeys）",
+				"Cryville.EEW.TTS": "接口层语音接口（Cryville.EEW.TTS）",
+				"Cryville.Measure": "度量组件（Cryville.Measure）"
+			}
+		}
 	}
 }

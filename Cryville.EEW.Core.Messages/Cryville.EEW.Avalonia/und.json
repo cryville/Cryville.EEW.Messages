@@ -37,15 +37,41 @@
 		"GenericConfirm": "Confirm",
 		"GenericParenthesesSuffix": " ({0})",
 		"GenericForwardArrow": "→",
+		"GenericWarning": "Warning",
+		"MainVersionNotice": "Demo Version",
 		"Settings": "Settings",
 		"SettingsAbout": "About",
+		"SettingsAboutComponents": "App components",
+		"SettingsAboutCopyright": "Copyright © Cryville 2026 | All Rights Reserved",
+		"SettingsAboutDemo": "This app is a Demo version of the CysTerra universal build, with some major features to be implemented or improved, and is only for the purpose of demonstration.",
+		"SettingsAboutDesc": "Get real-time information about earthquakes, tsunamis, and volcanoes from various event sources",
+		"SettingsAboutLicense": "Open-Source Licenses",
+		"SettingsAboutSite": "Project Website",
 		"SettingsExtensions": "Extensions",
 		"SettingsExtensionsDragDrop": "Drag-drop extension package files or folders containing extensions into this list to import",
 		"SettingsExtensionsEmpty": "No extensions imported",
 		"SettingsFeatures": "Features",
+		"SettingsFeaturesComponentPropertiesEmpty": "This feature has no additional settings",
 		"SettingsFeaturesComponentsEmpty": "No features configured\nTap the plus button on the lower right to add",
+		"SettingsFeaturesFeature": "Feature",
+		"SettingsFeaturesName": "Remarks",
 		"SettingsInformation": "Information",
 		"SettingsMap": "Map",
 		"SettingsSound": "Sound"
+	},
+	"StringSets": {
+		"Assembly": {
+			"Strings": {
+				"Cryville.EEW": "Interface layer core (Cryville.EEW)",
+				"Cryville.EEW.Core": "Application layer core",
+				"Cryville.EEW.Avalonia": "Universal build application core",
+				"Cryville.EEW.Avalonia.Windows": "Universal build application for Windows",
+				"Cryville.EEW.Features": "Interface layer feature interface (Cryville.EEW.Features)",
+				"Cryville.EEW.Measure": "Common measurement extension components (Cryville.EEW.Measure)",
+				"Cryville.EEW.TagTypeKeys": "Common tag type keys (Cryville.EEW.TagTypeKeys)",
+				"Cryville.EEW.TTS": "Interface layer TTS interface (Cryville.EEW.TTS)",
+				"Cryville.Measure": "Measurement components (Cryville.Measure)"
+			}
+		}
 	}
 }
