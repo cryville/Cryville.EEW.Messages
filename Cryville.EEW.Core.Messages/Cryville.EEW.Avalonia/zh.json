@@ -20,6 +20,7 @@
 		"DialogLoadExtensionErrorDependencyVersionTooLow": "扩展需要的依赖已被导入，但是其版本太低：{0}（{1}）。需要版本 {2}。",
 		"DialogLoadExtensionErrorMismatchedHash": "扩展在导入后在外部被修改。请重新导入扩展。",
 		"DialogLoadExtensionWarning": "已加载 {0}，但出现警告",
+		"DialogLoadExtensionWarningComponentInvalidConfig": "组件 {0} 的配置无效：{1}",
 		"DialogLoadExtensionWarningDependencyVersionNoActual": "扩展需要的依赖已被导入，但是其版本不明：{0}。需要版本 {1}。扩展可能无法正确运作。",
 		"DialogLoadExtensionWarningDependencyVersionNoExpected": "扩展需要的依赖的版本不明：{0}。扩展可能无法正确运作。",
 		"DialogLoadExtensionWarningDependencyVersionTooHigh": "扩展需要的依赖已被导入，但是其版本太高：{0}（{1}）。需要版本 {2}。扩展可能无法正确运作。",
@@ -57,6 +58,9 @@
 		"SettingsFeaturesName": "备注名",
 		"SettingsInformation": "信息",
 		"SettingsMap": "地图",
+		"SettingsMapHillshadeLayerOpacity": "山体阴影不透明度",
+		"SettingsMapIsHillshadeLayerEnabled": "山体阴影",
+		"SettingsMapTileSource": "图块源",
 		"SettingsSound": "声音"
 	},
 	"StringSets": {
@@ -71,6 +75,12 @@
 				"Cryville.EEW.TagTypeKeys": "通用标签类型键（Cryville.EEW.TagTypeKeys）",
 				"Cryville.EEW.TTS": "接口层语音接口（Cryville.EEW.TTS）",
 				"Cryville.Measure": "度量组件（Cryville.Measure）"
+			}
+		},
+		"MapTileSource": {
+			"Strings": {
+				"ArcGIS": "默认（ArcGIS）",
+				"FANStudio": "备用（FAN Studio）"
 			}
 		}
 	}

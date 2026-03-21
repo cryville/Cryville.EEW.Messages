@@ -20,6 +20,7 @@
 		"DialogLoadExtensionErrorDependencyVersionTooLow": "The imported version of the dependency required by this extension is too low: {0} ({1}). Version {2} is required.",
 		"DialogLoadExtensionErrorMismatchedHash": "The extension has been modified externally since imported. Please re-import the extension.",
 		"DialogLoadExtensionWarning": "Loaded {0} with warnings",
+		"DialogLoadExtensionWarningComponentInvalidConfig": "The configuration of the component {0} is invalid: {1}",
 		"DialogLoadExtensionWarningDependencyVersionNoActual": "The imported version of the dependency required by this extension is unknown: {0}. Version {1} is required. The extension may not work as intended.",
 		"DialogLoadExtensionWarningDependencyVersionNoExpected": "The version of the dependency required by this extension is unknown: {0}. The extension may not work as intended.",
 		"DialogLoadExtensionWarningDependencyVersionTooHigh": "The version of the dependency required by this extension is too high: {0} ({1}). Version {2} is required. The extension may not work as intended.",
@@ -57,6 +58,9 @@
 		"SettingsFeaturesName": "Remarks",
 		"SettingsInformation": "Information",
 		"SettingsMap": "Map",
+		"SettingsMapHillshadeLayerOpacity": "Hillshade opacity",
+		"SettingsMapIsHillshadeLayerEnabled": "Hillshade",
+		"SettingsMapTileSource": "Tile source",
 		"SettingsSound": "Sound"
 	},
 	"StringSets": {
@@ -71,6 +75,12 @@
 				"Cryville.EEW.TagTypeKeys": "Common tag type keys (Cryville.EEW.TagTypeKeys)",
 				"Cryville.EEW.TTS": "Interface layer TTS interface (Cryville.EEW.TTS)",
 				"Cryville.Measure": "Measurement components (Cryville.Measure)"
+			}
+		},
+		"MapTileSource": {
+			"Strings": {
+				"ArcGIS": "Default (ArcGIS)",
+				"FANStudio": "Backup (FAN Studio)"
 			}
 		}
 	}
