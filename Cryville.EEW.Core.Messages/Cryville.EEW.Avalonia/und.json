@@ -97,6 +97,8 @@
 		"SettingsExtensionsImportLocal": "Import from local files",
 		"SettingsExtensionsImportRemote": "Download and import from a remote repository",
 		"SettingsFeatures": "Features",
+		"SettingsFeaturesBuildersEmpty": "No features available. Please import extensions with features of this type.",
+		"SettingsFeaturesBuildersEmptyAutomatic": "No features to configure manually.",
 		"SettingsFeaturesComponentPropertiesEmpty": "This feature has no additional settings",
 		"SettingsFeaturesComponentsEmpty": "No features configured\nTap the plus button on the lower right to add",
 		"SettingsFeaturesFeature": "Feature",
@@ -108,7 +110,13 @@
 		"SettingsMapIsMapTileAutoDarkEnabled": "Auto dark tiles (experimental)",
 		"SettingsMapIsMapTweeningEnabled": "Smooth viewport panning",
 		"SettingsMapTileSource": "Tile source",
-		"SettingsSound": "Sound"
+		"SettingsSound": "Sound",
+		"SettingsSystem": "System",
+		"SettingsSystemAutoStartup": "Auto startup with system",
+		"SettingsSystemOnMainWindowClose": "On closing the main window",
+		"SettingsSystemSilentStartup": "Silent startup",
+		"TrayOpen": "Open main window",
+		"TrayQuit": "Quit"
 	},
 	"StringSets": {
 		"Assembly": {
@@ -122,6 +130,12 @@
 				"Cryville.EEW.TagTypeKeys": "Common tag type keys (Cryville.EEW.TagTypeKeys)",
 				"Cryville.EEW.TTS": "Interface layer TTS interface (Cryville.EEW.TTS)",
 				"Cryville.Measure": "Measurement components (Cryville.Measure)"
+			}
+		},
+		"BehaviorOnMainWindowClose": {
+			"Strings": {
+				"Quit": "Quit CysTerra",
+				"MinimizeToSystemTray": "Minimize to system tray"
 			}
 		},
 		"MapTileSource": {

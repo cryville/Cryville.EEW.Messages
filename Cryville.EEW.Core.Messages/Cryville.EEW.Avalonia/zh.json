@@ -97,6 +97,8 @@
 		"SettingsExtensionsImportLocal": "从本地文件导入",
 		"SettingsExtensionsImportRemote": "从远程仓库下载导入",
 		"SettingsFeatures": "功能",
+		"SettingsFeaturesBuildersEmpty": "没有找到任何功能。请导入带有此类功能的扩展。",
+		"SettingsFeaturesBuildersEmptyAutomatic": "没有需要手动配置的功能。",
 		"SettingsFeaturesComponentPropertiesEmpty": "此功能没有额外的设置",
 		"SettingsFeaturesComponentsEmpty": "未配置任何功能\n点击右下角的加号按钮添加",
 		"SettingsFeaturesFeature": "功能",
@@ -108,7 +110,13 @@
 		"SettingsMapIsMapTileAutoDarkEnabled": "自动暗色图块（实验性）",
 		"SettingsMapIsMapTweeningEnabled": "平滑视图移动",
 		"SettingsMapTileSource": "图块源",
-		"SettingsSound": "声音"
+		"SettingsSound": "声音",
+		"SettingsSystem": "系统",
+		"SettingsSystemAutoStartup": "随系统自动启动",
+		"SettingsSystemOnMainWindowClose": "关闭主窗口时",
+		"SettingsSystemSilentStartup": "静默启动",
+		"TrayOpen": "打开主窗口",
+		"TrayQuit": "退出"
 	},
 	"StringSets": {
 		"Assembly": {
@@ -122,6 +130,12 @@
 				"Cryville.EEW.TagTypeKeys": "通用标签类型键（Cryville.EEW.TagTypeKeys）",
 				"Cryville.EEW.TTS": "接口层语音接口（Cryville.EEW.TTS）",
 				"Cryville.Measure": "度量组件（Cryville.Measure）"
+			}
+		},
+		"BehaviorOnMainWindowClose": {
+			"Strings": {
+				"Quit": "退出CysTerra",
+				"MinimizeToSystemTray": "最小化到系统托盘"
 			}
 		},
 		"MapTileSource": {
