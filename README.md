@@ -1,6 +1,4 @@
 # CysTerra Message Repository
-![GitHub License](https://img.shields.io/github/license/cryville/Cryville.EEW.Messages)
-
 CysTerra is a universal geohazard information platform that fetches information related to earthquakes, tsunamis, volcanoes, etc. from various event sources, and combines them into a unified interface with text description, map representation, and text-to-speech output.
 
 This is the message repository of CysTerra, containing the localized strings used in the project.
