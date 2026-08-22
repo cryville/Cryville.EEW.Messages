@@ -1,34 +1,50 @@
 {
 	"Culture": "zh-CN",
 	"Strings": {
+		"$ExtensionDesc": "用于接收及处理FAN Studio API来源的信息的核心组件。",
+		"$ExtensionName": "FAN Studio API事件源组件",
+		"ErrorAuthFailure": "认证失败：{0}",
+		"ErrorServer": "接收到服务器发送的错误消息：{0}",
+		"PNAuthKey": "认证密钥",
+		"PNAuthorizedFilter": "筛选项（需鉴权）",
+		"PDAuthorizedFilter": "要接收的需鉴权事件源。",
+		"PNFilter": "筛选项",
+		"PDFilter": "要接收的事件源。",
+		"PNSource": "事件源",
 		"SourceName": "FAN Studio",
 		"SourceNameTyped": "FAN Studio（{0}）"
 	},
 	"StringSets": {
 		"SourceNameTypes": {
 			"Strings": {
+				"$Multiple": "多个事件源",
+				"$Single": "单个事件源",
+				"$SingleAuthorized": "单个事件源，需鉴权",
 				"BCSFEarthquake": "法国中央地震局地震信息",
 				"BeijingEarthquake": "北京市地震局地震信息",
 				"CEAEEW": "中国地震预警网地震预警",
 				"CEAProvinceEEW": "中国地震预警网各省级网地震预警",
-				"CENCEarthquake": "中国地震台网地震信息",
+				"CENCEarthquake": "中国地震台网中心地震信息",
+				"CENCIntensityReport": "中国地震台网中心烈度速报",
 				"CMAWeatherAlarm": "中国气象局气象预警",
+				"CWAEarthquake": "台湾中央气象署地震报告",
 				"CWAEEW": "台湾中央气象署地震预警",
 				"EMSCEarthquake": "欧洲与地中海地震中心地震信息",
+				"FSSNCMT": "FSSN地震矩心矩张量解",
 				"FSSNEarthquake": "FSSN地震信息",
-				"FujianEEW": "福建省地震局地震预警",
 				"GFZEarthquake": "德国地球科学研究中心地震信息",
 				"GuangxiEarthquake": "广西壮族自治区地震局地震信息",
 				"HKOEarthquake": "香港天文台地震报告",
-				"ICLEEW": "成都高新防灾减灾研究所地震预警",
+				"JMAEEW": "日本气象厅地震预警",
 				"KMAEarthquake": "韩国气象厅地震信息",
+				"KMAEEW": "韩国气象厅地震预警",
 				"NingxiaEarthquake": "宁夏回族自治区地震局地震信息",
 				"NMEFCTsunamiWarning": "自然资源部海啸预警中心海啸预警信息",
 				"ShakeAlertEEW": "ShakeAlert地震预警",
 				"ShanxiEarthquake": "山西省地震局地震信息",
-				"SichuanEEW": "四川省地震局地震预警",
 				"USGSEarthquake": "美国地质调查局地震信息",
-				"USPEarthquake": "巴西圣保罗大学地震信息"
+				"USPEarthquake": "巴西圣保罗大学地震信息",
+				"YunnanEarthquake": "云南省地震局地震信息"
 			}
 		}
 	}

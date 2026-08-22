@@ -1,0 +1,11 @@
+{
+	"Culture": "en-US",
+	"Strings": {
+		"AuthorityName": "Yunnan Earthquake Agency",
+		"PropertyDepth": "Depth",
+		"PropertyDepthValue": "{0}km",
+		"PropertyMagnitude": "M",
+		"PropertyMagnitudeL": "ML",
+		"Title": "Earthquake information"
+	}
+}

@@ -1,34 +1,50 @@
 {
 	"Culture": "en-US",
 	"Strings": {
+		"$ExtensionDesc": "Core components for receiving and processing information from FAN Studio API.",
+		"$ExtensionName": "FAN Studio API event source components",
+		"ErrorAuthFailure": "Authorization failure: {0}",
+		"ErrorServer": "Received an error message from the server: {0}",
+		"PNAuthKey": "Authorization key",
+		"PNAuthorizedFilter": "Filter (authorization required)",
+		"PDAuthorizedFilter": "The sources that requires authorization to receive.",
+		"PNFilter": "Filter",
+		"PDFilter": "The sources to receive.",
+		"PNSource": "Source",
 		"SourceName": "FAN Studio",
 		"SourceNameTyped": "FAN Studio ({0})"
 	},
 	"StringSets": {
 		"SourceNameTypes": {
 			"Strings": {
+				"$Multiple": "Multiple sources",
+				"$Single": "Single source",
+				"$SingleAuthorized": "Single source, authorization required",
 				"BCSFEarthquake": "BCSF earthquake information",
 				"BeijingEarthquake": "BEA (Beijing) earthquake information",
 				"CEAEEW": "CEA EEW",
 				"CEAProvinceEEW": "CEA provincial-level EEW",
 				"CENCEarthquake": "CENC earthquake information",
+				"CENCIntensityReport": "CENC intensity report",
 				"CMAWeatherAlarm": "CMA weather alarm",
+				"CWAEarthquake": "CWA (Taiwan) earthquake report",
 				"CWAEEW": "CWA (Taiwan) EEW",
 				"EMSCEarthquake": "EMSC earthquake information",
+				"FSSNCMT": "FSSN earthquake CMT solution",
 				"FSSNEarthquake": "FSSN earthquake information",
-				"FujianEEW": "FEA (Fujian) EEW",
 				"GFZEarthquake": "GFZ earthquake information",
 				"GuangxiEarthquake": "GXEA (Guangxi) earthquake information",
 				"HKOEarthquake": "HKO earthquake report",
-				"ICLEEW": "ICL EEW",
+				"JMAEEW": "JMA EEW",
 				"KMAEarthquake": "KMA earthquake information",
+				"KMAEEW": "KMA EEW",
 				"NingxiaEarthquake": "EANHAR (Ningxia) earthquake information",
 				"NMEFCTsunamiWarning": "NMEFC tsunami warning",
 				"ShakeAlertEEW": "ShakeAlert EEW",
 				"ShanxiEarthquake": "SEA (Shanxi) earthquake information",
-				"SichuanEEW": "SEA (Sichuan) EEW",
 				"USGSEarthquake": "USGS earthquake information",
-				"USPEarthquake": "USP earthquake information"
+				"USPEarthquake": "USP earthquake information",
+				"YunnanEarthquake": "YEA (Yunnan) earthquake information"
 			}
 		}
 	}
