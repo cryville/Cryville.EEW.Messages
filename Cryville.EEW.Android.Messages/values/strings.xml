@@ -46,6 +46,7 @@
 	<string name="event_sources_fan_studio_gfz">GFZ earthquake information</string>
 	<string name="event_sources_fan_studio_guangxi">GXEA (Guangxi) earthquake information</string>
 	<string name="event_sources_fan_studio_hko">HKO earthquake report</string>
+	<string name="event_sources_fan_studio_key">Authorization key</string>
 	<string name="event_sources_fan_studio_kma">KMA earthquake information</string>
 	<string name="event_sources_fan_studio_ningxia">EANHAR (Ningxia) earthquake information</string>
 	<string name="event_sources_fan_studio_sa">ShakeAlert EEW</string>

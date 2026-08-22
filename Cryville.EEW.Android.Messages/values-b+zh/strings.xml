@@ -46,6 +46,7 @@
 	<string name="event_sources_fan_studio_gfz">德国地球科学研究中心地震信息</string>
 	<string name="event_sources_fan_studio_guangxi">广西壮族自治区地震局地震信息</string>
 	<string name="event_sources_fan_studio_hko">香港天文台地震报告</string>
+	<string name="event_sources_fan_studio_key">认证密钥</string>
 	<string name="event_sources_fan_studio_kma">韩国气象厅地震信息</string>
 	<string name="event_sources_fan_studio_ningxia">宁夏回族自治区地震局地震信息</string>
 	<string name="event_sources_fan_studio_sa">ShakeAlert地震预警</string>

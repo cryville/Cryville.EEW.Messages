@@ -46,6 +46,7 @@
 	<string name="event_sources_fan_studio_gfz">德國地球科學研究中心地震資訊</string>
 	<string name="event_sources_fan_studio_guangxi">廣西壯族自治區地震局地震資訊</string>
 	<string name="event_sources_fan_studio_hko">香港天文臺地震報告</string>
+	<string name="event_sources_fan_studio_key">認證金輪</string>
 	<string name="event_sources_fan_studio_kma">韓國氣象廳地震資訊</string>
 	<string name="event_sources_fan_studio_ningxia">寧夏回族自治區地震局地震資訊</string>
 	<string name="event_sources_fan_studio_sa">ShakeAlert地震預警</string>
