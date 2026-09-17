@@ -9,8 +9,6 @@ The following files are licensed under [CC-BY-4.0](LICENSE-CCBY.txt) © Cryville
   - Cryville.EEW.FERegion/yue.json
   - Cryville.EEW.FERegion/zh.json
   - Cryville.EEW.FERegion/zh-Hant.json
-  - Cryville.EEW.GeoNet/*
-  - Cryville.EEW.GeoNet.TTS/*
   - Cryville.EEW.Measure/*
   - Cryville.EEW.NOAA/*
   - Cryville.EEW.NOAA.TTS/*
