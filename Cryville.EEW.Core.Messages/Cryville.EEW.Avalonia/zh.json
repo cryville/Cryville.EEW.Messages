@@ -114,6 +114,7 @@
 		"SettingsFeaturesFeature": "功能",
 		"SettingsFeaturesName": "备注名",
 		"SettingsInformation": "信息",
+		"SettingsInformationUseSourceLanguage": "使用事件源语言",
 		"SettingsMap": "地图",
 		"SettingsMapClearCache": "清除地图图块缓存",
 		"SettingsMapHillshadeLayerOpacity": "山体阴影不透明度",

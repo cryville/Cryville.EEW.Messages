@@ -114,6 +114,7 @@
 		"SettingsFeaturesFeature": "Feature",
 		"SettingsFeaturesName": "Remarks",
 		"SettingsInformation": "Information",
+		"SettingsInformationUseSourceLanguage": "Use source language",
 		"SettingsMap": "Map",
 		"SettingsMapClearCache": "Clear map tile cache",
 		"SettingsMapHillshadeLayerOpacity": "Hillshade opacity",
